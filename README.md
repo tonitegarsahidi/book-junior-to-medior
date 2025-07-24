@@ -1,4 +1,4 @@
-# 0 - FROM JUNIOT TO MEDIOR -  a Mukaddimah Series
+# 0 - FROM JUNIOR TO MEDIOR -  a Mukaddimah Series
 
 Setiap lihat tentang impression tulisan saya, saya mendapati bahwa sekitar 30-40% audiens dan follower saya adalah temen-temen IT yang berada di Entry Level. Entry level disini tentu secara jam terbang saja ya, bukan skill. Karena soal skill saya yakin banyak dari mereka yang jauh lebih jago daripada saya. Anak zaman now tuh pada ngerih-ngerih skill-nya. Saya cuman -kebetulan- lebih lahir duluan aja. 
 
