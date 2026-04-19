@@ -36,7 +36,7 @@ Mas Alin membuka aplikasi dengan ikon kucing—bukan kucing asli, tapi ikon hita
 
 Mas Alin mengangkat tangan, menghentikan Binto. Wajahnya antara geli dan miris.
 
-Git itu bukan cuma tempat nyimpen kode. Git itu mesin waktu."
+"Git itu bukan cuma tempat nyimpen kode. Git itu mesin waktu."
 
 Binto mengerutkan dahi. "Mesin waktu?"
 
@@ -68,56 +68,70 @@ Binto berpikir. "Bikin folder baru?"
 
 Mas Alin mengetik di terminal:
 
-| alin:\~$ git init |
-| :---- |
+```bash
+alin:~$ git init
+```
 
 "Aku lagi Inisialisasi. *Init*. Artinya, mulai sekarang Git akan memantau folder ini. Folder ini jadi repository."
 
-Di layar, muncul teks 
+Di layar, muncul teks:
 
-| Initialized empty Git repository in ....  |
-| :---- |
+```text
+Initialized empty Git repository in ....
+```
 
 Binto memperhatikan.
 
 "Gampang kan? Sekarang coba kita lihat statusnya."
 
-Mas Alin membuat sebuah file teks sederhana bernama halo.txt berisi "Halo Dunia". Lalu ia mengetik:
+Mas Alin membuat sebuah file teks sederhana bernama `halo.txt` berisi "Halo Dunia". Lalu ia mengetik:
 
-| alin:\~$ git status |
-| :---- |
+```bash
+alin:~$ git status
+```
 
 Terminal kini menampilkan sesuatu:
 
-| Untracked files:   (use "git add \<file\>..." to include in what will be committed)         halo.txt |
-| :---- |
+```text
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        halo.txt
+```
 
 "Lihat, Binto. Git bilang file halo.txt ini *untracked*. Artinya Git tahu ada file baru, tapi belum dicatat secara resmi. Kayak orang baru datang ke kantor, belum absen. Dia ada, tapi belum masuk daftar kehadiran."
 
 Binto mengangguk. "Terus biar ke-*track*, gimana?"
 
-"Pakai git add."
+"Pakai `git add`."
 
-| alin:\~$ git add halo.txt |
-| :---- |
+```bash
+alin:~$ git add halo.txt
+```
 
 "git add itu seperti kamu bilang ke Git: 'Hei, catat perubahan di file ini.' Setelah di-*add*, file ini masuk ke staging area. Kayak kamu sudah tanda tangan absen, tapi belum masuk ke database HRD."
 
 Binto tersenyum kecil. Penjelasan Mas Alin selalu pakai analogi sehari-hari.
 
-"Kalau sudah yakin dengan perubahanmu, baru kamu commit."
+"Kalau sudah yakin dengan perubahanmu, baru kamu `commit`."
 
-| alin:\~$ git commit \-m "Pesan pertama: halo dunia" |
-| :---- |
+```bash
+alin:~$ git commit -m "Pesan pertama: halo dunia"
+```
 
 "commit itu seperti kamu simpan permanen ke buku harian Git. Setiap *commit* punya nomor unik, penulis, tanggal, dan pesan. Ini yang bikin Git jadi mesin waktu. Kamu bisa balik ke *commit* mana pun kapan saja."
 
-Nanti kalau sudah terbiasa, kamu bisa shortcut. Tapi penting ngerti konsepnya dulu.
+"Nanti kalau sudah terbiasa, kamu bisa shortcut. Tapi penting ngerti konsepnya dulu," tambah Mas Alin.
 
-Mas Alin menunjukkan *log*\-nya:
+Mas Alin menunjukkan *log*-nya:
 
-| alin:\~$ git logcommit 63bebb491218d6c72098... (HEAD \-\> master) Author: alin \<alinsholeh@gmail.com\> Date:   Wed Apr 15 21:32:05 2026 \+0700     Pesan pertama: halo dunia |
-| :---- |
+```text
+alin:~$ git log
+commit 63bebb491218d6c72098... (HEAD -> master)
+Author: alin <alinsholeh@gmail.com>
+Date:   Wed Apr 15 21:32:05 2026 +0700
+
+    Pesan pertama: halo dunia
+```
 
 Layar menampilkan satu baris *commit* dengan kode acak, nama "Alin", tanggal, dan pesan "Pesan pertama: halo dunia".
 
@@ -125,7 +139,7 @@ Layar menampilkan satu baris *commit* dengan kode acak, nama "Alin", tanggal, da
 
 Binto manggut-manggut. "Jadi tiap kali aku *ngoding*, aku harus *add* terus *commit*?"
 
-"Ada sih *shortcut*\-nya biar sekaligus, tapi sebagai awalan, Idealnya begitu. Tapi jangan *commit* sembarangan. *Commit* itu buat perubahan yang bermakna. Misal: 'tambah fitur login', 'perbaiki bug perhitungan bunga', atau 'update warna tombol'. Bukan *commit* dengan pesan perbaiki dikit atau lupa tadi.
+"Ada sih *shortcut*-nya biar sekaligus, tapi sebagai awalan, idealnya begitu. Tapi jangan *commit* sembarangan. *Commit* itu buat perubahan yang bermakna. Misal: 'tambah fitur login', 'perbaiki bug perhitungan bunga', atau 'update warna tombol'. Bukan *commit* dengan pesan 'perbaiki dikit' atau 'lupa tadi'."
 
 ## **2.4 Cabang-Cabang Kehidupan**
 
@@ -143,13 +157,15 @@ Mas Alin kembali menatap terminal.
 
 Ia mengetik:
 
-| alin:\~$ git branch fitur-pinjaman |
-| :---- |
+```bash
+alin:~$ git branch fitur-pinjaman
+```
 
-"git branch bikin cabang baru bernama 'fitur-pinjaman'. Untuk pindah ke cabang itu, pakai checkout."
+"`git branch` bikin cabang baru bernama 'fitur-pinjaman'. Untuk pindah ke cabang itu, pakai `checkout`."
 
-| alin:\~$ git checkout fitur-pinjaman |
-| :---- |
+```bash
+alin:~$ git checkout fitur-pinjaman
+```
 
 "Atau bisa sekaligus: git checkout \-b fitur-pinjaman."
 
@@ -161,8 +177,9 @@ Mas Alin membuka file halo.txt, menambahkan baris "Selamat datang di Blitar". La
 
 "Sekarang coba kita balik ke cabang utama."
 
-| alin:\~$ git checkout main |
-| :---- |
+```bash
+alin:~$ git checkout main
+```
 
 File halo.txt kembali ke versi semula. Baris "Selamat datang di Blitar" hilang.
 
@@ -186,10 +203,11 @@ Binto menggaruk kepala. "Ya... *commit* aja paksa?"
 
 "Jangan. *Commit* setengah jadi itu dosa. Nanti *history*\-nya kotor. Solusinya: git stash."
 
-Mas Alin mendemonstrasikan. Ia membuat beberapa perubahan acak di file halo.txt di cabang fitur-pinjaman. Lalu ia mengetik:
+Mas Alin mendemonstrasikan. Ia membuat beberapa perubahan acak di file `halo.txt` di cabang `fitur-pinjaman`. Lalu ia mengetik:
 
-| alin:\~$ git stash |
-| :---- |
+```bash
+alin:~$ git stash
+```
 
 Perubahan menghilang. File kembali bersih seperti *commit* terakhir.
 
@@ -213,57 +231,50 @@ Binto meneguk ludah. "Konflik? Kayak perang?"
 
 Mas Alin membuat dua cabang dari main: cabang-a dan cabang-b. Di cabang-a, ia mengubah baris pertama halo.txt menjadi "Halo Blitar". Di cabang-b, ia mengubah baris yang sama menjadi "Halo Indonesia".
 
-Lalu ia mencoba menggabungkan cabang-a ke main:
+Lalu ia mencoba menggabungkan `cabang-a` ke `main`:
 
-bash
-
-git checkout main
-
-git merge cabang-a
-
-| alin:\~$ git checkout main alin:\~$ git merge cabang-a |
-| :---- |
+```bash
+alin:~$ git checkout main
+alin:~$ git merge cabang-a
+```
 
 Berhasil. Tidak ada masalah.
 
 "Tapi coba sekarang kita gabungkan cabang-b ke main."
 
-Mas Alin mengetik git merge cabang-b. Terminal menampilkan pesan merah:
+Mas Alin mengetik `git merge cabang-b`. Terminal menampilkan pesan merah:
 
-text
-
+```text
 CONFLICT (content): Merge conflict in halo.txt
-
 Automatic merge failed; fix conflicts and then commit the result.
+```
 
 "Nah, ini dia. Git bingung. Di main, baris pertama isinya 'Halo Blitar'. Di cabang-b, isinya 'Halo Indonesia'. Git tidak tahu mana yang benar. Jadi Git minta bantuan manusia."
 
-Mas Alin membuka file halo.txt. Isinya sekarang:
+Mas Alin membuka file `halo.txt`. Isinya sekarang:
 
-text
-
-\<\<\<\<\<\<\< HEAD  
+```text
+<<<<<<< HEAD  
 Halo Blitar  
-\=======  
+=======  
 Halo Indonesia
-
-\>\>\>\>\>\>\> cabang-b
+>>>>>>> cabang-b
+```
 
 "Lihat. Git menunjukkan dua versi yang bertabrakan. Yang di antara \<\<\<\<\<\<\< dan \======= itu versi dari cabang saat ini (main). Yang di antara \======= dan \>\>\>\>\>\>\> itu versi dari cabang yang mau digabung (cabang-b). Tugasmu: pilih salah satu, atau buat versi gabungan, lalu hapus tanda-tanda itu."
 
 Mas Alin menghapus tanda konflik dan memilih "Halo Blitar dan Indonesia". Ia simpan, lalu:
 
-bash
-
-git add halo.txt
-
-git commit \-m "Selesaikan konflik: gabungkan salam"
+```bash
+alin:~$ git add halo.txt
+alin:~$ git commit -m "Selesaikan konflik: gabungkan salam"
+```
 
 "Berhasil. Konflik selesai."
 
 Binto menghela napas lega. "Ternyata nggak serem-serem amat."
 
-“Loh iya sekarang, Kalau konflik di 10 file, baru kamu ngerti rasanya hidup Le.”
+"Loh iya sekarang. Kalau konflik di 10 file, baru kamu ngerti rasanya hidup, *Le*," sahut Mas Alin.
 
 "Kuncinya: jangan panik. Konflik itu biasa. Justru pertanda kalau kamu kerja bareng tim. Lebih baik konflik diketahui Git daripada kamu timpa kerjaan temanmu tanpa sadar."
 
