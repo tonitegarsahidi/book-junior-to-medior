@@ -1,0 +1,252 @@
+# **Bab 1: Kepala Tegak di Bawah Pohon Rambutan**
+
+## **1.1 Jalan Pulang**
+
+Desember di Blitar tidak pernah kejam.
+
+Langit pagi itu biru muda, disapu awan tipis cumulus yang bergerak pelan ke arah Gunung Kelud. Udara yang masuk lewat celah helm Binto terasa sejuk, bukan dingin menggigit seperti di Malang, bukan juga pengap seperti Jakarta yang baru saja ia tinggalkan. Ini sejuk yang ramah. Sejuk yang sudah ia rindukan selama dua tahun terakhir.
+
+Motor Beat merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, warung soto dan toko pupuk mulai buka. Ibu-ibu menyapu halaman, bapak-bapak duduk di teras sambil menyeruput kopi dan memandangi sawah. Pemandangan yang tidak akan ia temukan di Jakarta.
+
+*Dua puluh menit*, pikir Binto. *Cuma dua puluh menit dari rumah ke kantor*. Di Jakarta, dua puluh menit bahkan tidak cukup untuk keluar dari satu halte Transjakarta ke halte berikutnya di jam sibuk.
+
+Dua tahun terakhir di Jakarta mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Ia bekerja di sebuah perusahaan distributor alat berat, bagian administrasi data. Kerjaannya: input angka ke Excel, kirim email, sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup, bahkan lebih dari cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong.
+
+Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering menatap langit-langit dan bertanya: Apa *ini yang gue mau?*
+
+Lalu telepon dari Ibu datang.
+
+"Bapakmu masuk rumah sakit lagi, To.."
+
+Binto ingat suara Ibu yang bergetar. Bapak, yang dulu gagah menggendongnya ke sawah, sekarang sudah renta. Tulangnya mulai rapuh. Matanya mulai kabur. Dan Binto, anak satu-satunya, malah sibuk input Excel di kota orang.
+
+Dua minggu setelah telepon itu, Binto mengajukan resign.
+
+"Saya mau pulang, Pak. Dekat orang tua."
+
+Atasannya mengangguk maklum. "Blitar ya? Ada lowongan IT di sana?"
+
+"Entah, Pak. Saya cari aja dulu."
+
+Ternyata Allah maha baik. Seminggu sebelum kepulangannya, sebuah email masuk. *Garda Teknologi Nusantara*—nama yang belum pernah ia dengar—menerimanya untuk posisi *Junior Software Engineer*. Startup? Vendor? Ia tidak peduli. Yang penting: lokasinya di Srengat, Blitar. Hanya dua puluh menit dari rumah Bapak. Tak ada test teknis seperti pada umumnya, hanya HRD yang mewawancarainya via *Zoom*. 
+
+*Pas banget*, pikirnya waktu itu. *Sambil cari pengalaman IT beneran, sambil jagain Bapak*.
+
+Tapi ada satu hal yang tidak ia sadari pagi itu, saat motornya mengikuti arahan Google Maps berbelok masuk ke sebuah gang kecil di belakang pasar Srengat: bahwa definisinya tentang *"pengalaman IT beneran"* akan segera dihancurleburkan.
+
+## **1.2 Kantor di Gang Sempit**
+
+"Beneran Ini tempatnya?", kata Binto ragu dalam hati.
+
+Binto mengerutkan dahi. Matanya memindai alamat di Google Maps, lalu menatap bangunan di depannya. Tak ada plang papan nama disana, tapi ini titiknya, nomor rumah alamatnya pun benar. 
+
+Ini bukan ruko. Bukan gedung perkantoran. Bahkan bukan rumah minimalis modern yang mulai menjamur di pinggiran Blitar.
+
+Ini rumah lawas.
+
+Bangunannya tua, mungkin dibangun tahun 80-an. Tembok bata yang sudah mulai berlumut di beberapa sudut yang lembap. Genteng kodok yang beberapa warnanya sudah pudar jadi abu-abu karena lumut. Jendela-jendela kayu dengan beberapa bagian kaca patri kecil di sudutnya—warisan arsitektur kolonial yang masih tersisa. Pagar besi rendah, tidak terkunci, hanya disandarkan begitu saja.
+
+Di halaman depannya, tumbuh sebatang pohon rambutan yang rindang. Dahannya menjuntai rendah, sebagian dahannya hampir menyentuh atap seng tempat parkir motor. Sebagian besar buahnya masih hijau, bulat-bulat kecil bergelantungan seperti ratusan bola pingpong mini.   
+*Desember*, batin Binto. *Musim rambutan baru mulai. Belum merah.*
+
+Dia mematikan mesin motor. Sunyi. Hanya suara burung gereja dan sayup-sayup suara lagu Denny Caknan diputar dari rumah tetangga.
+
+"Mas Binto?"
+
+Seorang perempuan berkerudung cokelat muncul dari balik pintu kayu. Wajahnya ramah, usianya mungkin akhir 30-an. Tangannya membawa map plastik biru.
+
+"Saya Sari, HRD. *Monggo*, masuk."
+
+Binto melepas helm, merapikan kemejanya—kemeja putih lengan panjang, satu-satunya kemeja formal yang ia bawa dari Jakarta—lalu melangkah masuk.
+
+Ruangannya langsung membuatnya berhenti sejenak.
+
+Tidak ada meja resepsionis. Tidak ada logo perusahaan besar di dinding. Tidak ada AC. Yang ada: ruang tamu luas dengan lantai tegel motif kuno, empat meja kayu jati yang ditata saling berhadapan, kipas angin yang berputar pelan di sudut ruangan, dan rak buku dari kayu jati yang penuh dengan map-map kertas dan *buku teks* pemrograman edisi lama.
+
+Namun, anehnya, tempat ini rapi. Sangat rapi. Kabel-kabel LAN tertata di sepanjang dinding dengan klip khusus. *Whiteboard* besar di sisi timur penuh dengan coretan diagram dan *sticky notes* warna-warni. Di atas meja-meja, monitor LCD ukuran 24 inci berjajar rapi, keyboard dan mouse tertata, tidak ada bekas kopi atau remah biskuit.
+
+Kecuali satu meja.
+
+Di pojok barat, dekat jendela, ada sebuah meja yang tampak seperti zona bencana. Tiga monitor menyala sekaligus, masing-masing menampilkan *terminal* hitam dengan teks-teks hijau dan biru yang bergulir cepat. Dua *laptop* tua bertumpuk. Papan sirkuit, kabel USB, dan *dongle* WiFi berserakan. Sebuah mug dengan gambar anime—entah sudah berapa hari tidak dicuci. Dan di tengah kekacauan itu, duduk seorang pria berkaos oblong hitam dan celana panjang, sandal jepit menggantung di ujung kaki, matanya fokus ke layar.
+
+Pria itu tidak menoleh.
+
+"Mas Alin, ini Mas Binto, tim kita yang baru," kata Bu Sari.
+
+Pria itu—Mas Alin—mengangkat tangan kanannya tanpa mengalihkan pandangan dari monitor. "*Nggih*, Bu. Sebentar. Lagi *debugging* server Kalimantan. *Error* mulu ini."
+
+Binto menatap pria itu. *Ini technical lead-nya?* Rambutnya agak panjang, disisir ke belakang ala kadarnya. Beberapa uban terlihat di pelipis. Matanya sayu, mungkin kurang tidur, tapi ada ketajaman di sana. Tatapan orang yang sudah terlalu sering melihat kode *error* hingga bisa menebak masalahnya cuma dari satu baris log.
+
+Bu Sari menepuk bahu Binto pelan. "Mas Alin itu *jagoannya* di sini. Sudah tujuh belas tahun di dunia IT. Kalau ada masalah teknis, semua ujungnya ke dia."
+
+*Tujuh belas tahun?* Binto melirik Bu Sari, lalu kembali menatap Mas Alin. Pria ini mungkin sudah *ngoding* sejak Binto masih SD. Pantas saja mejanya seperti laboratorium alien.
+
+"Yang lain mana, Bu?" tanya Binto.
+
+"Sebentar lagi datang. Wawan biasanya agak siangan, tapi *on time* kok *deadline*\-nya. Mbak Rara mungkin masih nyetok gorengan dulu di pasar. Pakde Suhar, bos kita, datangnya siang, habis jemput anaknya pulang sekolah."
+
+Bu Sari terkekeh. "Kita ini kecil, Mas. Cuma sepuluh orang. Tapi klien kami banyak. Pabrik di Garum, koperasi di Kanigoro, minimarket swalayan di Kediri, sekolah swasta di Malang... sampai yang di Kalimantan itu."
+
+Binto mengangguk. Pikirannya mulai berkelana. *Pabrik pakan ternak? Koperasi?* Di Jakarta, teman-temannya sesama lulusan PTN top bekerja di bank digital, *unicorn*, atau paling tidak *startup* yang dapat pendanaan seri A. Proyek mereka mungkin keren-keren: AI, *blockchain*, aplikasi *mobile* dengan jutaan *user*.
+
+Sementara dia... akan membuat aplikasi untuk koperasi simpan pinjam?
+
+*Ah, sudahlah*, batinnya. *Yang penting dekat Bapak. Lagian, gue lulusan kampus top. Masa iya gak bisa ngerjain proyek-proyek kayak gini?*
+
+Kepalanya masih tegak.
+
+Untuk sekarang.
+
+## **1.3 Sambutan "Wow" yang Menyesatkan**
+
+Pukul sembilan, anggota tim lainnya mulai berdatangan.
+
+Pertama datang Wawan. Usianya paling muda, mungkin baru 20 tahun. Lulusan SMK jurusan Multimedia, tapi dia malah lebih senang di IT. Rambutnya *undercut*, pakai kemeja flanel merah, bawa *tumbler* besar dan tas selempang berisi laptop. Dia menyapa Binto dengan ramah, lalu langsung duduk di depan iMac-nya dan membuka Figma.
+
+"Wawan ini jagonya UI/UX," bisik Bu Sari. "Lulusan SMK, tapi karyanya sering dipuji klien-klien besar. Anaknya kreatif."
+
+Berikutnya Mbak Rara. Wanita bertubuh mungil dengan kacamata tebal dan tote bag besar yang penuh gorengan. Bau tahu isi dan tempe mendoan langsung memenuhi ruangan.
+
+"Ini *sarapan* apa *pabrik minyak*, Mbak?" celetuk Wawan nakal.
+
+"Diem kamu. Udah sarapan belum? Nih, mendoan. Makan dulu biar kuat *testing*," balas Mbak Rara sambil menodorkan bungkusan minyak ke Wawan. Matanya lalu beralih ke Binto.
+
+"Wah, yang baru? Lulusan mana, Mas?"
+
+Binto menyebut nama kampusnya. Nama universitas negeri top yang hampir semua orang Indonesia kenal.
+
+Ruangan mendadak hening.
+
+Mbak Rara menghentikan kunyahannya. Wawan menoleh dari layarnya. Bahkan Mas Alin—yang sejak tadi masih sibuk *debugging*—sedikit menggeser pandangannya dari *terminal*.
+
+"*Serius?*" suara Mbak Rara setengah tercekat. "Lulusan *sana*? Kok mau kerja di sini?"
+
+Bu Sari tertawa kecil. "Nah, ini dia. Semua pada kaget. Saya juga kaget waktu lihat CV-nya."
+
+Binto merasakan pipinya sedikit memanas. Ini reaksi yang sudah ia duga. Campuran antara kagum dan tidak percaya. Seolah-olah ada cap tak kasat mata di dahinya: *"Anak PTN Top—kok mau di tempat begini?"*
+
+"Gue... *saya* cuma mau dekat orang tua," jawabnya, mencoba rendah hati. Tapi di dalam hatinya, ada setitik kepuasan. *Ya, gue emang lulusan sana. Gue mungkin salah satu yang terpandai di ruangan ini.*
+
+Pikiran itu muncul begitu saja. Cepat. Refleks. Warisan bertahun-tahun kompetisi masuk PTN dan budaya kampus yang tanpa sadar menanamkan superioritas tertentu.
+
+Mbak Rara mengangguk maklum. "Orang tua nomor satu. *Mantap\!*."
+
+Mas Alin akhirnya angkat bicara. Suaranya tenang, hampir datar. "Bagus, Binto. Tapi *skill* sama gelar itu beda, *Le*. Di sini, kamu belajar lagi dari nol."
+
+Binto mengangguk sopan. "Siap, Mas."
+
+*Belajar dari nol?* Batinnya menolak. *Gue udah belajar Java, Python, basis data, struktur data, algoritma kompleks. Masa iya bikin aplikasi koperasi harus mulai dari nol?*
+
+Tapi ia tidak mengatakannya. Ia hanya tersenyum.
+
+Kepalanya masih tegak.
+
+Untuk sekarang.
+
+## **1.4 Hancurnya Kepala Tegak**
+
+"Sini, Binto. Kita ngobrol bentar," panggil Mas Alin dari pojokannya.
+
+Binto beranjak. Ia duduk di kursi plastik di samping meja berantakan itu. Matanya melirik ke layar monitor Mas Alin: *log* server dengan ribuan baris teks merah dan kuning. Beberapa *tab terminal* terbuka, masing-masing menjalankan perintah yang tidak ia mengerti.
+
+Mas Alin memutar kursinya, menghadap Binto. "Kamu di kampus dulu, pernah *deploy* aplikasi?"
+
+"*Deploy*?"
+
+"Iya. *Upload* kode ke server. Biar aplikasinya bisa diakses orang banyak, bukan cuma di laptop kamu sendiri."
+
+Binto membuka mulut, lalu menutupnya lagi. Ia mencoba mengingat. Dulu, waktu kuliah, tugas-tugas *coding*\-nya selalu dikumpulkan dalam bentuk *source code* dan laporan. Dosen menguji programnya di laptop Binto sendiri. Atau kalau tugas kelompok, mereka *copy-paste* modul lewat Google Drive, lalu satu orang *compile* jadi satu. Presentasi. Dapat nilai A. Selesai.
+
+"Pernah sih, Mas. Waktu semester dua. *Upload* file HTML ke *free hosting*. Tapi itu cuma satu kali. Lupa caranya."
+
+Mas Alin mengangguk pelan. "Oke. Sekarang Git. Kamu biasa pakai Git?"
+
+Kali ini Binto lebih percaya diri. "Git? Oh, iya, Mas. Saya sering kok."
+
+"Bagus. Biasanya *workflow*\-mu gimana?"
+
+"Saya sering *download source code* dari GitHub."
+
+"Caranya?"
+
+"Ya... klik tombol hijau *Code*, terus *Download ZIP*."
+
+Suara kipas angin Ufo mendadak terasa lebih keras. Mas Alin menatap Binto—bukan dengan marah, bukan dengan mengejek, tapi dengan tatapan yang sulit diartikan. Tatapan seorang montir yang baru sadar bahwa mekanik baru di bengkelnya bahkan tidak tahu cara membuka kap mesin.
+
+"*Download ZIP*?" ulang Mas Alin pelan.
+
+"Iya, Mas. Kan tinggal ekstrak."
+
+"Terus kalau ada perubahan dari saya, kamu *merge*\-nya gimana?"
+
+"*Merge*?"
+
+"Iya. Misal saya ubah satu fitur, kamu ubah fitur lain. Kita mau gabungin. Gimana caranya?"
+
+Binto berpikir keras. *Gabungin kode?* Di kampus, caranya gampang. "Biasanya saya kirim file-nya lewat WA atau Google Drive, Mas. Terus yang satunya *copas* manual."
+
+Mas Alin mengusap wajahnya dengan kedua tangan. Bukan ekspresi marah. Lebih mirip ekspresi seseorang yang baru menyadari betapa besar gunung yang harus ia daki hari ini.
+
+"Binto," suaranya tetap tenang. "*Branching* tahu? *Checkout*, *commit*, *push*, *pull request*?"
+
+Binto menggeleng. Satu per satu. Jujur.
+
+"*Sprint*? *Scrum*? *Daily meeting*?"
+
+"*Meeting* sih sering, Mas. Sama dosen pembimbing. Tapi *sprint*? Bukannya itu lari cepat?"
+
+Senyum tipis muncul di sudut bibir Mas Alin. "Lha iya, *sprint* ya lari. Tapi di dunia kita, *sprint* itu..."
+
+Dia berhenti. Menatap Binto lebih dalam. Lalu pertanyaan berikutnya keluar dengan nada yang berbeda. Lebih heran. Lebih... khawatir.
+
+"Kamu lulusan *sana* kan? Universitas negeri yang itu?"
+
+Binto mengangguk. Ada sedikit rasa bangkit lagi di dadanya. *Ya, gue lulusan sana*.
+
+"Dan kamu gak diajarin *deployment*? *Version control*? *Agile*? *Software engineering process*?"
+
+Pertanyaan itu menghantam seperti palu.
+
+Bukan karena nadanya keras. Justru karena nadanya terlalu lembut. Terlalu tulus. Mas Alin benar-benar tidak mengerti. *Bagaimana mungkin universitas sebesar itu tidak mengajarkan hal-hal paling dasar yang setiap hari dipakai di industri?*
+
+Binto terdiam. Untuk pertama kalinya pagi itu, ia tidak punya jawaban. Dia ingat, beberapa istilah itu memang pernah terselip di sela-sela presentasi kelompok temannya, tapi dia tak pernah tahu benar cara kerjanya.
+
+Pikirannya melayang ke teman-temannya sesama lulusan PTN top seangkatannya. Raka, yang kerja di *startup* Jakarta, apakah dia tahu Git? Atau dia juga cuma *download ZIP*? Dinda, yang sekarang jadi *data analyst* di bank, apakah dia pernah *deploy* model ke *server production*? Atau dia cuma jalanin *script Python* di laptopnya sendiri lalu kirim hasilnya lewat email?
+
+Lalu pikirannya melayang lebih jauh. Teman-temannya yang kuliah di PTS kecil di Blitar, Kediri, Tulungagung. Kampus dengan fasilitas terbatas, dosen yang mungkin juga tidak *update*, laboratorium yang isinya komputer Pentium 4\. *Apakah mereka bahkan tahu apa itu cloud? Apakah mereka pernah dengar istilah CI/CD?*
+
+*Atau jangan-jangan... mereka lebih siap dari gue?*
+
+Pikiran itu membuat perutnya mulas.
+
+"Binto," suara Mas Alin memecah lamunannya. "Ini bukan salahmu."
+
+Binto mendongak.
+
+"Kampusmu ngajarin kamu jadi *single fighter*. Jago algoritma, jago logika, jago *competitive programming*. Itu bagus. Itu fondasi. Tapi di sini," Mas Alin menunjuk ke sekeliling ruangan—ke meja Wawan yang sedang mendesain UI, ke Mbak Rara yang sedang menulis *test case* di laptopnya, ke *whiteboard* penuh *sticky notes*, "kami kerja bareng. Kolaborasi. Satu aplikasi bisa dipegang lima orang sekaligus. Kalau kamu cuma bisa *coding* sendirian, kamu cuma jadi setengah *engineer*."
+
+Binto menelan ludah. Kepalanya yang tadi tegak, sekarang terasa berat. Sangat berat.
+
+"Tapi," Mas Alin melanjutkan, kali ini dengan senyum yang lebih lebar, "kamu *mau* belajar, kan? Itu sebabnya kamu di sini."
+
+"*Nggih*, Mas. Saya mau."
+
+"Bagus. Karena mulai besok, kamu akan belajar hal-hal yang tidak pernah disinggung di kampusmu. *Git*. *Deployment*. *Agile*. *Testing*. *Logging*. *Security*. Semua."
+
+Mas Alin meraih cangkir enamel animenya, menyesap kopi yang pasti sudah dingin, lalu menatap Binto dengan mata yang tiba-tiba berbinar.
+
+"Saya sudah lama di dunia ini, *Le*. Saya lihat banyak anak muda pinter tapi mentalnya *copy-paste*. Saya tidak mau kamu begitu. Saya mau kamu jadi *engineer* beneran. Yang ngerti sistem dari hulu ke hilir. Yang bisa bikin aplikasi yang gak cuma jalan di laptop sendiri, tapi bisa dipakai orang banyak, aman, dan gak bikin server *down* tiap malam Jumat."
+
+Binto mengangguk. Kali ini lebih mantap.
+
+"Siap, Mas. *Matur suwun*."
+
+Di luar, angin Desember berembus. Pohon rambutan di depan kantor bergoyang pelan. Buah-buahnya yang masih hijau berayun-ayun, menunggu musimnya tiba.
+
+Mas Binto menatap keluar jendela. Ada perasaan aneh di dadanya. Campuran antara malu, kagum, dan... harapan.
+
+*Gue lulusan PTN top*, pikirnya. *Tapi hari ini gue baru sadar: gue bahkan belum jadi apa-apa.*
+
+Di pojokan, Mas Alin kembali menatap *terminal*\-nya. Tangannya mengetik cepat. Server Kalimantan masih *error*. Tapi pikirannya sekarang terbagi: satu untuk *debugging*, satu lagi untuk menyusun kurikulum *darurat* untuk anak baru ini.
+
+*Anak pinter*, batinnya. *Cuma perlu ditunjukkan jalannya.*
