@@ -98,13 +98,13 @@ Mas Alin menambahkan. "Pakde ini *jembatan*. Kalau Wawan ngamuk karena klien min
 
 "Itu saya," kata Mas Alin sambil menepuk dada. "Saya Scrum Master."
 
-Binto menatap Mas Alin dengan ragu. "Scrum Master? Kayak *boss*\-nya Scrum?"
+Binto menatap Mas Alin dengan ragu. "Scrum Master? Kayak *boss*-nya Scrum?"
 
-"*Mboten*," Mas Alin menggeleng keras. "Scrum Master itu pelayan, bukan bos. Tugas saya cuma satu: memastikan proses Scrum berjalan lancar. Saya gak ngatur-ngatur kerjaan orang. Saya cuma bantu hilangkan hambatan. Misal, Wawan butuh lisensi *font* yang mahal, saya bantu cari alternatif gratis. Atau kalau *daily meeting* mulai molor jadi 30 menit, saya ingetin biar balik ke 15 menit. Saya jagain ritme tim."
+"*Oh bukan*," Mas Alin menggeleng keras. "Secara teori, Scrum Master itu pelayan, bukan bos. Tugas utamanya memastikan proses Scrum berjalan lancar tanpa ngatur-ngatur teknis kerjaan orang. Cuma bantu hilangkan hambatan. Misal, Wawan butuh lisensi *font* yang mahal, saya bantu cari alternatif gratis. Atau kalau *daily meeting* mulai molor jadi 30 menit, saya ingetin biar balik ke 15 menit. Saya jagain ritme tim."
 
-Mbak Rara yang sejak tadi menyimak tiba-tiba menimpali. "Mas Alin itu kayak *wasit*. Dia gak ikut main bola, tapi dia pastiin pertandingan adil dan gak ada yang curang."
+Mbak Rara yang sejak tadi menyimak tiba-tiba menimpali. "Mas Alin itu kayak *wasit*. Dia harusnya gak ikut main bola, cuma mastiin pertandingan adil dan gak curang."
 
-"*Nah*, persis," Mas Alin mengacungkan jempol. "Scrum Master juga yang jadi *coach*. Saya ngajarin kamu Git kemarin itu bagian dari tugas saya. Biar semua anggota tim bisa kerja maksimal."
+"*Nah*, itu idealnya," Mas Alin terkekeh pelan. "Tapi di dunia nyata, apalagi di *startup* atau tim kecil kayak kita ini, peran itu sering campur aduk. Di sini saya juga merangkap jadi *Tech Lead*. Jadi ya, selain jadi wasit, kadang saya juga ikut turun tangan nendang bola, *ngoding*, sampai ngambil keputusan teknis. Praktik di lapangan sering gak sebersih buku teks, *Le*."
 
 "Dan peran ketiga?" tanya Binto.
 
@@ -124,13 +124,19 @@ Mas Alin nyengir. "Nah, itu terjadi di Sprint Planning. Setiap dua minggu sekali
 
 "Pakde yang tentuin prioritas. Dia bilang, *'Fitur A harus selesai karena klien udah nunggu. Fitur B bisa nanti.'* Tapi yang menentukan berapa banyak yang bisa diambil, itu tim *development*. Kita yang bilang, *'Sanggupnya cuma 5 fitur, Pakde. Kalau 6 nanti gak kelar.'*"
 
+Pakde sempat menambahkan satu catatan kecil. "Untuk fitur ini, pastikan datanya tidak bisa diakses sembarang orang ya."
+
+Binto langsung menoleh. 
+
+Mas Alin cuma mengangguk. "Iya, nanti kita masukin juga ke *acceptance criteria*."
+
 Mbak Rara menimpali. "Nah, di sinilah pentingnya estimasi. Kita pakai *story points*—bukan jam, bukan hari. Angka relatif aja: 1 untuk gampang, 5 untuk susah. Biar kita tahu kapasitas tim."
 
 Mas Alin menunjuk papan. "Hasil *Sprint Planning* itu ya ini: kolom To Do yang udah penuh *sticky note* terpilih. Semua orang tahu apa yang harus dikerjakan dua minggu ke depan. Gak ada lagi tiba-tiba disuruh ngerjain ini-itu di luar rencana."
 
 Binto mengangguk paham. "Jadi *planning*\-nya cuma dua mingguan, bukan setahun?"
 
-"*Nggih*. Karena kita tahu, dua minggu lagi dunia bisa berubah. Lebih baik rencana pendek tapi pasti, daripada rencana panjang tapi ilusi."
+"*Hooh*. Karena kita tahu, dua minggu lagi dunia bisa berubah. Lebih baik rencana pendek tapi pasti, daripada rencana panjang tapi ilusi."
 
 ## **3.6 Lari Cepat 15 Menit (Daily Scrum)**
 
@@ -148,7 +154,11 @@ Mbak Rara yang memandu. "Oke, *sprint* hari ke-7. Gas. Aku mulai ya."
 
 Ia menunjuk satu *sticky note* di kolom In Progress—kertas kecil berwarna kuning dengan stiker kelinci di sudutnya. "Kemarin aku ngerjain *test case* buat fitur *login* KUD. Hari ini lanjut *testing* integrasi sama *backend*\-nya. Hambatan: *staging server* agak lemot, mungkin perlu dicek sama Mas Andik."
 
-Mas Andik mengangguk. "Noted."
+Rara ikut menambahkan, "Aku nanti pas testing juga coba akses tanpa login ya. Kadang yang kayak gini suka lolos."
+
+Binto baru sadar, testing ternyata bukan cuma soal fitur jalan atau tidak.
+
+Mas Andik mengacungkan dua jempolnya. "Mantep mbak!."
 
 Giliran Wawan. *Sticky note* monyet. "Kemarin revisi UI Pabrik Garum, sesuai masukan Pak Har. Hari ini mau *finishing prototype* baru, terus serah ke Mas Alin buat di-*implement*. Hambatan: *font* yang diminta klien *license*\-nya mahal, aku cari alternatif dulu."
 
@@ -162,15 +172,15 @@ Semua berlangsung cepat. Tidak lebih dari lima belas menit. Setelah Pakde Suhar 
 
 Binto masih berdiri, tercengang.
 
-"Ini... meeting atau laporan tentara?" tanyanya pelan ke Mas Alin.
+"Ini... meeting atau laporan tentara? Cepat banget," tanyanya pelan ke Mas Alin.
 
-Mas Alin nyengir. "Ini *Daily Scrum*. Tiap pagi, maksimal 15 menit. Tiga pertanyaan aja: kemarin ngapain, hari ini ngapain, ada hambatan apa. Tujuannya biar semua orang tahu progres tim, bukan buat *ngalor-ngidul* gak jelas."
+Mas Alin nyengir. "Itu versi idealnya *Daily Scrum*. Tiap pagi, maksimal 15 menit, cuma jawab tiga pertanyaan: kemarin ngapain, hari ini ngapain, ada hambatan apa. Tujuannya murni buat sinkronisasi, bukan buat *ngalor-ngidul*."
 
 "Terus kalau ada masalah yang butuh diskusi panjang?"
 
-"Nanti setelah *daily*. Ngobrol berdua atau bertiga. *Daily* itu cuma buat sinkronisasi. Bukan buat *problem solving*."
+"Idealnya, ditunda setelah *daily*. Ngobrol berdua atau bertiga aja biar yang lain bisa lanjut kerja." Mas Alin menghela napas pelan. "Tapi jujur aja, *Le*, realitanya gak selalu semulus tadi. Sering kali *daily* itu molor karena tiba-tiba malah bahas *bug* dan keterusan jadi ajang *problem solving*. Kadang ada juga yang *skip* karena telat bangun atau terjebak macet. Tugas saya sebagai Scrum Master buat narik mereka balik ke relnya, walau kadang saya sendiri yang kebablasan bahas teknis."
 
-Binto mengangguk. Di kampus, rapat proyek bisa berjam-jam, sering kali berakhir dengan *scroll* TikTok bareng. Di sini, efisiensi adalah harga mati.
+Binto tersenyum. Di kampus, rapat proyek bisa berjam-jam, sering kali berakhir dengan *scroll* TikTok bareng. Di sini, mereka berusaha mati-matian mengejar efisiensi, sambil tetap menyadari bahwa realita tak pernah sesempurna teori di buku.
 
 ## **3.7 Papan Ajaib di Dekat Dispenser**
 

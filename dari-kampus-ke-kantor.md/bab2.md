@@ -137,6 +137,8 @@ Layar menampilkan satu baris *commit* dengan kode acak, nama "Alin", tanggal, da
 
 "Kode acak ini namanya *hash*. Itu alamat di mesin waktu. Kalau kamu mau balik ke sini, kamu tinggal panggil alamat ini."
 
+"Hash ini kayak jejak di mesin waktu kita," lanjut Mas Alin. "Sebagai bukti perubahan. Kalau ada yang aneh di sistem, kita bisa lacak siapa ubah apa. Itu penting buat debugging... dan kadang buat keamanan juga."
+
 Binto manggut-manggut. "Jadi tiap kali aku *ngoding*, aku harus *add* terus *commit*?"
 
 "Ada sih *shortcut*-nya biar sekaligus, tapi sebagai awalan, idealnya begitu. Tapi jangan *commit* sembarangan. *Commit* itu buat perubahan yang bermakna. Misal: 'tambah fitur login', 'perbaiki bug perhitungan bunga', atau 'update warna tombol'. Bukan *commit* dengan pesan 'perbaiki dikit' atau 'lupa tadi'."

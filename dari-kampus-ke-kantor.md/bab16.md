@@ -124,12 +124,28 @@ Di seberang meja, Aini sedang membaca dokumentasi proyek Koperasi Kanigoro. Waja
 
 Ia bangkit, berjalan ke arah Aini. "Gimana, Mbak? Ada yang bisa saya bantu?"
 
-Aini mendongak. "Ini, Mas. Saya baca kodenya kok agak bingung. Banyak banget file-nya."
+Aini mendongak. "Ini, Mas. Saya lagi buat fitur tambah karyawan. Tapi saya bingung, apa data inputnya boleh langsung disimpan?"
 
-Binto tersenyum. "Dulu saya juga bingung. Sini, saya jelasin pelan-pelan."
+Binto tersenyum. "Input dari *user* jangan langsung dipakai ya." Ia berhenti sebentar, lalu tersenyum kecil mengingat masa lalunya. "Dulu aku juga hampir bikin *query* yang berbahaya kalau nggak disetop Mas Alin."
 
-Ia menarik kursi, duduk di samping Aini. Di luar, bunga-bunga rambutan berguguran pelan, memberi jalan untuk buah-buah baru yang akan tumbuh. Musim lalu telah berlalu. Musim baru akan segera tiba.
+Aini manggut-manggut. 
 
-Binto membuka laptopnya. Perjalanannya dari junior menuju medior mungkin telah mencapai satu babak. Tapi perjalanan sebagai mentor, sebagai *engineer* yang lebih matang, baru saja dimulai.
+"Coba kamu pikir," lanjut Binto dengan nada tenang, sangat mirip dengan gaya Mas Alin. "Kalau kamu jadi orang iseng, kamu bakal coba apa dari fitur ini?"
+
+Aini mengerutkan kening. "Mungkin... ngisi karakter aneh? Atau masukin *script*?"
+
+"Nah, itu dia. Makanya validasi dan sanitasi itu hukumnya wajib."
+
+Binto menarik kursi, duduk di samping Aini. Di luar, bunga-bunga rambutan berguguran pelan, memberi jalan untuk buah-buah baru yang akan tumbuh. Musim lalu telah berlalu. Musim baru akan segera tiba.
+
+Binto kembali ke mejanya dan membuka laptopnya. 
+
+Dulu, Binto pikir *coding* itu murni soal membuat sesuatu berjalan. Asal kode jalan, tugas selesai. 
+
+Sekarang, ia mulai sadar. Tanggung jawabnya bukan cuma membuat sistem hidup... tapi juga memastikan sistem itu tidak menyakiti siapa pun, baik dari segi performa, kerahasiaan data klien, maupun privasi pengguna.
+
+Ia tersenyum kecil. Menjadi *engineer* ternyata bukan soal seberapa cepat menulis kode... tapi seberapa jauh memikirkan dampaknya.
+
+Perjalanannya dari *junior* menuju *medior* mungkin telah mencapai satu babak. Tapi perjalanan sebagai mentor, sebagai *engineer* yang lebih matang, baru saja dimulai.
 
 Dan siapa tahu, suatu hari nanti, akan ada buku yang menceritakan semua ini.

@@ -129,7 +129,17 @@ git checkout \-b feature/MMK-012
 
 Binto membuka laptopnya, melakukan git pull dan git checkout ke *branch* yang sama. Mereka mulai bekerja.
 
-Mas Alin mengambil bagian *backend*: menulis *endpoint* API baru untuk mengambil data penjualan berdasarkan tanggal. Binto kebagian menulis logika untuk menghasilkan PDF dari data tersebut. Wawan sibuk di laptopnya, membuat *template* HTML sederhana dengan CSS yang akan dikonversi jadi PDF.
+Mas Alin mengambil bagian *backend*: menulis *endpoint* API baru untuk mengambil data penjualan berdasarkan tanggal. 
+
+"Tanggalnya dari input user kan?" tanya Mas Alin.
+
+Binto mengangguk.
+
+"Jangan langsung kamu tempel ke query. Minimal validasi dulu. Yang kayak gitu bisa jadi pintu masuk SQL Injection kalau gak hati-hati."
+
+"Oh ya," tambah Mas Alin lagi, "Pastikan juga endpoint ini cuma bisa diakses user yang berhak. Jangan sampai orang lain bisa lihat laporan toko cuma karena tahu URL-nya."
+
+Binto mencatat itu dalam hati. Ia lalu kebagian menulis logika untuk menghasilkan PDF dari data tersebut. Wawan sibuk di laptopnya, membuat *template* HTML sederhana dengan CSS yang akan dikonversi jadi PDF.
 
 "*Commit* yang kecil-kecil, *Le*," Mas Alin mengingatkan. "Jangan nunggu semua selesai baru di-*commit*. Nanti susah *tracking*\-nya kalau ada masalah."
 
@@ -177,21 +187,25 @@ Mas Alin mengklik tombol New Pull Request, memilih *branch* feature/MMK-012 seba
 
 Binto mengangguk paham. "Jadi *Pull Request* itu semacam... izin dulu gitu, Mas?"
 
-"Tepat. Izin sekaligus tempat diskusi. Saya bisa lihat perubahan kode, kasih komentar, minta perbaikan. Kalau sudah oke, baru saya klik Merge."
+"Lebih dari sekadar izin, *Le*. PR itu jantung kolaborasi di industri," Mas Alin menjelaskan dengan serius. "Di sini tempatnya *code review*, diskusi, dan *approval*. Saya bisa lihat perubahan kodemu baris demi baris, kasih komentar kalau ada yang kurang efisien, atau minta perbaikan. Kalau saya merasa kodenya sudah *clean* dan bener, baru saya *approve* dan klik Merge."
 
-Mas Alin men-scroll kode Binto di layar. Matanya teliti menyusuri setiap baris.
+Mas Alin men-scroll kode Binto di layar. Matanya teliti menyusuri setiap baris. Ia lalu menyorot satu blok kode dan mengetikkan komentar langsung di antarmuka GitHub.
 
-"Ini bagus, logikanya sudah benar. Tapi ada satu hal kecil..." Ia menyorot satu baris. "Ada variabel yang namanya kurang deskriptif. tmp itu terlalu umum. Mending diganti total\_pendapatan biar jelas."
+"Ini contohnya," kata Mas Alin. "Logikamu sudah benar. Tapi ada satu hal..." Ia menunjuk layar. "Function-mu jalan, tapi variable-nya bikin orang lain mikir dua kali. Variabel `tmp` itu terlalu umum. Mending diganti `total_pendapatan` biar orang yang baca kodemu nanti langsung paham."
 
-Binto mengangguk cepat. "Siap, Mas. Saya ganti."
+Binto mengangguk cepat. "Siap, Mas. Masuk akal."
 
-"Satu lagi. Fungsi hitung ini dipanggil dua kali. Itu boros. Simpan hasilnya, baru pakai."
+"Satu lagi," tambah Mas Alin. "Fungsi hitung ini dipanggil dua kali. Itu boros memori. Simpan dulu hasilnya di variabel, baru panggil lagi."
 
-Binto mencatat dalam hati. *Code review beneran kayak gini. Bukan nyalahin, tapi ngebantu.*
+Binto mencatat dalam hati. *Code review beneran kayak gini. Bukan ajang nyalahin, tapi diskusi dan ngebantu.*
 
-Ia memperbaiki sesuai saran, *commit* ulang, dan *push* lagi. Secara otomatis, Pull Request ikut ter-update.
+"Tapi, Mas," Binto bertanya. "Apakah aturan *review* dan *approve* ini kaku banget? Kalau misalnya ada *bug* darurat tengah malam dan Mas Alin lagi tidur, gimana?"
 
-"Sekarang sudah beres." Mas Alin mengklik tombol hijau Merge Pull Request. Beberapa detik kemudian, kode Binto resmi bergabung dengan main.
+Mas Alin tersenyum tipis. "Nah, ini dunia nyata. Dalam kondisi tertentu—misal darurat butuh perbaikan detik itu juga, atau yang bikin PR adalah *engineer* senior yang sudah sangat terpercaya—proses formal kayak *approval* dan *code review* bisa dilewati. Di GTN kadang kita juga gitu kalau lagi krisis. Tapi dalam kondisi normal, apalagi buat *feature* baru, saya gak akan *approve* kalau kode belum *clean* atau kerjanya masih ngawur."
+
+Binto segera memperbaiki kodenya di laptop, lalu melakukan *commit* ulang dan *push*. Secara otomatis, tampilan Pull Request di GitHub ikut ter-update.
+
+"Nah, sekarang kodenya sudah rapi dan *clean*." Mas Alin menekan tombol Approve, lalu mengklik tombol hijau Merge Pull Request. Beberapa detik kemudian, kode Binto resmi bergabung dengan `main`.
 
 "Selamat, *Le*. Kode kamu sudah jadi bagian dari proyek."
 

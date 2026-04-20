@@ -30,9 +30,17 @@ Binto terdiam. Ia teringat kabar terakhir dari Pakde Suhar: tim sales sudah dua 
 
 "Dua puluh sales," kata Binto pelan. "Dan produknya udah puluhan ribu."
 
-"Nah. Kode kita tetap. Tapi jumlah pengguna dan data bertambah. Itu namanya masalah scaling—bagaimana sistem kita bisa terus berfungsi dengan baik meski bebannya naik."
+"Nah. Kode kita tetap. Tapi jumlah pengguna dan data bertambah. Itu namanya masalah *scaling*—bagaimana sistem kita bisa terus berfungsi dengan baik meski bebannya naik."
 
-Mbak Rara ikut duduk. "Jadi ini bukan bug?"
+"Selain itu," lanjut Mas Alin. "Kalau sistemnya makin besar, yang pakai bukan cuma *user*... tapi juga orang-orang yang penasaran nyari celah."
+
+Binto langsung teringat momen-momen *debugging* bersama Mbak Rara.
+
+"Di *cloud* itu memang enak, tinggal *deploy*," Mas Alin menambahkan. "Tapi ingat, salah konfigurasi sedikit saja, *port* database atau *dashboard admin* bisa kebuka ke publik tanpa sadar."
+
+Binto menelan ludah. Keamanan ternyata bukan cuma fitur yang dikerjakan sekali, tapi konsekuensi logis dari *scale*. Semakin besar sistem, semakin besar ruang serangnya.
+
+Mbak Rara ikut duduk. "Jadi yang sekarang ini murni beban server ya, Mas? Bukan *bug*?"
 
 "Bukan bug. Ini tanda bahwa aplikasi kita mulai serius dipakai. Dan kita harus siapkan fondasi biar gak ambruk."
 

@@ -62,13 +62,29 @@ Mbak Rara melanjutkan. Ia membuat pesanan dengan produk yang stoknya 0\. API Bin
 
 "Nah, ini bahaya. Stok minus bisa bikin laporan kacau. Harusnya ada validasi: kalau stok tidak cukup, tolak pesanan."
 
-Belum selesai. Mbak Rara membuka endpoint yang sama, kali ini ia kirim token yang sudah ia modifikasi—token palsu. Binto belum menambahkan pengecekan token yang benar-benar valid secara kriptografis. API-nya hanya mengecek keberadaan token, bukan keabsahannya. Akibatnya, token palsu pun lolos.
+Belum selesai. Mbak Rara mencoba masuk ke endpoint daftar pesanan menggunakan token milik *sales* B. Ia sengaja mengganti parameter ID pesanan menjadi ID pesanan milik *sales* A.
 
-Binto menunduk. Rasa percaya dirinya runtuh seketika.
+Data pesanan *sales* A muncul utuh di layarnya.
 
-"Satu lagi," kata Mbak Rara. Ia mengirim request ke endpoint Produk dengan token yang sudah kadaluarsa—ia sengaja menunggu beberapa menit setelah login. API Binto tidak memberi respons yang jelas. Bukannya 401 Unauthorized, malah error aneh.
+Mbak Rara menoleh ke Binto. "Mas, ini datanya kok muncul yang bukan punya user ini ya?"
 
-Mbak Rara menutup laptop dan menatap Binto dengan tenang. "Ini belum apa-apa, Mas. Aku cuma coba beberapa skenario dasar. Bayangin kalau ini sudah dipakai sales di lapangan. Mereka bisa input angka minus. Stok jadi kacau. Orang iseng bisa akses API pakai token palsu. Reputasi kita hancur."
+Mas Alin yang sedang berdiri di dekat dispenser langsung mendekat. Wajahnya berubah serius.
+
+"Ini bukan cuma *bug*," katanya pelan. "Kalau salah *user* bisa lihat data orang lain... itu sudah masuk masalah keamanan. Celah otorisasi yang fatal."
+
+Suasana ruangan mendadak lebih hening. Kipas angin Ufo yang berputar pelan kini terdengar jelas.
+
+Untuk pertama kalinya, Binto merasa ini bukan sekadar error kecil yang bisa ditertawakan.
+
+"Debugging itu bukan cuma bikin error hilang," lanjut Mas Alin dengan nada yang tidak menggurui, tapi tegas. "Tapi memastikan sistem kita tidak melakukan hal yang seharusnya tidak boleh terjadi."
+
+Setelah ditelusuri bersama, ternyata *query* untuk melihat detail pesanan tidak memfilter berdasarkan kepemilikan *user* yang sedang aktif. Binto rupanya lupa menaruh filter pengecekan di fungsi *detail*-nya.
+
+Binto menarik napas panjang. Hal kecil... tapi dampaknya bisa besar sekali.
+
+"Lanjut ya. Satu lagi," kata Mbak Rara. Ia mengirim request ke endpoint Produk dengan token yang sudah kadaluarsa—ia sengaja menunggu beberapa menit setelah login. API Binto tidak memberi respons yang jelas. Bukannya 401 Unauthorized, malah error aneh.
+
+Mbak Rara menutup laptop dan menatap Binto dengan tenang. "Ini belum apa-apa, Mas. Aku cuma coba beberapa skenario dasar. Bayangin kalau ini sudah dipakai sales di lapangan. Mereka bisa input angka minus. Stok jadi kacau. Orang iseng bisa ngintip data sales lain. Reputasi kita hancur."
 
 ## **9.4 Kuliah Mbak Rara: Kenapa QA Itu Penting**
 

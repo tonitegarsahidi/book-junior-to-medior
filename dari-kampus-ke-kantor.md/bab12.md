@@ -128,9 +128,19 @@ Ia menggambar beberapa kotak berurutan.
 
 "Kelima: Deploy. Kode yang sudah siap dikirim ke server tujuan. Bisa staging, bisa production. Tergantung *branch*\-nya."
 
+Mas Alin menatap Binto dan Cahyo serius. "Tapi ingat, di lokal aman belum tentu di *production* aman. Di luar sana, siapa saja bisa coba akses sistem kita."
+
+"Pastikan *config* sensitif seperti *password database* tidak ikut ke-*push* ke *repository*," lanjutnya tegas. "Banyak kebocoran data raksasa justru berawal dari hal sederhana kayak itu. Ingat pelajaran Git dulu?"
+
+Binto mengangguk mengiyakan. 
+
 "Keenam: Notifikasi. Robot kirim pesan ke Telegram atau Slack. 'Deploy sukses' atau 'Deploy gagal'. Jadi kita bisa langsung tahu hasilnya tanpa harus buka laptop."
 
-Binto memperhatikan coretan di tisu. "Wah, panjang juga prosesnya."
+Mas Alin tersenyum tipis membayangkan proses akhirnya. "Setelah notifikasi sukses itu muncul, artinya sistem kita sudah *online*," katanya pelan. "Dan artinya... kita juga sudah 'terlihat'."
+
+Kata-kata itu diucapkan dengan santai, tapi maknanya sangat kuat. Menjadi *online* bukan hanya soal fitur bisa dipakai, tapi juga membuka pintu bagi ribuan pasang mata—termasuk *hacker* iseng di seluruh dunia.
+
+Binto memperhatikan coretan di tisu. "Wah, panjang juga prosesnya. Dan ternyata tanggung jawabnya berat."
 
 "Panjang, tapi semua otomatis. Kita cuma perlu *push*. Robot yang kerja."
 

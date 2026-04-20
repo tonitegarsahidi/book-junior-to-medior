@@ -92,9 +92,19 @@ Binto mencatat dalam hati. *Jadi staging itu gak selalu fisik. Bisa di mana saja
 
 ## **11.6 Ritual Mbak Rara**
 
-Mbak Rara melanjutkan. "Setiap ada fitur baru—baik dari Mas Binto, Mas Alin, atau kamu, Dik—aku pasti tes dulu di staging. Aku coba semua skenario yang ada di *test plan*\-ku. Aku coba input aneh-aneh, aku coba buka dari HP, dari tablet. Aku pastikan gak ada yang janggal."
+Mbak Rara melanjutkan. "Setiap ada fitur baru—baik dari Mas Binto, Mas Alin, atau kamu, Dik—aku pasti tes dulu di staging. Aku coba semua skenario yang ada di *test plan*\-ku. Aku coba input kosong, karakter aneh, sampai *input* yang gak masuk akal ya."
 
-"Terus kalau sudah oke?" tanya Cahyo.
+"Kenapa harus sampai yang gak masuk akal, Mbak?" tanya Cahyo.
+
+"Soalnya biasanya *bug*... atau celah keamanan, justru muncul dari situ," jelas Mbak Rara. 
+
+Binto ikut mengangguk di sebelahnya. Ia teringat bagaimana dulu fitur pesanannya rontok hanya karena Mbak Rara memasukkan stok minus. 
+
+"Ini contohnya," tambah Mbak Rara sambil menunjuk layar. "Kalau aku kasih karakter aneh di *form* pencarian, error-nya beda. Kadang sistem nangkap itu sebagai perintah kode. Hal-hal kecil seperti ini... ternyata bisa berarti banyak buat *hacker*."
+
+Cahyo melongo. Ia mulai paham bahwa peran QA bukan cuma sekadar ngeklik tombol jalan atau tidak. QA adalah penjaga gerbang.
+
+"Terus kalau sudah diuji dan dipastikan oke?" tanya Cahyo lagi.
 
 "Aku bilang 'OK'. Seringnya aku kirim pesan di grup: *'Staging OK. Bisa naik production.'* Baru setelah itu Mas Alin atau Mas Binto *deploy* ke production."
 

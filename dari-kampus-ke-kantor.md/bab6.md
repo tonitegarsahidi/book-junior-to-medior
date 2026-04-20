@@ -120,6 +120,8 @@ Mas Alin duduk di bangku kayu. Binto ikut duduk.
 
 "Dalam aplikasi, setidaknya ada tiga urusan besar. Pertama, tampilan: bagaimana data ditampilkan ke pengguna. Kedua, logika bisnis: aturan-aturan seperti 'stok di bawah 10 harus kasih peringatan'. Ketiga, akses data: cara ngambil dan nyimpan data dari database. Kalau tiga ini dicampur, kamu bikin *spaghetti code*. Lezat sih, tapi kusut."
 
+"Kode yang berantakan itu bukan cuma bikin pusing," tambah Mas Alin. "Kadang juga bikin *bug*... dan *bug* itu bisa jadi celah keamanan kalau lolos."
+
 Binto manggut-manggut. "Jadi harus dipisah-pisah, Mas?"
 
 "*Nggih*. Minimal di file terpisah. Atau kalau mau lebih rapi, pakai pola seperti yang kita pakai di proyek Garum."
@@ -177,6 +179,8 @@ config/
 Binto memperhatikan. "Jadi kalau saya mau ubah logika validasi stok, saya tinggal buka *Service*? Gak perlu sentuh *Controller* atau *Repository*?"
 
 "Tepat. Dan kalau suatu hari kamu ganti database dari MySQL ke PostgreSQL, kamu cuma perlu ubah di *Repository*. *Service* dan *Controller* tetap aman. Itulah kekuatan pemisahan."
+
+"Lagipula," lanjut Mas Alin. "Kalau validasi kamu taruh di satu tempat yang jelas, lebih susah buat orang 'lupa' ngecek input. Dan di dunia nyata, banyak masalah keamanan justru muncul karena hal-hal kecil yang kelupaan kayak gitu."
 
 ## **6.6 Operasi Plastik Sendiri**
 
