@@ -206,11 +206,15 @@ Sore hari, kantor mulai sepi. Binto duduk di teras, menikmati teh hangat. Mbak R
 
 Binto mengambil sebutir. "Mbak, saya baru sadar. Selama ini saya pikir QA itu tukang cari kesalahan. Ternyata lebih dari itu."
 
-Mbak Rara duduk di bangku sebelah. "Aku senang kamu bilang gitu. Aku gak pernah niat nyari-nyari kesalahan. Aku cuma mau kita semua bisa tidur nyenyak. Bayangin kalau bug tadi lolos ke production. Pak Haji telepon marah-marah. Pakde stres. Kamu lembur benerin. Aku juga ikut pusing."
+Mbak Rara duduk di bangku sebelah, mengupas sebuah rambutan dengan kuku telunjuknya. "Aku senang kamu bilang gitu. Aku gak pernah niat nyari-nyari kesalahan. Aku cuma mau kita semua bisa tidur nyenyak."
 
-Binto mengupas rambutannya. Daging buahnya putih bersih, manis.
+Mbak Rara menerawang sejenak, melihat ke arah jalanan desa yang lengang. "Dulu aku kerja di perusahaan logistik di Surabaya, Mas. Ritmenya gila. Tiap hari buru-buru, kejar target, sikut-sikutan. Aku capek. Akhirnya milih pulang ke Blitar pas diajak nikah sama suamiku sekarang."
 
-"Testing itu kayak milih rambutan," Mbak Rara melanjutkan. "Kalau kita petik asal-asalan, bisa dapat yang busuk. Tapi kalau kita periksa satu-satu—kulitnya merah, teksturnya kenyal, gak ada bekas ulat—baru kita sajikan. Hasilnya manis."
+Binto menyimak sambil mengunyah daging buah yang manis. 
+
+"Di sini aku nemu ketenangan," lanjut Mbak Rara. "Kerja sama Pakde dan Mas Alin itu rasanya kayak kerja sama keluarga. Makanya, aku mau lindungi ketenangan ini. Bayangin kalau bug tadi lolos ke production. Pak Haji telepon marah-marah. Pakde stres. Kamu lembur benerin. Ketenangan kita semua hancur."
+
+"Testing itu kayak milih rambutan," Mbak Rara menyodorkan sebuah rambutan yang kulitnya merah sempurna namun agak busuk di ujung. "Kalau kita petik asal-asalan, bisa dapat yang busuk. Tapi kalau kita periksa satu-satu—kulitnya merah, teksturnya kenyal, gak ada bekas ulat—baru kita sajikan. Hasilnya manis."
 
 Mas Alin yang sejak tadi menyimak dari dalam ikut keluar. "Nah, itu analogi yang pas. Kualitas itu budaya, bukan sekadar proses. QA bukan musuh developer. QA itu partner yang bantu kamu jadi engineer lebih baik."
 

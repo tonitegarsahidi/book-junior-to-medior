@@ -88,7 +88,7 @@ Binto manggut-manggut. Analogi ini membantu sekali.
 
 Mas Alin menyesap kopinya. "Monolitik itu kayak kamu masak sendiri di dapur restoran, terus juga jadi pelayan, kasir, dan tukang cuci piring. Semua jadi satu."
 
-Ia menggambar di udara. "Satu aplikasi utuh. *Frontend* dan *backend* nyatu. Enaknya, simpel. Gak ribet. Cocok buat proyek kecil kayak Koperasi Kanigoro."
+Ia menggambar di udara. "Satu aplikasi utuh. *Frontend* dan *backend* nyatu. Enaknya, simpel. Gak ribet. Cocok buat proyek kecil kayak Koperasi Sekar Patria."
 
 "Kelemahannya?"
 

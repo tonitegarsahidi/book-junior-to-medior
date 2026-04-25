@@ -44,7 +44,7 @@ Binto menoleh ke sudut ruangan. Di sana, sebuah PC tower tua tanpa monitor terge
 
 "Lho, Mas. Katanya itu buat program Koperasi? Yang offline itu?"
 
-Binto terdiam. Benar juga. PC itu adalah server staging untuk proyek Koperasi Kanigoro—aplikasi yang diinstal offline di komputer klien. Staging-nya pun offline, berupa replika kecil dari setup mereka.
+Binto terdiam. Benar juga. PC itu adalah server staging untuk proyek Koperasi Sekar Patria—aplikasi yang diinstal offline di komputer klien. Staging-nya pun offline, berupa replika kecil dari setup mereka.
 
 "Kalau proyek Kalimantan, staging-nya di cloud, Dik," suara Mas Andik tiba-tiba dari belakang. Ia lewat sambil membawa gelas kopi. "Servernya di Jakarta. Speknya mirip production, cuma lebih kecil. Alamatnya staging.minimarket-kalimantan.com."
 
@@ -84,7 +84,7 @@ Binto mendengarkan dengan seksama. Analogi ini membantunya sendiri memahami.
 
 ## **11.5 Server Staging yang Berbeda-beda**
 
-Mas Andik yang masih berdiri ikut menjelaskan. "Biar jelas, Dik. Di kantor ini, setiap proyek punya *environment* yang beda-beda. Proyek Koperasi Kanigoro itu aplikasinya di-install offline di komputer mereka sendiri. Jadi staging-nya ya komputer di pojok itu tadi—itu replika kecil dari setup mereka."
+Mas Andik yang masih berdiri ikut menjelaskan. "Biar jelas, Dik. Di kantor ini, setiap proyek punya *environment* yang beda-beda. Proyek Koperasi Sekar Patria itu aplikasinya di-install offline di komputer mereka sendiri. Jadi staging-nya ya komputer di pojok itu tadi—itu replika kecil dari setup mereka."
 
 "Tapi untuk proyek Kalimantan," lanjut Mas Alin yang tiba-tiba muncul dari meja pojoknya, "servernya di cloud. Production di cloud, staging juga di cloud. Hanya beda alamat dan spek. Staging speknya lebih kecil, tapi konfigurasi server-nya sama. Jadi kalau ada bug yang cuma muncul di lingkungan cloud, kita bisa tangkap di staging."
 
@@ -230,7 +230,7 @@ Binto menepuk bahunya. "*Sami-sami*, Dik. Nanti kalau kamu sudah jadi *engineer*
 
 Cahyo mengangguk mantap.
 
-Di luar, langit Blitar mulai jingga. Suara adzan maghrib sayup terdengar. Binto menatap ruangan yang mulai sepi. Beberapa bulan lalu, ia datang ke kantor ini dengan kepala tegak dan jiwa "sombong" lulusan PTN ternama. Kini, ia justru belajar dari sebuah tim kecil di gang desa tentang hal-hal yang tak pernah diajarkan di kampus.
+Di luar, sinar matahari sore mulai miring. Suara adzan ashar dari masjid desa desa sayup terdengar, menandakan pukul empat sore telah tiba. Binto menatap ruangan yang mulai sepi. Beberapa bulan lalu, ia datang ke kantor ini dengan kepala tegak dan jiwa "sombong" lulusan PTN ternama. Kini, ia justru belajar dari sebuah tim kecil di gang desa tentang hal-hal yang tak pernah diajarkan di kampus.
 
 *Staging. Git flow. Clean history.*
 

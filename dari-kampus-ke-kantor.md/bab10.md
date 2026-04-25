@@ -184,8 +184,36 @@ Binto mengambil sebutir. Kulitnya merah sempurna. Tapi begitu dikupas, daging bu
 
 "Persis. Error handling itu seperti memilih rambutan. Kita identifikasi mana yang busuk, kita sisihkan. Tapi kita gak buang seluruh sistem hanya karena satu error kecil. Dan kita gak sajikan rambutan busuk ke tamu."
 
-Mbak Rara menambahkan. "Kita buang bagian busuknya, sisanya tetap bisa dinikmati. Itu *graceful degradation*."
-
 Mereka bertiga tertawa. Binto menatap pohon rambutan yang masih sarat buah. Pelajaran hari ini melengkapi fondasinya sebagai *engineer*. API bukan cuma soal data keluar-masuk. Tapi juga tentang bagaimana sistem merespons ketika sesuatu tidak berjalan sempurna.
 
-Dan ia tahu, ini baru satu langkah lagi menuju *medior*.
+## **10.11 Nasi Kotak Tasyakuran Wawan**
+
+Keesokan harinya, tepat setelah jam makan siang, suasana kantor mendadak riuh. Sebuah mobil Kijang tua berwarna hijau botol parkir di halaman. Dua orang paruh baya berpakaian rapi—sang bapak mengenakan batik kerah kaku dan peci, sang ibu mengenakan gamis dan jilbab syar'i—keluar sambil menenteng dua tas kresek besar berisi tumpukan nasi kotak.
+
+Wawan yang sedang fokus ngoding UI/UX langsung melompat dari kursinya, wajahnya setengah terkejut setengah malu.
+
+"Lho, Bapak, Ibu? Kok gak bilang-bilang kalau mau ke sini?" 
+
+Sang bapak tersenyum lebar, menyalami Pakde Suhar yang langsung menyambut mereka. "Ngapunten lho, Pak Suhar, ganggu jam kerjanya. Ini ibunya Wawan ngotot minta bawain nasi kotak buat selamatan kecil-kecilan."
+
+"Selamatan apa ini, Pak?" tanya Pakde Suhar antusias.
+
+Sang ibu menyahut bangga. "Wawan kemarin baru lulus sidang skripsi S1-nya, Pak. Alhamdulillah. Kuliah online di UT sambil kerja di sini, akhirnya beres juga."
+
+Semua orang di ruangan langsung menoleh ke Wawan, termasuk Binto. Wawan diam-diam menyembunyikan wajahnya yang memerah. 
+
+"Wah, selamat, Wan!" seru Binto sambil menepuk bahu desainer muda itu. Binto baru ingat, di awal kedatangannya ia memang mendengar Wawan diam-diam kuliah online.
+
+"Iya, Mas. Skripsiku bahas UI/UX aplikasi Pabrik Pakan Ternak Garum yang kemarin kita kerjakan. Aku jadiin bahan studi kasus," bisik Wawan pelan. "Proyek kantor tak kuliahkan, hehe."
+
+Mas Alin tertawa mendengarnya. "Pinter kamu. Sekali merengkuh dayung, dua tiga pulau terlampaui. Itu namanya efisiensi."
+
+Mereka semua berkumpul di meja tengah, membuka nasi kotak yang berisi nasi kuning, ayam goreng bumbu laos, sambal goreng ati, dan telur bumbu bali. Suasananya begitu hangat. Bapak dan ibu Wawan terus-menerus mengucapkan terima kasih kepada Pakde Suhar dan Mas Alin karena sudah membimbing putra mereka sejak masih siswa SMK ingusan hingga kini resmi bergelar sarjana.
+
+"Wawan ini dari dulu kalau belajar komputer sampai lupa waktu, Pakde. Alhamdulillah sekarang ilmunya kepakai buat kerja, malah bisa buat skripsi juga," ujar sang ibu dengan mata berkaca-kaca menatap putra tunggalnya.
+
+Pakde Suhar tersenyum lebar. "Anak jenengan ini aset berharga lho di perusahaan kami, Bu. Desainnya itu dipuji-puji klien dari ujung Jawa sampai Kalimantan."
+
+Wawan hanya bisa menunduk malu, tapi senyum tak bisa lepas dari bibirnya. Binto menatap pemandangan itu dengan rasa hangat yang menjalar di dada. Ia teringat bapaknya sendiri di rumah. Ada kebanggaan yang sama di mata orang tua Wawan, kebanggaan tulus seorang ayah dan ibu yang melihat anaknya berhasil melampaui batasan mereka.
+
+Hari itu, tasyakuran nasi kuning ditutup dengan doa bersama yang dipimpin sang bapak. Sebuah penutup hari yang manis. Dan bagi Binto, pelajaran hari ini—tentang API, tentang *graceful degradation*, dan tentang menghargai pencapaian—adalah langkah solid berikutnya menuju kedewasaan seorang *medior*.

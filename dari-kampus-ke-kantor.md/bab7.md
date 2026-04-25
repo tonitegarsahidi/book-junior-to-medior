@@ -108,6 +108,8 @@ Mas Andik yang biasanya diam ikut berkomentar. "Ini mah kayak nyimpen semua baju
 
 "Nah, itu analogi yang bagus," Mas Alin menunjuk Andik. "Database yang gak dinormalisasi itu kayak lemari tanpa sekat. Atau..." ia menatap ke luar, ke pohon rambutan, "kayu pohon yang cabangnya terlalu rimbun. Daunnya lebat, tapi buahnya kecil-kecil."
 
+Pakde Suhar yang ikut menyimak mengangguk-angguk. Walau sama sekali tidak bisa coding—mentok hanya bisa buka Excel— Tapi ia punya filosofi sendiri tentang sistem. "Kalau datamu berantakan, ya bisnis klien kita yang bakal ikut mati."
+
 ## **7.5 Memotong Cabang yang Rimbun**
 
 Mas Alin mengambil kertas kosong dari printer dan mulai menggambar.
@@ -262,4 +264,4 @@ Binto menatap pohon rambutan sekali lagi.
 
 *Manis*, pikirnya. *Meski pohon di rumah sudah tiada, rasanya masih ada. Seperti data. Meski aplikasi berganti, nilainya tetap tersimpan.*
 
-Di kejauhan, suara adzan maghrib mulai berkumandang. Sabtu hampir berakhir. Tapi pelajaran tentang tulang punggung sistem ini akan terus melekat.
+Di kejauhan, suara adzan ashar mulai berkumandang. Waktu menunjukkan pukul empat sore. Sabtu hampir berakhir. Tapi pelajaran tentang tulang punggung sistem ini akan terus melekat.

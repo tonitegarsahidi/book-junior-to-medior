@@ -10,11 +10,11 @@ Tapi pikirannya tidak bisa lepas dari meja pojok itu. Meja Mas Alin. Dengan tiga
 
 *Gue kudu belajar dari nol*, batin Binto. *Tapi mulai dari mana?*
 
-Tepat saat adzan Dzuhur berkumandang dari musholla desa sebelah, Mas Alin bangkit dari kursinya. Ia meregangkan badan, menguap lebar, lalu menoleh ke arah Binto.
+Tepat saat adzan Dzuhur berkumandang dari masjid desa sebelah, Mas Alin bangkit dari kursinya. Ia meregangkan badan, menguap lebar, lalu menoleh ke arah Binto.
 
 "Binto, sini, *Le*."
 
-Binto mendekat, membawa kursi plastiknya. Di monitor tengah Mas Alin, sebuah *file explorer* terbuka. Tampak susunan folder: koperasi-Kanigoro/, pabrik-pakan-ternak-garum/, sekolah-alhikmah-malang/, dan beberapa folder lain.
+Binto mendekat, menggeser kursinya. Di monitor kanan Mas Alin, sebuah *file explorer* terbuka. Tampak susunan folder: koperasi-sekar-patria/, pabrik-pakan-ternak-garum/, sekolah-alhikmah-malang/, dan beberapa folder lain.
 
 "Ini kode kita," kata Mas Alin sambil menyeruput kopinya yang pasti sudah dingin. "Aplikasi-aplikasi yang tadi pagi saya sebut. Pabrik pakan ternak, koperasi, minimarket, sekolah swasta. Semua disimpan di sini."
 
@@ -199,7 +199,7 @@ Mas Alin tiba-tiba berhenti. Ia menatap Binto dengan ekspresi serius.
 
 "Stash? Kayak simpenan?"
 
-"Tepat. Bayangin kamu lagi asyik *ngoding* di cabang fitur-pinjaman. Belum selesai, belum rapi, belum siap di-*commit*. Tiba-tiba ada *bug* darurat di cabang main. Mbak Yuni teriak dari depan: 'Koperasi Kanigoro error\!' Kamu harus segera pindah ke main buat perbaiki *bug*. Tapi kamu belum mau *commit* kode yang berantakan itu. Gimana?"
+"Tepat. Bayangin kamu lagi asyik *ngoding* di cabang fitur-pinjaman. Belum selesai, belum rapi, belum siap di-*commit*. Tiba-tiba ada *bug* darurat di cabang main. Mbak Yuni teriak dari depan: 'Koperasi Sekar Patria error\!' Kamu harus segera pindah ke main buat perbaiki *bug*. Tapi kamu belum mau *commit* kode yang berantakan itu. Gimana?"
 
 Binto menggaruk kepala. "Ya... *commit* aja paksa?"
 
@@ -280,15 +280,15 @@ Binto menghela napas lega. "Ternyata nggak serem-serem amat."
 
 "Kuncinya: jangan panik. Konflik itu biasa. Justru pertanda kalau kamu kerja bareng tim. Lebih baik konflik diketahui Git daripada kamu timpa kerjaan temanmu tanpa sadar."
 
-## **2.7 Pesan Sebelum Maghrib**
+## **2.7 Pesan Sebelum Ashar**
 
-Azan Maghrib mulai terdengar dari kejauhan. Mas Alin meregangkan tubuhnya, lalu mematikan monitor.
+Azan Ashar mulai terdengar dari kejauhan, menandakan pukul empat sore telah tiba. Itu adzan masjid di desa, yang meski waktu ashar biasanya jam 3 an, namun di desa disini umumnya dikumandangkan jam 4 sore. Menunggu para petani pulang dari sawah mereka. Demikian pula jam kerja di kantor GTN. Rupanya disamakan dengan jam kerja kebanyakan kantor di daerah : jam 4 sore.  Mas Alin menggeliat meregangkan tubuhnya, lalu mematikan monitor.
 
 "Untuk hari pertama, itu dulu, *Le*. Kamu sudah belajar *init*, *status*, *add*, *commit*, *branch*, *checkout*, *stash*, *merge*, dan *konflik*. Itu bekal utama."
 
 Binto mengangguk. Kepalanya penuh dengan istilah baru, tapi ada rasa puas yang aneh. Di kampus, ia tidak pernah menyentuh hal-hal ini. Semua serba instan: *download ZIP*, *copy-paste folder*, atau kirim lewat WA.
 
-"Besok," lanjut Mas Alin sambil meraih kunci motor, "kita akan lihat kode asli punya Koperasi Kanigoro. Kamu akan *clone* dari *cloud* ke laptopmu. Nanti kamu lihat sendiri, berapa banyak cabang yang sudah dibuat Wawan dan Mbak Rara. Berapa banyak *commit* yang sudah kami tulis. Git itu bukan sekadar *tools*. Git itu budaya. Budaya kolaborasi."
+"Besok," lanjut Mas Alin sambil meraih kunci motor, "kita akan lihat kode asli punya Koperasi Sekar Patria. Kamu akan *clone* dari *cloud* ke laptopmu. Nanti kamu lihat sendiri, berapa banyak branch yang sudah dibuat Wawan sama aku. Berapa banyak *commit* yang sudah kami tulis. Git itu bukan sekadar *tools*. Git itu budaya. Budaya kolaborasi."
 
 Binto bangkit, meraih helm-nya. "Mas, satu pertanyaan lagi."
 
@@ -300,8 +300,36 @@ Mas Alin tertawa kecil. "Iya, memang. Awalnya ribet. Tapi percayalah, *Le*. Begi
 
 Binto tersenyum. "Siap, Mas. *Matur suwun*."
 
+Mas Alin menyalakan Astrea Grand-nya, melambaikan tangan singkat, lalu melesat pergi diiringi suara knalpot yang menderu pelan.
+
+Binto berbalik untuk mengambil jaketnya di dalam. Kantor sudah sepi. Mbak Rara sudah pulang sejak setengah jam lalu. Bu Sari yang tinggal di sebelah kantor juga sudah tidak terlihat. Namun, saat melewati deretan meja, ia melihat Wawan masih duduk termenung di depan komputernya, tampak serius mengetik sesuatu, keningnya berkerut rapat. 
+
+"Belum balik, Wan? Lagi lembur kah?" sapa Binto sambil memakai jaketnya.
+
+Wawan mendongak, terkejut sesaat sebelum tersenyum canggung. Ia buru-buru meminimalkan jendela browser-nya, tapi Binto sempat melihat sekilas logo universitas dan deretan teks berformat makalah.
+
+"Eh, Mas Binto. Enggak kok, ini bukan kerjaan kantor," jawab Wawan sambil menggaruk tengkuknya. "Lagi ngerjain tugas kuliah."
+
+"Kuliah?" Binto mengangkat alis. Setahunya, Wawan lulusan SMK dan sudah bekerja *full-time* di GTN sejak lulus. 
+
+Wawan menghela napas pelan. "Iya, Mas. Aku nyambi ambil kuliah online, jurusan IT. Sudah masuk semester tujuh sekarang."
+
+"Wah, keren dong. Jarang loh orang bisa kerja sambil kuliah"
+
+"Aku ngerasa beruntung banget bisa kerja di sini, Mas. Pakde Suhar sama Mas Alin percaya sama kemampuanku meski ijazahku cuma SMK. Tapi di luar sana... Mas tahu sendirilah gimana orang mandang lulusan SMK. Sering diremehin. Dianggap cuma tukang gambar atau teknisi kabel."
+
+Binto terdiam. Ia tiba-tiba teringat kesombongannya sendiri tadi pagi—merasa superior hanya karena membawa ijazah PTN ternama. Di hadapannya kini, seorang lulusan SMK yang jauh lebih jago bekerja secara diam-diam berjuang mendapatkan ijazah sebuah PTS online yang selama ini Binto anggap "biasa saja". 
+
+"Semangat, Wan. Nggak gampang lho kerja *full-time* sambil kuliah," ucap Binto tulus. "Kalau butuh bantuan soal tugas-tugas teori, algoritma, atau apalah, bilang aja. Aku bantu sebisa mungkin."
+
+Mata Wawan berbinar. "Serius, Mas? Beneran ya? Aku rada pusing nih soal program skripsiku."
+
+"Santai. Anggap aja barter. Ntar kamu ajarin aku *layout*, aku bantu program."
+
+Keduanya tertawa kecil. Binto menepuk bahu Wawan sekilas sebelum melangkah keluar. 
+
 Ia menyalakan motor Beat-nya. Di depan, pohon rambutan bergoyang pelan ditiup angin sore. Buah-buahnya yang masih hijau bergelantungan, sabar menunggu waktunya memerah.
 
-*Besok*, pikir Binto. *Gue akan belajar lagi. Mungkin suatu hari nanti, gue bisa jadi Mas Alin-nya orang lain.*
+*Besok*, pikir Binto. *Gue akan belajar lagi. Bukan cuma belajar coding, tapi belajar menghargai proses orang lain. *
 
-Motornya melaju pelan melewati gang desa, menuju rumah Bapak yang hanya dua puluh menit jauhnya.
+Motor beat-nya melaju pelan melewati gang desa, menuju rumah Bapak yang hanya dua puluh menit jauhnya.

@@ -40,7 +40,7 @@ Cahyo mengernyit. "Disket? Itu yang bentuknya kotak pipih, Mas?"
 
 Binto membayangkan. "Ribet banget, Mas."
 
-"Ribet. Itu pun cuma untuk aplikasi *offline*—kayak program Koperasi Kanigoro yang kita kerjakan. Sampai sekarang, aplikasi yang cuma dipakai di jaringan lokal ya deploy-nya masih mirip-mirip begitu: install fisik, datang ke tempat, setup satu-satu. Gak bisa remote."
+"Ribet. Itu pun cuma untuk aplikasi *offline*—kayak program Koperasi Sekar Patria yang kita kerjakan. Sampai sekarang, aplikasi yang cuma dipakai di jaringan lokal ya deploy-nya masih mirip-mirip begitu: install fisik, datang ke tempat, setup satu-satu. Gak bisa remote."
 
 Mbak Rara menimpali. "Aku pernah baca, dulu perusahaan besar kayak bank, tim IT-nya keliling dari cabang ke cabang cuma buat *update* program. Bisa habis berhari-hari."
 
@@ -160,7 +160,7 @@ Mas Alin melanjutkan. "Tapi ada juga yang lain. GitLab CI/CD kalau repository-ny
 
 "Tapi Mas," Binto bertanya. "Semua proyek harus pakai CI/CD?"
 
-Mas Alin menggeleng. "Gak harus. Ini opsional. Lihat proyek Koperasi Kanigoro. Aplikasinya offline, diinstal di komputer mereka. Buat apa pakai CI/CD? Gak relevan. Proyek Garum sama Sekolah masih pakai cara semi-manual juga gak masalah, karena frekuensi deploy-nya masih jarang."
+Mas Alin menggeleng. "Gak harus. Ini opsional. Lihat proyek Koperasi Sekar Patria. Aplikasinya offline, diinstal di komputer mereka. Buat apa pakai CI/CD? Gak relevan. Proyek Garum sama Sekolah masih pakai cara semi-manual juga gak masalah, karena frekuensi deploy-nya masih jarang."
 
 "Tapi untuk proyek yang sering berubah, butuh rilis cepat, dan diakses banyak orang? CI/CD adalah standar *best practice*."
 

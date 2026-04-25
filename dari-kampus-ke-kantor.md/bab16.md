@@ -10,7 +10,13 @@ Pakde Suhar menepuk bahunya. "Hati-hati, Wan. Jaga nama baik. Meskipun udah jadi
 
 "Mboten, Pakde. Justru saya yang gak akan lupa. Di sini saya belajar banyak."
 
-Wawan diterima sebagai CPNS di bagian IT Pemerintah Kabupaten Kediri. Kabar itu datang dua bulan lalu, dan sejak itu ia menjalani proses pemberkasan sambil tetap menyelesaikan tanggung jawabnya di kantor.
+Wawan diterima sebagai CPNS di bagian IT Pemerintah Kabupaten Kediri. 
+
+Binto masih ingat betul kejadian beberapa bulan lalu, tak lama setelah perayaan tasyakuran skripsi Wawan. Saat itu Wawan datang ke kantor dengan wajah murung. Ketika ditanya Binto, desainer muda itu akhirnya menumpahkan isi hatinya: orang tua dan keluarga besarnya ternyata terus-menerus menekan Wawan untuk mendaftar CPNS. Di mata mereka, sehebat apa pun gaji dan proyek di *startup*, PNS tetap kasta tertinggi. Wawan sempat kesal dan merasa ilmunya akan mandek jika masuk pemerintahan yang kaku.
+
+Namun, nasihat bijak Pakde Suhar hari itu mengubah pandangannya. *"Kerjaan itu yang penting tiga, Wan: halal, mencukupi kebutuhan, dan kita senang jalaninya. Syukur-syukur kalau bisa bantu banyak orang,"* kata Pakde saat itu. *"Kalau kamu akhirnya masuk sana, niatkan buat perbaiki sistem pelayanan publik dari dalam. Bikin aplikasi pemerintah yang beneran jalan, yang nggak nyusahin warga."* 
+
+Misi itulah yang kini Wawan bawa. Ia tidak lagi melihat status CPNS sebagai kekalahan, melainkan sebagai ladang baru untuk mengabdi.
 
 Mas Alin mendekat. "Wawan, kalau ada waktu, mampir aja ke sini. Ngobrol-ngobrol teknologi. Biar tetap *up to date*. Jangan sampai jadi PNS terus ketinggalan zaman."
 
@@ -26,9 +32,9 @@ Satu per satu mereka bersalaman. Mbak Rara menyeka sudut matanya. Mas Andik memb
 
 Setelah Wawan pergi, Binto kembali ke mejanya. Di samping laptop, sebuah tumbler baru berwarna biru tua terpajang. Tumbler ½ M—setengah mateng, begitu istilah para penggunanya. Oleh-oleh dari ayahnya yang baru pulang umroh.
 
-Kondisi ayahnya kini jauh lebih baik. Setahun yang lalu, Binto pulang ke Blitar karena ayahnya sakit-sakitan, jatuh di kamar mandi, tubuhnya renta. Tapi sekarang, setelah rutin kontrol dan perubahan gaya hidup, beliau bisa berangkat umroh bersama ibu. Binto ingat betul saat mencium tangan ayahnya di bandara, air mata hangat mengalir tanpa bisa ditahan.
+Kondisi ayahnya kini jauh lebih baik. Setahun yang lalu, Binto pulang ke Blitar karena ayahnya sakit-sakitan, jatuh di kamar mandi, tubuhnya renta. Bahkan ayahnya sempat menyuruhnya kembali merantau karena merasa di Blitar ekosistem IT-nya terlalu kecil. Tapi sekarang, segalanya telah berubah. Setelah rutin kontrol dan perubahan gaya hidup, beliau bisa berangkat umroh bersama ibu, dan dengan bangga menceritakan pekerjaan Binto kepada tetangga. Binto ingat betul saat mencium tangan ayahnya di bandara, air mata hangat mengalir tanpa bisa ditahan.
 
-"Alhamdulillah," bisiknya setiap kali melihat tumbler itu.
+"Alhamdulillah," bisiknya setiap kali melihat tumbler itu. Tumbler itu bukan sekadar tempat minum. Tulisan ½ M itu selalu mengingatkannya bahwa sampai kapan pun, sebagai seorang *engineer*, ia akan selalu "setengah matang"—selalu ada ruang untuk belajar, ego yang harus diruntuhkan, dan teknologi baru yang menanti untuk dipahami.
 
 Ia menuang air hangat ke dalamnya. Uap tipis mengepul. Di luar, bunga-bunga rambutan mulai bermekaran. Putih, kecil-kecil, bergerombol di ujung ranting. Pertanda musim baru akan segera tiba.
 
@@ -120,7 +126,7 @@ Mungkin suatu hari nanti.
 
 Sore turun perlahan. Langit Blitar kembali jingga. Binto duduk di meja kerjanya, menatap tumbler ½ M di samping laptop. Ayahnya sehat. Ibunya bahagia. Ia bekerja di tempat yang memberinya ruang untuk tumbuh.
 
-Di seberang meja, Aini sedang membaca dokumentasi proyek Koperasi Kanigoro. Wajahnya serius, sesekali mengernyit. Binto ingat betul ekspresi itu. Ekspresi dirinya sendiri setahun lalu.
+Di seberang meja, Aini sedang membaca dokumentasi proyek Koperasi Sekar Patria. Wajahnya serius, sesekali mengernyit. Binto ingat betul ekspresi itu. Ekspresi dirinya sendiri setahun lalu.
 
 Ia bangkit, berjalan ke arah Aini. "Gimana, Mbak? Ada yang bisa saya bantu?"
 

@@ -4,9 +4,9 @@
 
 Sore itu, kantor Garda Teknologi Nusantara lumayan lengang. Wawan masih *remote*, Mbak Rara sedang keluar menemani Bu Sari belanja kebutuhan dapur kantor, dan Pakde Suhar ada rapat dengan klien dari Kediri. Hanya Binto dan Mas Alin yang tersisa, ditemani suara kipas angin Ufo dan aroma kopi yang mulai dingin.
 
-Binto baru saja selesai melakukan *deploy* kecil untuk perbaikan *bug* di modul Koperasi Kanigoro. Sambil menunggu proses *deploy* selesai, iseng ia membuka Git dan melihat daftar repositori proyek di organisasi kantor.
+Binto baru saja selesai melakukan *deploy* kecil untuk perbaikan *bug* di modul Koperasi Sekar Patria. Sambil menunggu proses *deploy* selesai, iseng ia membuka Git dan melihat daftar repositori proyek di organisasi kantor.
 
-koperasi-Kanigoro. PHP.
+koperasi-sekar-patria. PHP.
 
 pabrik-garum. PHP.
 
@@ -42,9 +42,9 @@ Pertanyaan itu mengendap di kepalanya sepanjang sore.
 
 ## **5.3 Pertanyaan di Sore Hari**
 
-Menjelang maghrib, Mas Alin keluar ke teras membawa dua cangkir enamel—satu kopi hitam, satu teh hangat. Ia duduk di bangku kayu, memberi isyarat ke Binto untuk ikut.
+Menjelang pukul empat sore, sesaat sebelum jam pulang, Mas Alin keluar ke teras membawa dua cangkir enamel—satu kopi hitam, satu teh hangat. Ia duduk di bangku kayu, memberi isyarat ke Binto untuk ikut.
 
-"Tumben sepi," kata Mas Alin sambil menyesap kopinya. "Enak, ya. Bisa mikir tanpa suara Wawan yang lagi *ngomel* sama klien."
+"Tumben sepi," kata Mas Alin sambil menyesap kopinya. "Enak, ya. Bisa mikir tanpa suara Wawan yang lagi *ngomel* sama request klien."
 
 Binto tersenyum tipis. Ia menerima cangkir tehnya, menyesap pelan. Pikirannya masih pada daftar repo tadi.
 
@@ -82,6 +82,25 @@ Mas Alin menoleh ke Binto. "Itu pertama kalinya saya sadar, *Le*. Memilih teknol
 
 Binto manggut-manggut pelan.
 
+"Klien kita itu rata-rata orang biasa, To. Kayak temennya Pakde Suhar." Mas Alin menerawang, senyumnya sedikit memudar. "Kamu tahu kenapa kantor ini namanya Garda Teknologi Nusantara?"
+
+Binto menggeleng.
+
+Mas Alin menyesap kopinya lagi. "Dulu, sebelum bikin GTN, Pakde itu punya warnet namanya GardaNet. Lumayan ramai. Terus dia dapat pesanan bikin web toko. Karena nggak bisa *coding*, dia serahin uang DP-nya ke teman programmernya. Eh, uangnya dibawa kabur. Klien marah, Pakde terpaksa jual semua PC warnetnya buat ganti rugi. Hancur lebur."
+
+Binto membelalak. "Serius, Mas? Pantesan Pakde nggak pernah mau pegang urusan teknis."
+
+"Iya. Pakde trauma. Sama kayak saya waktu itu." Mas Alin tertawa sumbang. "Saya dulu CTO *startup* di Surabaya. Keren, valuasinya miliaran. Tapi investor baru yang masuk korup. Maksa saya bikin pivot bisnis yang gak fair buat *user*, kerja paksa anak buah tanpa bayaran lembur, terus puncaknya mereka kabur bawa uang perusahaan dan matiin server semalaman. Saya stres berat, pulang ke Blitar ngikut istri."
+
+Mas Alin memutar cangkir enamel di tangannya perlahan. Cangkir dengan gambar karakter wayang itu ternyata adalah *merchandise* sisa dari *startup*-nya yang gagal. "Kami berdua sama-sama orang yang dikalahkan oleh sisi gelap industri IT. Kami ketemu nggak sengaja di Musholla Terminal Bungurasih sehabis sholat. Obrolan dari hati ke hati, sampai akhirnya Pakde beraniin diri pinjam uang koperasi buat buka kantor ini, dan ngajak saya."
+
+Ia menoleh ke arah Binto. "Kantor ini dibikin bukan buat bersaing bikin aplikasi super canggih sekelas Silicon Valley. Kantor ini dibikin buat nampung *programmer* yang pengen kerja tenang di daerah, dan buat bantu orang-orang biasa di sekitar kita. Buat Koperasi Sekar Patria biar nggak salah hitung utang. Teknologi buat mereka itu bukan soal Rust atau Go yang bisa proses jutaan data per detik. Teknologi buat mereka itu cuma satu: programnya jalan, gampang dipakai, dan yang paling penting... *nggak nipu*."
+
+Karena program terbaik itu bukan program yang mahal, dapat investor milyaran, bukan bukan itu.
+tapi software yang dipakai dan bermanfaat.
+
+Binto terdiam. Kata-kata terakhir itu terasa sangat berat dan dalam. Tiba-tiba, PHP yang dianggapnya kuno itu terasa jauh lebih mulia daripada sekadar angka-angka di *benchmark* kecepatan.
+
 ## **5.5 Kecepatan yang Mana?**
 
 "Terus soal kecepatan," Mas Alin melanjutkan. "Kamu bilang PHP lambat?"
@@ -92,7 +111,7 @@ Binto manggut-manggut pelan.
 
 Mas Alin menunjuk ke arah kantor—ke papan *sticky notes* yang menempel di dekat dispenser.
 
-"Koperasi Kanigoro. Anggotanya cuma 100-an orang. Aplikasinya dipakai paling ramai seminggu sekali pas pencatatan simpanan."
+"Koperasi Sekar Patria. Anggotanya cuma 100-an orang. Aplikasinya dipakai paling ramai seminggu sekali pas pencatatan simpanan."
 
 "Pabrik Garum. Admin yang pakai cuma 5 orang. Itu pun cuma buka aplikasi pagi hari buat input stok, siang lihat laporan."
 
@@ -138,7 +157,7 @@ Binto teringat pengalamannya sendiri saat mencoba *framework* JavaScript modern 
 
 Binto masih penasaran. "Terus, Mas. Saya juga sering baca soal *microservices*. Katanya lebih *scalable*, lebih modern. Kenapa kita gak pakai arsitektur itu?"
 
-Mas Alin tertawa kecil. "*Microservices* buat Koperasi Kanigoro?"
+Mas Alin tertawa kecil. "*Microservices* buat Koperasi Sekar Patria?"
 
 Ia menggeleng. "Koperasi cuma punya 100 anggota, *Le*. Mau di-*scale* sampai mana? Mau dipisah jadi berapa *service*? Nanti kita lebih sibuk urus jaringan antar-*service* daripada urus fitur buat klien."
 
@@ -210,7 +229,7 @@ Mas Alin mengangguk. "Pertanyaan bagus. Migrasi itu bukan dosa, *Le*. Asal dilak
 
 Ia menghitung dengan jari. "Pertama, lihat sumber daya. Apa kita punya orang yang bisa Go? Kalau gak ada, ya harus hire. Atau belajar dulu. Itu butuh waktu dan biaya."
 
-"Kedua, lihat timeline. Migrasi itu gak instan. Proyek Koperasi Kanigoro mungkin bisa selesai 2 minggu kalau pakai PHP. Kalau sambil belajar Go? Bisa 2 bulan. Klien mau nunggu segitu?"
+"Kedua, lihat timeline. Migrasi itu gak instan. Proyek Koperasi Sekar Patria mungkin bisa selesai 2 minggu kalau pakai PHP. Kalau sambil belajar Go? Bisa 2 bulan. Klien mau nunggu segitu?"
 
 "Ketiga, dan ini yang paling penting," Mas Alin menunjuk ke dalam kantor. "Manusia. Kode itu dipelihara oleh manusia. Bukan cuma kita yang sekarang. Tapi juga orang yang akan menggantikan kita kelak."
 
@@ -236,7 +255,7 @@ Binto mengangguk. Pelajaran ini tidak pernah ia dapat di kampus.
 
 ## **5.13 Penutup: Peluru Sakti**
 
-Sore semakin turun. Warna jingga mulai merayap di langit Blitar. Suara adzan maghrib sebentar lagi akan berkumandang.
+Sore mulai teduh. Matahari semakin condong ke barat. Suara adzan ashar ala pedesaan sebentar lagi akan berkumandang, menandakan pukul empat sore telah tiba.
 
 "Ada istilah di dunia *software engineering*," kata Mas Alin sambil menyesap sisa kopinya yang sudah dingin. "No Silver Bullet."
 
@@ -262,11 +281,11 @@ Mas Alin bangkit, meregangkan tubuh.
 
 Binto mengangguk. "Saya paham sekarang, Mas."
 
-Suara adzan mulai terdengar sayup dari musholla desa.
+Suara adzan mulai terdengar sayup dari masjid desa. Jam 4 sore, waktunya mereka hendak pulang.
 
 "*Nggih*, sudah. Ayo sholat dulu. Nanti kalau sudah dapat proyek yang memang butuh kecepatan tinggi, kita bisa *explore* Go atau Rust. Atau kalau dapat proyek maintenance COBOL, ya kita pelajari COBOL. Tapi untuk sekarang, PHP sudah cukup. Jangan sampai kita tinggal di gang sempit tapi malah mau beli Alphard yang gak muat."
 
-Binto tersenyum. Ia bangkit, mengikuti Mas Alin ke musholla.
+Binto tersenyum. Ia bangkit, mengikuti Mas Alin ke masjid.
 
 Di kepalanya, istilah "No Silver Bullet" terngiang-ngiang. Juga bayangan lowongan COBOL dengan gaji selangit. Pelajaran sore ini lebih berharga dari sekadar sintaks atau *framework*. Ini tentang cara berpikir. Cara memilih. Dan cara menghargai bahwa setiap teknologi punya tempatnya.
 

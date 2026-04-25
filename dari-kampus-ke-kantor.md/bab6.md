@@ -300,13 +300,13 @@ Binto tersipu. Pujian dari Mbak Rara terasa seperti validasi bahwa ia berada di 
 
 ## **6.10 Refleksi: Kode untuk Manusia**
 
-Sore menjelang maghrib. Binto dan Mas Alin kembali duduk di teras. Pohon rambutan di depan kini berwarna merah merona di banyak bagian. Beberapa hari lagi panen.
+Sore menjelang adzan ashar di masjid desa. Jam empat kurang sedikit, Binto dan Mas Alin kembali duduk di teras. Pohon rambutan di depan kini berwarna merah merona di banyak bagian. Beberapa hari lagi panen.
 
 "Gimana rasanya?" tanya Mas Alin sambil menyesap kopi dari cangkir enamelnya.
 
 Binto merenung sejenak. "Awalnya males, Mas. Masa cuma program kecil harus dipisah-pisah segala. Tapi setelah jadi... enak lihatnya. Rapi."
 
-"Itulah bedanya *programmer* sama *engineer*," Mas Alin meletakkan cangkirnya. "*Programmer* bikin kode biar mesin ngerti. *Engineer* bikin kode biar manusia juga ngerti. Termasuk dirimu sendiri dua bulan lagi."
+"Itulah bedanya *programmer* biasa sama level software *engineer*," Mas Alin meletakkan cangkirnya. "*Programmer* bikin kode biar mesin ngerti. Software *engineer* bikin kode biar manusia juga ngerti. Termasuk dirimu sendiri dua bulan lagi."
 
 Binto mengangguk. Ia teringat bagaimana pagi tadi ia sendiri kesulitan membaca kodenya yang baru berumur satu hari.
 
@@ -318,7 +318,7 @@ Binto tersenyum mendengar analogi itu.
 
 Binto terdiam. Ia tidak pernah berpikir sejauh itu. Selama ini ia hanya berpikir tentang membuat kode yang "jalan". Bukan kode yang "hidup" dan dirawat oleh orang lain.
 
-Di langit Blitar, warna jingga mulai merayap. Suara adzan maghrib terdengar sayup dari musholla desa. Binto menatap pohon rambutan yang buahnya siap panen.
+Cahaya matahari sore mulai melembut. Suara adzan ashar terdengar sayup dari masjid desa, menandakan pukul empat sore telah tiba. Binto menatap pohon rambutan yang buahnya siap panen.
 
 *Kayak kode gue*, pikirnya. *Butuh waktu buat matang. Tapi begitu matang, hasilnya manis.*
 

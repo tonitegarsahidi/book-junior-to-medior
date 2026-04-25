@@ -160,7 +160,7 @@ Semua menoleh.
 
 "Kita perlu?" tanya Binto.
 
-Pakde menggeleng. "Untuk proyek kecil kayak Koperasi Kanigoro atau Pabrik Garum, gak perlu. Klien kita gak minta. Tapi kalau suatu saat kita garap proyek perbankan atau pemerintah, bisa jadi syarat wajib."
+Pakde menggeleng. "Untuk proyek kecil kayak Koperasi Sekar Patria atau Pabrik Garum, gak perlu. Klien kita gak minta. Tapi kalau suatu saat kita garap proyek perbankan atau pemerintah, bisa jadi syarat wajib."
 
 Mas Alin menimpali. "Jadi kalian gak perlu hafal isi ISO-nya. Cukup tahu bahwa standar seperti itu ada. Dan prinsip-prinsip dasarnya—seperti CIA Triad—adalah fondasi yang sama."
 

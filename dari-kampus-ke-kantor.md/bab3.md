@@ -26,11 +26,11 @@ Lamunan Binto buyar ketika suara motor Mas Alin terdengar di halaman. Tidak lama
 
 "Pagi, *Le*. Tumben pagi banget," sapa Mas Alin sambil menggantung jaketnya di sandaran kursi.
 
-"Belum bisa tidur, Mas. Kepikiran soal kode Koperasi Kanigoro."
+"Belum bisa tidur, Mas. Kepikiran soal kode Koperasi Sekar Patria."
 
 Mas Alin terkekeh. "Bagus. Itu tanda kamu mulai jatuh cinta sama pekerjaan. Atau mulai stress. Pilih aja."
 
-Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menoleh ke Binto. "Ngomong-ngomong soal Koperasi Kanigoro, kamu sudah lihat *source code*\-nya?"
+Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menoleh ke Binto. "Ngomong-ngomong soal Koperasi Sekar Patria, kamu sudah lihat *source code*\-nya?"
 
 "Sudah, Mas. Tadi malam saya *clone* dari Git. Lumayan rapi."
 
@@ -38,13 +38,13 @@ Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menoleh ke Binto. "Ngom
 
 Binto mengerutkan dahi. "Lho? Kirain di sini semua proyek pakai Agile, Mas. Kemarin Mas Alin cerita soal *Sprint* dan *Scrum*."
 
-"*Nggih*, sebagian besar iya. Tapi Koperasi Kanigoro itu pengecualian." Mas Alin duduk, meraih cangkir enamel animenya yang—entah kenapa—selalu terisi kopi panas setiap pagi. "Kamu tahu kenapa?"
+"*Iya*, sebagian besar iya. Tapi Koperasi Sekar Patria itu pengecualian." Mas Alin duduk, meraih cangkir enamel animenya yang—entah kenapa—selalu terisi kopi panas setiap pagi. "Kamu tahu kenapa?"
 
 Binto menggeleng.
 
 "Karena semua sudah jelas sejak awal."
 
-Mas Alin menjelaskan. Proyek aplikasi simpan pinjam untuk Koperasi Kanigoro itu datang dari Pak Lurah yang juga ketua koperasi. Kebutuhannya sudah sangat spesifik: ada aturan baku dari Dinas Koperasi tentang bagaimana pencatatan keuangan harus dilakukan, ada formulir-formulir standar, ada laporan bulanan yang formatnya tidak boleh diubah-ubah.
+Mas Alin menjelaskan. Proyek aplikasi simpan pinjam untuk Koperasi Sekar Patria itu datang dari Pak Lurah yang juga ketua koperasi. Kebutuhannya sudah sangat spesifik: ada aturan baku dari Dinas Koperasi tentang bagaimana pencatatan keuangan harus dilakukan, ada formulir-formulir standar, ada laporan bulanan yang formatnya tidak boleh diubah-ubah.
 
 "Jadi kami tinggal eksekusi. Gak ada ruang buat 'tiba-tiba minta fitur baru' atau 'ganti alur bisnis di tengah jalan'. Kalau berubah, melanggar aturan dinas. Makanya Waterfall cocok: analisis di depan total, *ngoding*\-nya lurus, *testing* di akhir. Hemat waktu, hemat biaya, semua pihak puas."
 
@@ -80,15 +80,15 @@ Binto masih penasaran. "Mas, tadi Mas Alin bilang proyek Garum pakai Scrum. Tapi
 
 Mas Alin meneguk kopinya, lalu mengarahkan pandangan ke arah pintu depan. "Nah, itu datang orang yang paling tepat buat jelasin."
 
-Seorang pria berusia sekitar lima puluhan melangkah masuk. Rambutnya mulai memutih, tapi posturnya masih tegap. Ia memakai kemeja batik lengan panjang dan membawa map cokelat tebal. Ini Pakde Suhar, pemilik Garda Teknologi Nusantara, yang tadi pagi baru saja dari pertemuan dengan pengurus koperasi.
+Seorang pria berusia lima puluhan melangkah masuk. Rambutnya mulai memutih, tapi posturnya masih tegap. Wajahnya teduh ramah bersahabat. Ia memakai kaos berkerah, sebuah smart watch melingkar di tangan kanannya yang sedang memegang seikat map coklat. Ini Pakde Suhar, pemilik Garda Teknologi Nusantara.
 
-"*Monggo*, Pakde," sapa Mas Alin. "Ini lho, Binto lagi belajar Scrum. Mungkin Pakde bisa bantu jelasin."
+"*Monggo*, Pakde," sapa Mas Alin membuyarkan lamunan Binto. "Ini lho, Binto lagi belajar Scrum. Mungkin Pakde bisa bantu jelasin."
 
 Pakde Suhar tersenyum lebar. Ia meletakkan map-nya, lalu duduk di kursi dekat Binto. "Scrum itu simpel, *Le*. Cuma ada tiga peran utama. Pertama, Product Owner. Itu saya."
 
 Binto mengernyit. "Product Owner?"
 
-"Iya. Tugas saya cuma satu: mewakili suara klien. Saya yang ngobrol sama Pak Har dari Garum, atau Pak Lurah dari Kanigoro. Saya yang ngumpulin *requirement*, bikin daftar keinginan, dan tentuin mana yang paling penting. Nanti daftar itu jadi Product Backlog." Ia menunjuk kolom paling kiri di papan dekat dispenser. "Itu lho, gudang ide."
+"Iya. Tugas saya cuma satu: mewakili suara klien. Saya yang ngobrol sama Pak Har dari Garum, atau pimpinannya Koperasi Sekar Patria. Saya yang ngumpulin *requirement*, bikin daftar keinginan, dan tentuin mana yang paling penting. Nanti daftar itu jadi Product Backlog." Ia menunjuk kolom paling kiri di papan dekat dispenser. "Itu lho, gudang ide."
 
 Pakde Suhar melanjutkan. "Saya gak ngoding, saya gak tes. Tapi saya yang tentuin: fitur A dulu, fitur B nanti. Biar hasilnya sesuai yang diinginkan klien, dan gak buang-buang tenaga *programmer*."
 
@@ -166,7 +166,7 @@ Mas Alin. *Sticky note* bebek. "Kemarin *debugging* modul *inventory*, udah *dep
 
 Tawa kecil.
 
-Pakde Suhar. "Saya kemarin follow up *invoice* Pabrik Garum, udah dibayar. Hari ini mau kirim *invoice* Koperasi Kanigoro. Hambatan: Pak Lurah susah dihubungi. Tapi *InsyaAllah* besok ketemu."
+Pakde Suhar. "Saya kemarin follow up *invoice* Pabrik Garum, udah dibayar. Hari ini mau kirim *invoice* Koperasi Sekar Patria. Hambatan: Pak Lurah susah dihubungi. Tapi *InsyaAllah* besok ketemu."
 
 Semua berlangsung cepat. Tidak lebih dari lima belas menit. Setelah Pakde Suhar selesai, Mbak Rara menutup dengan "Oke, lanjutkan. Semangat\!" dan semua kembali ke meja masing-masing.
 
@@ -315,7 +315,7 @@ Binto berpikir sejenak. Lalu ia menulis:
 
 text
 
-\[KUD-000\] Pelajari Codebase Koperasi Kanigoro
+\[KUD-000\] Pelajari Codebase Koperasi Sekar Patria
 
 Mulai: 15 Jan
 

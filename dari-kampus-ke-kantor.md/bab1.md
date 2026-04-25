@@ -14,13 +14,19 @@ Dua tahun terakhir di Jakarta mengajarinya banyak hal. Bukan tentang *coding*—
 
 Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering menatap langit-langit dan bertanya: Apa *ini yang gue mau?*
 
-Lalu telepon dari Ibu datang.
+Lalu telepon dari Om Herman datang.
 
-"Bapakmu masuk rumah sakit lagi, To.."
+"Bapakmu habis masuk rumah sakit lagi, To.."
+Pesan yang membuat Binto kaget. Ia tahu ayahnya pernah didiagnosis diabetes, tapi kali ini beda. Melalui telepon, Om Herman bercerita kalau ayahnya ternyata sudah dua kali masuk rumah sakit dalam sebulan terakhir. 
 
-Binto ingat suara Ibu yang bergetar. Bapak, yang dulu gagah menggendongnya ke sawah, sekarang sudah renta. Tulangnya mulai rapuh. Matanya mulai kabur. Dan Binto, anak satu-satunya, malah sibuk input Excel di kota orang.
+Andai bukan Om Herman yang telepon, tentulah Binto tak akan tahu ayahnya sakit. Beliau adalah tipikal ayah yang pendiam, tidak suka mengeluh sakit, dan punya gengsi tinggi untuk tidak "ngrepoti" anaknya. Ibu tentu sudah diwanti-wanti untuk tidak memberi tahu. 
 
-Dua minggu setelah telepon itu, Binto mengajukan resign.
+Saat Binto menelepon dan bilang ingin pulang, 
+Bapaknya justru melarang. 
+
+"Eman ilmu, To. Di Blitar ini gak ada perusahaan besar, apalagi buat sarjana IT kayak kamu," kata Bapak waktu itu. Dorongannya agar Binto tetap merantau bukanlah karena tidak sayang, melainkan karena tidak ingin anaknya menyia-nyiakan gelar sarjananya.
+
+Tapi Binto sudah membuat keputusan. Ia tak mau mengulang penyesalan. Dua minggu setelah telepon itu, Binto mengajukan resign.
 
 "Saya mau pulang, Pak. Dekat orang tua."
 
@@ -67,7 +73,7 @@ Namun, anehnya, tempat ini rapi. Sangat rapi. Kabel-kabel LAN tertata di sepanja
 
 Kecuali satu meja.
 
-Di pojok barat, dekat jendela, ada sebuah meja yang tampak seperti zona bencana. Tiga monitor menyala sekaligus, masing-masing menampilkan *terminal* hitam dengan teks-teks hijau dan biru yang bergulir cepat. Dua *laptop* tua bertumpuk. Papan sirkuit, kabel USB, dan *dongle* WiFi berserakan. Sebuah mug dengan gambar anime—entah sudah berapa hari tidak dicuci. Dan di tengah kekacauan itu, duduk seorang pria berkaos oblong hitam dan celana panjang, sandal jepit menggantung di ujung kaki, matanya fokus ke layar.
+Di pojok barat, dekat jendela, ada sebuah meja yang tampak seperti zona bencana. Dua monitor menyala sekaligus, masing-masing menampilkan *terminal* hitam dengan teks-teks hijau dan biru yang bergulir cepat. Dua *laptop* tua bertumpuk bersama kertas-kertas berisi coretan. Papan sirkuit, kabel USB, dan *dongle* WiFi berserakan. Sebuah cangkir enamel bermotif wayang—merchandise dari entah perusahaan mana yang rasanya sudah berhari-hari tidak dicuci. Dan di tengah kekacauan itu, duduk seorang pria berkaos oblong butut dan celana panjang, sandal jepit menggantung di ujung kaki, matanya fokus ke layar.
 
 Pria itu tidak menoleh.
 
@@ -85,9 +91,9 @@ Bu Sari menepuk bahu Binto pelan. "Mas Alin itu *jagoannya* di sini. Sudah tujuh
 
 "Sebentar lagi datang. Wawan biasanya agak siangan, tapi *on time* kok *deadline*\-nya. Mbak Rara mungkin masih nyetok gorengan dulu di pasar. Pakde Suhar, bos kita, datangnya siang, habis jemput anaknya pulang sekolah."
 
-Bu Sari terkekeh. "Kita ini kecil, Mas. Cuma sepuluh orang. Tapi klien kami banyak. Pabrik di Garum, koperasi di Kanigoro, minimarket swalayan di Kediri, sekolah swasta di Malang... sampai yang di Kalimantan itu."
+Bu Sari terkekeh. "Kita ini kecil, Mas. Cuma sepuluh orang. Tapi klien kami banyak. Pabrik di Garum, koperasi Sekar Patria, minimarket swalayan di Kediri, sekolah swasta di Malang... sampai yang di Kalimantan itu."
 
-Binto mengangguk. Pikirannya mulai berkelana. *Pabrik pakan ternak? Koperasi?* Di Jakarta, teman-temannya sesama lulusan PTN top bekerja di bank digital, *unicorn*, atau paling tidak *startup* yang dapat pendanaan seri A. Proyek mereka mungkin keren-keren: AI, *blockchain*, aplikasi *mobile* dengan jutaan *user*.
+Binto mengangguk. Pikirannya mulai berkelana. *Pabrik pakan ternak? Koperasi?* Di Jakarta, teman-temannya sesama lulusan PTN top bekerja di perusahaan multinasional, bank digital, *unicorn*, atau paling tidak *startup* yang dapat pendanaan seri A. Proyek mereka mungkin keren-keren: AI, *blockchain*, aplikasi *mobile* dengan jutaan *user*.
 
 Sementara dia... akan membuat aplikasi untuk koperasi simpan pinjam?
 
@@ -99,13 +105,13 @@ Untuk sekarang.
 
 ## **1.3 Sambutan "Wow" yang Menyesatkan**
 
-Pukul sembilan, anggota tim lainnya mulai berdatangan.
+Pukul delapan, anggota tim lainnya mulai berdatangan.
 
-Pertama datang Wawan. Usianya paling muda, mungkin baru 20 tahun. Lulusan SMK jurusan Multimedia, tapi dia malah lebih senang di IT. Rambutnya *undercut*, pakai kemeja flanel merah, bawa *tumbler* besar dan tas selempang berisi laptop. Dia menyapa Binto dengan ramah, lalu langsung duduk di depan iMac-nya dan membuka Figma.
+Pertama datang Wawan. Usianya paling muda, Mungkin sektiar seumuran Binto. Awalnya dulu ia magang PKL di sini dari SMK jurusan Multimedia, dan berlanjut kerja purnawaktu. Rambutnya *undercut*, pakai kemeja flanel merah, bawa *tumbler* jumbo dan tas selempang berisi laptop. Dia menyapa Binto dengan ramah, lalu langsung duduk di depan iMac-nya dan membuka Figma.
 
 "Wawan ini jagonya UI/UX," bisik Bu Sari. "Lulusan SMK, tapi karyanya sering dipuji klien-klien besar. Anaknya kreatif."
 
-Berikutnya Mbak Rara. Wanita bertubuh mungil dengan kacamata tebal dan tote bag besar yang penuh gorengan. Bau tahu isi dan tempe mendoan langsung memenuhi ruangan.
+Berikutnya Mbak Rara. Wanita 29 tahun bertubuh mungil dengan kacamata tebal dan tote bag besar yang penuh gorengan. Bau tahu isi dan tempe mendoan langsung memenuhi ruangan.
 
 "Ini *sarapan* apa *pabrik minyak*, Mbak?" celetuk Wawan nakal.
 
@@ -123,7 +129,7 @@ Mbak Rara menghentikan kunyahannya. Wawan menoleh dari layarnya. Bahkan Mas Alin
 
 Bu Sari tertawa kecil. "Nah, ini dia. Semua pada kaget. Saya juga kaget waktu lihat CV-nya."
 
-Binto merasakan pipinya sedikit memanas. Ini reaksi yang sudah ia duga. Campuran antara kagum dan tidak percaya. Seolah-olah ada cap tak kasat mata di dahinya: *"Anak PTN Top—kok mau di tempat begini?"*
+Binto merasakan pipinya sedikit memanas. Ini reaksi yang sudah ia duga. Campuran antara kagum dan tidak percaya. Seolah-olah ada cap tak kasat mata di dahinya: *"Anak PTN Top—kok mau di tempat begini? Di kota kecil pula."*
 
 "Gue... *saya* cuma mau dekat orang tua," jawabnya, mencoba rendah hati. Tapi di dalam hatinya, ada setitik kepuasan. *Ya, gue emang lulusan sana. Gue mungkin salah satu yang terpandai di ruangan ini.*
 
@@ -233,7 +239,7 @@ Binto menelan ludah. Kepalanya yang tadi tegak, sekarang terasa berat. Sangat be
 
 "Bagus. Karena mulai besok, kamu akan belajar hal-hal yang tidak pernah disinggung di kampusmu. *Git*. *Deployment*. *Agile*. *Testing*. *Logging*. *Security*. Semua."
 
-Mas Alin meraih cangkir enamel animenya, menyesap kopi yang pasti sudah dingin, lalu menatap Binto dengan mata yang tiba-tiba berbinar.
+Mas Alin meraih cangkir enamel wayangnya, menyesap kopi yang pasti sudah dingin, lalu menatap Binto dengan mata yang tiba-tiba berbinar.
 
 "Saya sudah lama di dunia ini, *Le*. Saya lihat banyak anak muda pinter tapi mentalnya *copy-paste*. Saya tidak mau kamu begitu. Saya mau kamu jadi *engineer* beneran. Yang ngerti sistem dari hulu ke hilir. Yang bisa bikin aplikasi yang gak cuma jalan di laptop sendiri, tapi bisa dipakai orang banyak, aman, dan gak bikin server *down* tiap malam Jumat."
 
