@@ -326,6 +326,12 @@ Mata Wawan berbinar. "Serius, Mas? Beneran ya? Aku rada pusing nih soal program 
 
 "Santai. Anggap aja barter. Ntar kamu ajarin aku *layout*, aku bantu program."
 
+Wawan tersenyum lebar, lalu membalik layarnya ke arah Binto. Di layar iMac-nya, Figma terbuka dengan puluhan *artboard* berjejer rapi. Binto sempat terpana melihat betapa banyaknya.
+
+"Ini proyek Pabrik Garum, Mas. Dua puluh *screen*. Setiap *screen* harus konsisten—warnanya, *spacing*-nya, *icon*-nya, ukuran fontnya. Kalau satu aja beda sendiri, klien langsung ngeluh: *'Kok ini beda ya?'* Ribet juga lho ternyata bikin yang kelihatan 'simpel'."
+
+Binto menatap layar itu. *Dua puluh screen. Konsisten semua. Dan orang bilang desainer cuma "tukang gambar"?*
+
 Keduanya tertawa kecil. Binto menepuk bahu Wawan sekilas sebelum melangkah keluar. 
 
 Ia menyalakan motor Beat-nya. Di depan, pohon rambutan bergoyang pelan ditiup angin sore. Buah-buahnya yang masih hijau bergelantungan, sabar menunggu waktunya memerah.

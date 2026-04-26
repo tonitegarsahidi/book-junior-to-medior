@@ -59,9 +59,13 @@ Dia mematikan mesin motor. Sunyi. Hanya suara burung gereja dan sayup-sayup suar
 
 "Mas Binto?"
 
-Seorang perempuan berkerudung cokelat muncul dari balik pintu kayu. Wajahnya ramah, usianya mungkin akhir 30-an. Tangannya membawa map plastik biru.
+Seorang perempuan berkerudung cokelat muncul dari balik pintu kayu. Wajahnya ramah, usianya mungkin akhir empat puluhan. Tangannya membawa map plastik biru. Dari dalam, samar-samar terdengar suara telepon yang baru saja ditutup.
 
-"Saya Sari, HRD. *Monggo*, masuk."
+"Maaf ya, Mas. Tadi saya lagi telepon klien dari Kalimantan," katanya sambil meletakkan gagang telepon. "Servernya mereka agak rewel tadi malam. Saya bilang ke Pak Hajinya, '*Sabar nggih, Pak. Mas Alin sedang menangani. InsyaAllah hari ini beres.*' Alhamdulillah orangnya pengertian."
+
+Binto menangkap nada suaranya—ramah, sabar, tapi meyakinkan. Cara bicara yang tidak ia pelajari di kampus mana pun.
+
+"Saya Sari. *Monggo*, masuk."
 
 Binto melepas helm, merapikan kemejanya—kemeja putih lengan panjang, satu-satunya kemeja formal yang ia bawa dari Jakarta—lalu melangkah masuk.
 

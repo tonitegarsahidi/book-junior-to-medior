@@ -32,7 +32,9 @@ Cahyo terlonjak. Tangannya menjauh dari keyboard. "Lho, kenapa, Mas? Kan cuma ge
 
 Binto menarik napas. Ia tahu harus mencegah Cahyo. Tapi saat Cahyo menatapnya dengan mata penuh tanda tanya, Binto sadar: ia sendiri tidak benar-benar paham *kenapa* harus dicegah.
 
-*Gue tahu harus lewat staging dulu. Tapi kenapa? Apa bedanya?*
+*Gue tahu harus lewat staging dulu. Tapi kenapa? Apa bedanya? Selama ini gue cuma ngikutin apa kata Mas Alin tanpa benar-benar paham alasannya. Dan sekarang, ada orang yang nanya, dan gue gak bisa jawab.*
+
+Rasa malu itu familiar. Persis seperti hari pertamanya di kantor ini, ketika Mas Alin bertanya soal Git dan ia hanya bisa diam. Bedanya, kali ini ia bukan junior. Ia mentor. Dan mentor yang tidak bisa menjelaskan alasannya sama saja dengan guru yang cuma menyuruh hafalan.
 
 "Anu, Dik. Harus lewat server *staging* dulu. Nanti kalau Mbak Rara sudah tes dan bilang OK, baru naik ke *production*."
 

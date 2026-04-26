@@ -68,6 +68,8 @@ Pakde tersenyum. "Logo. Pasti. Investor kan lihat *branding*."
 
 Binto hanya mendengarkan. Pikirannya sibuk mencerna. *Gue kira cuma "bikin tombol cetak". Ternyata banyak banget yang harus dipikirin.*
 
+Tapi yang lebih menarik perhatiannya bukan jawaban-jawabannya, melainkan pertanyaan-pertanyaannya. *Pakde gak nanya "mau fitur apa". Mas Alin gak nanya "pakai teknologi apa". Mereka nanya: buat siapa, kapan dipakainya, apa yang mau dicapai, dan seperti apa konteks penggunanya.* Pertanyaan-pertanyaan yang tidak pernah Binto pikirkan ketika mengerjakan tugas kuliah.
+
 Mas Alin seolah membaca pikirannya. "Inilah bedanya bikin fitur buat tugas kuliah sama buat klien beneran, *Le*. Di kampus, dosen cuma nilai 'fungsinya jalan apa enggak'. Di sini, kita harus mikirin siapa yang pakai, buat apa, dan gimana *experience*\-nya."
 
 ## **4.4 Menulis Tiket Sisipan**

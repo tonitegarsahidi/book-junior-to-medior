@@ -16,6 +16,12 @@ Belum sempat mereka berdua menyimpulkan apa-apa, Mas Alin datang dengan cangkir 
 
 Mas Alin melirik dashboard, lalu duduk di kursi sebelah Binto. "Kode gak berubah, tapi bebannya berubah, *Le*."
 
+Belum sempat Mas Alin menjelaskan lebih lanjut, Pakde Suhar muncul dari ruang depan. Wajahnya serius. "Lin, Pak Haji barusan telepon. Katanya sales-nya pada ngeluh, aplikasinya lemot. Loading lama. Ada yang sampai gagal input pesanan karena keburu *timeout*. Pak Haji bilang: '*Kalau kayak gini terus, mending balik pakai WhatsApp aja.*'"
+
+Kalimat terakhir itu menusuk. Binto merasakan beratnya. Ini bukan sekadar grafik yang naik di dashboard. Ini soal kepercayaan klien yang bisa hilang kapan saja.
+
+Mas Alin mengangguk tenang. "Saya paham, Pakde. Kita tangani hari ini."
+
 ## **15.2 Pertanyaan ke Mas Alin**
 
 "Maksudnya beban berubah, Mas?" tanya Binto.
@@ -79,6 +85,10 @@ Mbak Rara menimpali. "Tapi gimana kalau barang di warung belum di-update? Misal 
 "Jadi ada plus minusnya."
 
 "Selalu. Di dunia *scaling*, gak ada solusi tanpa konsekuensi."
+
+Wawan yang lewat membawa gelas kopi mendengar kata "cache" dan nyeletuk. "Di *frontend* juga ada cache lho, Mas. *Browser* nyimpen gambar, CSS, JavaScript biar gak *download* ulang setiap kali buka halaman. Makanya kadang klien bilang: *'Tampilannya belum berubah, Wan!'* padahal aku sudah *update*. Itu *cache browser* yang belum *expire*. Harus suruh mereka *hard refresh* atau *clear cache* dulu."
+
+Mas Alin mengangguk. "*Nah*. Cache itu ada di mana-mana. *Backend*, *frontend*, bahkan di *database*. Prinsipnya sama: simpan salinan biar cepat, tapi harus pintar atur kapan diperbarui."
 
 ## **15.5 Vertical vs Horizontal Scaling**
 

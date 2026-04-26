@@ -4,7 +4,13 @@
 
 Pagi itu, kantor Garda Teknologi Nusantara mendadak riuh.
 
-"Mas Binto\! Mas Alin\!" suara Mbak Rara dari depan terdengar lebih tinggi dari biasanya. "Fitur tambah produk di Kalimantan error\!"
+Pakde Suhar setengah berlari dari ruang depan, telepon genggamnya masih menempel di telinga. "Lin! Binto! Pak Haji telepon! Katanya aplikasinya error, sales-nya gak bisa input produk baru!" Wajahnya yang biasanya kalem kini memerah.
+
+Mas Alin mengangkat tangannya dengan tenang. "Tenang dulu, Pakde. Bilang ke Pak Haji, kita sedang cek. Lima belas menit."
+
+Pakde mengangguk, lalu kembali bicara di telepon dengan nada yang berusaha menenangkan: "*Nggih*, Pak Haji. Sebentar ya. Tim kami sedang menangani..."
+
+Hampir bersamaan, Mbak Rara dari meja kerjanya bersuara. "Mas Binto! Mas Alin! Fitur tambah produk di Kalimantan memang error!"
 
 Binto yang baru saja menyesap teh hangatnya buru-buru menoleh. "Error gimana, Mbak?"
 
@@ -37,6 +43,12 @@ Mas Andik yang kebetulan lewat membawa gelas kopi langsung berhenti. "Disk penuh
 Beberapa menit kemudian, disk kembali lega. Mbak Rara mencoba lagi fitur tambah produk. Kali ini berhasil.
 
 "Alhamdulillah," desahnya.
+
+Pakde Suhar langsung mengambil teleponnya dan menghubungi Pak Haji. Binto bisa mendengar percakapannya dari meja sebelah.
+
+"*Nggih*, Pak Haji. Sudah beres. Tadi ada file yang numpuk di server, sudah kami bersihkan. *InsyaAllah* gak terulang lagi. Maaf ya mengganggu pagi-paginya."
+
+Suara Pak Haji di ujung sana terdengar lega. Pakde menutup telepon dengan senyum. Binto mencatat dalam hati: *menyelesaikan masalah teknis itu setengah pekerjaan. Setengahnya lagi adalah mengomunikasikannya ke klien dengan baik.*
 
 ## **13.3 Kenapa Log Penting?**
 

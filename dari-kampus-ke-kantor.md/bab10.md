@@ -68,6 +68,8 @@ Binto mengangguk paham. "Jadi try itu blok yang 'coba dulu', kalau gagal, lempar
 
 "Persis. Dan kita bisa menangkap berbagai jenis exception dengan berbeda-beda."
 
+Binto terdiam sejenak. Ia teringat presentasi tugas akhirnya di kampus. Waktu demo, aplikasinya sempat menampilkan error mentah—*stack trace* panjang di layar proyektor. Dosen penguji hanya geleng-geleng, lalu lanjut ke pertanyaan berikutnya. Tidak ada konsekuensi nyata. Tapi di sini, kata-kata Mas Andik tadi pagi masih terngiang: *"Bayangin kalau ini sudah dipakai sales di lapangan."* Di kampus, error adalah nilai minus. Di dunia nyata, error adalah kepercayaan yang hilang.
+
 ## **10.4 Failure: Ketika Sistem Benar-Benar Tumbang**
 
 "Tapi," Mas Alin melanjutkan, "ada error yang di luar kendali kita. Database mati total. Koneksi internet putus. Server kehabisan memori. Itu namanya failure—kegagalan sistem yang tidak bisa kita perbaiki langsung dari kode."

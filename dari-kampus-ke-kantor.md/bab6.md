@@ -180,6 +180,8 @@ Binto memperhatikan. "Jadi kalau saya mau ubah logika validasi stok, saya tingga
 
 "Tepat. Dan kalau suatu hari kamu ganti database dari MySQL ke PostgreSQL, kamu cuma perlu ubah di *Repository*. *Service* dan *Controller* tetap aman. Itulah kekuatan pemisahan."
 
+Mas Alin menunjuk folder *views*. "Dan lihat *layout*\\-nya. Ini buatan Wawan. Dia pisah *header*, *sidebar*, dan *footer* di file *layout* utama. Setiap halaman cuma isi kontennya aja, gak perlu tulis ulang *header* di setiap halaman. Kalau Wawan mau ganti logo atau warna *navbar*, cukup edit satu file. Semua halaman ikut berubah. Prinsip yang sama: *Don't Repeat Yourself*. DRY. Berlaku di *backend* maupun *frontend*."
+
 "Lagipula," lanjut Mas Alin. "Kalau validasi kamu taruh di satu tempat yang jelas, lebih susah buat orang 'lupa' ngecek input. Dan di dunia nyata, banyak masalah keamanan justru muncul karena hal-hal kecil yang kelupaan kayak gitu."
 
 ## **6.6 Operasi Plastik Sendiri**

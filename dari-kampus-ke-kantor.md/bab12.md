@@ -20,6 +20,16 @@ Binto memesan es kopi susu. Saat disajikan, ia menyesapnya pelan. *Creamy. Bedan
 
 Cahyo kembali dengan cup gelato stroberi. Matanya berbinar. "Enak, Mas. Lembut banget."
 
+Sementara mereka menikmati pesanan, Binto memperhatikan Pakde Suhar yang sedang mengobrol ringan dengan pemilik kafe—seorang ibu muda berkacamata. Dari potongan percakapan yang terdengar, Pakde sedang bertanya soal operasional kafe.
+
+"Masih pakai nota kertas, Bu? Gak pernah salah hitung?" tanya Pakde sambil menunjuk tumpukan bon di kasir.
+
+"Sering, Pak. Apalagi kalau rame. Kadang lupa catat, kadang salah jumlah," jawab si pemilik.
+
+"Nanti kapan-kapan saya kenalin sama tim saya. Siapa tahu bisa dibantu bikin sistem kasirnya. Yang simpel aja, gak ribet."
+
+Binto tersenyum dalam hati. *Pakde gak pernah berhenti cari peluang. Bahkan di kafe gelato pun, naluri bisnisnya tetap jalan. Dan caranya halus—bukan jualan, tapi menawarkan bantuan.*
+
 ## **12.2 Pertanyaan Cahyo**
 
 Obrolan mengalir santai. Dari soal arisan, cuaca, sampai akhirnya kembali ke soal kerjaan.
@@ -34,7 +44,9 @@ Mas Alin meletakkan cangkir kopinya. "Pertanyaan bagus, Dik. Sebelum jawab, saya
 
 "Dulu," Mas Alin memulai, "sebelum internet merata seperti sekarang, orang *deploy* program itu pakai disket."
 
-Cahyo mengernyit. "Disket? Itu yang bentuknya kotak pipih, Mas?"
+Cahyo mengernyit. "Disket? Itu yang bentuknya kotak pipih, Mas?" Ia berpikir sejenak. "Oh, yang jadi ikon *Save* itu ya?"
+
+Mas Alin tertawa. "Betul. Kamu tiap hari klik ikon itu, tapi gak pernah pegang benda aslinya."
 
 "*Nggih*. Disket. Atau CD. Jadi programmer bikin program di komputernya, lalu disalin ke disket. Terus disket itu dibawa langsung ke komputer klien. Bisa naik motor, naik angkot, atau kalau jauh ya dikirim lewat pos."
 

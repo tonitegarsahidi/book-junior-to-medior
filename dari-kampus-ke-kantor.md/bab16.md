@@ -22,7 +22,13 @@ Mas Alin mendekat. "Wawan, kalau ada waktu, mampir aja ke sini. Ngobrol-ngobrol 
 
 Wawan tertawa. "Siap, Mas. Nanti aku bawain tahu takwa."
 
-Satu per satu mereka bersalaman. Mbak Rara menyeka sudut matanya. Mas Andik memberi pelukan singkat. Binto menggenggam tangan Wawan erat.
+Satu per satu mereka bersalaman. Bu Sari menyodorkan amplop putih kecil. "Ini dari kita semua, Wan. Bukan banyak. Tapi buat ongkos minggu pertama di Kediri. Biar gak kepikiran."
+
+Wawan menerima amplop itu dengan tangan sedikit gemetar. "Bu Sari... gak usah repot-repot."
+
+"Gak repot. Ini iuran sukarela. Semua ikut patungan. Bahkan Cahyo yang sudah lulus PKL ikut transfer."
+
+Mbak Rara menyeka sudut matanya. Mas Andik memberi pelukan singkat. Binto menggenggam tangan Wawan erat.
 
 "Sukses, Wan."
 

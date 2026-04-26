@@ -38,6 +38,8 @@ Sementara PHP? Itu bahasa jadul. Bahasa yang dipelajarinya di semester 6, lalu k
 
 *Kenapa kantor ini masih setia sama PHP?*
 
+Ia membayangkan Raka, teman kuliahnya yang sekarang kerja di *startup* Jakarta. Minggu lalu Raka posting di LinkedIn: *"Just migrated our entire backend to Go. 10x performance improvement!"* Delapan ratus *likes*. Puluhan komentar kagum. Binto sempat meng-*scroll* postingan itu berkali-kali, perutnya terasa aneh. *Apa gue stuck di teknologi yang udah mati? Apa gue salah pilih?*
+
 Pertanyaan itu mengendap di kepalanya sepanjang sore.
 
 ## **5.3 Pertanyaan di Sore Hari**
@@ -168,6 +170,10 @@ Ia menunjuk ke sekeliling. "Tim cuma segini. Klien cuma segitu. Monolith itu cuk
 "Jadi gak semua yang modern itu cocok?"
 
 "Persis. Pilih arsitektur sesuai ukuran masalah. Jangan bawa pedang ke perang pisau. Atau jangan bawa pisau ke perang pedang. Sesuaikan."
+
+Wawan yang sejak tadi menyimak dari dalam—jendela teras terbuka lebar—tiba-tiba nimbrung. "Aku juga gitu, Mas. Di komunitas desain, tiap bulan ada *framework* CSS baru. Tailwind, lalu ada yang bilang Tailwind jelek, mending pakai *vanilla*. *Styled-components*, *CSS Modules*, *Sass*... Aku capek ngikutin. Akhirnya aku pakai yang aku kuasai dan yang klien gak komplain."
+
+Mas Alin menunjuk Wawan. "*Nah*. Itu berlaku di semua lini. *Backend*, *frontend*, desain. Pilih yang masuk akal, bukan yang paling ramai dibicarakan."
 
 ## **5.9 Hantu-Hantu yang Masih Hidup**
 

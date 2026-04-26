@@ -64,7 +64,11 @@ Cahyo mengangguk ragu. "Pernah dengar, Mas. Tapi gak terlalu paham."
 
 "Sederhananya: ada orang iseng masukin perintah SQL lewat form login atau kolom pencarian. Kalau kita gak validasi, dia bisa lihat data (Confidentiality bocor) atau ubah data (Integrity rusak)."
 
-Ia mencontohkan. "Misal di form login, dia masukin ' OR '1'='1. Kalau kode kita gak aman, dia bisa masuk tanpa password."
+Mbak Rara yang sedari tadi mendengarkan tiba-tiba angkat bicara, nadanya serius. "Wah iya aku jadi inget. Dulu waktu aku di Surabaya, kantor temanku kena SQL injection. Aplikasi *e-commerce* kecil, toko online lokal. Seseorang masukin perintah lewat kolom pencarian. Database bocor. Data pelanggan—nama, alamat, nomor HP—dipakai buat penipuan sama pelakunya. Perusahaan kena teguran, klien kabur, reputasi hancur. Temanku *resign* karena malu dan merasa bersalah."
+
+Cahyo menelan ludah. Cerita itu jauh lebih menakutkan dari penjelasan teknis mana pun.
+
+Mas Alin mengangguk. "Misal di form login, dia masukin ' OR '1'='1. Kalau kode kita gak aman, dia bisa masuk tanpa password."
 
 Binto menimpali. "Itu kayak yang dulu saya hampir lakukan, Dik. Untung di sini diajarin pakai *prepared statement* dan ORM yang aman."
 

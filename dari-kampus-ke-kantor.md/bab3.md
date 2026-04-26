@@ -56,7 +56,7 @@ Binto manggut-manggut. *Jadi Waterfall gak sepenuhnya jahat*, pikirnya.
 
 Tepat saat Mas Alin menyebut nama itu, pintu depan terbuka. Wawan masuk dengan wajah kusut. Di tangannya, sebuah *tumbler* besar dan sebungkus nasi pecel.
 
-"*Mboten* kuat, Mas," keluhnya sambil menjatuhkan diri di kursi. "Pak Har dari Garum *telpon* tadi subuh. Katanya fitur *inventory tracking*\-nya minta diubah. Katanya 'kurang greget'. Padahal desain UI-nya udah aku kerjain dua minggu."
+"*Mboten* kuat, Mas," keluhnya sambil menjatuhkan diri di kursi. "Pak Bambang dari Garum *telpon* tadi subuh. Katanya fitur *inventory tracking*\-nya minta diubah. Katanya 'kurang greget'. Padahal desain UI-nya udah aku kerjain dua minggu."
 
 Binto melirik Mas Alin, berharap melihat ekspresi frustrasi. Tapi pria itu malah tersenyum tipis.
 
@@ -88,7 +88,7 @@ Pakde Suhar tersenyum lebar. Ia meletakkan map-nya, lalu duduk di kursi dekat Bi
 
 Binto mengernyit. "Product Owner?"
 
-"Iya. Tugas saya cuma satu: mewakili suara klien. Saya yang ngobrol sama Pak Har dari Garum, atau pimpinannya Koperasi Sekar Patria. Saya yang ngumpulin *requirement*, bikin daftar keinginan, dan tentuin mana yang paling penting. Nanti daftar itu jadi Product Backlog." Ia menunjuk kolom paling kiri di papan dekat dispenser. "Itu lho, gudang ide."
+"Iya. Tugas saya cuma satu: mewakili suara klien. Saya yang ngobrol sama Pak Bambang dari Garum, atau pimpinannya Koperasi Sekar Patria. Saya yang ngumpulin *requirement*, bikin daftar keinginan, dan tentuin mana yang paling penting. Nanti daftar itu jadi Product Backlog." Ia menunjuk kolom paling kiri di papan dekat dispenser. "Itu lho, gudang ide."
 
 Pakde Suhar melanjutkan. "Saya gak ngoding, saya gak tes. Tapi saya yang tentuin: fitur A dulu, fitur B nanti. Biar hasilnya sesuai yang diinginkan klien, dan gak buang-buang tenaga *programmer*."
 
@@ -160,7 +160,7 @@ Binto baru sadar, testing ternyata bukan cuma soal fitur jalan atau tidak.
 
 Mas Andik mengacungkan dua jempolnya. "Mantep mbak!."
 
-Giliran Wawan. *Sticky note* monyet. "Kemarin revisi UI Pabrik Garum, sesuai masukan Pak Har. Hari ini mau *finishing prototype* baru, terus serah ke Mas Alin buat di-*implement*. Hambatan: *font* yang diminta klien *license*\-nya mahal, aku cari alternatif dulu."
+Giliran Wawan. *Sticky note* monyet. "Kemarin revisi UI Pabrik Garum, sesuai masukan Pak Bambang. Hari ini mau *finishing prototype* baru, terus serah ke Mas Alin buat di-*implement*. Hambatan: *font* yang diminta klien *license*\-nya mahal, aku cari alternatif dulu."
 
 Mas Alin. *Sticky note* bebek. "Kemarin *debugging* modul *inventory*, udah *deploy* ke *staging*. Hari ini bantu Wawan *integrasi* UI baru. Hambatan: *Nggih* cuma satu... kopi habis."
 
@@ -249,21 +249,31 @@ Binto memandang papan itu lama. Di kampus, ia mengukur progres dengan *checklist
 
 Siang menjelang, hujan sudah reda. Matahari mulai mengintip di balik awan. Tiba-tiba Pakde Suhar berjalan ke tengah ruangan dan bertepuk tangan.
 
-"Semuanya, siap-siap. Jam 2 siang nanti kita ada Sprint Review dengan Pak Har dari Garum. Via Zoom."
+"Semuanya, siap-siap. Jam 2 siang nanti kita ada Sprint Review dengan Pak Bambang dari Garum. Via Zoom."
 
 Binto menoleh ke Mas Alin. "Sprint Review?"
 
-"Iya. Ini ritual di akhir setiap *sprint*. Kita tunjukin hasil kerja dua minggu ke *stakeholder*. Pak Har lihat langsung aplikasinya, nyobain fitur baru, kasih masukan. Bukan presentasi PowerPoint, tapi demo aplikasi beneran."
+"Iya. Ini ritual di akhir setiap *sprint*. Kita tunjukin hasil kerja dua minggu ke *stakeholder*. Pak Bambang lihat langsung aplikasinya, nyobain fitur baru, kasih masukan. Bukan presentasi PowerPoint, tapi demo aplikasi beneran."
 
 "Terus kalau dia gak suka?"
 
 "Justru itu gunanya. Masukan dari *review* jadi bahan buat *sprint* berikutnya. Dia bilang, 'Tombolnya kurang gede,' ya udah, masuk *backlog* buat *sprint* depan. Agile itu soal umpan balik cepat. Jangan nunggu aplikasi 'jadi' baru dikasih lihat. Nanti kecewa."
 
-Jam 2 siang, seluruh tim berkumpul di depan laptop besar. Pak Har muncul di layar, wajahnya ramah tapi tatapannya tajam. Mas Alin memandu demo: menunjukkan fitur *inventory tracking* terbaru yang sudah direvisi sesuai permintaan dua minggu lalu.
+Jam 2 siang, seluruh tim berkumpul di depan laptop besar. Pak Bambang muncul di layar, wajahnya ramah tapi tatapannya tajam. Mas Alin memandu demo: menunjukkan fitur *inventory tracking* terbaru yang sudah direvisi sesuai permintaan dua minggu lalu.
 
-Pak Har mengangguk-angguk. "Ini sudah lebih bagus. Tapi coba nanti ditambahin grafik tren stok per bulan. Biar saya tahu barang apa yang cepat habis."
+Pak Bambang mengangguk-angguk. "Ini sudah lebih bagus. Tapi coba nanti ditambahin grafik tren stok per bulan. Biar saya tahu barang apa yang cepat habis."
 
-Pakde Suhar cepat mencatat di buku kecilnya. "Siap, Pak Har. Nanti kita masukkan ke rencana *sprint* depan."
+Lalu Pak Bambang menambahkan dengan antusias. "Oh iya, sekalian bisa gak ditambahin fitur prediksi penjualan? Yang pakai AI gitu. Biar kelihatan canggih pas demo ke rekanan."
+
+Binto melirik Mas Alin. Ekspresi mentor-nya tenang, tapi Binto bisa melihat alis kirinya sedikit terangkat—tanda ia sedang menahan respons.
+
+Pakde Suhar yang justru menjawab. Suaranya ramah, tanpa sedikitpun nada menolak. "Grafik tren stok *InsyaAllah* bisa kita kerjakan di *sprint* depan, Pak Bambang. Kalau yang prediksi pakai AI, itu kita perlu riset dulu biar hasilnya bener-bener akurat. Jangan sampai prediksinya meleset, malah bikin bingung. Gimana kalau kita matangkan dulu fitur-fitur dasarnya, nanti AI-nya menyusul di tahap berikutnya?"
+
+Pak Bambang manggut-manggut. "Iya juga ya, Pak Suhar. Yang penting dasarnya kuat dulu."
+
+Binto tertegun. *Pakde gak bilang 'tidak'. Pakde bilang 'belum'. Dan Pak Bambang justru setuju. Ini bukan menolak. Ini mengatur ekspektasi.* Ia mencatat gaya komunikasi itu dalam hati.
+
+Pakde Suhar cepat mencatat di buku kecilnya. "Siap, Pak Bambang. Nanti kita masukkan ke rencana *sprint* depan."
 
 Setelah Zoom ditutup, Mas Alin menatap Binto. "Lihat? Gak ada drama. Semua jelas. Klien senang karena didengar. Tim senang karena kerjaannya dihargai."
 
