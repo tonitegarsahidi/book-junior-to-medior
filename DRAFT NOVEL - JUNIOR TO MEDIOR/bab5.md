@@ -123,7 +123,13 @@ Mas Alin menunjuk ke arah kantor—ke papan *sticky notes* yang menempel di deka
 
 Mas Alin menatap Binto. "Mau secepat apa, *Le*? Mau pakai Rust yang bisa proses jutaan *request* per detik, buat apa? Ujung-ujungnya cuma dipakai 10 orang. Yang penting aplikasi jadi, biaya murah, dan mudah dirawat."
 
-Binto mulai melihat celah di logikanya sendiri.
+"Tapi kecepatan bukan satu-satunya pertimbangan," Mas Alin melanjutkan. Ia menghitung dengan jari. "Ada banyak dimensi lain. Pertama, *development speed* — seberapa cepat fitur bisa jadi. Klien kita minta revisi tengah malam, pagi harus jadi. PHP dengan Laravel bisa ngebut. Kedua, *hiring* — cari programmer PHP di Blitar? Ada. Cari programmer Rust di Blitar? Mungkin nol."
+
+"Ketiga, ekosistem. PHP punya WordPress, Laravel, Magento — ratusan ribu *library*, tutorial, forum. Error apa pun, solusinya sudah ada. Bahasa baru? Komunitasnya masih kecil. Satu error bisa bikin stuck berhari-hari."
+
+"Keempat, biaya operasional. Hosting PHP murah — shared hosting Rp 50 ribu per bulan cukup buat kebanyakan klien kita. Mau *deploy* Go atau Rust? Minimal butuh VPS, itu sudah ratusan ribu per bulan. Buat minimarket dengan 50 transaksi sehari? Gak masuk akal."
+
+Binto mulai melihat celah di logikanya sendiri. *Selama ini gue cuma lihat kecepatan. Padahal ada banyak faktor lain yang gak pernah kepikiran.*
 
 ## **5.6 Analogi Mobil di Gang Sempit**
 
@@ -167,11 +173,17 @@ Mas Alin mencondongkan badan. "Begini. *Microservices* itu bagus. Tapi dia punya
 
 Ia menunjuk ke sekeliling. "Tim cuma segini. Klien cuma segitu. Monolith itu cukup. Bahkan lebih dari cukup."
 
-"Jadi gak semua yang modern itu cocok?"
+"Terus kapan *microservices* cocok, Mas?" tanya Binto.
 
-"Persis. Pilih arsitektur sesuai ukuran masalah. Jangan bawa pedang ke perang pisau. Atau jangan bawa pisau ke perang pedang. Sesuaikan."
+Mas Alin berpikir sejenak. "Bayangin Tokopedia atau Gojek. Mereka punya jutaan pengguna, ribuan transaksi per detik. Tim *engineer*\-nya ratusan orang, dibagi per tim kecil. Setiap tim megang satu domain — tim pencarian, tim pembayaran, tim notifikasi. Kalau mereka masih pakai satu monolith raksasa, tiap kali tim notifikasi mau *deploy*, mereka harus nunggu antrian. Tiap kali ada *bug* di modul pembayaran, bisa bikin seluruh aplikasi *down*."
 
-Wawan yang sejak tadi menyimak dari dalam—jendela teras terbuka lebar—tiba-tiba nimbrung. "Aku juga gitu, Mas. Di komunitas desain, tiap bulan ada *framework* CSS baru. Tailwind, lalu ada yang bilang Tailwind jelek, mending pakai *vanilla*. *Styled-components*, *CSS Modules*, *Sass*... Aku capek ngikutin. Akhirnya aku pakai yang aku kuasai dan yang klien gak komplain."
+"Di *microservices*, tiap tim bisa *deploy* sendiri-sendiri. Gak perlu nunggu tim lain. Modul pencarian rusak? Yang lain tetap jalan. Modul notifikasi butuh *scale* karena Hari tanggal kembar? Tinggal nambah server untuk notifikasi doang, gak perlu *scale* semua."
+
+Mas Alin menyesap kopinya. "Jadi prinsipnya: *monolith* itu untuk tim kecil dengan kompleksitas rendah. *Microservices* untuk organisasi besar dengan tim banyak dan domain yang kompleks. Jangan pakai *microservices* cuma karena keren. Tapi jangan paksa *monolith* kalau tim dan sistemmu sudah terlalu besar untuk satu codebase."
+
+"Pilih arsitektur sesuai ukuran masalah. Jangan bawa pedang ke perang pisau. Atau jangan bawa pisau ke perang pedang. Sesuaikan."
+
+Wawan yang sejak tadi menyimak dari dalam—jendela teras terbuka lebar—tiba-tiba nimbrung. "Aku juga gitu, Mas. Di komunitas desain, tiap bulan ada *framework* CSS baru. Dulu main Bootstrap, lalu ada yang bilang Bootstrap jelek, mending pakai *Tailwind*. *Styled-components*, *CSS Modules*, *Sass*... Aku capek ngikutin. Akhirnya aku pakai yang aku kuasai dan yang klien gak komplain."
 
 Mas Alin menunjuk Wawan. "*Nah*. Itu berlaku di semua lini. *Backend*, *frontend*, desain. Pilih yang masuk akal, bukan yang paling ramai dibicarakan."
 
@@ -245,6 +257,24 @@ Ia menyesap kopinya. "Bayangin kita migrasi ke Go karena keren. Dua tahun kemudi
 
 "Persis. Jangan cuma mikir 'enak buat kita sekarang'. Tapi juga 'enak buat yang nerusin nanti'. Itu tanggung jawab profesional."
 
+Binto manggut-manggut. Lalu ia teringat sesuatu. "Mas, saya sering dengar istilah *technical debt*. Itu apa sih? Apa hubungannya sama migrasi dan pilihan teknologi?"
+
+Mas Alin tersenyum. "Pertanyaan lanjutan yang bagus, *Le*. Kamu mulai berpikir seperti *engineer*."
+
+Ia menyesap kopinya. "*Technical debt* itu utang teknis. Setiap kali kita ambil jalan pintas demi kejar *deadline*, kita sebenarnya ngutang. Contoh: daripada bikin validasi lengkap, kita bikin validasi seadanya biar cepat rilis. Itu utang. Atau kita pakai *library* versi lama karena males *upgrade*. Itu juga utang."
+
+"Terus suatu hari nanti kita harus bayar. Validasi seadanya tadi bikin *user* bisa masukin data sampah. Kita harus benerin — itu bayar utang. *Library* versi lama tadi tiba-tiba gak kompatibel sama server baru — kita harus *upgrade* darurat. Itu juga bayar utang, plus bunganya: stress, lembur, klien komplain."
+
+Binto mengangguk pelan. "Jadi *technical debt* itu kayak utang di bank ya, Mas. Bunga-nya makin gede kalau gak segera dibayar."
+
+"Persis. Tapi ini penting, *Le*: *technical debt* itu tidak selalu jahat," Mas Alin mencondongkan badan. "Kadang kita sengaja ngutang. Misalnya, klien butuh demo besok. Kita bikin fitur seadanya dulu, cepat — itu ngutang. Tapi setelah demo sukses, klien kasih kita waktu seminggu untuk merapikan. Kita bayar utangnya. Itu strategi yang valid."
+
+"Yang bahaya itu kalau kita ngutang terus tanpa pernah bayar. Atau lebih parah lagi — ngutang tapi gak sadar kalau kita ngutang. Itu yang bikin proyek jadi *legacy nightmare* — kode yang semua orang takut sentuh, karena satu perbaikan kecil bisa bikin semuanya runtuh kayak rumah kartu."
+
+Binto teringat proyek tugas akhir temannya yang sampai sekarang gak bisa di-maintenance karena kodenya terlalu ruwet. *Itu pasti technical debt yang sudah bertahun-tahun gak dibayar*, pikirnya.
+
+"Jadi aturannya: ngutang boleh, asal dicatat. Dan harus ada rencana kapan bayarnya."
+
 ## **5.12 Berpikir Kritis pada Hype**
 
 Mas Alin membuka kembali aplikasi burung biru di ponselnya. Ia menunjukkan sebuah utas yang sedang viral.
@@ -258,6 +288,16 @@ Mas Alin menutup ponselnya. "Setiap tahun ada yang bilang PHP mati. Tapi nyatany
 Ia menatap Binto serius. "Jangan telan mentah-mentah hype, *Le*. Tanya dulu: siapa yang bicara? Apa konteksnya? Apa kepentingannya? Bisa jadi mereka promosi bahasa baru karena ada insentif. Atau cuma pengen kelihatan keren."
 
 Binto mengangguk. Pelajaran ini tidak pernah ia dapat di kampus.
+
+"Tapi, Mas," Binto berkata pelan. "Kadang justru karena banyak pilihan itu yang bikin bingung. Lihat aja: PHP, Go, Rust, Node.js, Python, Java... terus *microservices*, *monolith*, *serverless*... terus Laravel, Express, Gin, Actix... Pusing sendiri jadinya."
+
+Mas Alin tertawa kecil. "Itu namanya *paradox of choice*, *Le* — paradoks pilihan. Ada istilah psikologi: semakin banyak pilihan, justru semakin susah memilih. Dan setelah memilih pun, kita jadi gampang menyesal. 'Ah, kenapa gue pilih PHP ya? Mending Go kali.'"
+
+Ia menatap pohon rambutan. "Tapi coba pikir: apakah klien kita peduli pakai *framework* apa? Mereka cuma peduli satu hal: aplikasinya jalan. Solusi buat mereka sederhana: pakai yang sudah dikuasai, yang cocok buat masalahnya, dan yang bisa dikerjakan tepat waktu."
+
+"Kamu gak perlu pusing memilih dari seratus opsi. Mulai aja dari yang kamu tahu. Buat di Blitar sini, PHP sudah cukup untuk sekarang. Nanti kalau ketemu masalah yang memang gak bisa diselesaikan PHP, saat itulah kamu cari alternatif. Jangan nyari masalah buat teknologi. Tapi cari teknologi buat masalah."
+
+Binto menghela napas lega. Beban di kepalanya terasa lebih ringan. *Gue gak perlu jadi ahli semua teknologi. Cukup pilih yang tepat untuk masalah yang ada di depan mata.*
 
 ## **5.13 Penutup: Peluru Sakti**
 

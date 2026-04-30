@@ -24,7 +24,7 @@ Itulah Waterfall. Indah di atas kertas. Menyakitkan di dunia nyata.
 
 Lamunan Binto buyar ketika suara motor Mas Alin terdengar di halaman. Tidak lama kemudian, sang mentor masuk dengan jaket jeans basah dan rambut yang agak lepek kena gerimis.
 
-"Pagi, *Le*. Tumben pagi banget," sapa Mas Alin sambil menggantung jaketnya di sandaran kursi.
+"Pagi, *Le*. Tumben pagi banget," sapa Mas Alin sambil menggantung jaket jeansnya yang basah di sandaran kursi. Dari dalam jaket, samar-samar tercium bau gerimis—bau tanah basah yang khas.
 
 "Belum bisa tidur, Mas. Kepikiran soal kode Koperasi Sekar Patria."
 
@@ -38,7 +38,7 @@ Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menoleh ke Binto. "Ngom
 
 Binto mengerutkan dahi. "Lho? Kirain di sini semua proyek pakai Agile, Mas. Kemarin Mas Alin cerita soal *Sprint* dan *Scrum*."
 
-"*Iya*, sebagian besar iya. Tapi Koperasi Sekar Patria itu pengecualian." Mas Alin duduk, meraih cangkir enamel animenya yang—entah kenapa—selalu terisi kopi panas setiap pagi. "Kamu tahu kenapa?"
+"*Iya*, sebagian besar iya. Tapi Koperasi Sekar Patria itu pengecualian." Mas Alin duduk, meraih cangkir enamel wayangnya yang—entah kenapa—selalu terisi kopi panas setiap pagi. "Kamu tahu kenapa?"
 
 Binto menggeleng.
 
@@ -49,6 +49,8 @@ Mas Alin menjelaskan. Proyek aplikasi simpan pinjam untuk Koperasi Sekar Patria 
 "Jadi kami tinggal eksekusi. Gak ada ruang buat 'tiba-tiba minta fitur baru' atau 'ganti alur bisnis di tengah jalan'. Kalau berubah, melanggar aturan dinas. Makanya Waterfall cocok: analisis di depan total, *ngoding*\-nya lurus, *testing* di akhir. Hemat waktu, hemat biaya, semua pihak puas."
 
 Binto manggut-manggut. *Jadi Waterfall gak sepenuhnya jahat*, pikirnya.
+
+"Tapi gak semua proyek kayak gitu," lanjut Mas Alin sambil meneguk kopinya. "Misalnya ada proyek pemerintah—aplikasi e-budgeting atau sistem pendataan penduduk. Itu syaratnya rigid, regulasinya ketat, auditnya berlapis. Kalau pakai Agile, tiap dua minggu berubah, auditornya bisa pusing. Atau proyek infrastruktur kayak pembangunan jembatan atau gedung bertingkat. Kamu gak bisa bilang ke kontraktor: '*Eh, Pak, tiangnya kita pindahin ke kanan dua meter ya. Kan Agile.*' Di proyek-proyek kayak gitu, Waterfall bukan cuma cocok—tapi wajib."
 
 "Tapi proyek Pabrik pakan ternak Garum?" Mas Alin melanjutkan. "Itu beda cerita."
 
@@ -89,6 +91,14 @@ Pakde Suhar tersenyum lebar. Ia meletakkan map-nya, lalu duduk di kursi dekat Bi
 Binto mengernyit. "Product Owner?"
 
 "Iya. Tugas saya cuma satu: mewakili suara klien. Saya yang ngobrol sama Pak Bambang dari Garum, atau pimpinannya Koperasi Sekar Patria. Saya yang ngumpulin *requirement*, bikin daftar keinginan, dan tentuin mana yang paling penting. Nanti daftar itu jadi Product Backlog." Ia menunjuk kolom paling kiri di papan dekat dispenser. "Itu lho, gudang ide."
+
+"Eh, bedanya Product Backlog sama Sprint Backlog apa, Pakde?" potong Binto. "Tadi Mas Alin bilang dua-duanya."
+
+Pakde Suhar tersenyum, seperti guru yang senang muridnya bertanya. "*Product Backlog* itu semua keinginan klien—seluruhnya. Bisa puluhan, bisa ratusan fitur. Kayak daftar belanjaan seumur hidup. Nah, *Sprint Backlog* itu yang kita pilih buat dikerjain dua minggu ini aja. Cuma beberapa fitur. Kayak daftar belanjaan hari ini. Paham?"
+
+"Jadi Product Backlog itu gudang. Sprint Backlog itu keranjang belanjaan."
+
+"*Nah*, tepat!"
 
 Pakde Suhar melanjutkan. "Saya gak ngoding, saya gak tes. Tapi saya yang tentuin: fitur A dulu, fitur B nanti. Biar hasilnya sesuai yang diinginkan klien, dan gak buang-buang tenaga *programmer*."
 
@@ -178,7 +188,11 @@ Mas Alin nyengir. "Itu versi idealnya *Daily Scrum*. Tiap pagi, maksimal 15 meni
 
 "Terus kalau ada masalah yang butuh diskusi panjang?"
 
-"Idealnya, ditunda setelah *daily*. Ngobrol berdua atau bertiga aja biar yang lain bisa lanjut kerja." Mas Alin menghela napas pelan. "Tapi jujur aja, *Le*, realitanya gak selalu semulus tadi. Sering kali *daily* itu molor karena tiba-tiba malah bahas *bug* dan keterusan jadi ajang *problem solving*. Kadang ada juga yang *skip* karena telat bangun atau terjebak macet. Tugas saya sebagai Scrum Master buat narik mereka balik ke relnya, walau kadang saya sendiri yang kebablasan bahas teknis."
+"Idealnya, ditunda setelah *daily*. Ngobrol berdua atau bertiga aja biar yang lain bisa lanjut kerja." Mas Alin menghela napas pelan. "Tapi jujur aja, *Le*, realitanya gak selalu semulus tadi. Dulu pernah, Wawan nyinggung soal *bug* UI di Pabrik Garum. Terus Mas Andik nyamber bahas *query* database-nya. Terus saya ikut-ikutan buka terminal buat cek. Tau-tau udah 45 menit, yang lain pada duduk-duduk nungguin kita bertiga debat teknis."
+
+Ia menggaruk kepalanya yang agak gondrong. "Itu salah saya. Saya yang harusnya motong diskusi, malah ikut nyemplung. Akhirnya di *retro*—nanti kamu belajar—anak-anak komplain. Mbak Rara bilang: '*Mas, kalau daily molor, test case-ku gak kelar. Nanti fiturnya telat di-review.*' Sejak itu kami belajar disiplin. Kalau ada diskusi teknis yang panjang, catat di *whiteboard*, terus bahas setelah *daily* dengan yang berkepentingan aja."
+
+Ia menambahkan, nadanya lebih rendah. "Ada juga yang kadang *skip* karena telat bangun atau terjebak macet. Tugas saya sebagai Scrum Master buat narik mereka balik ke relnya, walau kadang saya sendiri yang kebablasan bahas teknis."
 
 Binto tersenyum. Di kampus, rapat proyek bisa berjam-jam, sering kali berakhir dengan *scroll* TikTok bareng. Di sini, mereka berusaha mati-matian mengejar efisiensi, sambil tetap menyadari bahwa realita tak pernah sesempurna teori di buku.
 
@@ -247,13 +261,17 @@ Binto memandang papan itu lama. Di kampus, ia mengukur progres dengan *checklist
 
 ## **3.8 Showtime: Sprint Review**
 
-Siang menjelang, hujan sudah reda. Matahari mulai mengintip di balik awan. Tiba-tiba Pakde Suhar berjalan ke tengah ruangan dan bertepuk tangan.
+Siang menjelang, hujan sudah reda. Matahari mulai mengintip di balik awan, membuat genangan air di halaman berkilau seperti kaca. Tiba-tiba Pakde Suhar berjalan ke tengah ruangan dan bertepuk tangan.
 
 "Semuanya, siap-siap. Jam 2 siang nanti kita ada Sprint Review dengan Pak Bambang dari Garum. Via Zoom."
 
 Binto menoleh ke Mas Alin. "Sprint Review?"
 
 "Iya. Ini ritual di akhir setiap *sprint*. Kita tunjukin hasil kerja dua minggu ke *stakeholder*. Pak Bambang lihat langsung aplikasinya, nyobain fitur baru, kasih masukan. Bukan presentasi PowerPoint, tapi demo aplikasi beneran."
+
+"Ini beda sama Sprint Retrospective yang Mas Alin singgung tadi?"
+
+"Beda. *Review* itu buat klien. Kita pamerin hasil. *Retro* itu buat tim sendiri. Kita introspeksi. *Review* dulu, baru *Retro*. Jangan dibalik."
 
 "Terus kalau dia gak suka?"
 
@@ -293,11 +311,15 @@ Binto menunggu.
 
 "Kayak evaluasi?"
 
-"*Nggih*. Tapi bukan buat nyalahin. Ini ruang aman. Siapa pun boleh ngomong apa pun. Dulu, gara-gara *retro* inilah kami pindah dari Notion ke *sticky notes* beneran. Gara-gara *retro* juga kami sadar kalau *daily* jam 09.30 itu kepagian buat Wawan. Makanya sekarang jam 09.45."
+"*Nggih*. Tapi bukan buat nyalahin. Ini ruang aman. Siapa pun boleh ngomong apa pun. Dulu, gara-gara *retro* inilah kami pindah dari Notion ke *sticky notes* beneran. Gara-gara *retro* juga kami sadar kalau *daily* jam 08.30 itu kepagian buat Wawan. Makanya sekarang jam 09.45."
 
 Binto tersenyum. "Hal-hal kecil gitu didiskusikan?"
 
 "Justru itu intinya, *Le*. Agile itu bukan cuma soal *coding*. Agile itu soal manusia. Bagaimana kita kerja bareng tanpa bikin satu sama lain gila. *Retro* itu kayak... *service* motor rutin. Kalau gak pernah dicek, tiba-tiba mogok di jalan."
+
+Mas Alin menatap Binto serius. "Tapi ada satu aturan sakral di *retro*. Kamu gak boleh nyalahin orang. Gak boleh bilang 'Wawan lambat ngerjain UI'. Yang boleh: 'Proses serah terima dari desain ke kode sering molor, mungkin kita butuh checklist biar lebih jelas.' Fokus ke proses, bukan ke orang. Kalau aturan ini dilanggar, *retro* bukan lagi ruang aman—jadi pengadilan."
+
+Binto mengangguk. Ia teringat rapat proyek di unit kampus dulu. Kalau ada yang salah, selalu ujungnya saling tunjuk. Mungkin karena tidak ada aturan seperti ini.
 
 Mas Alin menyesap kopinya, lalu menatap pohon rambutan.
 

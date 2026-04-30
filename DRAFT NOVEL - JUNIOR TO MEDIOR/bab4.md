@@ -24,7 +24,7 @@ Pakde Suhar berjalan ke tengah ruangan. "Pak Haji Hamid dari Balikpapan. Dia min
 
 Wawan nyaris tersedak pecelnya. "Besok lusa?\! Gila, Pakde. Itu kan mepet banget."
 
-Mas Alin tidak langsung bereaksi. Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menyeruput kopi dari cangkir enamel animenya. "Prioritas, Pakde. Kalau kita ambil ini, harus ada yang dikorbankan."
+Mas Alin tidak langsung bereaksi. Ia berjalan ke meja pojokannya, menyalakan monitor, lalu menyeruput kopi dari cangkir enamel wayangnya. "Prioritas, Pakde. Kalau kita ambil ini, harus ada yang dikorbankan."
 
 Pakde mengangguk. Ia sudah menduga pertanyaan itu. "Iya, saya paham. Makanya saya mau diskusi dulu sama kalian."
 
@@ -117,6 +117,41 @@ PJ: Alin, Binto (Wawan bantu desain PDF)
 
 Binto mengangguk. *Ini rapi banget. Gak kayak tugas kelompok gue dulu yang cuma modal "nanti aja lihat jadinya".*
 
+"Tapi gak semua *acceptance criteria* sama, *Le*," Mas Alin menambahkan. Ia membuka kembali laptopnya dan mengetik cepat. "Coba lihat ini."
+
+Ia menunjukkan dua versi *acceptance criteria* di layar:
+
+Versi buruk (yang sering saya temui di lapangan):
+* Sistem bisa cetak laporan
+* Laporan bisa dilihat user
+* Desain rapi
+
+"Lihat? Ini terlalu umum. 'Bisa cetak laporan' — cetak dari mana? Format apa? Data apa yang muncul? 'Desain rapi' — rapi menurut siapa? Ini subjektif. Nanti Mbak Rara test, dia bilang belum rapi. Kamu bilang udah rapi. Debat gak jelas."
+
+Versi baik (yang kita tulis):
+* Pengguna dapat memilih tanggal dari *date picker*
+* Sistem menampilkan data penjualan tanggal tersebut (total transaksi, total item, total pendapatan)
+* Tombol "Cetak" tersedia dan berfungsi
+* PDF yang dihasilkan memuat logo minimarket, tanggal laporan, dan ringkasan data
+
+"Lihat bedanya, *Le*. *Acceptance criteria* yang baik itu spesifik dan *testable*. Bisa diuji dengan jelas: 'Apakah logo muncul? Ya atau tidak.' Bukan 'Apakah desainnya bagus?' — itu pertanyaan yang gak akan selesai-selesai."
+
+Binto memperhatikan perbedaan itu. "Jadi *acceptance criteria* itu kayak kontrak kecil, Mas? Hitam di atas putih, gak bisa debat?"
+
+"Persis. Semakin jelas kontraknya, semakin sedikit drama antara *developer*, QA, dan klien. Semuanya punya ekspektasi yang sama."
+
+Binto merenung lagi, lalu bertanya: "Mas, ini namanya PRD ya? Saya sering dengar juga istilah *user story*. Beda gimana?"
+
+Mas Alin tersenyum. "Pertanyaan bagus. PRD itu dokumen lengkap satu fitur — kayak yang barusan kita tulis. Ada deskripsi, *acceptance criteria*, prioritas, penanggung jawab. Cocok buat proyek yang kliennya butuh kepastian dan kontrak jelas — kayak klien-klien kita di GTN."
+
+Ia mencondongkan badan. "*User story* lebih ringkas. Formatnya cuma satu kalimat: 'Sebagai [pengguna], saya ingin [fitur], supaya [manfaat].' Contoh: 'Sebagai pemilik minimarket, saya ingin mencetak laporan penjualan harian, supaya bisa presentasi ke investor.' Itu aja. Detailnya nanti didiskusikan saat *Sprint Planning*."
+
+"Jadi PRD lebih formal, *user story* lebih fleksibel?"
+
+"*Nggih*. Di GTN kita pakai PRD karena klien kita rata-rata orang bisnis biasa — mereka butuh dokumen yang jelas, bisa dibaca ulang, bisa jadi pegangan kalau ada dispute. Di *startup* produk, biasanya mereka pakai *user story* karena timnya lebih kecil, lebih sering diskusi, dan produknya berubah cepat."
+
+Binto mengangguk paham. *Dunia software engineering ternyata gak cuma ngoding. Ada seni nulis spesifikasi juga.*
+
 ## **4.5 Ngoding Cepat tapi Rapi**
 
 Setelah PRD disetujui Pakde, Mas Alin membuka terminal.
@@ -143,7 +178,7 @@ Binto mengangguk.
 
 Binto mencatat itu dalam hati. Ia lalu kebagian menulis logika untuk menghasilkan PDF dari data tersebut. Wawan sibuk di laptopnya, membuat *template* HTML sederhana dengan CSS yang akan dikonversi jadi PDF.
 
-"*Commit* yang kecil-kecil, *Le*," Mas Alin mengingatkan. "Jangan nunggu semua selesai baru di-*commit*. Nanti susah *tracking*\-nya kalau ada masalah."
+"*Commit* yang kecil-kecil, *Le*," Mas Alin mengingatkan. "Jangan nunggu semua selesai baru di-*commit*. Nanti susah *tracking*\-nya kalau ada masalah. Dan satu lagi — *commit message*\-nya yang jelas."
 
 Binto menuruti. Setiap kali satu fungsi kecil selesai, ia mengetik:
 
@@ -151,13 +186,19 @@ bash
 
 git add .
 
-git commit \-m "Tambah fungsi ambil data dari API"
+git commit \-m "feat: tambah endpoint API /api/laporan/penjualan"
 
-git commit \-m "Buat struktur dasar PDF"
+git commit \-m "feat: buat struktur dasar PDF dengan header logo"
 
-git commit \-m "Integrasi template dari Wawan"
+git commit \-m "feat: integrasi template HTML dari Wawan ke PDF generator"
 
-Rasanya berbeda dengan cara lamanya dulu. Dulu ia hanya *copy-paste* folder kalau mau *backup*. Sekarang setiap langkah tercatat rapi.
+Mas Alin mengangguk melihat pesan *commit* Binto. "Nah, ini sudah lebih baik dari kemarin. Lihat polanya? Awalan 'feat:' buat fitur baru. Nanti kalau ada perbaikan *bug*, pakai 'fix:'. Kalau ada perubahan yang gak nambah fitur tapi memperbaiki struktur kode, pakai 'refactor:'. Ini namanya *conventional commits*."
+
+Binto memperhatikan. "Jadi kayak label gitu ya, Mas?"
+
+"Persis. Bayangin beberapa bulan lagi kita lihat `git log`. Dengan label ini, kita langsung tahu *commit* mana yang nambah fitur, mana yang perbaikan bug, mana yang bersih-bersih kode. Tanpa harus baca detail isinya satu per satu. Ini kebiasaan kecil yang dampaknya besar."
+
+Rasanya berbeda dengan cara lamanya dulu. Dulu ia hanya *copy-paste* folder kalau mau *backup* — itupun dengan nama folder `Project_Backup_12_Juni_FINAL_REV2_FIX`. Sekarang setiap langkah tercatat rapi dengan label yang jelas.
 
 Sekitar pukul dua siang, fitur sudah mulai terbentuk. Di layar Binto, sebuah file PDF sederhana berhasil di-generate. Ada logo minimarket, tanggal, tabel data penjualan, dan total.
 
@@ -183,7 +224,36 @@ Mas Alin terkekeh. "Karena kamu belum punya akses *maintainer*. Itu sengaja. Di 
 
 Ia mendekat ke laptop Binto, membuka GitHub di browser. "Sini, saya tunjukin caranya."
 
-Mas Alin mengklik tombol New Pull Request, memilih *branch* feature/MMK-012 sebagai sumber, dan main sebagai target. Di halaman PR, ia menambahkan deskripsi singkat tentang fitur ini, lalu menekan Create Pull Request.
+Mas Alin mengklik tombol New Pull Request, memilih *branch* feature/MMK-012 sebagai sumber, dan main sebagai target. Di halaman PR, ia mulai mengetik deskripsi. Binto memperhatikan dari samping.
+
+"Deskripsi PR itu penting, *Le*. Ini yang pertama kali dilihat *reviewer* sebelum buka kode kamu," kata Mas Alin sambil terus mengetik. "PR yang baik itu kasih konteks. Gak cuma judul 'Tambah fitur cetak laporan'."
+
+Ia menunjukkan dua versi deskripsi yang ditulisnya:
+
+text
+### Deskripsi Singkat (Buruk):
+Tambah fitur cetak laporan.
+
+### Deskripsi Singkat (Baik):
+## Apa yang dikerjakan
+- Menambahkan endpoint API `/api/laporan/penjualan` untuk mengambil data penjualan berdasarkan tanggal
+- Membuat PDF generator dengan logo minimarket dan ringkasan data
+- Menambahkan validasi tanggal (format Y-m-d)
+
+## Kenapa
+Untuk demo ke calon investor Pak Haji Hamid
+
+## Cara testing
+1. Buka halaman laporan
+2. Pilih tanggal, klik Cetak
+3. PDF harus muncul dengan logo dan data yang sesuai
+4. Coba tanggal 29 Februari 2024 (tahun kabisat)
+
+"Lihat bedanya? Deskripsi baik langsung kasih tahu *reviewer* apa yang harus dicek, kenapa fitur ini dibuat, dan bagaimana cara mengetesnya. *Reviewer* gak perlu nebak-nebak. Kalau semua PR ditulis kayak gini, tim gak buang-buang waktu."
+
+Binto mengangguk. *Ternyata nulis deskripsi PR juga ada seninya. Bukan sekadar "ini lho kode gue, review ya."*
+
+Mas Alin menekan Create Pull Request.
 
 "Nah, sekarang PR sudah dibuat. Tapi belum bisa di-*merge* sebelum ada yang *approve*. Saya sebagai *maintainer* yang punya hak *approve*. Nanti saya *review* dulu kodenya."
 
@@ -193,13 +263,37 @@ Binto mengangguk paham. "Jadi *Pull Request* itu semacam... izin dulu gitu, Mas?
 
 Mas Alin men-scroll kode Binto di layar. Matanya teliti menyusuri setiap baris. Ia lalu menyorot satu blok kode dan mengetikkan komentar langsung di antarmuka GitHub.
 
-"Ini contohnya," kata Mas Alin. "Logikamu sudah benar. Tapi ada satu hal..." Ia menunjuk layar. "Function-mu jalan, tapi variable-nya bikin orang lain mikir dua kali. Variabel `tmp` itu terlalu umum. Mending diganti `total_pendapatan` biar orang yang baca kodemu nanti langsung paham."
+"Ini contohnya," kata Mas Alin. "Logikamu sudah benar. Coba lihat komentar saya." Ia memutar layar laptop agar Binto bisa membaca:
 
-Binto mengangguk cepat. "Siap, Mas. Masuk akal."
+text
+### Komentar dari Mas Alin:
+Halo, To. Logikanya udah bener. Hasil akhirnya udah sesuai acceptance criteria. Aku kasih catatan kecil ya:
 
-"Satu lagi," tambah Mas Alin. "Fungsi hitung ini dipanggil dua kali. Itu boros memori. Simpan dulu hasilnya di variabel, baru panggil lagi."
+### 1. Nama variabel `tmp` (BarangController.php:27)
+Saran: ganti jadi `total_pendapatan`.
+Alasan: `tmp` terlalu generik. Seminggu lagi kamu buka kode ini, kamu sendiri bisa lupa `tmp` itu isinya apa. Nama variabel harus menjelaskan isinya, bukan tipe-nya.
 
-Binto mencatat dalam hati. *Code review beneran kayak gini. Bukan ajang nyalahin, tapi diskusi dan ngebantu.*
+### 2. Pemanggilan fungsi duplikat (BarangService.php:42-45)
+Fungsi `hitungTotal()` dipanggil dua kali — di baris 42 dan 45. Ini boros karena query database bisa jalan dua kali.
+Saran: Simpan hasilnya di variabel dulu.
+```php
+$total = $this->hitungTotal($tanggal);
+$this->setRingkasan($total);
+$this->setPendapatan($total);
+```
+
+### 3. Validasi tanggal (BarangService.php:18)
+Ini oke, tapi coba dipastiin juga ngecek tahun kabisat ya. Februari 2024 punya 29 hari, jangan cuma 28.
+
+Overall: Kode udah rapi. Dua catatan di atas minor, tapi perbaiki dulu ya biar makin clean. Good job buat PR pertama!
+
+"Lihat formatnya, *Le*," kata Mas Alin. "Saya gak cuma bilang 'ini salah'. Saya kasih tahu: apa masalahnya, di mana lokasinya, kenapa jadi masalah, dan gimana cara perbaikinya — lengkap dengan contoh kode. Itu bedanya *code review* yang konstruktif dengan yang cuma nyalahin."
+
+Binto mengangguk cepat. "Ini enak banget, Mas. Saya langsung tahu apa yang harus diperbaiki. Gak perlu nebak-nebak."
+
+"Prinsipnya, *Le*: *review* itu tujuannya buat ngebantu, bukan buat ngerendahin. Pujilah yang sudah benar. Kasih saran yang spesifik untuk yang perlu perbaikan. Dan selalu pisahkan antara kritik ke kode dengan kritik ke orangnya. Kode bisa jelek, itu wajar — namanya juga belajar. Tapi orangnya jangan direndahkan."
+
+Binto mencatat dalam hati. *Code review beneran kayak gini. Bukan ajang nyalahin, tapi diskusi dan ngebantu. Ada pujian, ada saran, ada contoh konkret.*
 
 "Tapi, Mas," Binto bertanya. "Apakah aturan *review* dan *approve* ini kaku banget? Kalau misalnya ada *bug* darurat tengah malam dan Mas Alin lagi tidur, gimana?"
 

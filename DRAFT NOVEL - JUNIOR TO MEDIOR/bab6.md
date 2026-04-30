@@ -44,7 +44,7 @@ Sore harinya, ia mencoba aplikasinya. Tambah barang: berhasil. Edit: berhasil. H
 
 ## **6.3 Review Pagi: Bingung Sendiri**
 
-Keesokan paginya, Mas Alin mendatangi meja Binto sambil membawa cangkir enamel animenya.
+Keesokan paginya, Mas Alin mendatangi meja Binto sambil membawa cangkir enamel wayangnya.
 
 "Gimana, *Le*? Sudah bisa dilihat?"
 
@@ -206,6 +206,22 @@ Proses ini memakan waktu hampir dua jam. Setiap kali selesai satu bagian, Binto 
 
 Mas Alin hanya duduk di sampingnya, sesekali memberi petunjuk kecil: "Nah, itu fungsi cekStokMenipis taruh di *Service*, bukan di *Repository*." Atau: "*Repository* jangan pakai echo. Itu urusan *View*."
 
+Saat Binto selesai memindahkan logika validasi stok ke *Service*, Mas Alin menunjuk nama fungsinya. "Soal penamaan, *Le*. Coba lihat lagi nama fungsi yang kamu buat."
+
+Binto melihat. Fungsi-fungsi di BarangService.php: `cekStokMenipis`, `hitungTotal`, `simpanData`.
+
+"Ini sudah lumayan," kata Mas Alin. "Tapi ada ruang untuk lebih baik. Aturan praktisnya gampang: nama variabel dan fungsi harus menjawab apa, bukan bagaimana. `cekStokMenipis` — jelas, langsung bisa ditebak fungsinya. Tapi `simpanData`? Data apa? Disimpan ke mana? Mending `simpanBarangKeDatabase` — meskipun agak panjang, tapi gak ambigu."
+
+Binto mengangguk. "Terus `hitungTotal`... total apa, Mas?"
+
+"*Nah*, itu pertanyaan yang bagus. `hitungTotal` itu ambigu. Total penjualan? Total stok? Total harga? Mending `hitungTotalNilaiStok` atau `hitungTotalPenjualanHarian`. Lebih panjang dikit, tapi satu tahun lagi kamu baca, langsung paham."
+
+Mas Alin berdiri, meregangkan kakinya. "Ini bedanya *clean code* dan *clever code*, *Le*. Banyak programmer pemula pengen kelihatan pintar. Mereka bikin kode pendek-pendek, satu baris isinya banyak *logic*, namanya satu huruf semua: `x`, `y`, `tmp`, `fn`. Itu *clever code* — kode yang cuma dipahami sama penulisnya, itupun cuma saat dia nulis."
+
+"*Clean code* beda. Nama fungsinya jelas meskipun panjang. Logikanya lurus, gak berbelit-belit — meskipun jadinya lebih banyak baris. Strukturnya terpisah rapi. Tujuannya: orang lain bisa baca kode kamu tanpa harus mikir keras. Itu yang tadi kita kerjakan."
+
+Binto merenung. *Gue dulu sering banget bikin variabel satu huruf. Bangga kalau kode gue pendek dan susah dipahami. Kirain itu keren. Ternyata... itu cuma nyusahin diri sendiri.*
+
 ## **6.7 Pesan untuk Masa Depan**
 
 Setelah semua selesai dan aplikasi kembali berjalan normal, Binto meregangkan tubuhnya. "Selesai, Mas."
@@ -326,6 +342,6 @@ Cahaya matahari sore mulai melembut. Suara adzan ashar terdengar sayup dari masj
 
 "*Matur suwun*, Mas. Hari ini saya belajar banyak."
 
-Mas Alin mengangkat cangkirnya, memberi hormat kecil. "*Sami-sami*, *Le*. Besok kita lanjut lagi. Masih banyak kamar yang perlu disekat di rumahmu."
+Mas Alin mengangkat cangkirnya, memberi hormat kecil. "*Sami-sami*, *Le*. Besok kita lanjut lagi. Masih banyak kamar yang perlu disekat di rumahmu. Dan masih banyak prinsip yang harus dipelajari."
 
-Mereka tertawa kecil. Burung-burung gereja terbang pulang. Hari hampir berakhir, tapi fondasi rumah kode Mas Binto baru saja dibangun.
+Mereka tertawa kecil. Burung-burung gereja terbang pulang. Hari hampir berakhir, tapi fondasi rumah kode Mas Binto baru saja dibangun — dengan sekat yang rapi, nama yang jelas, dan janji untuk terus belajar.

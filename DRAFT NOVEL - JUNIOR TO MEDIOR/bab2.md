@@ -141,7 +141,49 @@ Layar menampilkan satu baris *commit* dengan kode acak, nama "Alin", tanggal, da
 
 Binto manggut-manggut. "Jadi tiap kali aku *ngoding*, aku harus *add* terus *commit*?"
 
-"Ada sih *shortcut*-nya biar sekaligus, tapi sebagai awalan, idealnya begitu. Tapi jangan *commit* sembarangan. *Commit* itu buat perubahan yang bermakna. Misal: 'tambah fitur login', 'perbaiki bug perhitungan bunga', atau 'update warna tombol'. Bukan *commit* dengan pesan 'perbaiki dikit' atau 'lupa tadi'."
+"Ada sih *shortcut*-nya biar sekaligus, tapi sebagai awalan, idealnya begitu. Tapi jangan *commit* sembarangan. *Commit* itu buat perubahan yang bermakna." Mas Alin membuka terminal dan mulai mengetik.
+
+"Lihat ini," katanya sambil menunjuk layar. "Ini contoh *commit* yang buruk:"
+
+```text
+commit a1b2c3d4...
+Author: prog_baru <progbaru@mail.com>
+Date:   Thu Apr 16 10:14:22 2026 +0700
+
+    perbaiki dikit
+```
+
+Binto membaca dan mengernyit. "Apa yang diperbaiki, Mas?"
+
+"Nah, itu dia. Kamu aja bingung, apalagi temanmu yang lain. Coba bayangin tiga bulan lagi kamu balik baca *log* ini. Kamu ingat gak 'dikit' yang mana? Apakah itu ngubah warna tombol? Atau nambah validasi? Atau hapus *bug* yang bikin server *down*? Kamu gak akan tahu. *Commit* kayak gini cuma sampah di *history*."
+
+Ia mengetik lagi.
+
+"Sekarang bandingkan dengan ini:"
+
+```text
+commit e5f6g7h8...
+Author: alin <alinsholeh@gmail.com>
+Date:   Thu Apr 16 10:18:45 2026 +0700
+
+    fix: perbaiki validasi tanggal lahir kosong di form registrasi
+    
+    Sebelumnya user bisa submit form tanpa mengisi tanggal lahir,
+    menyebabkan error 500 di server. Sekarang ditambahkan validasi
+    required di frontend dan backend.
+```
+
+"Ini *commit* yang baik. Judulnya jelas, pakai kata kerja aktif—'fix', 'tambah', 'update', 'hapus'. Kalau perlu, tambah deskripsi singkat di bawahnya. Jadi orang lain—termasuk kamu sendiri tiga bulan lagi—bisa langsung paham apa yang diubah dan kenapa."
+
+Binto mengangguk. Ia teringat folder *backup* skripsinya: `Project_Backup_12_Juni_FINAL_REV2_FIX`. *Sama aja*, pikirnya. *Sama kacau dan gak jelasnya.*
+
+"Terus, Mas, ada aturan lagi buat *commit*?"
+
+"Satu prinsip emas: satu *commit*, satu tujuan. Kalau kamu ngerjain tiga *bug* sekaligus, tiga *commit* terpisah. Jangan digabung jadi satu dengan pesan 'perbaiki beberapa bug'. Git itu kayak resep masakan. Kalau nanti rasanya aneh, kita bisa cek bumbu mana yang bikin aneh—bukan malah bingung karena semua bumbu dicampur jadi satu."
+
+"Jadi kerjaannya gue cuma di laptop ini doang, Mas? Gimana caranya kode ini sampai ke yang lain?"
+
+"Nanti kalau sudah biasa, baru kamu pakai [`git push`]—kirim kode ke server *cloud*. Dan sebaliknya, [`git pull`] buat ambil kode temanmu yang sudah di-*push*. Tapi itu untuk besok. Hari ini cukup paham yang lokal dulu."
 
 ## **2.4 Cabang-Cabang Kehidupan**
 
@@ -190,6 +232,14 @@ Binto melongo. "Lho? Kok hilang?"
 "Karena perubahan tadi ada di cabang fitur-pinjaman. Di cabang main, belum ada perubahan apa-apa. Makanya cabang itu aman. Kamu bisa eksperimen di cabang sendiri tanpa takut merusak yang utama."
 
 Binto mulai melihat gambaran besarnya. Ini seperti punya *save file* di game RPG. Sebelum melawan *boss*, dia bisa *save* dulu. Kalau mati, tinggal *load* lagi.
+
+"Tapi, Mas, kalau sudah yakin sama fitur di cabang, gimana caranya gabungin?"
+
+"Itu namanya *merge*, dan `git merge` yang tadi kita singgung sekilas. Tapi sebelum *merge*, biasanya kita bikin *Pull Request*—minta temenmu buat *review* kode kamu dulu sebelum digabung. Itu nanti kedepan baru kita dalami."
+
+Mas Alin menunjuk ke luar jendela. Pohon rambutan itu bergoyang pelan. "Kalau di dunia nyata, kami di sini pakai aturan simpel: *main* itu cabang yang selalu siap *deploy* ke server—gak boleh ada kode rusak di sana. Kalau mau nambah fitur, bikin cabang baru dari *main*. Kalau ada bug darurat, bikin cabang dari *main* juga. Begitu selesai, baru digabung lagi. Jadi *main* selalu bersih. Selalu stabil. Selalu bisa di-*deploy* kapan aja."
+
+Binto mengangguk. Sederhana, tapi masuk akal. Seperti jalan tol: hanya mobil yang sudah siap yang boleh masuk, sisanya antri di jalur masuk dulu.
 
 ## **2.5 Menyelamatkan yang Belum Jelas**
 
