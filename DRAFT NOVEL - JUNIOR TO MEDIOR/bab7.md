@@ -265,3 +265,14 @@ Binto menatap pohon rambutan sekali lagi.
 *Manis*, pikirnya. *Meski pohon di rumah sudah tiada, rasanya masih ada. Seperti data. Meski aplikasi berganti, nilainya tetap tersimpan.*
 
 Di kejauhan, suara adzan ashar mulai berkumandang. Waktu menunjukkan pukul empat sore. Sabtu hampir berakhir. Tapi pelajaran tentang tulang punggung sistem ini akan terus melekat.
+
+---
+## **Ringkasan Materi IT Bab 7**
+
+* **Normalisasi Database**: Proses merancang *database* untuk menghindari duplikasi data dan struktur tabel yang terlalu "gemuk" (misalnya membuat kolom `barang1`, `barang2` hingga `barang10` dalam satu tabel). Solusinya adalah memecah tabel menjadi tabel-tabel kecil yang saling berelasi (seperti tabel `transaksi_header` dan `transaksi_detail`), sehingga fleksibel dan menghemat ruang.
+* **Denormalisasi**: Langkah sengaja melanggar aturan normalisasi (misal: menyimpan `total_harga` di tabel *header* padahal bisa dihitung dari tabel *detail*) demi mempercepat performa pembacaan data, agar tidak perlu terlalu banyak melakukan kalkulasi (*JOIN*) yang memberatkan server.
+* **Transaksi Database & Prinsip ACID**: Fitur keamanan basis data untuk mengeksekusi sekumpulan aksi (*query*) sebagai satu kesatuan utuh. Jika ada gangguan listrik di tengah proses, seluruh perubahan akan dibatalkan (*Rollback*), bukan tersimpan setengah-setengah. Prinsipnya disebut **ACID** (*Atomicity, Consistency, Isolation, Durability*), sangat wajib untuk aplikasi yang menangani uang.
+* **SQL vs NoSQL**:
+  * **SQL (Relational)**: Seperti lemari arsip bersingkat. Strukturnya baku, sangat kuat untuk *query* data yang kompleks (*JOIN* tabel), dan menjamin integritas data (cocok untuk koperasi, bank, dan *e-commerce*).
+  * **NoSQL**: Seperti gudang raksasa. Strukturnya bebas (dokumen bisa berbeda bentuk), sangat cepat untuk menyimpan dan membaca miliaran data sederhana, namun lemah jika digunakan untuk relasi data yang rumit (cocok untuk *log* sistem, media sosial, atau *cache*).
+* **Refactoring vs Rewrite**: Memperbaiki kode lama yang berantakan (*refactoring*) seringkali lebih bijak daripada menghapusnya dan membuat dari nol (*rewrite*). Sistem lama menyimpan aset berharga berupa data transaksi dan aturan bisnis (*business rules*) yang mungkin belum terdokumentasi di tempat lain.

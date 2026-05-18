@@ -243,5 +243,17 @@ Motor dinyalakan. Satu per satu mereka meninggalkan kafe. Binto menatap spanduk 
 Dari disket, FTP, Git pull manual, hingga robot-robot yang bekerja dalam sunyi di balik layar. Semua adalah bagian dari perjalanan panjang sebuah kode.
 
 Dan ia tahu, ini satu langkah lagi menuju *medior*.
+Dan ia tahu, ini satu langkah lagi menuju *medior*.
 
 ---
+## **Ringkasan Materi IT Bab 12**
+
+* **Evolusi Deployment (Rilis Aplikasi)**:
+  * **Fisik (Disket/CD)**: Sangat lambat dan berisiko (disket rusak, instalasi satu per satu di lokasi klien).
+  * **FTP/cPanel (Manual Upload)**: Rentan *human error* (lupa unggah berkas tertentu, salah masuk folder) dan sering putus di tengah jalan akibat koneksi.
+  * **Git Pull (Semi-Manual)**: Jauh lebih rapi karena menggunakan Git di server, namun masih bergantung pada kejelian manusia untuk menjalankan perintah tambahan secara manual (seperti mengunduh dependensi atau _restart_ server).
+* **CI/CD (Continuous Integration / Continuous Deployment)**: Ibarat pabrik perakitan otomatis. Begitu *programmer* mengirim (*push*) kode, robot perangkat lunak akan mengambil alih.
+  * **CI (Continuous Integration)**: Robot akan menguji kode (*Unit Test*), mengecek kerapian kode, dan memindai celah keamanan (seperti membocorkan kata sandi *database* di kode).
+  * **CD (Continuous Deployment)**: Jika semua tes lulus, robot akan merakit (*build*) aplikasi dan mengirimkannya (*deploy*) ke *server production* secara otomatis.
+* **Peran DevOps**: Posisi khusus yang menjadi jembatan antara Pembuat Kode (*Developer*) dan Pengelola Infrastruktur (*Operations*). Tugasnya merancang dan merawat "pipa" CI/CD ini serta memastikan *server* berjalan stabil, sehingga *developer* bisa murni fokus pada pembuatan fitur.
+* **Plus Minus CI/CD**: Sangat menekan kesalahan manusia dan mempercepat siklus kerja, namun memerlukan waktu lebih di awal proyek untuk merancang *pipeline* dan memaksa *developer* untuk rajin menulis kode tes. Tidak wajib untuk aplikasi berskala kecil atau luring (*offline*).

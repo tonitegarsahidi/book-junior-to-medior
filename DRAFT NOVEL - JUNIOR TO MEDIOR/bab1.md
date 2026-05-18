@@ -2,15 +2,18 @@
 
 ## **1.1 Jalan Pulang**
 
-Desember di Blitar tidak pernah kejam.
+Desember di Blitar tidak pernah membuat gentar.
 
-Langit pagi itu biru muda, disapu awan tipis cumulus yang bergerak pelan ke arah Gunung Kelud. Udara yang masuk lewat celah helm Binto terasa sejuk, bukan dingin menggigit seperti di Malang, bukan juga pengap seperti Jakarta yang baru saja ia tinggalkan. Ini sejuk yang ramah. Sejuk yang sudah ia rindukan selama dua tahun terakhir.
+Sebaris tipis awan cumulus menggelayut manja, pelan terdorong angin ke arah Gunung Kelud. Langit pagi itu biru muda setengah tua, cerah diusap hujan deras semalam.
+Udara yang masuk lewat celah helm Binto terasa sejuk, bukan dingin menggigit seperti di Malang, bukan juga pengap seperti Jakarta yang baru saja ia tinggalkan. Ini sejuk yang ramah. Sejuk yang sudah ia rindukan selama beberapa tahun terakhir.
 
-Motor Beat merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, warung soto dan toko pupuk mulai buka. Ibu-ibu menyapu halaman, bapak-bapak duduk di teras sambil menyeruput kopi dan memandangi sawah. Pemandangan yang tidak akan ia temukan di Jakarta.
+Tapi ini memang Desember, musim penghujan. Entah kemarau nanti, Binto sudah agak lupa hawa seharusnya kota yang ia tinggalkan 6 tahun silam.
 
-*Dua puluh menit*, pikir Binto. *Cuma dua puluh menit dari rumah ke kantor*. Di Jakarta, dua puluh menit bahkan tidak cukup untuk keluar dari satu halte Transjakarta ke halte berikutnya di jam sibuk.
+Motor matic merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, warung-warung dan toko mulai buka. Ibu-ibu menyapu halaman rumahnya yang luas, bapak-bapak duduk di teras sambil menyeruput kopi dan memandangi sawah. Anak-anak sekolah berangkat dengan sepeda kayuh beraneka warna. Pemandangan yang kian langka ia temukan di Jakarta.
 
-Dua tahun terakhir di Jakarta mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Ia bekerja di sebuah perusahaan distributor alat berat, bagian administrasi data. Kerjaannya: input angka ke Excel, kirim email, sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup, bahkan lebih dari cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong.
+*Dua puluh menit*, pikir Binto. *Cuma dua puluh menit dari rumah ke kantor*. Di Jakarta, dua puluh menit bahkan kadang tak cukup untuk keluar dari satu halte Transjakarta ke halte berikutnya di jam sibuk.
+
+Dua tahun berkarir di pusat Jakarta memang mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Ia bekerja di sebuah perusahaan distributor alat berat, bagian administrasi data. Kerjaannya: input angka ke Excel, kirim email, sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup, bahkan lebih dari cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong di jiwanya.
 
 Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering menatap langit-langit dan bertanya: Apa *ini yang gue mau?*
 
@@ -20,27 +23,32 @@ Lalu telepon dari Om Herman datang.
 
 Pesan itu membuat Binto kaget. Ia tahu ayahnya pernah didiagnosis diabetes, tapi kali ini beda. Melalui telepon, Om Herman bercerita kalau ayahnya ternyata sudah dua kali masuk rumah sakit dalam sebulan terakhir.
 
-Andai bukan Om Herman yang telepon, tentulah Binto tak akan tahu ayahnya sakit. Beliau adalah tipikal ayah yang pendiam, tidak suka mengeluh sakit, dan punya gengsi tinggi untuk tidak "ngrepoti" anaknya. Ibu tentu sudah diwanti-wanti untuk tidak memberi tahu.
+Andai bukan Om Herman yang telepon, tentulah Binto tak akan tahu ayahnya sakit. Beliau adalah tipikal ayah yang pendiam, tidak suka mengeluh sakit, dan punya gengsi tinggi untuk tidak "ngrepoti" anaknya. Ibu tentu sudah diwanti-wanti untuk tidak memberi tahu Binto.
 
 Saat Binto menelepon dan bilang ingin pulang, Bapaknya justru melarang.
 
-"Eman ilmu, To. Di Blitar ini gak ada perusahaan besar, apalagi buat sarjana IT kayak kamu," kata Bapak waktu itu. Dorongannya agar Binto tetap merantau bukanlah karena tidak sayang, melainkan karena tidak ingin anaknya menyia-nyiakan gelar sarjananya.
+"Eman ijazahmu, To. Di Blitar ini gak ada perusahaan besar, apalagi buat sarjana IT kayak kamu," kata Bapak waktu itu.
+Dorongannya agar Binto tetap mengejar karir di tanah rantau bukanlah karena tidak sayang, melainkan karena tidak ingin anaknya menyia-nyiakan gelar sarjananya di kota sekecil Blitar.
 
-Tapi Binto sudah membuat keputusan. Ia tak mau mengulang penyesalan. Dua minggu setelah telepon itu, Binto mengajukan resign.
+Tapi Binto sudah membuat keputusan. Ia tak mau berselimut penyesalan kedepannya. 
+Dua minggu setelah telepon itu, Binto mengajukan resign.
 
 "Saya mau pulang, Pak. Dekat orang tua."
 
-Atasannya mengangguk maklum. "Blitar ya? Ada lowongan IT di sana?"
+Atasannya mengangguk maklum. "Blitar ya? Udah ada kerjaan buat kamu di sana?"
 
 "Entah, Pak. Saya cari aja dulu."
 
-Ternyata Allah maha baik. Seminggu sebelum kepulangannya, sebuah email masuk. *Garda Teknologi Nusantara*—nama yang belum pernah ia dengar—menerimanya untuk posisi *Junior Software Engineer*. Startup? Vendor? Ia tidak peduli. Yang penting: lokasinya di Srengat, Blitar. Hanya dua puluh menit dari rumah Bapak. Tak ada test teknis seperti pada umumnya, hanya HRD yang mewawancarainya via *Zoom*.
+Ternyata Allah maha baik. Seminggu sebelum kepulangannya, sebuah email masuk. *Garda Teknologi Nusantara*—nama yang belum pernah ia dengar—menerimanya untuk posisi *Junior Software Engineer*. Startup? Vendor? Ia tidak peduli. Yang penting: lokasinya di Srengat, Blitar. Hanya dua puluh menit dari rumah Bapak. Tak ada test teknis seperti pada umumnya, hanya HRD yang mewawancarainya via *Zoom*. Tak ada technical interview seperti yang diceritakan teman-teman IT nya.
 
 *Pas banget*, pikirnya waktu itu. *Sambil cari pengalaman IT beneran, sambil jagain Bapak*.
 
 Tapi ada satu hal yang tidak ia sadari pagi itu, saat motornya mengikuti arahan Google Maps berbelok masuk ke sebuah gang kecil di belakang pasar Srengat: bahwa definisinya tentang *"pengalaman IT beneran"* akan segera dihancurleburkan.
 
 ## **1.2 Kantor di Gang Sempit**
+
+Jam masih menunjukkan pukul 07.30. Hari pertama tentulah ia harus datang tanpa terlambat. "Khawatir macet" sebagaimana bayangannya selama ini di ibu kota ternyata tak terbukti. Selain sebuah perempatan lampur merah, jalanan pagi tadi lancar jaya tak ada kendala. 
+Ternyata benar 20 menit
 
 *Beneran ini tempatnya?* Binto bergumam dalam hati.
 
@@ -276,3 +284,11 @@ Di pojokan, Mas Alin kembali menatap *terminal*\-nya. Tangannya mengetik cepat. 
 
 Tapi dalam hati ia lanjut menggerutu, 
 "Duh setertinggal ini kah kurikulum di kampus IT kita?"
+
+---
+## **Ringkasan Materi IT Bab 1**
+
+* **Deployment**: Proses mengunggah dan mengonfigurasi aplikasi ke sebuah server (baik fisik maupun *cloud*) agar bisa diakses oleh pengguna secara luas, bukan hanya berjalan secara lokal di laptop *programmer*.
+* **Version Control System (VCS) / Git**: Sistem yang mencatat setiap perubahan pada kode sumber. Dalam dunia kerja, Git sangat krusial karena mencegah kode hilang dan memungkinkan banyak *programmer* untuk mengerjakan satu *project* secara bersamaan.
+* **Kolaborasi Kode (Branching, Merge, Pull Request)**: Alih-alih melakukan *copy-paste* file secara manual (seperti *download ZIP*), *engineer* menggunakan *branch* (cabang kode) terpisah untuk membuat fitur baru, lalu menggabungkannya (*merge*) lewat mekanisme *Pull Request* agar pekerjaan satu orang tidak menabrak pekerjaan orang lain.
+* **Software Engineering Process (Agile, Scrum, Sprint)**: Kerangka kerja manajerial dalam pengembangan *software*. Pekerjaan tidak dilakukan sebagai satu tugas raksasa sekaligus, melainkan dibagi dalam siklus pendek yang disebut *Sprint*, lalu dievaluasi terus-menerus (*daily meeting*) untuk menyesuaikan dengan kebutuhan klien atau *user*.

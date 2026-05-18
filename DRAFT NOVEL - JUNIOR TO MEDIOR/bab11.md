@@ -237,3 +237,16 @@ Di luar, sinar matahari sore mulai miring. Suara adzan ashar dari masjid desa de
 *Staging. Git flow. Clean history.*
 
 Dan ia tahu, ini baru satu langkah lagi menuju *medior*.
+
+---
+## **Ringkasan Materi IT Bab 11**
+
+* **Environment: Staging vs Production**: Lingkungan peladen (*server*) dipisah untuk meminimalisasi risiko.
+  * **Production**: Panggung utama (*live*). Digunakan oleh pengguna asli. Segala jenis *error* di sini akan langsung berdampak pada jalannya bisnis.
+  * **Staging**: Panggung gladi resik. Sebuah *server* replika yang konfigurasinya dibuat semirip mungkin dengan *Production*. Di sinilah tim QA menguji fitur baru dengan berbagai skenario (termasuk skenario ekstrem/nyeleneh) dengan aman tanpa takut merusak data asli pengguna.
+* **Strategi Branching Git (Clean History)**: Menjaga alur kode agar bersih dan tidak tumpang tindih. Kesalahan umum adalah menggabungkan (*merge*) *branch Staging* langsung ke *Production*. Praktik terbaiknya adalah:
+  1. Buat *branch fitur* dari *Production*.
+  2. Gabungkan *branch fitur* ke *Staging* untuk diuji oleh QA.
+  3. Jika lulus uji, gabungkan *branch fitur* yang bersih tersebut langsung ke *Production*.
+  Dengan cara ini, jika ada fitur lain di *Staging* yang ditolak atau ditunda rilisnya, fitur cacat tersebut tidak akan ikut terbawa masuk ke *Production*.
+* **Mentorship dalam Tim**: Perbedaan mendasar tingkat *Junior* dan *Medior/Senior* bukan sekadar jago *coding*, melainkan kemampuan untuk menjelaskan *mengapa (why)* suatu prosedur (seperti *deploy* ke *staging* dulu) harus dilakukan, bukan sekadar menyuruh bawahan menghafal instruksi buta.

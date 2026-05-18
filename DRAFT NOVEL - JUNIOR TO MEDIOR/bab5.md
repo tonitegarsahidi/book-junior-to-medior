@@ -337,6 +337,13 @@ Di kepalanya, istilah "No Silver Bullet" terngiang-ngiang. Juga bayangan lowonga
 
 Dan ia tahu, ini baru permulaan.
 
-# 
+---
+## **Ringkasan Materi IT Bab 5**
 
-#
+* **No Silver Bullet**: Istilah klasik dari Fred Brooks (1986) yang berarti tidak ada satupun teknologi, bahasa pemrograman, atau metode ajaib yang bisa menyelesaikan semua masalah *software engineering*. Setiap alat diciptakan dengan kelebihan dan kekurangannya masing-masing.
+* **Memilih Teknologi vs Hype (Sindrom Objek Berkilau)**: Memilih tumpukan teknologi (*tech stack*) tidak boleh sekadar ikut-ikutan tren atau melihat grafik kecepatan (*benchmark*). Faktor yang lebih penting di dunia nyata adalah: kecocokan dengan ekosistem klien, ketersediaan SDM (*hiring*), kecepatan *development*, dukungan komunitas, dan biaya operasional (seperti *hosting* PHP yang jauh lebih murah dibanding menyewa VPS untuk Go/Rust).
+* **Arsitektur: Monolith vs Microservices**:
+  * **Monolith**: Seluruh kode aplikasi digabung dalam satu tempat. Sangat cocok untuk proyek skala kecil-menengah dan tim yang ringkas karena lebih mudah dikelola.
+  * **Microservices**: Aplikasi dipecah menjadi layanan-layanan kecil yang mandiri. Digunakan oleh perusahaan raksasa (seperti *unicorn*) dengan ratusan *engineer* dan jutaan *traffic* agar setiap tim bisa memodifikasi bagiannya tanpa mengganggu keseluruhan sistem. Bawaan kerjanya adalah tingginya kompleksitas dan biaya server.
+* **Technical Debt (Utang Teknis)**: Konsekuensi dari mengambil "jalan pintas" saat menulis kode demi mengejar *deadline* (misal: fitur tanpa validasi yang proper). Seperti utang finansial, utang teknis memiliki "bunga"—jika tidak segera dibayar (lewat perbaikan/ *refactoring*), kode akan semakin kusut dan sulit dikembangkan di masa depan. Berhutang teknis boleh jika disengaja (untuk mengejar rilis darurat), asal ingat untuk melunasinya.
+* **Sistem Legacy (Warisan)**: Teknologi lama yang sering dianggap "kuno" atau "mati" (seperti COBOL, Java *Enterprise* lama) namun sebenarnya masih sangat hidup dan vital karena menopang sistem-sistem berskala raksasa yang terlalu berisiko untuk diganti (misal: sistem perbankan/asuransi global). Spesialis di bidang ini sering kali dibayar sangat mahal karena kelangkaan talenta muda yang mau mengerjakannya.

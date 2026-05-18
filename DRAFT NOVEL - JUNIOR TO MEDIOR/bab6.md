@@ -345,3 +345,17 @@ Cahaya matahari sore mulai melembut. Suara adzan ashar terdengar sayup dari masj
 Mas Alin mengangkat cangkirnya, memberi hormat kecil. "*Sami-sami*, *Le*. Besok kita lanjut lagi. Masih banyak kamar yang perlu disekat di rumahmu. Dan masih banyak prinsip yang harus dipelajari."
 
 Mereka tertawa kecil. Burung-burung gereja terbang pulang. Hari hampir berakhir, tapi fondasi rumah kode Mas Binto baru saja dibangun — dengan sekat yang rapi, nama yang jelas, dan janji untuk terus belajar.
+
+---
+## **Ringkasan Materi IT Bab 6**
+
+* **Spaghetti Code vs Clean Code**: *Spaghetti code* adalah analogi untuk kode yang berantakan, di mana antarmuka, logika bisnis, dan akses *database* bercampur aduk di satu tempat (seperti rumah tanpa dinding sekat). Mengubah satu bagian bisa merusak bagian lain. *Clean code* adalah sebaliknya: kode yang strukturnya rapi, mudah dibaca, dan modular.
+* **Separation of Concerns (Pemisahan Urusan)**: Prinsip untuk memecah program menjadi bagian-bagian terpisah berdasarkan fungsinya. Contoh implementasi umum (seperti pada kerangka kerja Laravel):
+  * **Controller**: Menerima permintaan dari *browser* dan mengembalikan tampilan (*view*).
+  * **Service**: Berisi murni logika bisnis dan aturan-aturan aplikasi.
+  * **Repository**: Khusus mengurus interaksi dengan *database* (*query* SQL).
+  * **View/Layout**: Menangani tampilan UI untuk pengguna.
+* **DRY (Don't Repeat Yourself)**: Prinsip untuk tidak mengulang-ulang kode yang sama. Misalnya, memisahkan *header* dan *footer* web ke dalam satu *layout* utama, sehingga halaman lain cukup memanggilnya tanpa perlu menuliskannya ulang.
+* **Penamaan yang Jelas (Naming Convention)**: Nama variabel dan fungsi harus deskriptif dan menjawab "apa yang dilakukan" atau "apa isinya", bukan sekadar singkatan atau 1 huruf (`x`, `y`, `tmp`). Kode harus ditulis agar mudah dibaca oleh manusia, bukan sekadar dipahami mesin.
+* **Fungsi Komentar pada Kode**: Komentar yang baik tidak menjelaskan *apa* yang dilakukan kode (karena kode yang bersih sudah menjelaskannya sendiri), melainkan menjelaskan *mengapa* sebuah keputusan bisnis atau nilai tertentu diambil. Komentar adalah pengingat untuk diri sendiri maupun *engineer* lain di masa depan.
+* **Konfigurasi Terpusat (Constants & .env)**: Hindari menulis langsung (*hardcode*) nilai-nilai penting (seperti batas minimal stok atau pajak) di tengah logika program. Simpan nilai-nilai tersebut di *file* konfigurasi terpusat (seperti `constants.php`) atau di file `.env` jika nilainya bisa berbeda antara laptop *programmer* dan *server* klien.

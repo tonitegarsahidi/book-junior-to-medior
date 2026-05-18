@@ -364,3 +364,19 @@ Mas Alin tertawa. "*Nah*, mulai paham kamu."
 Di luar, pohon rambutan bergoyang pelan. Buah-buahnya yang masih hijau basah oleh sisa hujan. Tapi satu dua mulai menunjukkan semburat kuning di ujungnya.
 
 Januari belum berakhir. Dan perjalanan Binto baru saja dimulai.
+
+---
+## **Ringkasan Materi IT Bab 3**
+
+* **Metodologi Waterfall**: Pendekatan pengembangan *software* yang linear dan berurutan (Analisis -> Desain -> *Coding* -> *Testing*). Cocok untuk proyek dengan kebutuhan yang sudah sangat jelas, spesifik, dan tidak boleh berubah (misal: proyek dengan regulasi ketat). Namun, sangat kaku jika ada perubahan di tengah jalan.
+* **Metodologi Agile & Scrum**: Pendekatan iteratif yang merangkul perubahan. Alih-alih merencanakan segalanya di awal, pekerjaan dibagi dalam siklus pendek yang disebut **Sprint** (biasanya 2 minggu). Fokusnya adalah merilis aplikasi yang sudah bisa dipakai secara bertahap dan terus memperbaikinya berdasarkan *feedback* klien.
+* **Tiga Peran Utama dalam Scrum**:
+  * **Product Owner**: Perwakilan suara klien. Bertugas mendaftar semua kebutuhan (*Product Backlog*) dan menentukan prioritas pengerjaan.
+  * **Scrum Master**: Fasilitator yang memastikan proses Scrum berjalan lancar, menjaga ritme kerja tim, dan membantu menyingkirkan hambatan (*blockers*).
+  * **Development Team**: Tim lintas fungsi (*programmer, tester, designer*) yang bersifat swakelola. Mereka yang menentukan seberapa banyak pekerjaan yang sanggup diselesaikan dalam satu *Sprint*.
+* **Ritual-Ritual Scrum**:
+  * **Sprint Planning**: Rapat awal untuk memilih tugas dari *Product Backlog* yang akan dikerjakan di *sprint* tersebut (*Sprint Backlog*).
+  * **Daily Scrum**: Koordinasi harian singkat (maksimal 15 menit) sambil berdiri. Fokus menjawab 3 hal: apa yang dikerjakan kemarin, apa yang dikerjakan hari ini, dan apa hambatannya. Diskusi teknis panjang dilarang di sini.
+  * **Sprint Review**: Demo hasil kerja selama satu *sprint* langsung kepada *stakeholder* untuk mendapatkan *feedback*.
+  * **Sprint Retrospective**: Rapat internal tim di akhir *sprint* untuk mengevaluasi *proses kerja* (bukan menyalahkan orang). Membahas apa yang sudah baik dan apa yang perlu diperbaiki untuk *sprint* berikutnya.
+* **Papan Visual (Kanban/Task Board)**: Penggunaan medium visual (seperti *sticky notes* di *whiteboard* dengan kolom: *Backlog*, *To Do*, *In Progress*, *Testing*, *Done*) untuk memantau status pekerjaan tim secara transparan dan memberi rasa kepuasan saat menyelesaikan tugas.

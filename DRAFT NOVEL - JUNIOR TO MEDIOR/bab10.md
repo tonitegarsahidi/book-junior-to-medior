@@ -219,3 +219,14 @@ Pakde Suhar tersenyum lebar. "Anak jenengan ini aset berharga lho di perusahaan 
 Wawan hanya bisa menunduk malu, tapi senyum tak bisa lepas dari bibirnya. Binto menatap pemandangan itu dengan rasa hangat yang menjalar di dada. Ia teringat bapaknya sendiri di rumah. Ada kebanggaan yang sama di mata orang tua Wawan, kebanggaan tulus seorang ayah dan ibu yang melihat anaknya berhasil melampaui batasan mereka.
 
 Hari itu, tasyakuran nasi kuning ditutup dengan doa bersama yang dipimpin sang bapak. Sebuah penutup hari yang manis. Dan bagi Binto, pelajaran hari ini—tentang API, tentang *graceful degradation*, dan tentang menghargai pencapaian—adalah langkah solid berikutnya menuju kedewasaan seorang *medior*.
+
+---
+## **Ringkasan Materi IT Bab 10**
+
+* **Error Handling (Manajemen Kesalahan)**: Praktik menangkap dan mengelola *error* agar aplikasi tidak mati mendadak (*crash*) atau menampilkan pesan *error* mentah (seperti pesan SQL dari *database*). Menampilkan *error* mentah bukan hanya membuat pengguna panik, tapi juga membuka celah keamanan bagi peretas.
+* **Exception vs Failure**:
+  * **Exception (Pengecualian)**: *Error* yang bisa diprediksi (misal: stok habis, produk tidak ditemukan). Ditangani menggunakan blok `try-catch` untuk memberikan respons status dan pesan yang ramah pengguna (misal: 422 atau 404).
+  * **Failure (Kegagalan Fatal)**: *Error* yang di luar kendali program (misal: *server database* mati, jaringan putus). Ditangani dengan pesan generik yang elegan (misal: "Sedang ada gangguan teknis", status 500) tanpa menunjukkan *stack trace* kode.
+* **Graceful Degradation (Degradasi Anggun)**: Filosofi perancangan sistem di mana jika satu komponen non-kritis rusak (misalnya fitur rekomendasi AI *error*), aplikasi secara keseluruhan tetap bisa berfungsi dengan baik untuk fitur utamanya (pengguna tetap bisa mencari barang manual dan bertransaksi).
+* **Logging (Pencatatan)**: Menyimpan detail teknis dari setiap *error* (seperti baris kode yang rusak dan parameter yang dikirim) secara rahasia ke dalam berkas log di server. Pengguna mendapat pesan error ramah, sementara *developer* bisa melacak dan memperbaiki masalah aslinya lewat catatan log tersebut.
+* **Global Exception Handler**: Pusat penanganan error otomatis di dalam kerangka kerja (*framework* modern seperti Laravel). Fitur ini membantu *developer* membungkus berbagai jenis error sistem menjadi format JSON yang standar secara terpusat, sehingga tidak perlu menulis `try-catch` berulang kali di setiap baris kode.

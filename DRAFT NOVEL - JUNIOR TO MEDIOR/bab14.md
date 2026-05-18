@@ -203,3 +203,18 @@ Ia menatap papan *sticky notes* di dekat dispenser. Stiker bebek Mas Alin. Stike
 Binto tersenyum. Cahyo sudah pergi. Tapi ilmunya menetap. Dan perjalanan Binto sendiri masih panjang.
 
 Ia membuka laptop, siap untuk tugas berikutnya. Benteng-benteng baru akan terus dibangun. Dan ia akan terus belajar menjaganya.
+
+---
+## **Ringkasan Materi IT Bab 14**
+
+* **Keamanan Sistem (CIA Triad)**: Tiga pilar utama dalam keamanan informasi:
+  1. **Confidentiality (Kerahasiaan)**: Mencegah data sensitif bocor ke pihak yang tidak berhak (misal: kebocoran data pelanggan).
+  2. **Integrity (Keutuhan)**: Mencegah data diubah oleh pihak yang tidak berwenang (misal: *hacker* mengubah saldo tabungan atau harga barang).
+  3. **Availability (Ketersediaan)**: Memastikan sistem selalu bisa diakses kapan pun dibutuhkan (melindungi dari *server down* atau serangan siber yang membuat sistem lumpuh).
+* **Ancaman Siber Klasik**:
+  * **SQL Injection**: Menyelipkan perintah *database* liar lewat formulir input (seperti kolom pencarian) untuk mencuri/merusak data. Dicegah dengan *Prepared Statement* atau menggunakan *framework* ORM yang aman.
+  * **XSS (Cross-Site Scripting)**: Menyelipkan *script* jahat (seperti JavaScript) lewat kolom komentar publik untuk mencuri *cookie* pengunjung lain. Dicegah dengan teknik *escaping* (membersihkan karakter khusus sebelum ditampilkan).
+* **Password Hashing**: Haram hukumnya menyimpan kata sandi pengguna dalam bentuk teks asli (*plain text*) di dalam *database*. Kata sandi harus diacak secara matematis satu arah (menggunakan algoritma seperti *bcrypt* atau *argon2*). Jika *database* bocor, peretas hanya mendapat rentetan teks acak yang tidak bisa dikembalikan ke bentuk aslinya.
+* **Infrastruktur Keamanan**: Keamanan bukan hanya soal kode aplikasi, tapi juga *server*. Hal ini mencakup penggunaan VPN untuk meremote *server* secara privat, *Firewall* untuk membatasi pintu masuk, hingga perangkat lunak pelindung (*Fail2Ban*) yang memblokir akses jika ada yang mencoba menebak *password* berkali-kali.
+* **Shift-Left Security & DevSecOps**: Menanamkan pola pikir keamanan sejak fase perancangan awal pembuatan aplikasi (menggeser ke "kiri" atau awal waktu), bukan baru mengecek keamanan di saat-saat terakhir menjelang aplikasi rilis.
+* **ISO 27001**: Sertifikasi standar internasional untuk Sistem Manajemen Keamanan Informasi (SMKI), seringkali menjadi prasyarat jika ingin menggarap proyek aplikasi pemerintahan, perbankan, atau perusahaan multinasional besar.

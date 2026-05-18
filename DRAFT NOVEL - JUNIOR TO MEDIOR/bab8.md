@@ -418,3 +418,19 @@ Binto mengangguk. Tanggung jawab baru ini terasa berat, tapi juga memacu.
 "*Sami-sami*. Besok kita lanjut. Tambah endpoint lain. Sempurnakan."
 
 Di atas mereka, pohon rambutan bergoyang pelan. Buah-buahnya yang merah siap dipanen lagi. Seperti proyek API ini—buah dari pembelajaran yang siap dipetik.
+
+---
+## **Ringkasan Materi IT Bab 8**
+
+* **Monolitik vs API-based (Decoupled)**: Aplikasi Monolitik menggabungkan tampilan web (*frontend*) dan logika (*backend*) menjadi satu kesatuan. Saat klien butuh aplikasi *mobile*, arsitektur harus diubah menjadi *API-based* di mana *backend* dan *frontend* dipisah. *Backend* cukup menyediakan data mentah (API), lalu beragam *frontend* (Web, Mobile App) tinggal "mencolok" dan memakainya.
+* **API & JSON**: API (*Application Programming Interface*) adalah "pelayan restoran" yang menghubungkan aplikasi *mobile* dengan *database server*. Mereka berkomunikasi menggunakan format data standar yang ringan dan mudah dibaca oleh semua bahasa pemrograman, yaitu **JSON** (*JavaScript Object Notation*).
+* **Komponen REST API**:
+  * **Endpoint**: Alamat URL spesifik untuk meminta data (misal: `/api/products`).
+  * **HTTP Methods**: Kata kerja yang mewakili aksi: `GET` (baca), `POST` (buat baru), `PUT/PATCH` (ubah), `DELETE` (hapus).
+  * **Status Code**: Kode respons server (misal: `200` sukses, `201` berhasil dibuat, `400` *request* salah format, `401` belum login, `403` tidak punya hak akses, `404` alamat tidak ditemukan, `500` server *error*).
+* **Stateful vs Stateless**: Web tradisional mengingat sesi pengguna di memori server (*Stateful*). REST API bersifat *Stateless*: server tidak mengingat siapa penggunanya. Setiap permintaan baru harus selalu membawa bukti identitas (seperti tiket).
+* **Autentikasi, Otorisasi, dan Token**:
+  * **Autentikasi**: Proses mengecek "Siapa Anda?" (Login menggunakan *email* dan *password*).
+  * **Bearer Token**: "Kunci kamar" (*string* acak) yang diberikan server setelah *login* sukses. Kunci ini harus selalu diselipkan di dalam *Header* pada permintaan API selanjutnya.
+  * **Otorisasi**: Proses mengecek "Apa hak akses Anda?" (misal: Token milik *sales* tidak boleh dipakai untuk menghapus data produk).
+* **API Contract / Dokumentasi**: Kesepakatan di awal antara pembuat *backend* dan *mobile* tentang bentuk data API (Endpoint, Method, Parameter, format *Response*). Berkat kontrak ini (biasanya didokumentasikan di *Postman/Swagger*), kedua tim bisa bekerja berbarengan secara paralel tanpa saling tunggu.

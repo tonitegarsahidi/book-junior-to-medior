@@ -161,3 +161,18 @@ Ia tersenyum kecil. Menjadi *engineer* ternyata bukan soal seberapa cepat menuli
 Perjalanannya dari *junior* menuju *medior* mungkin telah mencapai satu babak. Tapi perjalanan sebagai mentor, sebagai *engineer* yang lebih matang, baru saja dimulai.
 
 Dan siapa tahu, suatu hari nanti, akan ada buku yang menceritakan semua ini.
+
+---
+## **Ringkasan Materi IT Bab 16**
+
+* **Mindset Seorang Medior/Senior**: Transisi dari level *Junior* menuju *Medior* atau *Senior* tidak diukur dari seberapa cepat seseorang mengetik kode atau seberapa banyak bahasa pemrograman yang dihafal. Kedewasaan seorang *engineer* terlihat dari:
+  1. Kemampuan melihat gambaran besar (dampak bisnis dari kode yang ditulis).
+  2. Kesadaran penuh atas keamanan, performa, dan kemudahan pemeliharaan aplikasi di masa depan.
+  3. Ketersediaan untuk menurunkan ego dan bersedia menjadi mentor bagi generasi *engineer* baru.
+* **Rekapitulasi Fondasi Software Engineering**:
+  * **Kolaborasi**: Git (*Branching*, *Clean History*) dan metode kerja Agile/Scrum.
+  * **Kualitas & Rilis**: Praktik *Quality Assurance* (*Shift-Left Testing*), kebiasaan menguji di server *Staging*, otomatisasi rilis dengan CI/CD, dan pemantauan sistem lewat *Logging*.
+  * **Arsitektur & Skalabilitas**: Pemisahan urusan (*Separation of Concerns*), arsitektur *API-based*, *Caching*, *Queueing*, serta pemahaman bahwa *Monolith* berskala horizontal seringkali lebih efisien daripada memaksakan *Microservices*.
+  * **Keamanan**: Menjaga pilar CIA Triad (Kerahasiaan, Keutuhan, Ketersediaan) dari ancaman umum seperti *SQL Injection*, XSS, dan kebocoran *password*.
+* **Siklus Mentorship**: Ilmu IT berkembang sangat pesat. Cara terbaik untuk menguatkan pemahaman teknis diri sendiri adalah dengan mengajarkannya kembali kepada orang lain dengan bahasa yang membumi.
+* **No Silver Bullet (Reprise)**: Mengingatkan kembali prinsip utama bahwa teknologi murni hanyalah "alat". Tidak ada bahasa pemrograman, *framework*, atau metodologi ajaib yang sempurna untuk semua hal. Keahlian sejati seorang *engineer* adalah kemampuannya memilih alat yang paling masuk akal untuk menyelesaikan masalah spesifik yang ada di hadapannya.

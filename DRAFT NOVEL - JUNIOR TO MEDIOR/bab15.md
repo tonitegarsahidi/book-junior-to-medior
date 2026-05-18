@@ -10,7 +10,7 @@ Mbak Rara yang lewat membawa gelas teh hangat ikut nimbrung. "Mas Binto, kok sta
 
 Binto menatap layarnya lagi. "Di production juga, Mbak. Saya barusan cek."
 
-Belum sempat mereka berdua menyimpulkan apa-apa, Mas Alin datang dengan cangkir enamel animenya. "Tumben pada serius lihat grafik. Ada apa?"
+Belum sempat mereka berdua menyimpulkan apa-apa, Mas Alin datang dengan cangkir enamel wayangnya. "Tumben pada serius lihat grafik. Ada apa?"
 
 "Ini, Mas. Response time API Kalimantan naik. Padahal kode gak ada yang berubah."
 
@@ -205,3 +205,15 @@ Binto menatap langit Blitar yang mulai jingga. Perjalanan dari junior ke medior 
 Mas Alin mengangguk. "*Sami-sami*. Besok kita mulai pelan-pelan. Tambah cache dulu, siapkan queue. Yang lain nanti kalau sudah perlu."
 
 Di atas mereka, daun-daun rambutan bergoyang pelan. Musim buah mungkin sudah lewat. Tapi akar pohon itu terus menguat, menopang dahan-dahan yang semakin lebar. Seperti sistem yang terus belajar untuk *scale*—pelan, bertahap, dan tepat sesuai kebutuhan.
+
+---
+## **Ringkasan Materi IT Bab 15**
+
+* **Scaling (Skalabilitas)**: Kemampuan aplikasi untuk tetap berjalan cepat dan stabil meski jumlah pengguna atau datanya melonjak drastis. Ada dua metode utama:
+  1. **Vertical Scaling (Scale Up)**: Meng-upgrade *hardware server* yang ada (menambah RAM, mengganti CPU/SSD). Sederhana, namun memiliki batas maksimal fisik perangkat keras dan sangat mahal di titik tertentu.
+  2. **Horizontal Scaling (Scale Out)**: Menambah jumlah *server* (bukan spesifikasinya) dan membagi rata beban lalu lintas ke semua *server* menggunakan *Load Balancer*. Jauh lebih kompleks (terutama urusan *database*), namun kapasitasnya bisa bertumbuh tanpa batas.
+* **Queue (Sistem Antrean)**: Teknik memindahkan tugas-tugas berat yang memakan waktu (seperti mengirim *email* atau mencetak PDF) ke "belakang layar" (dikerjakan oleh *Worker*), sehingga antarmuka pengguna tidak *loading* lama dan segera merespons "Sukses".
+* **Cache**: Teknik menyimpan data yang sering dibaca dan jarang berubah (seperti daftar produk) ke memori sementara yang sangat cepat. Menghemat kinerja *database*, dengan risiko kecil berupa data lawas (*stale data*) jika *cache* belum diperbarui saat ada perubahan di *database*.
+* **Rate Limiting**: Membatasi jumlah *request* dari satu IP/pengguna dalam rentang waktu tertentu. Menjadi tameng utama dari serangan *spam* (seperti DDoS kecil) dan peretasan tebak *password* paksa (*brute force*).
+* **Scaling Database**: Jangan terburu-buru melakukan *Sharding* (memotong data ke banyak *server*). Mulailah dari optimasi *query* (indeks), *Vertical Scaling*, lalu *Replication* (satu *database Master* khusus untuk menyimpan data baru, dan beberapa *database Replica* khusus untuk melayani baca data).
+* **Monolith vs Microservices**: Berpindah dari *Monolith* ke *Microservices* murni karena alasan performa seringkali adalah tindakan *over-engineering* yang mubazir. Memperbanyak *server Monolith* secara horizontal seringkali sudah lebih dari cukup untuk mayoritas perusahaan.

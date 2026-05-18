@@ -187,3 +187,16 @@ Mas Alin yang mendengar dari pojokannya hanya tersenyum kecil.
 Di luar, pohon rambutan bergoyang pelan. Buahnya sudah lama habis. Daunnya tetap hijau, menunggu musim berikutnya. Seperti ilmu yang terus tumbuh, tak kenal musim.
 
 Dan Binto tahu, ini satu langkah lagi menuju *medior*.
+
+---
+## **Ringkasan Materi IT Bab 13**
+
+* **System Logging (Pencatatan Sistem)**: Log adalah "buku harian" atau "kotak hitam" dari sebuah aplikasi. Ia mencatat segala kejadian di balik layar. Tanpa log, mencari penyebab *error* di server sama seperti mencari jarum di tumpukan jerami dalam keadaan gelap gulita.
+* **Tingkat Keparahan Log (Severity Levels)**:
+  * **INFO**: Kejadian normal (pengguna masuk, pesanan dibuat).
+  * **WARNING**: Peringatan akan potensi masalah yang belum fatal (stok menipis, API lambat).
+  * **ERROR**: Kegagalan pada fitur tertentu (ruang penyimpanan penuh, gagal simpan data).
+  * **CRITICAL**: Masalah fatal yang membuat seluruh sistem mati (*down*).
+* **Log Rotation (Rotasi Log)**: Praktik membuat berkas (*file*) log baru setiap hari dan menghapus log lama secara otomatis. Jika log dibiarkan menumpuk dalam satu berkas selamanya, kapasitas penyimpanan server akan penuh dan membuat aplikasi macet total.
+* **Log File vs Log Database**: Mencatat *error* di *file* teks jauh lebih aman daripada di *database*. Mengapa? Karena jika terjadi kegagalan transaksi di *database* (*rollback*), catatan log yang ada di dalam *database* akan ikut terhapus, sehingga *developer* kehilangan jejak. Log pada *file* teks kebal terhadap masalah *database*.
+* **Keamanan Log**: Pantangan terbesar dalam *logging* adalah mencatat data sensitif seperti kata sandi (*password*), nomor kartu kredit, atau data pribadi secara gamblang. Log harus bersih dari data rahasia karena log seringkali bisa dibaca oleh banyak anggota tim.

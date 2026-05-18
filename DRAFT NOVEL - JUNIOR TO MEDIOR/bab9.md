@@ -225,3 +225,13 @@ Mereka bertiga tertawa.
 Di atas mereka, pohon rambutan bergoyang pelan. Buah-buahnya yang merah sudah banyak yang dipetik, tapi masih banyak yang bergelantungan, menunggu giliran untuk diuji kualitasnya.
 
 Binto menatap langit Blitar yang mulai jingga. Pelajaran hari ini bukan cuma tentang validasi atau unit test. Tapi tentang *mindset*. Kualitas bukan beban. Kualitas adalah tameng. Dan Mbak Rara adalah satpam yang menjaga gerbang.
+
+---
+## **Ringkasan Materi IT Bab 9**
+
+* **Quality Assurance (QA)**: Peran penting dalam tim *software* yang bertugas memastikan kualitas. QA tidak hanya mengecek jalur normal (*happy path*), tapi mencari celah dengan skenario ekstrem (input minus, *SQL injection*, otorisasi bocor) agar aplikasi tidak jebol saat dipakai. Prinsipnya: *Lebih baik error ditemukan QA secara diam-diam, daripada error meledak di tangan pengguna akhir*.
+* **ISO/IEC 29119**: Standar internasional untuk pengujian perangkat lunak (*software testing*). Mengatur bahwa pengujian harus terencana, terdokumentasi, dan yang terpenting: dilakukan secara independen (jangan *programmer* yang menguji kodenya sendiri secara penuh karena adanya bias).
+* **Test Plan**: Dokumen perencanaan (bisa sesederhana coretan di buku) yang merinci skenario apa saja yang akan diuji. Dengan adanya *Test Plan* yang transparan sejak awal, *developer* bisa mengantisipasi celah tersebut saat *coding*.
+* **Risk-Based Testing (Pengujian Berbasis Risiko)**: Menguji 100% kemungkinan itu mustahil karena keterbatasan waktu. Pendekatan ini memprioritaskan pengujian mendalam pada fitur-fitur berisiko tinggi yang berdampak fatal pada bisnis (seperti transaksi uang/stok), dan pengujian lebih longgar pada fitur berisiko rendah (seperti sekadar melihat gambar profil).
+* **Shift-Left Testing**: Menggeser proses pengujian ke arah "kiri" (lebih awal) dalam siklus pembuatan aplikasi. Artinya, *developer* didorong untuk menulis tes otomatis (*Unit Test*) pada kodenya sendiri sejak awal, sehingga celah-celah dasar tertutup sebelum diserahkan ke QA.
+* **Testing Manual vs Otomatis (Automated)**: Pengujian manual berguna untuk skenario kompleks atau masalah antarmuka pengguna (UX). Pengujian otomatis (seperti *script Unit Test* atau *Postman automation*) sangat krusial untuk *Regression Testing*: memastikan bahwa kode yang baru ditambahkan tidak merusak fitur-fitur lama yang sudah jalan.

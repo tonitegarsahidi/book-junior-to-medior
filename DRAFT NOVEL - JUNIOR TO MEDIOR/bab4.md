@@ -422,3 +422,11 @@ Mas Alin mengangkat cangkirnya, memberi hormat kecil. "*Sami-sami*, *Le*. Besok 
 Di langit Blitar, burung-burung gereja terbang pulang ke sarangnya. Hari hampir berakhir, tapi perjalanan Mas Binto masih panjang.
 
 ---
+## **Ringkasan Materi IT Bab 4**
+
+* **PRD (Product Requirement Document) vs User Story**: Keduanya adalah cara mendokumentasikan spesifikasi fitur. PRD lebih formal dan detail (berisi deskripsi, kriteria penerimaan, prioritas, dan penanggung jawab), cocok untuk klien bisnis (B2B). Sedangkan *User Story* lebih singkat ("Sebagai [pengguna], saya ingin [fitur] supaya [manfaat]") dan umum dipakai di *startup* yang perubahannya sangat cepat.
+* **Acceptance Criteria**: Syarat-syarat spesifik dan *testable* (bisa diuji dengan parameter jelas) yang menentukan kapan sebuah fitur dianggap "Selesai". Ini berfungsi seperti "kontrak" untuk mencegah perdebatan subjektif antara *developer* dan QA/klien.
+* **Conventional Commits**: Penamaan *commit* secara standar dengan memberi label seperti `feat:` untuk penambahan fitur baru, `fix:` untuk perbaikan *bug*, atau `refactor:` untuk merapikan kode tanpa mengubah fungsinya. Memudahkan membaca riwayat (*log*) proyek di masa depan.
+* **Pull Request (PR) & Code Review**: Mekanisme untuk mengajukan perubahan kode agar digabungkan ke cabang utama. PR yang baik menyertakan deskripsi jelas (apa, kenapa, dan bagaimana cara tesnya). Melalui PR, kode di-*review* oleh *engineer* lain untuk dicari kelemahannya dan didiskusikan secara konstruktif sebelum di-*approve* (disetujui).
+* **Quality Assurance (QA) & Testing**: Proses menguji perangkat lunak untuk mencari kelemahan atau *edge cases* (kasus pinggiran) yang sering terlewat oleh pembuat kode itu sendiri (contoh: *bug* penanggalan tahun kabisat).
+* **Struktur Tim (*Fullstack* vs Spesialis)**: Di perusahaan/tim kecil, seorang *engineer* seringkali dituntut menjadi *Fullstack* (mengerjakan antarmuka, *database*, *backend*, hingga peluncuran). Di perusahaan besar, perannya sangat spesifik (*Frontend, Backend, DevOps* dll). Keduanya punya tantangan dan keuntungan masing-masing.

@@ -389,3 +389,15 @@ Ia menyalakan motor Beat-nya. Di depan, pohon rambutan bergoyang pelan ditiup an
 *Besok*, pikir Binto. *Gue akan belajar lagi. Bukan cuma belajar coding, tapi belajar menghargai proses orang lain. *
 
 Motor beat-nya melaju pelan melewati gang desa, menuju rumah Bapak yang hanya dua puluh menit jauhnya.
+
+---
+## **Ringkasan Materi IT Bab 2**
+
+* **Git sebagai "Mesin Waktu"**: Git bukan sekadar tempat menyimpan file, melainkan sistem yang merekam seluruh sejarah perubahan kode. Hal ini memungkinkan *programmer* untuk melihat kembali versi sebelumnya jika terjadi kesalahan, tanpa perlu mengandalkan *copy-paste* folder *backup* secara manual.
+* **Perintah Dasar Git (`init`, `status`, `add`, `commit`)**: 
+  * `git init`: Membuat folder menjadi *repository* yang diawasi oleh Git.
+  * `git add`: Memasukkan file yang diubah ke *staging area* (siap untuk direkam).
+  * `git commit`: Menyimpan perubahan secara permanen lengkap dengan pesan deskriptif dan *hash* unik. Pesan *commit* yang baik harus spesifik, menggunakan kata kerja (misal: "fix", "tambah"), dan berfokus pada satu tujuan agar riwayat kode mudah dibaca.
+* **Percabangan (`branch` dan `checkout`)**: Memungkinkan pembuatan salinan kode utama (*main/master*) ke dalam cabang baru (misal: fitur baru atau perbaikan *bug*). Dengan ini, *programmer* bisa bereksperimen dengan aman tanpa merusak versi utama yang stabil.
+* **Menyimpan Pekerjaan Sementara (`git stash`)**: Fitur untuk menyimpan sementara pekerjaan yang belum selesai (belum siap di-*commit*), sehingga *programmer* bisa berpindah ke cabang lain untuk mengerjakan tugas darurat (misal: perbaikan *bug* kritis), dan mengambil kembali pekerjaan tersebut nantinya.
+* **Menggabungkan Kode dan Konflik (`merge` & `conflict`)**: Proses menyatukan cabang kembali ke *main*. Jika ada bagian baris kode yang sama dan diubah secara berbeda di dua cabang, akan terjadi *Merge Conflict*. Konflik bukanlah *error*, melainkan Git meminta panduan manusia untuk memilih atau menggabungkan versi mana yang benar.
