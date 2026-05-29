@@ -9,13 +9,13 @@ Udara yang masuk lewat celah helm Binto terasa sejuk, bukan dingin menggigit sep
 
 Tapi ini memang Desember, musim penghujan. Entah kemarau nanti, Binto sudah agak lupa hawa seharusnya kota yang ia tinggalkan 6 tahun silam.
 
-Motor matic merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, warung-warung dan toko mulai buka. Ibu-ibu menyapu halaman rumahnya yang luas, bapak-bapak duduk di teras sambil menyeruput kopi dan memandangi sawah. Anak-anak sekolah berangkat dengan sepeda kayuh beraneka warna. Pemandangan yang kian langka ia temukan di Jakarta.
+Motor matic merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, warung-warung dan toko mulai buka. Ibu-ibu menyapu halaman rumahnya yang luas, bapak-bapak duduk di teras sambil menyeruput kopi dan memandangi sawah. Anak-anak sekolah berangkat dengan sepeda kayuh beraneka warna. Pemandangan yang sudah langka ia temukan di perantauan.
 
 *Dua puluh menit*, pikir Binto. *Cuma dua puluh menit dari rumah ke kantor*. Di Jakarta, dua puluh menit bahkan kadang tak cukup untuk keluar dari satu halte Transjakarta ke halte berikutnya di jam sibuk.
 
 Dua tahun berkarir di pusat Jakarta memang mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Ia bekerja di sebuah perusahaan distributor alat berat, bagian administrasi data. Kerjaannya: input angka ke Excel, kirim email, sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup, bahkan lebih dari cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong di jiwanya.
 
-Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering menatap langit-langit dan bertanya: Apa *ini yang gue mau?*
+Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering termenung menatap lalu lalang dan pedagang yang lewat depan kos-kosannya. Apakah *ini yang gue mau?*
 
 Lalu telepon dari Om Herman datang.
 
@@ -23,14 +23,16 @@ Lalu telepon dari Om Herman datang.
 
 Pesan itu membuat Binto kaget. Ia tahu ayahnya pernah didiagnosis diabetes, tapi kali ini beda. Melalui telepon, Om Herman bercerita kalau ayahnya ternyata sudah dua kali masuk rumah sakit dalam sebulan terakhir.
 
-Andai bukan Om Herman yang telepon, tentulah Binto tak akan tahu ayahnya sakit. Beliau adalah tipikal ayah yang pendiam, tidak suka mengeluh sakit, dan punya gengsi tinggi untuk tidak "ngrepoti" anaknya. Ibu tentu sudah diwanti-wanti untuk tidak memberi tahu Binto.
+Andai bukan Om Herman yang telepon, tentulah Binto tak akan tahu ayahnya sakit. Beliau adalah tipikal ayah yang pendiam, tidak suka mengeluh sakit, dan punya gengsi tinggi untuk tidak "ngrepoti" anaknya. Ibu tentu sudah diwanti-wanti untuk tidak memberi tahu Binto. Beberapa kali telepon dengan ibu, tak pernah sekali pun ibu bercerita sakit ayahnya.
 
-Saat Binto menelepon dan bilang ingin pulang, Bapaknya justru melarang.
+Saat Binto menelepon dan bilang ingin pulang kampung, Bapaknya justru melarang.
 
 "Eman ijazahmu, To. Di Blitar ini gak ada perusahaan besar, apalagi buat sarjana IT kayak kamu," kata Bapak waktu itu.
 Dorongannya agar Binto tetap mengejar karir di tanah rantau bukanlah karena tidak sayang, melainkan karena tidak ingin anaknya menyia-nyiakan gelar sarjananya di kota sekecil Blitar.
 
-Tapi Binto sudah membuat keputusan. Ia tak mau berselimut penyesalan kedepannya. 
+Tak ada apa-apa disini, kalaupun ada tentulah sangat kecil, tak sebanding dengan nama PTN besar di ijazah Binto. 
+
+Tapi Binto sudah membuat keputusan. Ia tak mau berselimut penyesalan kedepannya. Dia masih punya pilihan, tak seperti kakaknya yang ditugaskan negara hingga jauh di luar pulau.
 Dua minggu setelah telepon itu, Binto mengajukan resign.
 
 "Saya mau pulang, Pak. Dekat orang tua."
