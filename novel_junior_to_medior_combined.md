@@ -14,9 +14,9 @@ Semoga bermanfaat.
 
 Amin Ya Robbal Alamin. 
 
-Jakarta, Desember 2026
+Malang, Juni 2026
 
-Penulis
+SamToni - Penulis
 
 ---
 
