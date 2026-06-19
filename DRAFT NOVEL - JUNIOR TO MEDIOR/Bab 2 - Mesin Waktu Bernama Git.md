@@ -411,6 +411,14 @@ Wawan menghela napas pelan. "Iya, Mas. Aku nyambi ambil kuliah online, jurusan I
 
 "Wah, keren dong. Jarang loh orang bisa kerja sambil kuliah"
 
+Wawan tersenyum canggung, tangannya memutar-mutar tumbler jumbonya. "Lha piye, Mas. Kalau gak kerja, gak ada yang buat bayar semesteran. Sebenarnya dulu ada tabungan keluarga yang mau dipakai buat aku kuliah di Malang. Tapi pas COVID kemarin, bapakku yang sopir travel Blitar-Surabaya sepi penumpang total. Untungnya kantor travel Bapak masih ngasih bansos bulanan, tapi ya ala kadarnya banget, gak cukup buat makan sekeluarga. Akhirnya terpaksa tabungan kuliahku kepakai sampai habis."
+
+"Tapi kamu gak capek?"
+
+"Stres dikit sih pernah, Mas. Tapi aku inget bapakku. Waktu COVID sepi-sepinya, beliau tiap jam lima pagi tetap bangun, mandi rapi, manasin mobil travelnya, terus duduk di teras nungguin HP-nya bunyi. Aku tanya, 'Pak, kan gak ada penumpang, ngapain nunggu?' Bapak cuma senyum, terus bilang: 'Gak apa-apa, Le. Siapa tahu ada.'" Wawan nyengir, tatapannya kembali ke monitor. "Dari situ aku belajar. Hidup itu kadang cuma soal terus bersiap. Siapa tahu ada jalannya. Makanya pas sekolah dulu, meskipun jurusanku Multimedia, aku nekat ngulik HTML, CSS, Figma, sampai coding web malam-malam pas kuota murah. Gak peduli besok kepakai atau gak, yang penting siap aja dulu. Dan ternyata sekarang beneran kepakai di GTN."
+
+Binto mengangguk pelan, merasa kagum sekaligus tertampar. "Tapi di GTN kamu udah jago banget, Wan."
+
 "Aku ngerasa beruntung banget bisa kerja di sini, Mas. Pakde Suhar sama Mas Alin percaya sama kemampuanku meski ijazahku cuma SMK. Tapi di luar sana... Mas tahu sendirilah gimana orang mandang lulusan SMK. Sering diremehin. Dianggap cuma tukang gambar atau teknisi kabel."
 
 Binto terdiam. Ia tiba-tiba teringat kesombongannya sendiri tadi pagi—merasa superior hanya karena membawa ijazah PTN ternama. Di hadapannya kini, seorang lulusan SMK yang jauh lebih jago bekerja secara diam-diam berjuang mendapatkan ijazah sebuah PTS online yang selama ini Binto anggap "biasa saja".

@@ -13,7 +13,7 @@
 3. **Pohon Rambutan sebagai "Karakter Keenam"** — silent narrator yang tumbuh bareng Binto
 4. **Konflik Antar-Karakter** — gesekan natural antar tokoh
 5. **Pertanyaan Sentral** — "Apa yang membedakan programmer dari engineer?"
-6. **Peta Emosi 16 Bab** — bukan peta teknis, tapi peta perasaan Binto
+6. **Peta Emosi 17 Bab** — bukan peta teknis, tapi peta perasaan Binto
 7. **Kubur "Ringkasan Materi IT"** — pindahkan ke Lampiran, jangan tempel di akhir bab
 
 ---
@@ -22,7 +22,7 @@
 
 > **"Apa yang membedakan *programmer* yang cuma bisa bikin kode jalan, dengan *engineer* yang bisa diandalkan?"**
 
-Jawabannya dirasakan pembaca melalui 16 bab — nggak perlu diucapkan eksplisit.
+Jawabannya dirasakan pembaca melalui 17 bab — nggak perlu diucapkan eksplisit.
 
 ---
 
@@ -59,7 +59,7 @@ Ingin diakui *beneran bisa*, bukan cuma karena ijazah. Ingin jadi engineer yang 
 - Sering membandingkan dirinya dengan masa lalu: *"Dulu gue..."*
 - Internal monologue yang reflektif (ini kekuatan penulis — harus dimaksimalkan)
 
-### Arc 16 Bab
+### Arc 17 Bab
 
 | Bab | Tahap | Emosi Dominan |
 |---|---|---|
@@ -67,11 +67,12 @@ Ingin diakui *beneran bisa*, bukan cuma karena ijazah. Ingin jadi engineer yang 
 | 3-4 | Mulai belajar, kagum, tapi masih gugup | Penasaran + minder |
 | 5-6 | Percaya diri mulai tumbuh... lalu kegagalan pertama | Mulai pede → jatuh |
 | 7-8 | Belajar dari kegagalan, mulai paham *why* | Rendah hati yang genuine |
-| 9-10 | Konflik personal (ayah sakit) vs profesional (deadline) | Terbelah, bersalah |
-| 11-12 | Titik balik — deploy solo pertama, berhasil | *Gue bisa* |
-| 13-14 | Badai (insiden produksi) | Takut, tapi nggak sendiri |
-| 15 | Refleksi — *gue udah beda sekarang* | Syukur, tenang |
-| 16 | Pulang ke makna — mentor, siklus baru, "setengah matang" | *Perjalanan baru dimulai* |
+| 9 | Satpam Kualitas (Konflik QA) | Belajar menghargai tim dan ketelitian |
+| 10-11 | Konflik personal (ayah sakit) vs profesional (error handling) | Terbelah, belajar menenangkan keadaan |
+| 12-13 | Titik balik — deploy solo pertama, berhasil | *Gue bisa* |
+| 14 | Badai (insiden produksi) | Takut, tapi nggak sendiri |
+| 15-16 | Refleksi — *gue udah beda sekarang* | Syukur, tenang |
+| 17 | Pulang ke makna — mentor, siklus baru, "setengah matang" | *Perjalanan baru dimulai* |
 
 ---
 
@@ -79,7 +80,7 @@ Ingin diakui *beneran bisa*, bukan cuma karena ijazah. Ingin jadi engineer yang 
 
 ### Data Dasar
 - **Nama:** Alin Sholeh (Mas Alin)
-- **Usia:** Sekitar 30-31 tahun (awal cerita)
+- **Usia:** Sekitar 37-38 tahun (awal cerita, 2025)
 - **Asal:** Kediri (Ngadiluwih)
 - **Posisi:** Co-founder & Tech Lead GTN
 - **Pengalaman:** 17 tahun di dunia IT (sampai 2026)
@@ -254,7 +255,7 @@ Nggak boleh ada yang lolos lagi. *Ever.*
 
 ### Hubungan dengan Binto
 - Awalnya Binto kesal: dapat 12 defect, ngomel "lebay."
-- Setelah tahu cerita Rara (di Bab 15, dari Rara sendiri), Binto belajar: QA bukan musuh developer. Mereka adalah *gatekeeper* terakhir sebelum produk menyakiti pengguna.
+- Setelah tahu cerita Rara (di Bab 9, dari Rara sendiri), Binto belajar: QA bukan musuh developer. Mereka adalah *gatekeeper* terakhir sebelum produk menyakiti pengguna.
 
 ---
 
@@ -325,10 +326,11 @@ Binto lihat Wawan bisa desain UI DAN benerin frontend.
 Wawan (sambil lanjut ngetik): "YouTube, Mas. Gratis. Tinggal niat."
 Binto — lulusan PTN top yang baru sadar dia nggak bisa apa-apa — merasa malu. Bukan karena direndahkan. Tapi karena... *anak ini belajar sendiri. Tanpa dosen. Tanpa kurikulum. Dan dia lebih jago dari gue.*
 
-**Dengan Binto (Bab 8 — reveal masa lalu):**
-Lembur bareng, mungkin makan sate pinggir jalan.
-> "Tahu nggak, Mas. Dulu pas tabungan bokap habis, gue sempet benci sama dunia. Tapi... gue inget satu hal. Pas bokap di rumah, nggak ada kerjaan, dia tiap pagi tetap bangun jam 4. Pakai seragam travel-nya. Duduk di teras. Nunggu. Gue tanya: 'Pak, kan nggak ada penumpang.' Bokap cuma jawab: 'Nggak apa-apa. Siapa tahu ada.'"
-> "Dari situ gue belajar, Mas. Kadang hidup cuma soal *siapa tahu ada*."
+**Dengan Binto (Bab 2 — memergoki Wawan kuliah online):**
+Binto mergokin Wawan ngerjain tugas kuliah setelah jam kantor.
+> "Lha piye, Mas. Kalau gak kerja, gak ada yang buat bayar semesteran. Sebenarnya dulu ada tabungan keluarga yang mau dipakai buat aku kuliah di Malang. Tapi pas COVID kemarin, bapakku yang sopir travel Blitar-Surabaya sepi penumpang total. Untungnya kantor travel Bapak masih ngasih bansos bulanan, tapi ya ala kadarnya banget, gak cukup buat makan sekeluarga. Akhirnya terpaksa tabungan kuliahku kepakai sampai habis."
+> "Tapi aku inget bapakku. Waktu COVID sepi-sepinya, beliau tiap jam lima pagi tetap bangun, mandi rapi, manasin mobil travelnya, terus duduk di teras nungguin HP-nya bunyi. Aku tanya, 'Pak, kan gak ada penumpang, ngapain nunggu?' Bapak cuma senyum, terus bilang: 'Gak apa-apa, Le. Siapa tahu ada.'"
+> "Dari situ aku belajar. Hidup itu kadang cuma soal terus bersiap. Siapa tahu ada jalannya. Makanya pas sekolah dulu, meskipun jurusanku Multimedia, aku nekat ngulik HTML, CSS, Figma, sampai coding web malam-malam pas kuota murah. Gak peduli besok kepakai atau gak, yang penting siap aja dulu."
 
 **Bab 12-13: CPNS**
 Keluarganya tekan dia daftar CPNS. Wawan cerita ke Binto dan Mas Alin. Binto kira Wawan bakal nolak.
@@ -493,17 +495,17 @@ Bukan karena banyak ngomong. Tapi karena *kehadirannya yang sunyi* jadi alasan s
 | 2023 | Wawan mulai kuliah online (nyicil per semester dari gaji GTN) |
 | 2024 | Tim stabil: Pakde, Mas Alin, Bu Sari, Wawan, Mbak Rara, Andik |
 | 2025 Des | **Binto masuk GTN — Chapter 1** |
-| 2026 Des | **Wawan diterima CPNS, Binto jadi mentor Aini — Chapter 16** |
+| 2026 Des | **Wawan diterima CPNS, Binto jadi mentor Aini — Chapter 17** |
 
 ---
 
 ---
 
-# PETA EMOSI 16 BAB
+# PETA EMOSI 17 BAB
 
 | Bab | Tahap Binto | Emosi Dominan |
 |---|---|---|
-| 1 | Kepala Tegak | Sombong, bangga, superioritas rapuh |
+| 1 | Kepala Tegak di Bawah Pohon Rambutan | Sombong, bangga, superioritas rapuh |
 | 2 | Mesin Waktu Bernama Git | Hancur, malu, *I know nothing* |
 | 3 | Waterfall, Agile, dan Sticky Notes | Kagum, mulai terbuka |
 | 4 | Perjalanan Sebuah Tombol | Penasaran, gugup, mulai belajar |
@@ -511,14 +513,15 @@ Bukan karena banyak ngomong. Tapi karena *kehadirannya yang sunyi* jadi alasan s
 | 6 | Membangun Rumah yang Bersih | Frustrasi dengan kode sendiri |
 | 7 | Tulang Punggung Sistem | Mulai paham *why*, bukan cuma *how* |
 | 8 | Kontrak Komunikasi | Belajar kolaborasi, menghargai orang lain |
-| 9 | Satpam Kualitas | Konflik dengan QA (Mbak Rara) |
-| 10 | Menenangkan Sistem yang Menangis | Konflik personal (ayah sakit) vs profesional (deadline) |
-| 11 | Panggung Gladi Resik | Persiapan, tegang, *gue siap nggak ya?* |
-| 12 | Meluncurkan Roket ke Bulan | Deploy solo pertama — berhasil! |
-| 13 | Buku Harian Sistem | Badai (insiden, bug, kehilangan data) |
-| 14 | Benteng yang Tak Terlihat | Belajar security, sadar tanggung jawab lebih besar |
-| 15 | Seni Menahan Laju | Refleksi — *gue udah beda sekarang* |
-| 16 | Pulang | Mentor baru, siklus baru, "setengah matang" |
+| 9 | Satpam Kualitas | Konflik dengan QA (Mbak Rara), belajar pentingnya QA |
+| 10 | Kode Bisa Nunggu | Konflik personal (ayah sakit), meluruskan prioritas hidup |
+| 11 | Menenangkan Sistem yang Menangis | Menghadapi error produksi, analogi ketenangan situasi Bapak |
+| 12 | Panggung Gladi Resik | Staging environment, checklist deploy, *gue siap nggak ya?* |
+| 13 | Meluncurkan Roket ke Bulan | Deploy solo pertama — berhasil! |
+| 14 | Buku Harian Sistem | Badai (insiden, bug, monitoring/logging) |
+| 15 | Benteng yang Tak Terlihat | Belajar security, sadar tanggung jawab lebih besar |
+| 16 | Seni Menahan Laju | Belajar scaling, caching, queue — *gue udah beda sekarang* |
+| 17 | Pulang | Mentor baru (Aini), siklus baru, "setengah matang", Wawan pamit CPNS |
 
 ---
 
@@ -534,9 +537,9 @@ Pohon rambutan di depan kantor GTN tumbuh bareng perjalanan Binto. Ada juga poho
 | 4-5 | Bunga muncul, buah perlahan membesar | Mulai belajar, potensi terlihat |
 | 7 | Buah mulai merah, panen kecil pertama | Mulai berbuah, hasil pertama terlihat |
 | 8-9 | Buah semakin merah, makin banyak | Mulai bisa, tapi belum sempurna |
-| 12 | Panen besar pertama | Deploy solo pertama berhasil |
+| 13 | Panen besar pertama | Deploy solo pertama berhasil |
 | 14 | Pohon diterpa angin besar | Insiden/kegagalan |
-| 16 | Musim baru, bunga baru | Siklus mentorship dimulai |
+| 17 | Musim baru, bunga baru | Siklus mentorship dimulai |
 
 Mas Alin punya kebiasaan: kalau lagi mikir berat, dia berdiri di bawah pohon itu sambil nyeruput kopi dari cangkir enamel wayangnya.
 
@@ -550,13 +553,13 @@ Parallel thread antara Binto dan ayahnya:
 
 | Bab | Momen |
 |---|---|
-| 1 | Binto pulang karena ayah sakit. Ayah melarang: "Eman ijazahmu, To." |
-| 3 | Binto cerita ke Mas Alin tentang ayahnya (singkat) |
-| 6 | Binto antar ayah kontrol ke dokter, ngobrol di motor |
-| 8 | Ayah tanya: "Kerjanya gimana, To?" Binto bingung jelasin — ternyata rumit |
-| 10 | **Konflik puncak:** Ayah masuk RS lagi. Binto harus pilih: lembur deadline atau jagain ayah. Mas Alin: "Kode bisa nunggu. Ayahmu nggak." |
-| 14 | Ayah mulai membaik. Datang ke kantor, lihat Binto kerja. Untuk pertama kalinya — bangga, tanpa ngomong. |
-| 16 | Ayah kasih tumbler ½ M oleh-oleh umroh. Simbol: *kamu belum selesai belajar, dan itu nggak apa-apa.* |
+| 1 | Binto pulang karena bapak sakit. Bapak melarang: "Eman ijazahmu, To." |
+| 3 | Binto cerita ke Mas Alin tentang bapaknya (singkat) |
+| 6 | Binto antar bapak kontrol ke dokter, ngobrol di motor |
+| 8 | Bapak tanya: "Kerjanya gimana, To?" Binto bingung jelasin — ternyata rumit |
+| 10 | **Konflik puncak:** Bapak masuk RS lagi. Binto harus pilih: lembur deadline atau jagain bapak. Mas Alin: "Kode bisa nunggu. Ayahmu nggak." |
+| 14 | Bapak mulai membaik. Datang ke kantor, lihat Binto kerja. Untuk pertama kalinya — bangga, tanpa ngomong. |
+| 17 | Bapak kasih tumbler ½ M oleh-oleh umroh. Simbol: *kamu belum selesai belajar, dan itu nggak apa-apa.* |
 
 ---
 
@@ -566,12 +569,12 @@ Parallel thread antara Binto dan ayahnya:
 
 | Pasangan | Konflik |
 |---|---|
-| **Binto vs Mas Alin** | Binto merasa "diajarin terus" — kapan gue bisa sendiri? Mas Alin sengaja lepas di Bab 11-12 |
+| **Binto vs Mas Alin** | Binto merasa "diajarin terus" — kapan gue bisa sendiri? Mas Alin sengaja lepas di Bab 12-13 |
 | **Binto vs Wawan** | Binto (PTN top) vs Wawan (SMK). Momen canggung: "Gue kok diajarin anak SMK?" Tapi Wawan justru selamatin Binto di momen kritis |
-| **Binto vs Mbak Rara** | Binto kesal dapat 12 defect. Setelah tahu cerita Rara, belajar respect |
+| **Binto vs Mbak Rara** | Binto kesal dapat 12 defect. Setelah tahu cerita Rara (Bab 9), belajar respect |
 | **Mas Alin vs Pakde Suhar** | Berbeda prinsip: Pakde pengen ambil semua proyek, Alin pengen selektif. Dipicu klien besar Surabaya |
 | **Binto vs dirinya sendiri** | Proyek solo pertama. Takut. Gagal. Tapi dari kegagalan itu naik level |
-| **Binto vs Ayah** (internal) | Rasa bersalah: pulang karena ayah, tapi malah sibuk kerja |
+| **Binto vs Bapak** (internal) | Rasa bersalah: pulang karena bapak, tapi malah sibuk kerja |
 
 ---
 

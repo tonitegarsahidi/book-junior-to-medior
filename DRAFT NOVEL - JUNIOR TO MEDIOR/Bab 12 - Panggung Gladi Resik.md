@@ -430,9 +430,9 @@ Cahyo mengangguk. Pelajaran hari ini bukan cuma soal teknis. Tapi soal *mindset*
 
 Enam hari kemudian. Malam sebelum deploy.
 
-Binto duduk di teras kontrakannya. Sendiri.
+Binto duduk di teras rumah Bapak. Sendiri.
 
-Langit Malang cerah. Bintang-bintang keliatan. Bulan sabit. Angin dingin.
+Langit Blitar cerah. Bintang-bintang keliatan. Bulan sabit. Angin dingin.
 
 ...
 
@@ -590,7 +590,7 @@ Kayak... roller coaster. Naik pelan-pelan ke puncak. Menakutkan. Tapi di saat ya
 
 Jam tujuh pagi.
 
-Binto udah di kantor. Padahal deploy baru jam sembilan. Tapi dia nggak bisa diem di kontrakan.
+Binto udah di kantor. Padahal deploy baru jam sembilan. Tapi dia nggak bisa diem di rumah.
 
 Kantor masih sepi. Cuma Bu Sari. Seperti biasa.
 
