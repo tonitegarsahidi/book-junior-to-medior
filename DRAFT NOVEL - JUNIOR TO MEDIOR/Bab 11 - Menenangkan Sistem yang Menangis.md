@@ -40,7 +40,7 @@ Error 500: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stok_minimal'
 
 Binto membaca cepat. Lalu mengembuskan napas pendek.
 
-"Waduh. Itu salah saya. Semalam waktu rename kolom dari `stok_minimum` ke `stok_minimal`, query-nya ada yang belum ikut berubah."
+"Waduh. Itu salah saya. Semalam waktu ganti nama kolom dari `stok_minimum` ke `stok_minimal` di kode, saya lupa jalankan migrasi database-nya di server."
 
 Andik menggaruk pelipis. "Aku sih ngerti dikit-dikit, Mas. Tapi kalau sales di lapangan yang lihat beginian, bisa panik duluan."
 

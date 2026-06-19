@@ -108,7 +108,7 @@ Binto mengangguk. Ia ingat betul. Fitur pertamanya yang *live* ke production. De
 
 "Tapi proyek lain belum ya, Mas?" tanya Binto.
 
-"Belum. Proyek Koperasi masih offline, gak perlu. Proyek Pabrik Garum sama Sekolah Al-Hikmah masih pakai cara semi-manual. Nanti pelan-pelan kita migrasi. Yang penting kalian paham dulu konsepnya."
+"Belum. Proyek Koperasi versi lama kan offline. Yang versi baru ini nanti kita deploy ke VPS, tapi belum sempat saya pasang pipeline CI/CD. Proyek Pabrik Garum sama Sekolah Al-Hikmah juga masih pakai cara semi-manual. Nanti pelan-pelan kita migrasi. Yang penting kalian paham dulu konsepnya."
 
 ## 13.7 Apa Itu CI/CD?
 
