@@ -13,7 +13,7 @@ Motor matic merahnya melaju pelan melewati Jalan Raya Srengat. Di kiri kanan, wa
 
 *Dua puluh menit*, pikir Binto. *Cuma dua puluh menit dari rumah ke kantor*. Di Jakarta, dua puluh menit bahkan kadang tak cukup untuk keluar dari satu halte Transjakarta ke halte berikutnya di jam sibuk.
 
-Dua tahun berkarir di pusat Jakarta memang mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Ia bekerja di sebuah perusahaan distributor alat berat, bagian administrasi data. Kerjaannya: input angka ke Excel, kirim email, sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup, bahkan lebih dari cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong di jiwanya.
+Dua tahun berkarir di Jabodetabek memang mengajarinya banyak hal. Bukan tentang *coding*—ia bahkan tidak bekerja sebagai programmer di sana. Saat ia lulus kuliah dulu, badai *tech winter* sedang menggila di Jakarta; startup bertumbangan dan lowongan *entry-level* programmer hampir tidak ada. Ditambah lagi, Binto selalu ciut nyali setiap kali menghadapi *live coding* saat interview kerja. Demi bertahan hidup dan membayar kosan tanpa meminta kiriman orang tua, ia terpaksa menurunkan ekspektasi dan menerima pekerjaan sebagai administrasi data di sebuah perusahaan distributor alat berat. Kerjaannya sederhana: input angka ke Excel, kirim email, dan sesekali bantu atasan yang laptopnya *ngadat*. Gajinya cukup untuk ukuran *fresh graduate*, tapi ada yang kosong di jiwanya. Ia merasa ijazah IT dari kampus ternamanya telah dinodai oleh tumpukan baris Microsoft Excel yang monoton. 
 
 Setiap malam, di kos-kosannya yang sempit di daerah Ciputat, Binto sering termenung menatap lalu lalang dan pedagang yang lewat depan kos-kosannya. Apakah *ini yang gue mau?*
 
@@ -30,27 +30,31 @@ Saat Binto menelepon dan bilang ingin pulang kampung, Bapaknya justru melarang.
 "Eman ijazahmu, To. Di Blitar ini gak ada perusahaan besar, apalagi buat sarjana IT kayak kamu," kata Bapak waktu itu.
 Dorongannya agar Binto tetap mengejar karir di tanah rantau bukanlah karena tidak sayang, melainkan karena tidak ingin anaknya menyia-nyiakan gelar sarjananya di kota sekecil Blitar.
 
-Tak ada apa-apa disini, kalaupun ada tentulah sangat kecil, tak sebanding dengan nama PTN besar di ijazah Binto. 
+Tak ada apa-apa disini, kalaupun ada tentulah sangat kecil, tak sebanding dengan nama besar Perguruan Tinggi yang ada di ijazah Binto. 
 
-Tapi Binto sudah membuat keputusan. Ia tak mau berselimut penyesalan kedepannya. Dia masih punya pilihan, tak seperti kakaknya yang ditugaskan negara hingga jauh di luar pulau.
+Tapi keputusan Binto sudah terlalu bulat. Ia tak mau berselimut kegundahan, bahkan penyesalan kedepannya. Dia masih punya pilihan, tak seperti kakaknya yang ditugaskan negara hingga jauh di ujung negeri.
 Dua minggu setelah telepon itu, Binto mengajukan resign.
 
 "Saya mau pulang, Pak. Dekat orang tua."
 
 Atasannya mengangguk maklum. "Blitar ya? Udah ada kerjaan buat kamu di sana?"
 
-"Entah, Pak. Saya cari aja dulu."
+"Entah, Pak. Saya cari aja dulu. Kalaupun tak ada di Blitar, mungkin di sekitarnya yang bisa saya pulang pergi tiap hari"
 
-Ternyata Allah maha baik. Seminggu sebelum kepulangannya, sebuah email masuk. *Garda Teknologi Nusantara*—nama yang belum pernah ia dengar—menerimanya untuk posisi *Junior Software Engineer*. Startup? Vendor? Ia tidak peduli. Yang penting: lokasinya di Srengat, Blitar. Hanya dua puluh menit dari rumah Bapak. Tak ada test teknis seperti pada umumnya, hanya HRD yang mewawancarainya via *Zoom*. Tak ada technical interview seperti yang diceritakan teman-teman IT nya.
+Kabar tentang ayahnya yang sakit menjadi pemantik keberanian yang selama ini padam. Binto sadar, ia tidak bisa pulang ke Blitar dengan status sebagai admin data lagi. Ia harus kembali ke jalurnya. Maka, ia nekat melamar ke setiap lowongan IT yang ada di sekitar Blitar, memoles kembali CV-nya yang sempat berdebu.
+
+Ternyata Allah maha baik. Seminggu sebelum kepulangannya, sebuah email masuk. *Garda Teknologi Nusantara*—sebuah *software house* lokal kecil—menerimanya untuk posisi *Junior Software Engineer*. Startup? Vendor? Ia tidak peduli. Yang penting: lokasinya di Blitar. 
+
+Hanya dua puluh menit dari rumah Bapak. Berkas Binto kirim via email, tak lama kemudian ia dipanggil interview online. Hanya HRD yang mewawancarainya via *Zoom*. Tak ada technical interview seperti yang diceritakan teman-teman IT nya. Bagi kantor baru itu, kedatangan CV lulusan PTN top seperti Binto mungkin seperti mendapat durian runtuh. Mereka berasumsi Binto pasti sudah memiliki dasar yang kuat dari kampusnya, dan urusan teknis industri bisa dipelajari sambil jalan. 
 
 *Pas banget*, pikirnya waktu itu. *Sambil cari pengalaman IT beneran, sambil jagain Bapak*.
 
 Tapi ada satu hal yang tidak ia sadari pagi itu, saat motornya mengikuti arahan Google Maps berbelok masuk ke sebuah gang kecil di belakang pasar Srengat: bahwa definisinya tentang *"pengalaman IT beneran"* akan segera dihancurleburkan.
 
-## **1.2 Kantor di Gang Sempit**
+## **1.2 Belakang Pasar**
 
-Jam masih menunjukkan pukul 07.30. Hari pertama tentulah ia harus datang tanpa terlambat. "Khawatir macet" sebagaimana bayangannya selama ini di ibu kota ternyata tak terbukti. Selain sebuah perempatan lampur merah, jalanan pagi tadi lancar jaya tak ada kendala. 
-Ternyata benar 20 menit
+Jam masih menunjukkan pukul 07.15. Hari pertama tentulah ia harus datang tanpa terlambat. "Khawatir macet" sebagaimana bayangannya selama ini di ibu kota ternyata tak terbukti. Selain sebuah perempatan lampu merah, jalanan pagi tadi lancar jaya tak ada kendala. 
+Ternyata benar 20 menit.
 
 *Beneran ini tempatnya?* Binto bergumam dalam hati.
 
