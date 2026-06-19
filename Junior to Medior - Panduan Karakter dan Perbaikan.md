@@ -535,12 +535,13 @@ Pohon rambutan di depan kantor GTN tumbuh bareng perjalanan Binto. Ada juga poho
 | Bab | Kondisi Pohon | Paralel dengan Binto |
 |---|---|---|
 | 1-2 | Buah hijau, kecil-kecil | Baru mulai, belum matang |
-| 4-5 | Bunga muncul, buah perlahan membesar | Mulai belajar, potensi terlihat |
-| 7 | Buah mulai merah, panen kecil pertama | Mulai berbuah, hasil pertama terlihat |
-| 8-9 | Buah semakin merah, makin banyak | Mulai bisa, tapi belum sempurna |
-| 13 | Panen besar pertama | Deploy solo pertama berhasil |
+| 4-5 | Buah membesar, semburat kuning | Mulai belajar, potensi terlihat |
+| 7 | Buah merah, panen kecil pertama | Mulai berbuah, hasil pertama terlihat |
+| 8-9 | Buah semakin merah, makin matang | Mulai bisa, tapi belum sempurna |
+| 11 | Buah merah lebat bergelantungan | Ujian ketahanan emosi/sistem |
+| 13 | Panen raya pertama | Deploy solo pertama berhasil |
 | 14 | Pohon diterpa angin besar | Insiden/kegagalan |
-| 17 | Musim baru, bunga baru | Siklus mentorship dimulai |
+| 17 | Buah hijau baru | Siklus baru, mentorship dimulai |
 
 Mas Alin punya kebiasaan: kalau lagi mikir berat, dia berdiri di bawah pohon itu sambil nyeruput kopi dari cangkir enamel wayangnya.
 

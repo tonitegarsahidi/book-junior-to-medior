@@ -2,13 +2,13 @@
 
 ## 17.1 Pamit
 
-September. Satu tahun sudah.
+Desember. Satu tahun sudah.
 
 Binto masih ingat hari pertamanya. Kemeja putih. Dua puluh menit. Pohon rambutan dengan buah-buah hijau.
 
 Sekarang kemeja putih itu sudah mulai kusam. Sudah berganti kemeja lain, yang lebih santai—batik, kemeja kotak-kotak, kadang cuma kaos oblong kalau lagi tidak ada klien. Dan dua puluh menit itu... sudah jadi irama.
 
-Pohon rambutan? Buahnya sudah dua kali panen.
+Pohon rambutan? Buahnya sudah pernah panen sekali, dan kini kembali hijau menggelayut di dahan.
 
 Tapi hari ini... ada yang berbeda.
 
@@ -244,13 +244,13 @@ Di bawah pohon rambutan. Seperti malam itu. Setelah deploy pertamanya.
 
 Tapi sekarang... pohon ini berbeda.
 
-September. Musim kemarau. Tidak ada buah. Tapi ada yang baru. Bunga-bunga kecil. Putih. Mulai bermunculan di ujung-ujung dahan.
+Desember. Musim hujan. Buah-buah hijau kecil kembali menggelayut di ujung dahan, bersiap menyambut musim baru.
 
 *Musim baru*, pikir Binto. *Buah baru. Siklus baru.*
 
 Dia menatap ke atas. Pohon rambutan itu... sama. Batangnya masih kokoh. Cabangnya masih lima. Akarnya masih dalam. Tapi juga... berbeda. Karena sekarang... dia melihatnya dengan mata yang berbeda.
 
-*Setahun lalu... aku di sini. Habis deploy pertama. Deg-degan. Euforia.*
+*Awal tahun ini... aku di sini. Habis deploy pertama. Deg-degan. Euforia.*
 
 *Sekarang... aku di sini lagi. Dengan murid aku sendiri.*
 
@@ -344,7 +344,7 @@ Ia tersenyum kecil.
 
 Bukan karena merasa sudah sampai. Justru karena akhirnya ia paham: orang yang bisa diandalkan bukan orang yang merasa selesai. Orang yang bisa diandalkan adalah orang yang tetap mau belajar, tetap jujur pada batasnya, dan tetap berjalan.
 
-Di luar, bunga-bunga rambutan kecil bergoyang pelan diterpa angin September.
+Di luar, buah-buah rambutan hijau bergoyang pelan diterpa angin Desember.
 
 Musim baru memang selalu datang seperti itu—tidak ribut, tidak dramatis. Diam-diam. Lalu tumbuh.
 

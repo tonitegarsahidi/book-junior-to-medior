@@ -377,7 +377,7 @@ Menjelang sore, pekerjaan utama hari itu mulai beres.
 
 Error mentah yang tadi pagi bikin satu meja berkumpul sekarang sudah berubah jadi rangkaian respons yang lebih waras. Tidak sempurna. Belum elegan di semua sisi. Tapi jauh lebih dewasa daripada sebelumnya.
 
-Binto duduk di teras kantor bersama Mbak Rara sambil membawa teh hangat. Angin Blitar lewat pelan di sela-sela daun rambutan kantor yang buahnya mulai menua setelah panen.
+Binto duduk di teras kantor bersama Mbak Rara sambil membawa teh hangat. Angin Blitar lewat pelan di sela-sela daun rambutan kantor yang buahnya makin merah ranum bergelantungan.
 
 "Aku baru ngeh sekarang," kata Binto. "Error handling itu bukan cuma biar developer gampang debugging."
 
