@@ -128,7 +128,7 @@ Binto tersenyum. *Aku dulu juga kayak gini*, pikirnya. Canggung, polos, dan tida
 
 "Ini minggu ketiga kamu, ya, Dik?"
 
-"*Nggih*, Mas. Dua minggu pertama saya banyak belajar Git sama Mas Alin. Sekarang Mas Alin bilang, minggu ini saya dibimbing Mas Binto."
+"*Nggih*, Mas. Dua minggu pertama kemarin saya masih remote dari rumah, ngerjain tugas Git sama Mas Alin. Baru minggu ini disuruh masuk kantor, terus Mas Alin bilang sekarang saya dibimbing Mas Binto."
 
 Binto mengangguk, tapi dalam hati... *Minggu ini? Minggu deploy?*
 

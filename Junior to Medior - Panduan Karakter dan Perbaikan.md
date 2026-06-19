@@ -463,10 +463,11 @@ Bukan karena banyak ngomong. Tapi karena *kehadirannya yang sunyi* jadi alasan s
 ### Cahyo — Anak PKL
 
 - Siswa SMK, PKL di GTN (muncul di bab-bab akhir)
+- Dua minggu pertama magang dikerjakan secara remote dari rumah (belajar Git dengan Mas Alin), baru masuk kantor fisik di Bab 12 (minggu ketiga).
 - Lulus, kemudian kuliah di Malang jurusan Informatika
 - Merasa gap antara kuliah dan industri masih besar — persis seperti yang Binto rasakan dulu
 
-### Aini — Junior Baru (Bab 16)
+### Aini — Junior Baru (Bab 17)
 
 - Fresh graduate, perempuan muda berkerudung pastel
 - Bergabung di akhir cerita
