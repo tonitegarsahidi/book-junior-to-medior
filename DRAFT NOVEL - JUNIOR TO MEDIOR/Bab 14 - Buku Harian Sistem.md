@@ -62,7 +62,7 @@ Cahyo manggut-manggut. "Jadi kayak buku harian?"
 
 "Persis. Buku harian sistem."
 
-## 14.4 Logging di Framework Modern
+## 14.4 Pena Otomatis Framework
 
 Mas Alin membuka kembali file laravel.log di laptopnya. "Lihat, Dik. Framework seperti Laravel itu otomatis bikin file log. Setiap error, warning, info—tercatat di sini. Kita tinggal buka foldernya."
 
@@ -72,7 +72,7 @@ Binto menimpali. "Dulu saya kira logging itu ribet. Ternyata tinggal pakai yang 
 
 "Itulah enaknya pakai framework modern," kata Mas Alin. "Tapi tetap kita harus tahu cara bacanya dan cara nambahin log sendiri."
 
-## 14.5 Level Severity: Info, Warning, Error, Critical
+## 14.5 Skala Suara: Dari Bisikan Hingga Jeritan
 
 Mas Alin menyorot beberapa baris di file log.
 
@@ -90,7 +90,7 @@ Cahyo mencatat di buku kecilnya. "Jadi gak semua log sama pentingnya?"
 
 "Betul. Dengan level ini, kita bisa filter. Kalau lagi sibuk, kita fokus ke ERROR dan CRITICAL dulu. Kalau lagi santai, baru lihat WARNING."
 
-## 14.6 Log Bisa Dialirkan ke Tools Khusus
+## 14.6 Muara Aliran Jejak
 
 Mas Alin melanjutkan. "Ngomong-ngomong soal log, sebenarnya file kayak laravel.log ini cuma cara paling sederhana. Di proyek yang lebih besar, log biasanya dialirkan ke tools khusus."
 
@@ -104,7 +104,7 @@ Ia menyebutkan beberapa nama lain. "Ada juga Seq, ELK—Elasticsearch, Logstash,
 
 "Belum. Untuk tim sekecil kita, file log masih cukup. Tapi gak ada salahnya tahu. Nanti kalau proyek makin besar, kita bisa pakai."
 
-## 14.7 Log vs Database: Jangan Salah Pilih
+## 14.7 Memisahkan Catatan Harian dan Brankas
 
 Binto teringat sesuatu. "Mas, saya pernah lihat di forum, ada yang nyimpan log ke database. Itu boleh?"
 
@@ -122,7 +122,7 @@ Cahyo manggut-manggut. "Jadi dua-duanya boleh, asal tahu batasannya."
 
 "Persis."
 
-## 14.8 Log Rotation: Jangan Sampai Disk Penuh
+## 14.8 Memangkas Lembar-Lembar Kertas Log
 
 Mas Andik yang sudah selesai membersihkan disk ikut nimbrung. "Ngomong-ngomong soal log, kalian tahu kenapa disk production bisa penuh tadi?"
 

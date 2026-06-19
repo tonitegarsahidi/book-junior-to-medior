@@ -324,7 +324,7 @@ Mas Alin tersenyum. "Nah, itu dia. Sekarang, dua tahun lagi kalau kamu lupa, kam
 
 Binto melanjutkan. Ia menambahkan komentar di setiap fungsi penting: apa fungsinya, parameter apa yang diterima, apa yang dikembalikan, dan—yang paling penting—mengapa keputusan tertentu diambil.
 
-## 6.9 Konstanta di Tempat Terpusat
+## 6.9 Menaruh Kunci di Satu Kotak
 
 Saat Binto selesai menulis komentar, Mas Alin menunjuk ke nilai 10 yang masih tertulis di dalam Service.
 

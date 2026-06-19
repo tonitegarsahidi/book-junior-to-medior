@@ -114,7 +114,7 @@ Mas Alin dari pojokannya ikut bersuara. "Betul, Ra. Di tim kecil kayak kita, QA 
 
 ---
 
-## 9.5 ISO 29119 dan Standar Profesional
+## 9.5 Kitab Penjaga Mutu
 
 Mas Alin bangkit dan berjalan mendekat. "Omong-omong soal testing profesional, sebenarnya ada standar internasional. Namanya ISO 29119. Versi terbarunya 2022."
 
@@ -128,7 +128,7 @@ Binto manggut-manggut. Ia baru tahu ada standar internasional untuk hal yang sel
 
 ---
 
-## 9.6 Risk-Based Testing dan Shift-Left
+## 9.6 Membaca Arah Badai
 
 "Salah satu konsep penting di ISO 29119," Mbak Rara melanjutkan, "adalah Risk-Based Testing."
 

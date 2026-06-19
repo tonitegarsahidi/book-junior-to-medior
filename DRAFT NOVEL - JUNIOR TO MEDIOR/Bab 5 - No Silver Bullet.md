@@ -1,4 +1,4 @@
-# Bab 5: No Silver Bullet
+# Bab 5: No Silver Bullet: Di Sela Pilihan dan Ilusi
 
 Minggu keempat.
 
@@ -172,7 +172,7 @@ Binto teringat pengalamannya sendiri saat mencoba framework JavaScript modern un
 
 "Nah, itu dia. Bayangin kalau itu proyek klien. Deadline besok. Kamu stuck di error sepele karena dokumentasinya kurang. Klien marah, bos marah, kamu stress. Itu biaya yang gak kelihatan."
 
-## 5.8 Monolith untuk yang Kecil
+## 5.8 Menjaga Rumah Tetap Utuh
 
 Binto ingat istilah lain yang sering berseliweran di linimasa teknologinya dulu. *Microservices*. Katanya arsitektur masa depan. Pisah-pisah aplikasi jadi layanan-layanan kecil yang berdiri sendiri. Kayak restoran food court: tiap tenant punya dapur sendiri, menu sendiri, kasir sendiri. Kalau tenant mie ayam tutup, tenant sate masih buka. Beda sama restoran biasa — satu dapur, satu menu, satu kasir. Kalau dapurnya kebakaran, semua tutup.
 
@@ -292,7 +292,7 @@ Binto teringat proyek tugas akhir temannya yang sampai sekarang gak bisa di-main
 
 "Jadi aturannya: ngutang boleh, asal dicatat. Dan harus ada rencana kapan bayarnya."
 
-## 5.12 Berpikir Kritis pada Hype
+## 5.12 Menepis Silau Tren Baru
 
 Mas Alin membuka kembali aplikasi burung biru di ponselnya. Ia menunjukkan sebuah utas yang sedang viral.
 

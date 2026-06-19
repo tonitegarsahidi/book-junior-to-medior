@@ -1,4 +1,4 @@
-# Bab 3: Waterfall, Agile, dan Sticky Notes
+# Bab 3: Menari di Atas Arus yang Berubah
 
 ## 3.1 Hantu Skripsi
 
@@ -167,7 +167,7 @@ Binto merenung. Di kampus... struktur tim selalu hierarkis. Ada ketua. Ada anggo
 
 ---
 
-## 3.4 Ritual Dua Mingguan: Sprint Planning
+## 3.4 Menyusun Rencana Dua Pekan
 
 Sambil menyeruput teh hangat, Binto kembali bertanya. "Terus, Mas. Gimana caranya *sticky note* di kolom Backlog bisa pindah ke To Do? Apa tiba-tiba aja?"
 
@@ -255,7 +255,7 @@ Binto tersenyum. Di kampus... rapat kegiatan kemahasiswaan bisa berjam-jam. Seri
 
 ---
 
-## 3.6 Papan Ajaib
+## 3.6 Kanvas yang Berbicara
 
 Setelah daily, Binto mendekati whiteboard lagi. Kali ini dengan pemahaman yang sedikit lebih baik.
 

@@ -94,7 +94,7 @@ Cahyo menelan ludah. Buku catatannya belum sempat ia buka satu halaman pun. Tapi
 
 ---
 
-## 15.4 Tiga Pilar: CIA Triad
+## 15.4 Tiga Pilar Penjaga Rahasia
 
 Mas Alin mengambil selembar tisu bekas dan pulpen. Ia menggambar segitiga.
 
@@ -110,7 +110,7 @@ Cahyo manggut-manggut. "Jadi keamanan itu gak cuma soal cegah hacker?"
 
 "Persis. Banyak orang cuma fokus di Confidentiality—takut data dicuri. Padahal Integrity dan Availability sama pentingnya. Bayangin aplikasi e-commerce. Aman dari hacker, tapi sering down. Pelanggan kabur semua."
 
-## 15.5 SQL Injection & XSS: Ancaman Klasik pada CIA
+## 15.5 Musuh dalam Selimut
 
 "Contoh kecil," Mas Alin melanjutkan. "SQL Injection. Kamu tahu?"
 
@@ -136,7 +136,7 @@ Cahyo mencatat cepat di buku kecilnya. "Pencegahannya?"
 
 "Untuk SQL Injection: pakai *prepared statement* atau ORM. Jangan gabung string mentah buat query. Untuk XSS: selalu *escape* output. Jangan tampilkan data mentah dari pengguna."
 
-## 15.6 Password Hashing: Jaga Confidentiality
+## 15.6 Menyamarkan Wajah Sandi
 
 "Satu lagi," Mas Alin menambahkan. "Password. Jangan pernah simpan password mentah di database."
 
@@ -154,7 +154,7 @@ Cahyo mencatat lagi. "Ini Confidentiality ya, Mas?"
 
 "Betul. Menjaga kerahasiaan kredensial pengguna."
 
-## 15.7 Keamanan Bukan Cuma Kode: Infrastruktur Juga
+## 15.7 Mengunci Gerbang Luar
 
 Mas Andik yang sedari tadi diam ikut angkat bicara. "Dik, keamanan itu gak cuma di kode. Di server juga."
 
@@ -208,7 +208,7 @@ Mas Alin mengangguk. "Betul. Di perusahaan besar, biasanya ada tim khusus Securi
 
 "Ada juga yang namanya DevSecOps," tambah Mas Andik. "Itu DevOps yang fokus ke keamanan. Dia yang setup pipeline keamanan, scan kerentanan, urus sertifikat SSL, dan sebagainya."
 
-## 15.11 ISO 27001 dan Kepatuhan Formal
+## 15.11 Sertifikat di Atas Dinding
 
 Pakde Suhar yang sedari tadi mendengarkan akhirnya bersuara. "Ngomong-ngomong soal keamanan, saya mau tambah dikit."
 

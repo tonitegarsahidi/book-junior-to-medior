@@ -90,7 +90,7 @@ Binto ingat. Selama beberapa bulan terakhir, setiap kali ia menyelesaikan fitur 
 
 "Itu lebih rapi dari FTP," kata Mas Alin. "Tapi tetap saja ada *human touch*. Kalau saya lupa composer install? Bisa error. Kalau saya lagi sibuk dan gak bisa deploy? Fitur numpuk di repository, gak sampai ke klien."
 
-## 13.6 Kenapa Sekarang Pakai CI/CD?
+## 13.6 Saat Langkah Manual Menjadi Beban
 
 "Makanya," Mas Alin menyesap kopinya, "untuk proyek Kalimantan ini, sekitar seminggu terakhir saya selesai setup CI/CD."
 
@@ -110,7 +110,7 @@ Binto mengangguk. Ia ingat betul. Fitur pertamanya yang *live* ke production. De
 
 "Belum. Proyek Koperasi versi lama kan offline. Yang versi baru ini nanti kita deploy ke VPS, tapi belum sempat saya pasang pipeline CI/CD. Proyek Pabrik Garum sama Sekolah Al-Hikmah juga masih pakai cara semi-manual. Nanti pelan-pelan kita migrasi. Yang penting kalian paham dulu konsepnya."
 
-## 13.7 Apa Itu CI/CD?
+## 13.7 Robot Pengantar di Ujung Jalur
 
 "Cahyo tadi tanya, apa itu CI/CD," Mas Alin mencondongkan badan. "CI itu *Continuous Integration*. CD itu *Continuous Delivery* atau *Continuous Deployment*."
 
@@ -122,7 +122,7 @@ Cahyo melongo. "Jadi kita tinggal *push*, terus duduk manis?"
 
 "Kurang lebih begitu. Untuk proyek Kalimantan, ya. Yang lain masih manual."
 
-## 13.8 Pipeline: Rangkaian Proses Otomatis
+## 13.8 Aliran Air dalam Pipa Otomatis
 
 Mas Alin mengambil selembar tisu dari meja. Ia mulai menggambar dengan pulpen.
 
@@ -168,7 +168,7 @@ Mas Alin melanjutkan. "Tapi ada juga yang lain. GitLab CI/CD kalau repository-ny
 
 "Gak ada. Semua punya plus minus. Yang penting paham konsepnya. Nanti kalau pindah proyek atau pindah perusahaan, tinggal adaptasi."
 
-## 13.10 CI/CD Itu Opsional, Tapi Best Practice
+## 13.10 Antara Pilihan dan Keharusan
 
 "Tapi Mas," Binto bertanya. "Semua proyek harus pakai CI/CD?"
 
@@ -182,7 +182,7 @@ Mas Alin menggeleng. "Gak harus. Ini opsional. Lihat proyek Koperasi Sekar Patri
 
 Mbak Rara menimpali. "Aku juga terbantu. Begitu ada *push* ke staging, aku langsung bisa tes. Gak ada lagi drama 'udah *deploy* belum, Mas?' Aku fokus nyari bug, bukan nungguin *deploy*."
 
-## 13.11 Peran DevOps di Tim Besar
+## 13.11 Dirigen di Balik Layar Server
 
 "Di tim kecil kayak kita," Mas Alin menambahkan, "kita semua rangkap. Saya yang setup pipeline. Binto yang nulis test. Andik yang urus server. Tapi di tim besar, biasanya ada role khusus: DevOps Engineer."
 

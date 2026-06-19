@@ -337,7 +337,7 @@ Karena ia tahu, pelajaran ini bukan cuma soal API. Ini soal bagaimana sebuah sis
 
 ---
 
-## 11.7 Exception Handler Global: Tidak Semua Harus Diurus dari Nol
+## 11.7 Jaring Penyelamat di Langit Sistem
 
 Mas Alin belum selesai.
 

@@ -112,7 +112,7 @@ Wawan yang lewat membawa gelas kopi mendengar kata "cache" dan nyeletuk. "Di *fr
 
 Mas Alin mengangguk. "*Nah*. Cache itu ada di mana-mana. *Backend*, *frontend*, bahkan di *database*. Prinsipnya sama: simpan salinan biar cepat, tapi harus pintar atur kapan diperbarui."
 
-## 16.6 Vertical vs Horizontal Scaling
+## 16.6 Memperbesar Tiang atau Menambah Pilar
 
 "Sekarang," Mas Alin mengambil kertas baru, "kita bahas cara bikin sistem lebih kuat. Ada dua jalur."
 
@@ -138,7 +138,7 @@ Mas Alin menggambar tiga kotak kecil sejajar. "Horizontal scaling. Kita gak gant
 
 Binto mencatat dalam hati. *Tambah kuda atau ganti kuda? Dua-duanya punya tempat.*
 
-## 16.7 Database Scaling: Jangan Langsung Canggih
+## 16.7 Perlahan Membagi Beban
 
 "Ngomong-ngomong soal database," Mas Alin melanjutkan, "scaling database itu perjalanannya panjang. Tapi mulainya dari yang paling sederhana."
 
@@ -172,7 +172,7 @@ Mbak Rara mengangguk. "Ini penting banget buat keamanan."
 
 "*Nggih*. Rate limiting itu benteng pertama. Banyak yang mikir ini cuma buat cegah DDoS besar. Padahal untuk hal kecil kayak *brute force* juga ampuh."
 
-## 16.9 Monolith vs Microservices: Jangan Terburu-buru
+## 16.9 Jangan Pecah Rumah Terlalu Cepat
 
 Binto teringat bacaan-bacaan online-nya. "Mas, banyak yang bilang *microservices* itu lebih baik buat scaling. Apa kita harus ubah arsitektur?"
 

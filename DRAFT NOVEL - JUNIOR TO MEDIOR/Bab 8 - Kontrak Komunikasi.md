@@ -1,4 +1,4 @@
-# Bab 8: Kontrak Komunikasi
+# Bab 8: Jabat Tangan Dua Sistem
 
 ## 8.1 Kabar dari Balikpapan
 
@@ -82,7 +82,7 @@ Binto mulai membayangkan. "Jadi aplikasi mobile gak langsung ngambil data dari d
 
 Binto manggut-manggut. Analogi ini membantu sekali.
 
-## 8.4 Monolitik vs API-based
+## 8.4 Memecah Dinding Monolit
 
 "Tapi Mas, selama ini kita bikin web monolitik. Itu bedanya apa?"
 
@@ -152,7 +152,7 @@ Ia mengetik lagi:
 
 Mas Alin menambahkan. "Sama kayak format pesanan di restoran Padang tadi. Begitu kita sepakat pakai JSON, semua pihak tahu: data akan dikirim dalam bentuk pasangan nama\_properti: nilai. Mobile kirim JSON, server balas JSON. Gak ada salah paham."
 
-## 8.6 Komponen REST API: Diterjemahkan ke Restoran Padang
+## 8.6 Sajian di Meja API
 
 Mas Alin mengambil kertas kosong dan spidol. "Sekarang kita bedah komponen REST API. Saya gambar biar jelas. Tapi kita tetap pakai analogi restoran Padang, ya."
 
@@ -185,7 +185,7 @@ Binto tersenyum. Analogi ini sangat membumi.
 
 "Kelima, Status Code." Mas Alin memberi tanda bintang. "Ini kode dari server untuk kasih tahu hasilnya. Ibarat respons pelayan setelah kamu pesan."
 
-## 8.7 Status Code: Respons Pelayan Restoran Padang
+## 8.7 Isyarat dari Sang Pramusaji
 
 "Ini penting banget," Mas Alin menekankan. "Status code adalah bahasa universal yang dipahami semua *developer*. Kita terjemahkan ke pengalaman di restoran Padang."
 
@@ -208,7 +208,7 @@ Binto tertawa kecil mendengar analogi "dapur kebakaran".
 
 "*Nggih*. Dengan status code yang jelas, *frontend* bisa ngasih pesan yang tepat ke pengguna. Pengguna gak bingung. Itu profesional."
 
-## 8.8 Stateful vs Stateless
+## 8.8 Beban Ingatan: Stateful vs Stateless
 
 "Mas, satu lagi. Gimana caranya server tahu siapa yang akses? Kan gak kayak web biasa yang ada sesi login."
 
@@ -244,7 +244,7 @@ Binto mulai menangkap. "Jadi kunci itu..."
 
 Binto mencatat dalam hati: *Bearer token*. Istilah baru lagi.
 
-## 8.10 Autentikasi vs Otorisasi
+## 8.10 Mengenali Wajah dan Membuka Pintu
 
 "Ini yang sering ketuker," Mas Alin menambahkan. "Autentikasi dan Otorisasi. Dua hal yang berbeda."
 
@@ -262,7 +262,7 @@ Binto mengangguk. "Jadi token itu urusan autentikasi?"
 
 "Persis. 401 Unauthorized itu autentikasi gagal—token tidak valid atau tidak ada. 403 Forbidden itu autentikasi berhasil, tapi otorisasi gagal—kamu tidak punya hak."
 
-## 8.11 Kenapa Bearer Token, Bukan API Key?
+## 8.11 Kunci yang Bisa Luruh
 
 Binto ingat sesuatu. "Mas, saya pernah lihat ada yang pakai *API key*. Itu bedanya apa?"
 
@@ -276,7 +276,7 @@ Ia melanjutkan. "Bayangin di sistem kita nanti ada *sales* A dan *sales* B. Mere
 
 Binto paham sekarang. *Bearer token* lebih aman dan lebih fleksibel untuk sistem dengan banyak pengguna.
 
-## 8.12 API Contract: Menu yang Disepakati
+## 8.12 Janji Tertulis Dua Sistem
 
 Setelah sesi teori yang panjang, Mas Alin membuka laptop. "Sekarang kita praktik. Kita bikin API Contract dulu. Ini kayak menu di restoran tadi. Sebelum masak, kita sepakati dulu."
 
