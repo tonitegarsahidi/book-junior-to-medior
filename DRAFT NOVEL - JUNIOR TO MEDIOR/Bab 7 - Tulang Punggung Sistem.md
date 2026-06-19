@@ -1,16 +1,14 @@
-# **Bab 7: Tulang Punggung Sistem**
+# Bab 7: Tulang Punggung Sistem
 
-## **7.1 Sabtu di Srengat**
+## 7.1 Sabtu di Srengat
 
 Pagi Sabtu di Srengat selalu terasa berbeda.
 
-Tidak ada suara dering telepon yang beruntun. Tidak ada Mbak Rara yang berteriak dari depan, "Woy, *daily*\! Ayo kumpul\!" Tidak ada Pakde Suhar yang mondar-mandir dengan map cokelat tebal. Hanya suara kipas angin Ufo yang berputar pelan, berpadu dengan kicau burung gereja di pohon rambutan depan.
+Tidak ada dering telepon dari klien. Tidak ada suara printer yang berisik di meja Bu Sari. Hanya suara kipas angin Ufo yang berputar pelan, berpadu dengan kicau burung gereja di pohon rambutan depan.
 
 Binto tiba pukul delapan lewat. Gerimis semalam meninggalkan udara yang sejuk dan bau tanah basah yang khas. Ia memarkirkan Beat-nya di samping motor Mas Alin—Astrea Grand butut yang entah kenapa masih setia menemani sang mentor.
 
-Di dalam, suasana lebih mirip ruang baca perpustakaan daripada kantor. Mas Alin duduk di pojokannya, kacamata bertengger di hidung, membaca buku tebal bersampul biru. Sesekali ia mencoret-coret buku catatan kecil. Wawan—yang kebetulan jadwalnya masuk Sabtu ini—duduk di depan iMac-nya dengan *headset* besar, matanya serius menatap layar. Dari gerak-geriknya, Binto menduga ia sedang mengikuti *course* online tentang Figma.
-
-Mas Andik, si teknisi jaringan, duduk di meja dekat rak server mini. Di hadapannya ada router Mikrotik yang terbuka casing-nya. Ia tampak asyik bereksperimen dengan kabel-kabel kecil dan sesekali mengetik di terminal.
+Di dalam, suasana lebih mirip ruang baca perpustakaan daripada kantor. Mas Alin duduk di pojokannya, kacamata bertengger di hidung, membaca buku tebal bersampul biru. Sesekali ia mencoret-coret buku catatan kecil. Wawan duduk di depan iMac-nya dengan headset besar, matanya serius menatap layar. Dari gerak-geriknya, Binto menduga ia sedang mengikuti course online tentang Figma. Mas Andik, si teknisi jaringan, duduk di meja dekat rak server mini. Di hadapannya ada router Mikrotik yang terbuka casing-nya. Ia tampak asyik bereksperimen dengan kabel-kabel kecil dan sesekali mengetik di terminal.
 
 "Ini Sabtu kok pada serius banget?" Binto bergumam pelan sambil meletakkan tasnya.
 
@@ -20,13 +18,13 @@ Binto mengangguk. Ia membuka laptop dan melanjutkan membaca dokumentasi Laravel 
 
 Satu jam berlalu dalam keheningan yang nyaman. Hanya suara ketikan keyboard dan sesekali Mas Andik yang menggerutu karena routernya tidak merespons.
 
-## **7.2 Makan Siang dan Panen Rambutan**
+## 7.2 Makan Siang dan Panen Rambutan
 
 Menjelang dzuhur, suara motor Pakde Suhar terdengar di halaman. Tidak seperti biasanya yang datang siang, hari ini ia muncul lebih awal. Tangannya menenteng bungkusan kresek besar.
 
-"Makan bareng, yo\!" serunya dari pintu.
+"Makan bareng, yo!" serunya dari pintu.
 
-Wawan melepas *headset*\-nya dengan cepat. "Wah, Pakde bawa apa?"
+Wawan melepas headset-nya dengan cepat. "Wah, Pakde bawa apa?"
 
 "Ayam goreng, sambal terasi, sama lalapan. Tadi beli di depan Pasar Srengat."
 
@@ -38,9 +36,9 @@ Mereka berlima—Pakde, Mas Alin, Wawan, Andik, dan Binto—berkumpul di teras d
 
 Setelah nasi di piring habis dan gelas es teh kosong, Pakde Suhar menatap pohon rambutan di atas mereka. Matanya berbinar.
 
-"Wah, itu sudah merah-merah. Panen pertama, iki."
+"Wah, itu sudah mulai merah. Bisa dicoba dikit, iki."
 
-Ia bangkit, meraih galah bambu yang tersandar di dinding teras. Dengan cekatan, ia menjangkau dahan-dahan rendah yang buahnya sudah merah merona. Satu per satu rambutan jatuh ke tangan Andik yang siap menadah dengan baskom plastik.
+Ia bangkit, meraih galah bambu yang tersandar di dinding teras. Dengan cekatan, ia menjangkau dahan-dahan rendah, memilih buah yang mulai memerah. "Yang ini aja, yang udah ranum," katanya. Beberapa butir rambutan jatuh ke tangan Andik yang siap menadah dengan baskom plastik.
 
 "Cicipi, *Le*," Pakde menyodorkan sebutir rambutan ke Binto.
 
@@ -50,19 +48,15 @@ Dan sesuatu terjadi.
 
 Sesuatu yang tidak ia duga.
 
-Rasa manis itu membawanya terbang ke masa kecil. Ke halaman rumah di pinggir kota Blitar, di mana dulu berdiri sebatang pohon rambutan besar. Setiap musim panen, Bapak akan memanjat dan memetik buah-buah terbaik. Ibu akan merebus air untuk membersihkan rambutan. Binto kecil akan duduk di bawah, menunggui baskom penuh buah merah.
+Rasa manis itu membawanya terbang ke rumah. Ke halaman di pinggir kota Blitar, di mana Bapak menanam sebatang pohon rambutan kecil dua tahun lalu. Seingat Binto, pohon itu belum pernah berbuah. Tapi Bapak merawatnya dengan sabar—menyiram tiap pagi, memupuk tiap bulan. "Sabar, To. Nanti juga gede," kata Bapak waktu itu.
 
-Pohon itu sudah tidak ada sekarang.
-
-Ditebang lima tahun lalu, saat Bapak menjual sebagian tanah untuk proyek *mini cluster*. Kata Bapak waktu itu, "Uangnya buat biaya kuliahmu, To." Binto ingat ia menangis diam-diam malam harinya. Bukan karena tidak setuju. Tapi karena ia akan kehilangan saksi bisu masa kecilnya.
+Binto tersenyum sendiri. Pohon di rumahnya belum berbuah. Tapi pohon di kantor ini—pohon yang sama jenisnya—sudah mulai berbuah. *Mungkin aku juga begitu*, pikirnya. *Ditanam. Dirawat. Nanti juga berbuah.*
 
 "Enak, Mas?" suara Wawan membuyarkan lamunannya.
 
-Binto mengangguk cepat. "Enak. Manis."
+Binto mengangguk. "Enak. Manis."
 
-Ia menunduk, menyembunyikan mata yang tiba-tiba terasa hangat.
-
-## **7.3 Misteri Kode Tulungagung**
+## 7.3 Misteri Kode Tulungagung
 
 Setelah makan dan rambutan habis tak bersisa, mereka tetap duduk di tikar. Angin siang berembus pelan, membuat daun-daun rambutan bergesekan.
 
@@ -92,7 +86,7 @@ Tabel itu punya puluhan kolom. nama\_pembeli, alamat\_pembeli, telepon\_pembeli,
 
 Mas Alin tersenyum tipis. "Karena yang bikin mungkin gak paham normalisasi."
 
-## **7.4 Tabel yang Terlalu Gemuk**
+## 7.4 Tabel yang Terlalu Gemuk
 
 "Bayangin," Mas Alin menunjuk layar. "Setiap kali ada transaksi, aplikasi ini maksimal cuma bisa catat 10 barang. Lebih dari itu? Gak bisa."
 
@@ -110,7 +104,7 @@ Mas Andik yang biasanya diam ikut berkomentar. "Ini mah kayak nyimpen semua baju
 
 Pakde Suhar yang ikut menyimak mengangguk-angguk. Walau sama sekali tidak bisa coding—mentok hanya bisa buka Excel— Tapi ia punya filosofi sendiri tentang sistem. "Kalau datamu berantakan, ya bisnis klien kita yang bakal ikut mati."
 
-## **7.5 Memotong Cabang yang Rimbun**
+## 7.5 Memotong Cabang yang Rimbun
 
 Mas Alin mengambil kertas kosong dari printer dan mulai menggambar.
 
@@ -132,29 +126,31 @@ Mas Alin menggeleng. "Gak selalu. Kadang kita sengaja gak normalisasi. Namanya d
 
 Binto manggut-manggut. Di kampus, ia diajari normalisasi sebagai aturan baku. 1NF, 2NF, 3NF, BCNF—semua dihafal untuk ujian. Tapi di sini, Mas Alin mengajarkan bahwa aturan itu fleksibel. Yang penting paham tujuannya.
 
-## **7.6 Transaksi: Jangan Setengah-Setengah**
+## 7.6 Transaksi: Jangan Setengah-Setengah
 
 Mas Andik tiba-tiba bersuara lagi. "Omong-omong soal database, aku jadi inget pengalaman waktu pertama kali bikin aplikasi koperasi."
 
-Semua menoleh.
+Semua menoleh. Andik jarang cerita masa lalunya.
 
-"Dulu aku bikin simpan pinjam sederhana buat koperasi. Pas anggota nabung, aku cuma bikin satu *query*: UPDATE saldo SET jumlah \= jumlah \+ 10000 WHERE id \= 123."
+"Dulu aku bikin simpan pinjam sederhana buat koperasi," ia memulai. Suaranya lebih pelan dari biasanya. "Pas anggota nabung, aku cuma bikin satu *query*: UPDATE saldo SET jumlah \= jumlah \+ 10000 WHERE id \= 123."
 
-"Terus?" Binto penasaran.
+"Terus?" Binto mencondongkan tubuhnya.
 
-"Suatu hari listrik mati pas tengah proses. Saldo anggota udah bertambah, tapi catatan transaksinya—yang harusnya masuk ke tabel jurnal—gak kesimpan."
+"Suatu hari listrik mati pas tengah proses." Andik menatap layar laptopnya, seolah melihat kembali kejadian itu. "Ruangan gelap. UPS cuma kuat beberapa menit. Aku panik, langsung matiin server manual. Eh... ternyata saldo anggota udah bertambah, tapi catatan transaksinya—yang harusnya masuk ke tabel jurnal—gak kesimpan."
 
 Wawan meringis. "Waduh. Berabe tuh."
 
-"Berabe banget. Akhir tahun, pas audit, saldo total gak cocok sama catatan transaksi. Aku harus bongkar satu per satu manual. Seminggu penuh lembur cuma buat beresin itu."
+"Berabe banget. Akhir tahun, pas audit, saldo total gak cocok sama catatan transaksi." Andik mengusap dahinya, refleks. "Aku harus bongkar satu per satu manual. Bandingin tiap transaksi sama mutasi saldo. Seminggu penuh lembur. Mata perih, punggung encok. Cuma buat beresin transaksi yang... kurang dari tiga bulan."
 
-Mas Alin mengangguk serius. "Itu kenapa kita butuh Transaksi Database."
+Hening sejenak.
+
+Mas Alin mengangguk serius. "Kamu tahu kenapa bisa separah itu? Karena dua operasi—UPDATE saldo dan INSERT jurnal—harusnya satu paket. Gak boleh setengah-setengah. Gagal satu, gagal semua. Itu kenapa kita butuh Transaksi Database."
 
 Ia membuka terminal, mengetik sesuatu.
 
-"Di SQL, kita bisa bungkus beberapa *query* dalam satu transaksi. Pakai BEGIN di awal, terus COMMIT kalau semua berhasil. Kalau ada yang gagal di tengah, ROLLBACK. Semua perubahan dibatalkan."
+"Di SQL, kita bisa bungkus beberapa *query* dalam satu transaksi. Pakai BEGIN di awal, terus COMMIT kalau semua berhasil. Kalau ada yang gagal di tengah—entah listrik mati, *disk full*, atau *query* error—ROLLBACK. Semua perubahan dibatalkan. Database balik ke keadaan sebelum BEGIN."
 
-Ia menunjukkan contoh sederhana:
+Ia menunjukkan contoh:
 
 sql
 
@@ -166,17 +162,43 @@ UPDATE saldo SET jumlah \= jumlah \+ 10000 WHERE anggota\_id \= 123;
 
 COMMIT;
 
-"Kalau listrik mati pas di tengah-tengah, begitu server nyala lagi, database akan otomatis *rollback*. Data tetap utuh."
+"Kalau listrik mati pas di tengah-tengah—misal setelah INSERT tapi sebelum UPDATE—begitu server nyala lagi, database akan otomatis *rollback*. INSERT yang sudah terlanjur jalan ikut dibatalkan. Data tetap utuh."
 
 "Ini yang namanya ACID ya, Mas?" Binto teringat istilah itu dari bacaan online.
 
-"*Nggih*. A itu *Atomicity*—semua atau tidak sama sekali. C itu *Consistency*—data tetap valid sesuai aturan. I itu *Isolation*—transaksi satu gak ganggu transaksi lain. D itu *Durability*—sekali *commit*, data aman walau server mati."
+"*Nggih*." Mas Alin meraih kertas kosong dan mulai mencoret-coret. "Empat jaminan yang dikasih database ke kita. Saya jelasin satu-satu."
 
-"Penting banget buat aplikasi keuangan," Wawan berkomentar.
+Ia menulis huruf A besar.
 
-"Bukan cuma keuangan. Kapan pun kamu ubah data di lebih dari satu tempat dalam satu proses, bungkus dengan transaksi. Itu *safety net* kamu."
+"**A: Atomicity.** Semua atau tidak sama sekali. Kayak kamu pesan nasi Padang: nasi, rendang, es teh — tiga item, tapi satu pesanan. Kalau restoran kehabisan es teh, pelayan gak akan bilang 'nasi sama rendangnya jadi, es tehnya nggak ya.' Dia bilang: 'Maaf, pesanan batal. Stok es teh habis.' Sampai semua, atau jangan ada yang sampai."
 
-## **7.7 SQL vs NoSQL: Lemari vs Gudang**
+Ia menulis C.
+
+"**C: Consistency.** Data harus tetap valid sesuai aturan main, sebelum dan sesudah transaksi. Ibarat aturan di restoran: kamu gak boleh pesan rendang kalau stok daging habis. Database juga punya aturan—misal saldo gak boleh minus, atau stok gak boleh negatif. Transaksi gak boleh nglanggar aturan itu. Kalau setelah transaksi data jadi gak valid, database nolak."
+
+Ia menulis I.
+
+"**I: Isolation.** Transaksi yang berjalan barengan gak boleh saling ganggu. Bayangin dua pelayan nulis pesanan di buku yang sama, di waktu yang sama. Pelayan A nulis 'Meja 3: nasi rendang.' Pelayan B nulis 'Meja 3: ayam goreng.' Begitu dicek, tulisannya jadi campur aduk: 'Meja 3: na-ayam-si-goreng-rendang.' Isolation mencegah itu. Setiap transaksi jalan kayak dia sendirian, gak peduli ada berapa transaksi lain yang jalan bareng."
+
+Ia menulis D.
+
+"**D: Durability.** Begitu transaksi di-COMMIT, datanya permanen. Sekalipun server mati satu detik kemudian. Ibarat pesanan yang sudah dicatat di kertas—meskipun lampu restoran mati, catatan tetap ada. Begitu server nyala lagi, data hasil COMMIT tetap di situ."
+
+Binto menatap kertas itu. A-C-I-D. Empat huruf yang di kampus cuma dihafal untuk ujian. Tapi di sini, tiap huruf punya cerita.
+
+Ia teringat sesuatu. "Mas... berarti di aplikasi toko bangunan Tulungagung itu, transaksi juga gak dipakai?"
+
+Mas Alin mengangguk pelan. "*Nggih*. Coba lihat lagi. Setiap kali kasir input penjualan, ada dua hal yang harus terjadi: stok barang berkurang *dan* catatan penjualan tersimpan. Kalau dua itu gak dibungkus transaksi, bisa kayak kasusnya Andik. Stok udah berkurang, tapi catatan penjualan ilang."
+
+Binto membayangkan. Toko bangunan. Stok semen di sistem berkurang dua puluh sak. Tapi di catatan penjualan tidak ada. Pemilik toko bingung: semennya lari ke mana?
+
+"Itu kenapa kita tidak cuma perbaiki struktur tabel besok," Mas Alin melanjutkan. "Tapi kita juga harus bungkus semua proses ubah data dengan transaksi."
+
+"Penting banget buat aplikasi apa pun yang ngubah data di lebih dari satu tempat," Wawan menimpali.
+
+"Bukan cuma keuangan," Mas Alin mengiyakan. "Kapan pun kamu ubah data di lebih dari satu tabel dalam satu proses, bungkus dengan transaksi. Itu *safety net* kamu. Tanpa itu... kamu main api."
+
+## 7.7 SQL vs NoSQL: Lemari vs Gudang
 
 Binto teringat sesuatu. "Mas, saya pernah lihat lowongan yang minta pengalaman MongoDB. Itu kan NoSQL. Kapan kita pakai SQL, kapan pakai NoSQL?"
 
@@ -216,27 +238,21 @@ Wawan menimpali. "Jadi sama kayak PHP vs Rust kemarin ya, Mas. Gak ada yang lebi
 
 Mas Alin tersenyum. "Persis. *No Silver Bullet* juga berlaku di database."
 
-## **7.8 Refleksi Sore**
+## 7.8 Refleksi Sore
 
 Sore hari, kantor mulai sepi. Wawan dan Andik sudah pamit pulang. Pakde Suhar masih di ruang depan, menelepon klien. Hanya Binto dan Mas Alin yang tersisa di teras.
 
 Binto menatap pohon rambutan. Buahnya sudah berkurang banyak sejak siang tadi. Pakde membawa sebagian untuk oleh-oleh Bu Sari dan Mbak Rara. Sisanya dimakan bersama.
 
-Pikirannya melayang ke pohon rambutan di rumahnya dulu.
+"Mas," suaranya pelan. "Dulu di rumah, Bapak saya nanam pohon rambutan juga."
 
-"Mas," suaranya pelan. "Dulu di rumah saya ada pohon rambutan juga."
+Mas Alin menoleh. "Oh ya? Masih kecil?"
 
-Mas Alin menoleh. "Oh ya? Masih ada?"
+"Masih. Dua tahun. Belum pernah berbuah." Binto tersenyum kecil. "Tadi pas makan rambutan... saya jadi inget Bapak. Ingat rumah. Padahal tiap hari juga pulang ke sana."
 
-"Udah ditebang. Lima tahun lalu. Bapak jual sebagian tanah buat biaya kuliah saya. Pohonnya kena."
+"Itulah, *Le*," Mas Alin berkata lembut. "Kadang yang dekat justru paling gampang terlupa. Tapi kenangan itu penting. Dia yang bikin kita tetap sadar: kita ini dari mana, dan buat siapa kita kerja."
 
-Mas Alin diam. Memberi ruang.
-
-"Setiap musim panen, Bapak yang manjat. Ibu yang bersihin. Saya cuma duduk di bawah, nungguin baskom penuh." Binto tersenyum getir. "Saya gak nyangka, cuma gara-gara gigit rambutan tadi siang, saya inget semua."
-
-"Itulah kenangan, *Le*," Mas Alin berkata lembut. "Dia bisa datang kapan aja. Lewat rasa, lewat bau, lewat suara."
-
-Binto mengangguk.
+Binto mengangguk. Ia menatap pohon rambutan di depannya—pohon yang tidak ia tanam, tapi yang ikut menyaksikan pertumbuhannya.
 
 Mas Alin menatap pohon rambutan di depan mereka. "Kamu tahu, database yang baik itu kayak pohon rambutan."
 
@@ -254,25 +270,20 @@ Binto merenungkan kata-kata itu. Database yang terlalu gemuk—seperti tabel pen
 
 Binto mengangguk paham. *Refactoring*, bukan *rewrite*. Ia ingat pelajaran di bab sebelumnya.
 
-Sore semakin turun. Langit Blitar berwarna jingga kemerahan, senada dengan buah rambutan yang tersisa di ujung dahan.
+Sore makin landai. Dari dapur sebelah, terdengar bunyi gelas ditaruh pelan di atas nampan. Di jalan depan, satu motor lewat pelan lalu hilang di tikungan.
 
-"*Matur suwun*, Mas. Hari ini saya belajar banyak."
+Binto masih menatap pohon rambutan di halaman. Beberapa buah yang tersisa bergerak kecil kena angin.
 
-Mas Alin mengangkat cangkirnya—yang entah sejak kapan sudah terisi kopi lagi. "*Sami-sami*, *Le*. Tapi ingat. Database itu cuma alat. Yang paling penting adalah data-nya. Data itu aset klien. Tugas kita menjaganya."
+"Jadi yang dijaga itu bukan tabelnya," katanya pelan, lebih seperti menyambung pikirannya sendiri. "Tapi hidup orang-orang yang numpang di dalam datanya."
 
-Binto menatap pohon rambutan sekali lagi.
+Mas Alin melirik, lalu mengangguk kecil. "Nah. Sekarang kamu mulai paham."
 
-*Manis*, pikirnya. *Meski pohon di rumah sudah tiada, rasanya masih ada. Seperti data. Meski aplikasi berganti, nilainya tetap tersimpan.*
+Tidak ada yang bicara beberapa saat.
 
-Di kejauhan, suara adzan ashar mulai berkumandang. Waktu menunjukkan pukul empat sore. Sabtu hampir berakhir. Tapi pelajaran tentang tulang punggung sistem ini akan terus melekat.
+Binto menyandarkan punggung ke kursi plastik. Di kepalanya, tabel, transaksi, dan cerita warung Tulungagung itu pelan-pelan menyatu. Database bukan lagi kumpulan kolom yang bikin pusing. Ia seperti akar: jarang kelihatan, sering dilupakan, tapi diam-diam menahan seluruh pohon supaya tidak roboh.
 
----
-## **Ringkasan Materi IT Bab 7**
+Di kejauhan, adzan ashar mulai berkumandang.
 
-* **Normalisasi Database**: Proses merancang *database* untuk menghindari duplikasi data dan struktur tabel yang terlalu "gemuk" (misalnya membuat kolom `barang1`, `barang2` hingga `barang10` dalam satu tabel). Solusinya adalah memecah tabel menjadi tabel-tabel kecil yang saling berelasi (seperti tabel `transaksi_header` dan `transaksi_detail`), sehingga fleksibel dan menghemat ruang.
-* **Denormalisasi**: Langkah sengaja melanggar aturan normalisasi (misal: menyimpan `total_harga` di tabel *header* padahal bisa dihitung dari tabel *detail*) demi mempercepat performa pembacaan data, agar tidak perlu terlalu banyak melakukan kalkulasi (*JOIN*) yang memberatkan server.
-* **Transaksi Database & Prinsip ACID**: Fitur keamanan basis data untuk mengeksekusi sekumpulan aksi (*query*) sebagai satu kesatuan utuh. Jika ada gangguan listrik di tengah proses, seluruh perubahan akan dibatalkan (*Rollback*), bukan tersimpan setengah-setengah. Prinsipnya disebut **ACID** (*Atomicity, Consistency, Isolation, Durability*), sangat wajib untuk aplikasi yang menangani uang.
-* **SQL vs NoSQL**:
-  * **SQL (Relational)**: Seperti lemari arsip bersingkat. Strukturnya baku, sangat kuat untuk *query* data yang kompleks (*JOIN* tabel), dan menjamin integritas data (cocok untuk koperasi, bank, dan *e-commerce*).
-  * **NoSQL**: Seperti gudang raksasa. Strukturnya bebas (dokumen bisa berbeda bentuk), sangat cepat untuk menyimpan dan membaca miliaran data sederhana, namun lemah jika digunakan untuk relasi data yang rumit (cocok untuk *log* sistem, media sosial, atau *cache*).
-* **Refactoring vs Rewrite**: Memperbaiki kode lama yang berantakan (*refactoring*) seringkali lebih bijak daripada menghapusnya dan membuat dari nol (*rewrite*). Sistem lama menyimpan aset berharga berupa data transaksi dan aturan bisnis (*business rules*) yang mungkin belum terdokumentasi di tempat lain.
+Sabtu hampir selesai. Tapi untuk pertama kalinya, Binto merasa ia tidak cuma sedang belajar menyimpan data.
+
+Ia sedang belajar menjaga sesuatu yang lebih besar.

@@ -1,6 +1,28 @@
-# **Bab 15: Seni Menahan Laju**
+# Bab 16: Seni Menahan Laju
 
-## **15.1 Aplikasi Mulai Lemot**
+## 16.1 Foto Lama
+
+Belakangan ini, Binto punya kebiasaan baru: membuka kode-kode lamanya sendiri.
+
+Bukan untuk dibanggakan. Justru sebaliknya.
+
+Suatu malam yang tenang, tanpa notifikasi klien dan tanpa deadline mepet, ia membuka repo lama—proyek presensi QR pertama yang dulu ia kerjakan dengan dada penuh percaya diri. Lima menit kemudian, dia menutup wajahnya sendiri.
+
+"Ya Tuhan..." bisiknya.
+
+Nama variabelnya `data1`, `data2`, `temp`, `result`. Satu fungsi panjang seperti kereta tanpa stasiun. Tidak ada validasi input. Tidak ada error handling. Tidak ada pagar. Pokoknya jalan.
+
+Dan justru itu yang bikin dia tersenyum geli.
+
+*Dulu aku nulis ini sambil merasa keren banget,* pikirnya. *Sekarang kok rasanya kayak lihat foto zaman SMP.*
+
+Tapi rasa malu itu tidak sepenuhnya pahit. Ada sedikit bangga di sana. Kode buruk itu tetap bukti: dia pernah mulai dari titik itu. Pernah tidak tahu. Pernah asal jalan. Dan dari situlah dia tumbuh.
+
+Sekarang dia paham, kode yang bisa jalan dan kode yang bisa diandalkan... tidak selalu hal yang sama.
+
+---
+
+## 16.2 Aplikasi Mulai Lemot
 
 Pagi itu, Binto duduk di depan laptop dengan wajah sedikit mengernyit. Di layarnya, dashboard monitoring sederhana yang baru seminggu dipasang Mas Andik menampilkan grafik yang tidak biasa. Garis response time API proyek Kalimantan perlahan naik—dari biasanya 200 milidetik, kini menyentuh 800 milidetik, bahkan kadang menembus satu detik.
 
@@ -22,7 +44,7 @@ Kalimat terakhir itu menusuk. Binto merasakan beratnya. Ini bukan sekadar grafik
 
 Mas Alin mengangguk tenang. "Saya paham, Pakde. Kita tangani hari ini."
 
-## **15.2 Pertanyaan ke Mas Alin**
+## 16.3 Pertanyaan ke Mas Alin
 
 "Maksudnya beban berubah, Mas?" tanya Binto.
 
@@ -50,7 +72,7 @@ Mbak Rara ikut duduk. "Jadi yang sekarang ini murni beban server ya, Mas? Bukan 
 
 "Bukan bug. Ini tanda bahwa aplikasi kita mulai serius dipakai. Dan kita harus siapkan fondasi biar gak ambruk."
 
-## **15.3 Queue: Jangan Kerjain Semua Sekarang**
+## 16.4 Queue: Jangan Kerjain Semua Sekarang
 
 Mas Alin menaruh cangkirnya. "Saya kasih contoh kecil. Waktu sales bikin pesanan, di kode kita sekarang, selain nyimpan data pesanan, kita juga langsung kirim email notifikasi ke manager. Betul?"
 
@@ -70,7 +92,7 @@ Binto mengangguk paham. "Jadi kita gak perlu ngerjain semua di satu waktu."
 
 "Persis. Di Laravel, kita bisa pakai fitur *queue* dan *job*. Tinggal kirim tugas ke antrian, biar worker yang kerjakan."
 
-## **15.4 Cache: Gudang Kecil Dekat Rumah**
+## 16.5 Cache: Gudang Kecil Dekat Rumah
 
 "Contoh kedua," Mas Alin melanjutkan. "Setiap sales buka daftar produk, kita ambil dari database. Data produk jarang berubah—harga mungkin berubah seminggu sekali, nama produk hampir gak pernah. Kenapa kita bolak-balik ke database setiap kali ada yang lihat?"
 
@@ -90,7 +112,7 @@ Wawan yang lewat membawa gelas kopi mendengar kata "cache" dan nyeletuk. "Di *fr
 
 Mas Alin mengangguk. "*Nah*. Cache itu ada di mana-mana. *Backend*, *frontend*, bahkan di *database*. Prinsipnya sama: simpan salinan biar cepat, tapi harus pintar atur kapan diperbarui."
 
-## **15.5 Vertical vs Horizontal Scaling**
+## 16.6 Vertical vs Horizontal Scaling
 
 "Sekarang," Mas Alin mengambil kertas baru, "kita bahas cara bikin sistem lebih kuat. Ada dua jalur."
 
@@ -116,7 +138,7 @@ Mas Alin menggambar tiga kotak kecil sejajar. "Horizontal scaling. Kita gak gant
 
 Binto mencatat dalam hati. *Tambah kuda atau ganti kuda? Dua-duanya punya tempat.*
 
-## **15.6 Database Scaling: Jangan Langsung Canggih**
+## 16.7 Database Scaling: Jangan Langsung Canggih
 
 "Ngomong-ngomong soal database," Mas Alin melanjutkan, "scaling database itu perjalanannya panjang. Tapi mulainya dari yang paling sederhana."
 
@@ -134,7 +156,7 @@ Binto mencatat dalam hati. *Tambah kuda atau ganti kuda? Dua-duanya punya tempat
 
 Mas Alin menatap Binto. "Intinya: jangan langsung lompat ke sharding kalau vertical scaling atau replikasi masih cukup. Itu *over-engineering*. Buang-buang tenaga."
 
-## **15.7 Rate Limiting: Satpam di Pintu**
+## 16.8 Rate Limiting: Satpam di Pintu
 
 "Satu lagi yang jarang dipikirkan," Mas Alin menambahkan. "Rate limiting."
 
@@ -150,7 +172,7 @@ Mbak Rara mengangguk. "Ini penting banget buat keamanan."
 
 "*Nggih*. Rate limiting itu benteng pertama. Banyak yang mikir ini cuma buat cegah DDoS besar. Padahal untuk hal kecil kayak *brute force* juga ampuh."
 
-## **15.8 Monolith vs Microservices: Jangan Terburu-buru**
+## 16.9 Monolith vs Microservices: Jangan Terburu-buru
 
 Binto teringat bacaan-bacaan online-nya. "Mas, banyak yang bilang *microservices* itu lebih baik buat scaling. Apa kita harus ubah arsitektur?"
 
@@ -170,7 +192,7 @@ Mas Alin menunjuk sekeliling. "Kita tim kecil. Untuk skala kita sekarang, *monol
 
 "*Mboten*. Jangan bongkar rumah cuma karena butuh tambah kamar. *Monolith* bukan dosa. Banyak perusahaan besar juga mulai dari *monolith* dan tetap pakai *monolith* sampai bertahun-tahun. Pindah ke *microservices* itu keputusan besar, bukan *upgrade* biasa."
 
-## **15.9 Performance Testing: Ukur Sebelum Jebol**
+## 16.10 Performance Testing: Ukur Sebelum Jebol
 
 Mas Andik yang sedari tadi mendengarkan dari mejanya ikut bersuara. "Ngomong-ngomong soal scaling, sebelum kita nambah server, kita perlu tahu batas sistem kita sekarang."
 
@@ -184,36 +206,28 @@ Mas Alin menimpali. "Betul. Jangan nunggu pengguna komplain baru sadar. Ukur dul
 
 "Banyak. Bisa pakai k6, Apache JMeter, atau Locust. Yang penting paham konsepnya."
 
-## **15.10 Refleksi: Tidak Ada Peluru Sakti**
+## 16.11 Refleksi: Tidak Ada Peluru Sakti
 
-Sore hari, Binto duduk di teras. Pohon rambutan di depannya kini hanya berdaun hijau. Buahnya sudah lama habis. Tapi daun-daun itu tetap rimbun, meneduhkan.
+Sore hari, Binto duduk di teras. Pohon rambutan di depannya tinggal daun dan ranting yang tenang. Musim buah sudah lewat, tapi teduhnya masih ada.
 
 Mas Alin keluar membawa dua cangkir enamel. Satu kopi untuknya, satu teh untuk Binto.
 
-"Gimana, *Le*? Pusing?"
+"Gimana, *Le*?" tanyanya.
 
-Binto tersenyum. "Sedikit. Tapi saya mulai paham. Scaling itu bukan cuma satu solusi. Banyak pilihan. Masing-masing ada plus minus."
+Binto memutar cangkirnya pelan. "Saya baru sadar, Mas... scaling itu bukan soal bikin sistem kelihatan hebat. Tapi bikin dia tetap waras waktu hidupnya makin ramai."
 
-"*Nggih*. Itu intinya. *Queue*, *cache*, vertical scaling, horizontal scaling, replikasi, sharding, rate limiting, monolith, microservices—semua punya tempatnya. Gak ada yang terbaik untuk semua situasi."
+Mas Alin tersenyum kecil. "Nah. Itu kalimat yang lebih berguna daripada hafal sepuluh istilah." Ia menyesap kopi, lalu menambahkan, "Besok kita mulai dari yang paling masuk akal dulu. Cache. Habis itu queue. Pelan-pelan."
 
-"Ingat," Mas Alin menyesap kopinya, "No Silver Bullet. Pelajaran waktu itu masih berlaku. Tugas kita bukan cari solusi ajaib. Tapi memilih kombinasi yang paling masuk akal untuk masalah kita, dengan sumber daya yang kita punya."
+Binto mengangguk.
 
-Binto menatap langit Blitar yang mulai jingga. Perjalanan dari junior ke medior ternyata bukan cuma soal *ngoding* lebih cepat atau algoritma lebih canggih. Tapi tentang memahami gambaran besar. Tentang memilih *trade-off*. Tentang menyiapkan sistem untuk bertahan.
+Tidak ada kalimat besar sesudah itu. Tidak ada petuah tambahan. Cuma suara sendok yang beradu tipis dengan gelas, dan angin sore yang lewat sebentar lalu hilang.
 
-"*Matur suwun*, Mas."
+Di kepalanya, semua istilah tadi—cache, queue, replication, rate limiting, microservices—akhirnya duduk di tempat masing-masing. Bukan sebagai daftar konsep untuk dipamerkan, tapi sebagai pilihan-pilihan yang harus dipakai dengan hati-hati.
 
-Mas Alin mengangguk. "*Sami-sami*. Besok kita mulai pelan-pelan. Tambah cache dulu, siapkan queue. Yang lain nanti kalau sudah perlu."
+Ia menatap halaman depan yang mulai sepi.
 
-Di atas mereka, daun-daun rambutan bergoyang pelan. Musim buah mungkin sudah lewat. Tapi akar pohon itu terus menguat, menopang dahan-dahan yang semakin lebar. Seperti sistem yang terus belajar untuk *scale*—pelan, bertahap, dan tepat sesuai kebutuhan.
+Menjadi lebih matang, pikirnya, ternyata bukan soal berlari lebih cepat.
+
+Kadang justru soal tahu kapan harus menahan laju.
 
 ---
-## **Ringkasan Materi IT Bab 15**
-
-* **Scaling (Skalabilitas)**: Kemampuan aplikasi untuk tetap berjalan cepat dan stabil meski jumlah pengguna atau datanya melonjak drastis. Ada dua metode utama:
-  1. **Vertical Scaling (Scale Up)**: Meng-upgrade *hardware server* yang ada (menambah RAM, mengganti CPU/SSD). Sederhana, namun memiliki batas maksimal fisik perangkat keras dan sangat mahal di titik tertentu.
-  2. **Horizontal Scaling (Scale Out)**: Menambah jumlah *server* (bukan spesifikasinya) dan membagi rata beban lalu lintas ke semua *server* menggunakan *Load Balancer*. Jauh lebih kompleks (terutama urusan *database*), namun kapasitasnya bisa bertumbuh tanpa batas.
-* **Queue (Sistem Antrean)**: Teknik memindahkan tugas-tugas berat yang memakan waktu (seperti mengirim *email* atau mencetak PDF) ke "belakang layar" (dikerjakan oleh *Worker*), sehingga antarmuka pengguna tidak *loading* lama dan segera merespons "Sukses".
-* **Cache**: Teknik menyimpan data yang sering dibaca dan jarang berubah (seperti daftar produk) ke memori sementara yang sangat cepat. Menghemat kinerja *database*, dengan risiko kecil berupa data lawas (*stale data*) jika *cache* belum diperbarui saat ada perubahan di *database*.
-* **Rate Limiting**: Membatasi jumlah *request* dari satu IP/pengguna dalam rentang waktu tertentu. Menjadi tameng utama dari serangan *spam* (seperti DDoS kecil) dan peretasan tebak *password* paksa (*brute force*).
-* **Scaling Database**: Jangan terburu-buru melakukan *Sharding* (memotong data ke banyak *server*). Mulailah dari optimasi *query* (indeks), *Vertical Scaling*, lalu *Replication* (satu *database Master* khusus untuk menyimpan data baru, dan beberapa *database Replica* khusus untuk melayani baca data).
-* **Monolith vs Microservices**: Berpindah dari *Monolith* ke *Microservices* murni karena alasan performa seringkali adalah tindakan *over-engineering* yang mubazir. Memperbanyak *server Monolith* secara horizontal seringkali sudah lebih dari cukup untuk mayoritas perusahaan.

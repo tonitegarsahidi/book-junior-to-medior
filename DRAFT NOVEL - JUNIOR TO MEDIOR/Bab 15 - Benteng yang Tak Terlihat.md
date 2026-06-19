@@ -1,6 +1,6 @@
-# **Bab 14: Benteng yang Tak Terlihat**
+# Bab 15: Benteng yang Tak Terlihat
 
-## **14.1 Nasi Kenduri dari Ibu Cahyo**
+## 15.1 Nasi Kenduri dari Ibu Cahyo
 
 Pagi itu, kantor Garda Teknologi Nusantara beraroma lain. Bukan aroma kopi tubruk seperti biasa, melainkan wangi rempah yang kaya—kunyit, serai, daun salam, dan santan yang dimasak lama. Binto yang baru tiba langsung mencari sumber aroma itu.
 
@@ -24,7 +24,7 @@ Mereka berenam—Pakde, Mas Alin, Mbak Rara, Mas Andik, Binto, dan tentu saja Ca
 
 Cahyo tersenyum bangga. Ibunya pasti senang mendengar pujian ini.
 
-## **14.2 Satu Pelajaran Terakhir**
+## 15.2 Satu Pelajaran Terakhir
 
 Setelah nasi mulai habis dan tinggal tulang ingkung yang bersih, Cahyo memberanikan diri. "Mas Alin, Mbak Rara, Mas Binto. Sebelum saya pulang, saya boleh minta satu pelajaran terakhir?"
 
@@ -40,7 +40,61 @@ Mas Alin menyandarkan punggungnya. Matanya menerawang ke langit-langit. "Keamana
 
 Binto ikut mendengarkan dengan serius. Ia teringat betapa dulu ia juga berpikir seperti itu.
 
-## **14.3 Tiga Pilar: CIA Triad**
+## 15.3 Cara Andik Mengajar
+
+Mas Alin tersenyum. "Tapi di sini... ahlinya bukan saya."
+
+Ia menoleh ke Mas Andik yang sedari tadi diam dengan dua layar menyala — satu penuh kode, satu lagi penuh... entah. *Mungkin matrix*, pikir Binto.
+
+"Andik. Giliranmu."
+
+Andik menatap ke arah mereka. Alisnya naik sedikit. Lalu ia menghela napas pendek — bukan napas malas, tapi napas seseorang yang tahu apa yang akan terjadi selanjutnya.
+
+Ia menarik kursi. Duduk di samping Cahyo.
+
+"Kamu," katanya, suaranya datar, "punya aplikasi yang sudah kamu deploy?"
+
+Cahyo mengangguk. "Punya, Mas. Aplikasi inventaris kecil. Deploy di server gratisan."
+
+"Buka."
+
+Cahyo membuka laptopnya. Menampilkan kode aplikasinya.
+
+"Sekarang..." Andik menatap kode itu, "coba kamu serang."
+
+"Maksudnya...?" Cahyo bingung.
+
+"Coba bobol. Injeksi SQL. Parameter tampering. Apa aja. Coba."
+
+Cahyo bengong. "Tapi... ini kan aplikasi saya sendiri?"
+
+"Justru."
+
+Dan di situlah pelajaran pertama dari Andik:
+
+*Musuh terbaik adalah diri sendiri.*
+
+Bukan dalam arti motivasi. Tapi dalam arti: kalau kamu tidak bisa membobol kode kamu sendiri, jangan harap bisa mengamankan dari orang lain.
+
+Binto tersentak. Ia tidak pernah memikirkannya seperti itu.
+
+Cahyo mencoba. Tangannya sedikit gemetar. Ia mengetik sesuatu di kolom pencarian aplikasinya. Tidak terjadi apa-apa. Ia coba lagi. Kali ini pakai karakter aneh.
+
+"Hampir," kata Andik. Matanya menyipit. "Kamu benar coba ke arah itu. Tapi aplikasimu sudah pakai prepared statement. Aman. Sekarang coba XSS."
+
+Satu jam berikutnya berjalan seperti itu. Andik tidak pernah menjelaskan — ia memancing. Ia membuat Cahyo — dan Binto — menemukan sendiri celah-celah di kode mereka. Setiap kali mereka menemukan lubang, Andik hanya mengangguk kecil.
+
+"Orang-orang pikir security itu soal tools," katanya di tengah sesi. "Firewall. Antivirus. SSL. Itu penting. Tapi benteng yang paling tak terlihat... adalah cara berpikir."
+
+Ia menatap Cahyo.
+
+"Kalau kamu sudah bisa melihat kode dengan mata musuh... kamu sudah setengah jalan jadi security engineer."
+
+Cahyo menelan ludah. Buku catatannya belum sempat ia buka satu halaman pun. Tapi pelajaran hari itu... akan ia ingat selamanya.
+
+---
+
+## 15.4 Tiga Pilar: CIA Triad
 
 Mas Alin mengambil selembar tisu bekas dan pulpen. Ia menggambar segitiga.
 
@@ -56,7 +110,7 @@ Cahyo manggut-manggut. "Jadi keamanan itu gak cuma soal cegah hacker?"
 
 "Persis. Banyak orang cuma fokus di Confidentiality—takut data dicuri. Padahal Integrity dan Availability sama pentingnya. Bayangin aplikasi e-commerce. Aman dari hacker, tapi sering down. Pelanggan kabur semua."
 
-## **14.4 SQL Injection & XSS: Ancaman Klasik pada CIA**
+## 15.5 SQL Injection & XSS: Ancaman Klasik pada CIA
 
 "Contoh kecil," Mas Alin melanjutkan. "SQL Injection. Kamu tahu?"
 
@@ -78,7 +132,7 @@ Cahyo mencatat cepat di buku kecilnya. "Pencegahannya?"
 
 "Untuk SQL Injection: pakai *prepared statement* atau ORM. Jangan gabung string mentah buat query. Untuk XSS: selalu *escape* output. Jangan tampilkan data mentah dari pengguna."
 
-## **14.5 Password Hashing: Jaga Confidentiality**
+## 15.6 Password Hashing: Jaga Confidentiality
 
 "Satu lagi," Mas Alin menambahkan. "Password. Jangan pernah simpan password mentah di database."
 
@@ -96,7 +150,7 @@ Cahyo mencatat lagi. "Ini Confidentiality ya, Mas?"
 
 "Betul. Menjaga kerahasiaan kredensial pengguna."
 
-## **14.6 Keamanan Bukan Cuma Kode: Infrastruktur Juga**
+## 15.7 Keamanan Bukan Cuma Kode: Infrastruktur Juga
 
 Mas Andik yang sedari tadi diam ikut angkat bicara. "Dik, keamanan itu gak cuma di kode. Di server juga."
 
@@ -112,7 +166,7 @@ Cahyo mengangguk paham. "Kayak gerbang tambahan."
 
 "Ini semua untuk menjaga Availability dan Integrity," Mas Alin menambahkan. "Kalau server diretas, Availability hilang. Kalau data di server diubah, Integrity rusak."
 
-## **14.7 Peran QA dalam Keamanan**
+## 15.8 Peran QA dalam Keamanan
 
 Mbak Rara ikut nimbrung. "Aku juga punya andil lho, Dik."
 
@@ -124,7 +178,7 @@ Cahyo menoleh. "QA juga urusan keamanan, Mbak?"
 
 "Betul. Setelah developer nulis kode, QA coba jebol. Kalau lolos, berarti ada yang perlu diperbaiki."
 
-## **14.8 Shift-Left Security: Keamanan Sejak Awal**
+## 15.9 Shift-Left Security: Keamanan Sejak Awal
 
 "Nah," Mas Alin mencondongkan badan. "Ini konsep penting. Shift-Left Security."
 
@@ -138,7 +192,7 @@ Ia memberi contoh. "Unit test bisa cek validasi input. Pipeline CI/CD bisa jalan
 
 "Persis. QA penting. Tapi kalau semua celah baru ketemu di QA, itu sudah terlambat. Idealnya, developer sudah menutup celah sejak awal. QA memastikan gak ada yang lolos."
 
-## **14.9 Struktur Tim Keamanan: Kecil vs Besar**
+## 15.10 Struktur Tim Keamanan: Kecil vs Besar
 
 "Terus," Cahyo melanjutkan, "di perusahaan gede, keamanan itu tim sendiri ya, Mas?"
 
@@ -150,7 +204,7 @@ Mas Alin mengangguk. "Betul. Di perusahaan besar, biasanya ada tim khusus Securi
 
 "Ada juga yang namanya DevSecOps," tambah Mas Andik. "Itu DevOps yang fokus ke keamanan. Dia yang setup pipeline keamanan, scan kerentanan, urus sertifikat SSL, dan sebagainya."
 
-## **14.10 ISO 27001 dan Kepatuhan Formal**
+## 15.11 ISO 27001 dan Kepatuhan Formal
 
 Pakde Suhar yang sedari tadi mendengarkan akhirnya bersuara. "Ngomong-ngomong soal keamanan, saya mau tambah dikit."
 
@@ -168,7 +222,7 @@ Pakde menggeleng. "Untuk proyek kecil kayak Koperasi Sekar Patria atau Pabrik Ga
 
 Mas Alin menimpali. "Jadi kalian gak perlu hafal isi ISO-nya. Cukup tahu bahwa standar seperti itu ada. Dan prinsip-prinsip dasarnya—seperti CIA Triad—adalah fondasi yang sama."
 
-## **14.11 Pesan untuk Cahyo**
+## 15.12 Pesan untuk Cahyo
 
 Acara makan sudah benar-benar selesai. Piring kertas dan tulang ayam sudah dibereskan. Cahyo berdiri, merapikan tas ranselnya.
 
@@ -186,7 +240,7 @@ Binto ikut bersalaman. "Semangat, Dik. Nanti kalau udah kerja, kabari."
 
 Cahyo mengangguk. Ia melangkah keluar, menuju motor bututnya. Sebelum menyalakan mesin, ia menoleh sekali lagi ke kantor ruko sederhana itu. Tempat ia belajar bahwa koding bukan cuma soal algoritma, tapi soal tanggung jawab.
 
-## **14.12 Refleksi Binto**
+## 15.13 Refleksi Binto
 
 Setelah Cahyo pergi, Binto kembali ke mejanya. Ia menatap laptop, tapi pikirannya melayang.
 
@@ -205,16 +259,3 @@ Binto tersenyum. Cahyo sudah pergi. Tapi ilmunya menetap. Dan perjalanan Binto s
 Ia membuka laptop, siap untuk tugas berikutnya. Benteng-benteng baru akan terus dibangun. Dan ia akan terus belajar menjaganya.
 
 ---
-## **Ringkasan Materi IT Bab 14**
-
-* **Keamanan Sistem (CIA Triad)**: Tiga pilar utama dalam keamanan informasi:
-  1. **Confidentiality (Kerahasiaan)**: Mencegah data sensitif bocor ke pihak yang tidak berhak (misal: kebocoran data pelanggan).
-  2. **Integrity (Keutuhan)**: Mencegah data diubah oleh pihak yang tidak berwenang (misal: *hacker* mengubah saldo tabungan atau harga barang).
-  3. **Availability (Ketersediaan)**: Memastikan sistem selalu bisa diakses kapan pun dibutuhkan (melindungi dari *server down* atau serangan siber yang membuat sistem lumpuh).
-* **Ancaman Siber Klasik**:
-  * **SQL Injection**: Menyelipkan perintah *database* liar lewat formulir input (seperti kolom pencarian) untuk mencuri/merusak data. Dicegah dengan *Prepared Statement* atau menggunakan *framework* ORM yang aman.
-  * **XSS (Cross-Site Scripting)**: Menyelipkan *script* jahat (seperti JavaScript) lewat kolom komentar publik untuk mencuri *cookie* pengunjung lain. Dicegah dengan teknik *escaping* (membersihkan karakter khusus sebelum ditampilkan).
-* **Password Hashing**: Haram hukumnya menyimpan kata sandi pengguna dalam bentuk teks asli (*plain text*) di dalam *database*. Kata sandi harus diacak secara matematis satu arah (menggunakan algoritma seperti *bcrypt* atau *argon2*). Jika *database* bocor, peretas hanya mendapat rentetan teks acak yang tidak bisa dikembalikan ke bentuk aslinya.
-* **Infrastruktur Keamanan**: Keamanan bukan hanya soal kode aplikasi, tapi juga *server*. Hal ini mencakup penggunaan VPN untuk meremote *server* secara privat, *Firewall* untuk membatasi pintu masuk, hingga perangkat lunak pelindung (*Fail2Ban*) yang memblokir akses jika ada yang mencoba menebak *password* berkali-kali.
-* **Shift-Left Security & DevSecOps**: Menanamkan pola pikir keamanan sejak fase perancangan awal pembuatan aplikasi (menggeser ke "kiri" atau awal waktu), bukan baru mengecek keamanan di saat-saat terakhir menjelang aplikasi rilis.
-* **ISO 27001**: Sertifikasi standar internasional untuk Sistem Manajemen Keamanan Informasi (SMKI), seringkali menjadi prasyarat jika ingin menggarap proyek aplikasi pemerintahan, perbankan, atau perusahaan multinasional besar.

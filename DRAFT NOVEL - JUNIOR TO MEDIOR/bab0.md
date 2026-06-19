@@ -1,6 +1,6 @@
 # KATA PENGANTAR
 
-Ada 2 buku yang saya ingat, saya harus sampai sejenis "antri" di perpustakaan untuk membacanya. Bukan buku terkait dunia IT saya, tapi justru keduanya buku manajemen. Yang pertama judulnya One Minute Manager, dan yang kedua Who Moved my Cheese. Keduanya adalah buku bisnis, tapi disajikan dengan gaya cerita semi fiksi. Atau memang beneran fiksi. Isinya sebenarnya sederhana saja, konsep dasar, sedasar-dasarnya. Yang satu tentang manajemen, yang satu tentang adaptasi perubahan. 
+Ada 2 buku menarik yang saya ingat, saya harus sampai sejenis "antri" di perpustakaan sekolahuntuk membacanya. Bukan buku terkait dunia IT saya, tapi justru keduanya buku manajemen. Yang pertama judulnya One Minute Manager, dan yang kedua Who Moved my Cheese. Keduanya adalah buku bisnis, tapi disajikan dengan gaya cerita semi fiksi. Atau memang beneran fiksi. Isinya sebenarnya sederhana saja, konsep dasar, sedasar-dasarnya. Yang satu tentang manajemen, yang satu tentang adaptasi perubahan. 
 Tapi saya sebagai orang yang tidak terlalu suka membaca topik tersebut, ternyata menikmati membaca keduanya. 
 
 Saya dulu pernah menulis novel, sempat dipublish sebuah penerbit. Namanya novel, tentulah fiksi, Padahal fiksi bukanlah genre yang saya sukai. Saya sendiri heran. Sampai saya merenung dan penasaran, apa gerangan yang coba disampaikan oleh-Nya ke saya dengan memberikan saya skill menulis ini.

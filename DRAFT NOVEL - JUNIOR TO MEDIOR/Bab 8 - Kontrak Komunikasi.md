@@ -1,6 +1,6 @@
-# **Bab 8: Kontrak Komunikasi**
+# Bab 8: Kontrak Komunikasi
 
-## **8.1 Kabar dari Balikpapan**
+## 8.1 Kabar dari Balikpapan
 
 Pagi itu, kantor Garda Teknologi Nusantara masih lengang. Binto baru saja memarkirkan motornya ketika melihat Pakde Suhar mondar-mandir di teras sambil menempelkan ponsel ke telinga. Wajahnya sumringah.
 
@@ -26,9 +26,9 @@ Ruangan hening sejenak.
 
 "*Nggih*. Dan ini berarti cara kerja kita harus berubah."
 
-## **8.2 Rapat di Bawah Rambutan**
+## 8.2 Rapat di Bawah Rambutan
 
-Pakde mengajak semua ke teras. Udara pagi masih sejuk. Pohon rambutan di depan kini buahnya sudah banyak yang merah. Beberapa hari lalu mereka panen pertama, dan sekarang buah-buah baru terus bermunculan.
+Pakde mengajak semua ke teras. Udara pagi masih sejuk. Pohon rambutan di depan kini buahnya sudah banyak yang merah. Beberapa hari lalu mereka mencicipi buah pertama, dan sekarang buah-buah baru terus bermunculan.
 
 Mas Alin duduk di bangku kayu, menghadap tim. "Selama ini kita bikin aplikasi monolitik. Satu kode, satu *deploy*. Web dan logika bisnis jadi satu. Itu cukup selama pengguna cuma akses lewat browser."
 
@@ -56,7 +56,7 @@ Binto meneguk ludah. "Saya, Pakde? Saya belum pernah bikin API."
 
 Mas Alin menepuk bahunya. "Tenang, *Le*. Saya bantu. Saya yang jadi *tech lead*\-nya. Kita belajar bareng."
 
-## **8.3 Kuliah Singkat: Apa Itu API?**
+## 8.3 Kuliah Singkat: Apa Itu API?
 
 Setelah rapat bubar dan yang lain kembali ke meja masing-masing, Mas Alin mengajak Binto tetap di teras. Ia membawa dua cangkir enamel—kopi untuk dirinya, teh untuk Binto.
 
@@ -82,7 +82,7 @@ Binto mulai membayangkan. "Jadi aplikasi mobile gak langsung ngambil data dari d
 
 Binto manggut-manggut. Analogi ini membantu sekali.
 
-## **8.4 Monolitik vs API-based**
+## 8.4 Monolitik vs API-based
 
 "Tapi Mas, selama ini kita bikin web monolitik. Itu bedanya apa?"
 
@@ -104,7 +104,7 @@ Binto mengangguk. "Jadi API itu kayak colokan listrik. Apa pun alatnya, asal col
 
 Mas Alin tersenyum lebar. "*Nah*, itu analogi yang lebih bagus. Persis. API adalah stop kontak. *Backend* sediain listrik, *frontend* tinggal colok."
 
-## **8.5 Bahasa yang Dipahami: JSON ala Restoran Padang**
+## 8.5 Bahasa yang Dipahami: JSON ala Restoran Padang
 
 "Terus, gimana caranya pelayan dan dapur ngomong? Mereka harus pakai bahasa yang sama."
 
@@ -122,11 +122,22 @@ Mas Alin membuka laptop. "Di dunia API, bahasa yang dipakai adalah JSON. JavaScr
 
 Ia mengetik sesuatu.
 
-"Dulu zamannya XML. Bentuknya kayak gini: \<produk\>\<nama\>Rinso\</nama\>\<harga\>5000\</harga\>\</produk\>. Ribet. Banyak kurung buka tutup. Boros tempat."
+"Dulu zamannya XML. Bentuknya kayak gini:"
+
+Ia mengetik:
+
+```xml
+<produk>
+    <nama>Rinso</nama>
+    <harga>5000</harga>
+</produk>
+```
+
+"Ribet. Banyak kurung buka tutup. Boros tempat. Sekarang bandingkan dengan JSON."
 
 Ia mengetik lagi:
 
-json
+```json
 
 {
 
@@ -136,6 +147,8 @@ json
 
 }
 
+```
+
 "JSON itu ringkas. Mirip objek di JavaScript. Gampang dibaca manusia, gampang diolah mesin. Semua bahasa pemrograman modern bisa baca JSON."
 
 "Jadi API kita nanti kirim data dalam bentuk JSON?"
@@ -144,7 +157,7 @@ json
 
 Mas Alin menambahkan. "Sama kayak format pesanan di restoran Padang tadi. Begitu kita sepakat pakai JSON, semua pihak tahu: data akan dikirim dalam bentuk pasangan nama\_properti: nilai. Mobile kirim JSON, server balas JSON. Gak ada salah paham."
 
-## **8.6 Komponen REST API: Diterjemahkan ke Restoran Padang**
+## 8.6 Komponen REST API: Diterjemahkan ke Restoran Padang
 
 Mas Alin mengambil kertas kosong dan spidol. "Sekarang kita bedah komponen REST API. Saya gambar biar jelas. Tapi kita tetap pakai analogi restoran Padang, ya."
 
@@ -160,9 +173,9 @@ Ia menulis. "Di API, endpoint biasanya /api/products untuk urusan produk, /api/o
 
 Ia menjelaskan dengan analogi. "Bayangin kamu di restoran Padang. Kamu bisa minta pelayan dengan beberapa cara:
 
-* GET → Kamu cuma mau lihat daftar menu. 'Mbak, menu hari ini apa aja?' Pelayan kasih menu, kamu baca. Gak ada pesanan yang dibuat. Gak ada data yang berubah di dapur.  
-* POST → Kamu mau kirim pesanan baru. 'Mbak, saya pesan nasi rendang satu.' Pelayan catat, kirim ke dapur. Dapur mulai masak. Data baru tercipta.  
-* PUT atau PATCH → Kamu mau ubah pesanan yang sudah terlanjur dipesan. 'Mbak, yang tadi rendangnya jangan pakai jeroan, pakai daging semua.' Pelayan revisi pesanan. Data berubah.  
+* GET → Kamu cuma mau lihat daftar menu. 'Mbak, menu hari ini apa aja?' Pelayan kasih menu, kamu baca. Gak ada pesanan yang dibuat. Gak ada data yang berubah di dapur.
+* POST → Kamu mau kirim pesanan baru. 'Mbak, saya pesan nasi rendang satu.' Pelayan catat, kirim ke dapur. Dapur mulai masak. Data baru tercipta.
+* PUT atau PATCH → Kamu mau ubah pesanan yang sudah terlanjur dipesan. 'Mbak, yang tadi rendangnya jangan pakai jeroan, pakai daging semua.' Pelayan revisi pesanan. Data berubah.
 * DELETE → Kamu mau batalkan pesanan. 'Mbak, es tehnya batal aja.' Pelayan coret pesanan. Data dihapus."
 
 Binto tersenyum. Analogi ini sangat membumi.
@@ -177,19 +190,19 @@ Binto tersenyum. Analogi ini sangat membumi.
 
 "Kelima, Status Code." Mas Alin memberi tanda bintang. "Ini kode dari server untuk kasih tahu hasilnya. Ibarat respons pelayan setelah kamu pesan."
 
-## **8.7 Status Code: Respons Pelayan Restoran Padang**
+## 8.7 Status Code: Respons Pelayan Restoran Padang
 
 "Ini penting banget," Mas Alin menekankan. "Status code adalah bahasa universal yang dipahami semua *developer*. Kita terjemahkan ke pengalaman di restoran Padang."
 
 Ia menulis daftar di kertas:
 
-* 200 OK → *"Pesanan Anda sudah siap, Mbak. Ini nasinya."* Sukses. Data dikirim.  
-* 201 Created → *"Pesanan baru sudah dicatat, Mas. Silakan tunggu."* Sukses. Data baru berhasil dibuat.  
-* t400 Bad Reques → *"Maaf, Mbak. Pesanannya kurang jelas. Rendangnya berapa porsi? Mau dibungkus apa makan di sini?"* Data yang kamu kirim salah format atau tidak lengkap.  
-* 401 Unauthorized → *"Maaf, Mas. Ini area khusus anggota. Anda harus tunjukkan kartu member dulu."* Kamu belum login. Tidak punya akses.  
-* 403 Forbidden → *"Maaf, Mbak. Menu rendang spesial hanya untuk pelanggan VIP. Anda anggota biasa."* Kamu sudah login, tapi tidak punya hak untuk akses ini.  
-* 404 Not Found → *"Maaf, Mas. Restoran Padangnya sudah pindah. Alamat ini kosong."* Alamat endpoint tidak ditemukan.  
-* 422 Unprocessable Entity → *"Maaf, Mbak. Pesanan nasi rendang 10 porsi bisa, tapi stok daging kami cuma cukup untuk 5 porsi."* Data yang dikirim valid formatnya, tapi tidak lolos aturan bisnis.  
+* 200 OK → *"Pesanan Anda sudah siap, Mbak. Ini nasinya."* Sukses. Data dikirim.
+* 201 Created → *"Pesanan baru sudah dicatat, Mas. Silakan tunggu."* Sukses. Data baru berhasil dibuat.
+* 400 Bad Request → *"Maaf, Mbak. Pesanannya kurang jelas. Rendangnya berapa porsi? Mau dibungkus apa makan di sini?"* Data yang kamu kirim salah format atau tidak lengkap.
+* 401 Unauthorized → *"Maaf, Mas. Ini area khusus anggota. Anda harus tunjukkan kartu member dulu."* Kamu belum login. Tidak punya akses.
+* 403 Forbidden → *"Maaf, Mbak. Menu rendang spesial hanya untuk pelanggan VIP. Anda anggota biasa."* Kamu sudah login, tapi tidak punya hak untuk akses ini.
+* 404 Not Found → *"Maaf, Mas. Restoran Padangnya sudah pindah. Alamat ini kosong."* Alamat endpoint tidak ditemukan.
+* 422 Unprocessable Entity → *"Maaf, Mbak. Pesanan nasi rendang 10 porsi bisa, tapi stok daging kami cuma cukup untuk 5 porsi."* Data yang dikirim valid formatnya, tapi tidak lolos aturan bisnis.
 * 500 Internal Server Error → *"Maaf, Mas. Dapurnya kebakaran. Silakan kembali nanti."* Server yang error. Bukan salah kamu.
 
 Binto tertawa kecil mendengar analogi "dapur kebakaran".
@@ -200,7 +213,7 @@ Binto tertawa kecil mendengar analogi "dapur kebakaran".
 
 "*Nggih*. Dengan status code yang jelas, *frontend* bisa ngasih pesan yang tepat ke pengguna. Pengguna gak bingung. Itu profesional."
 
-## **8.8 Stateful vs Stateless**
+## 8.8 Stateful vs Stateless
 
 "Mas, satu lagi. Gimana caranya server tahu siapa yang akses? Kan gak kayak web biasa yang ada sesi login."
 
@@ -218,7 +231,7 @@ Mas Alin mengangguk. "Nah, ini konsep kunci. Web biasa itu stateful. Server simp
 
 "Stateless. Server gak ingat siapa kamu. Setiap *request* harus bawa bukti identitas sendiri."
 
-## **8.9 Token: Kunci Kamar Hotel**
+## 8.9 Token: Kunci Kamar Hotel
 
 Mas Alin mencari analogi. "Ibarat kunci kamar hotel."
 
@@ -236,7 +249,7 @@ Binto mulai menangkap. "Jadi kunci itu..."
 
 Binto mencatat dalam hati: *Bearer token*. Istilah baru lagi.
 
-## **8.10 Autentikasi vs Otorisasi**
+## 8.10 Autentikasi vs Otorisasi
 
 "Ini yang sering ketuker," Mas Alin menambahkan. "Autentikasi dan Otorisasi. Dua hal yang berbeda."
 
@@ -254,7 +267,7 @@ Binto mengangguk. "Jadi token itu urusan autentikasi?"
 
 "Persis. 401 Unauthorized itu autentikasi gagal—token tidak valid atau tidak ada. 403 Forbidden itu autentikasi berhasil, tapi otorisasi gagal—kamu tidak punya hak."
 
-## **8.11 Kenapa Bearer Token, Bukan API Key?**
+## 8.11 Kenapa Bearer Token, Bukan API Key?
 
 Binto ingat sesuatu. "Mas, saya pernah lihat ada yang pakai *API key*. Itu bedanya apa?"
 
@@ -268,7 +281,7 @@ Ia melanjutkan. "Bayangin di sistem kita nanti ada *sales* A dan *sales* B. Mere
 
 Binto paham sekarang. *Bearer token* lebih aman dan lebih fleksibel untuk sistem dengan banyak pengguna.
 
-## **8.12 API Contract: Menu yang Disepakati**
+## 8.12 API Contract: Menu yang Disepakati
 
 Setelah sesi teori yang panjang, Mas Alin membuka laptop. "Sekarang kita praktik. Kita bikin API Contract dulu. Ini kayak menu di restoran tadi. Sebelum masak, kita sepakati dulu."
 
@@ -278,8 +291,8 @@ Mereka mulai merancang.
 
 Endpoint pertama: Login
 
-* URL: POST /api/login  
-* Body (JSON):  
+* URL: POST /api/login
+* Body (JSON):
 * json
 
 {
@@ -288,8 +301,8 @@ Endpoint pertama: Login
 
     "password": "rahasia123"
 
-* }  
-* Response sukses (200):  
+* }
+* Response sukses (200):
 * json
 
 {
@@ -306,8 +319,8 @@ Endpoint pertama: Login
 
     }
 
-* }  
-* Response gagal (401):  
+* }
+* Response gagal (401):
 * json
 
 {
@@ -318,9 +331,9 @@ Endpoint pertama: Login
 
 Endpoint kedua: Lihat Daftar Produk
 
-* URL: GET /api/products  
-* Headers: Authorization: Bearer \<token\>  
-* Response sukses (200):  
+* URL: GET /api/products
+* Headers: Authorization: Bearer \<token\>
+* Response sukses (200):
 * json
 
 {
@@ -359,7 +372,7 @@ Mereka melanjutkan untuk endpoint lain: detail produk, buat pesanan, lihat riway
 
 "Ini baru dua endpoint," kata Mas Alin. "Nanti kita tambah sesuai kebutuhan. Yang penting, formatnya konsisten. Andik baca ini, langsung paham."
 
-## **8.13 Binto Mulai Ngoding**
+## 8.13 Binto Mulai Ngoding
 
 Sore hari, Binto membuka laptopnya. Ia membuat proyek Laravel baru khusus untuk API. Sesuai arahan Mas Alin, ia akan menggunakan *Bearer Token* untuk otentikasi.
 
@@ -377,7 +390,7 @@ Ia juga melindungi endpoint /api/products dengan *middleware* yang mengecek toke
 
 Sesekali Binto bertanya, tapi sebagian besar ia kerjakan sendiri. Rasanya berbeda. Ia tidak lagi sekadar menambah fitur di aplikasi yang sudah ada. Ia sedang membangun fondasi untuk sistem baru. Sistem yang akan dipakai oleh banyak orang di Kalimantan.
 
-## **8.14 Dokumentasi untuk Andik**
+## 8.14 Dokumentasi untuk Andik
 
 Menjelang sore, Mas Andik menghampiri meja Binto. "Mas, gimana API-nya? Aku mau coba-coba nih."
 
@@ -395,42 +408,28 @@ Andik tersenyum. "Enak nih. Jadi gak saling tunggu. Aku bisa mulai *ngoding* Flu
 
 Wawan yang mendengar dari mejanya menimpali. "Nah, ini enaknya API. Kerja paralel. Gak kayak dulu, nunggu *backend* beres dulu baru *frontend* jalan."
 
-## **8.15 Refleksi: Wajah Perusahaan**
+## 8.15 Refleksi: Wajah Perusahaan
 
-Sore semakin turun. Langit Blitar kembali jingga. Binto dan Mas Alin duduk di teras, menikmati sisa kopi dan teh.
+Sore mulai merunduk. Teh Binto tinggal setengah gelas. Kopi Mas Alin sudah dingin seperti biasa.
 
 "Gimana rasanya bikin API pertama?" tanya Mas Alin.
 
-Binto merenung. "Awalnya takut, Mas. Takut salah. Tapi setelah dijelasin pelan-pelan—apalagi pakai analogi restoran Padang tadi—ternyata konsepnya masuk akal."
+Binto menatap layar laptopnya yang masih menampilkan endpoint dan payload. "Kayak bikin pintu, Mas. Dulu saya kira cukup asal bisa dibuka. Ternyata engselnya, kuncinya, bahkan cara orang ngetuk pun harus dipikirin."
 
-"API itu sederhana, *Le*. Yang bikin ribet itu kalau kita gak punya standar. Makanya tadi kita bikin kontrak dulu. Supaya semua pihak tahu aturan main."
+Mas Alin tersenyum kecil. "Nah. Itu baru bukan sekadar ngoding."
 
-Binto menatap laptopnya. "Dan ternyata banyak yang harus dipikirin. Method, status code, token..."
+Binto mengangguk pelan. Sekarang ia paham kenapa tadi mereka lama sekali membahas hal-hal yang kelihatannya remeh: nama field, status code, token, bentuk respons. Semua itu bukan hiasan. Itu sopan santun antar-sistem.
 
-"Itu semua investasi. Kamu bangun fondasi buat ekspansi bisnis Pak Haji. Suatu hari, mungkin bukan cuma aplikasi mobile yang akses API ini. Bisa jadi sistem lain—misalnya sistem akuntansi, atau *website* pemesanan untuk pelanggan. Kalau API kita rapi, mereka tinggal colok."
+Kalau salah satu berantakan, yang repot bukan cuma orang di ruangan ini. Bisa Andik. Bisa tim mobile. Bisa klien. Bisa siapa saja yang datang belakangan dan mencoba menyambung ke pekerjaan mereka.
 
-Mas Alin menatap Binto serius. "Ingat, *Le*. API itu wajah teknis perusahaan. Klien mungkin gak lihat kode kita. Tapi mereka—atau *developer* lain—akan lihat API kita. Kalau berantakan, susah dipakai, mereka akan nilai kita tidak profesional."
+Mas Alin menaruh cangkirnya. "API itu wajah teknis perusahaan, *Le*. Orang boleh gak pernah lihat kode kita. Tapi dari situ mereka bisa tahu: kita rapi atau sembrono."
 
-Binto mengangguk. Tanggung jawab baru ini terasa berat, tapi juga memacu.
+Binto menutup laptopnya pelan.
 
-"*Matur suwun*, Mas. Hari ini saya belajar banyak."
+Di halaman, satu buah rambutan jatuh sendiri ke tanah. Bukan karena busuk. Memang sudah waktunya lepas.
 
-"*Sami-sami*. Besok kita lanjut. Tambah endpoint lain. Sempurnakan."
+Ia memungutnya, memutar buah itu di telapak tangan, lalu tersenyum kecil.
 
-Di atas mereka, pohon rambutan bergoyang pelan. Buah-buahnya yang merah siap dipanen lagi. Seperti proyek API ini—buah dari pembelajaran yang siap dipetik.
+Besok mereka akan lanjut bikin endpoint lain.
 
----
-## **Ringkasan Materi IT Bab 8**
-
-* **Monolitik vs API-based (Decoupled)**: Aplikasi Monolitik menggabungkan tampilan web (*frontend*) dan logika (*backend*) menjadi satu kesatuan. Saat klien butuh aplikasi *mobile*, arsitektur harus diubah menjadi *API-based* di mana *backend* dan *frontend* dipisah. *Backend* cukup menyediakan data mentah (API), lalu beragam *frontend* (Web, Mobile App) tinggal "mencolok" dan memakainya.
-* **API & JSON**: API (*Application Programming Interface*) adalah "pelayan restoran" yang menghubungkan aplikasi *mobile* dengan *database server*. Mereka berkomunikasi menggunakan format data standar yang ringan dan mudah dibaca oleh semua bahasa pemrograman, yaitu **JSON** (*JavaScript Object Notation*).
-* **Komponen REST API**:
-  * **Endpoint**: Alamat URL spesifik untuk meminta data (misal: `/api/products`).
-  * **HTTP Methods**: Kata kerja yang mewakili aksi: `GET` (baca), `POST` (buat baru), `PUT/PATCH` (ubah), `DELETE` (hapus).
-  * **Status Code**: Kode respons server (misal: `200` sukses, `201` berhasil dibuat, `400` *request* salah format, `401` belum login, `403` tidak punya hak akses, `404` alamat tidak ditemukan, `500` server *error*).
-* **Stateful vs Stateless**: Web tradisional mengingat sesi pengguna di memori server (*Stateful*). REST API bersifat *Stateless*: server tidak mengingat siapa penggunanya. Setiap permintaan baru harus selalu membawa bukti identitas (seperti tiket).
-* **Autentikasi, Otorisasi, dan Token**:
-  * **Autentikasi**: Proses mengecek "Siapa Anda?" (Login menggunakan *email* dan *password*).
-  * **Bearer Token**: "Kunci kamar" (*string* acak) yang diberikan server setelah *login* sukses. Kunci ini harus selalu diselipkan di dalam *Header* pada permintaan API selanjutnya.
-  * **Otorisasi**: Proses mengecek "Apa hak akses Anda?" (misal: Token milik *sales* tidak boleh dipakai untuk menghapus data produk).
-* **API Contract / Dokumentasi**: Kesepakatan di awal antara pembuat *backend* dan *mobile* tentang bentuk data API (Endpoint, Method, Parameter, format *Response*). Berkat kontrak ini (biasanya didokumentasikan di *Postman/Swagger*), kedua tim bisa bekerja berbarengan secara paralel tanpa saling tunggu.
+Tapi hari ini, Binto sudah belajar satu hal penting: komunikasi yang baik ternyata bukan cuma urusan manusia.

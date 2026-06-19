@@ -1,6 +1,6 @@
-# **Bab 12: Meluncurkan Roket ke Bulan**
+# Bab 13: Meluncurkan Roket ke Bulan
 
-## **12.1 Sabtu di Kafe Gelato**
+## 13.1 Sabtu di Kafe Gelato
 
 Sabtu siang. Matahari Blitar bersinar cukup terik, tapi angin dari arah selatan membuat udara tidak terlalu gerah. Binto memarkirkan motornya di halaman sebuah kafe mungil bergaya industrial, tak jauh dari Stasiun Blitar. Papan namanya sederhana: *Gelato Stasiun*.
 
@@ -30,7 +30,7 @@ Sementara mereka menikmati pesanan, Binto memperhatikan Pakde Suhar yang sedang 
 
 Binto tersenyum dalam hati. *Pakde gak pernah berhenti cari peluang. Bahkan di kafe gelato pun, naluri bisnisnya tetap jalan. Dan caranya halus—bukan jualan, tapi menawarkan bantuan.*
 
-## **12.2 Pertanyaan Cahyo**
+## 13.2 Pertanyaan Cahyo
 
 Obrolan mengalir santai. Dari soal arisan, cuaca, sampai akhirnya kembali ke soal kerjaan.
 
@@ -40,7 +40,7 @@ Binto ikut menoleh. Ia juga penasaran. Selama ini ia hanya mengikuti prosedur: *
 
 Mas Alin meletakkan cangkir kopinya. "Pertanyaan bagus, Dik. Sebelum jawab, saya cerita dulu ya. Biar kalian paham perjalanannya."
 
-## **12.3 Era Pra-Internet: Deploy Pakai Disket**
+## 13.3 Era Pra-Internet: Deploy Pakai Disket
 
 "Dulu," Mas Alin memulai, "sebelum internet merata seperti sekarang, orang *deploy* program itu pakai disket."
 
@@ -60,7 +60,7 @@ Mbak Rara menimpali. "Aku pernah baca, dulu perusahaan besar kayak bank, tim IT-
 
 Binto menggeleng pelan. Ia tidak bisa membayangkan betapa repotnya. Apalagi disket—ia bahkan tidak pernah melihat wujud aslinya. Hanya tahu dari cerita dan foto di internet. *Alangkah ribetnya*, pikirnya. *Betapa beruntungnya orang zaman sekarang.*
 
-## **12.4 Era FTP dan cPanel: Upload Satu-Satu**
+## 13.4 Era FTP dan cPanel: Upload Satu-Satu
 
 "Terus internet mulai murah," Mas Alin melanjutkan. "Muncul hosting-hosting. Orang mulai *deploy* pakai FTP—*File Transfer Protocol*. Aplikasi kayak FileZilla, CuteFTP, atau langsung dari browser."
 
@@ -74,7 +74,7 @@ Mbak Rara menambahkan. "Aku ingat dulu waktu masih di Surabaya. Ada teman develo
 
 "Human error," Mas Alin mengangguk. "Itu risiko terbesar FTP. Belum lagi kalau *upload* ke folder salah. Atau tidak sengaja menimpa file penting. Atau koneksi internet putus di tengah *upload*. Semua bisa kacau."
 
-## **12.5 Era Git Pull: Semi-Manual**
+## 13.5 Era Git Pull: Semi-Manual
 
 "Lalu muncul Git," Mas Alin meneruskan. "Cara *deploy* mulai berubah. Kita bisa *SSH* ke server, lalu langsung git pull dari repository."
 
@@ -90,7 +90,7 @@ Binto ingat. Selama beberapa bulan terakhir, setiap kali ia menyelesaikan fitur 
 
 "Itu lebih rapi dari FTP," kata Mas Alin. "Tapi tetap saja ada *human touch*. Kalau saya lupa composer install? Bisa error. Kalau saya lagi sibuk dan gak bisa deploy? Fitur numpuk di repository, gak sampai ke klien."
 
-## **12.6 Kenapa Sekarang Pakai CI/CD?**
+## 13.6 Kenapa Sekarang Pakai CI/CD?
 
 "Makanya," Mas Alin menyesap kopinya, "untuk proyek Kalimantan ini, sekitar seminggu terakhir saya selesai setup CI/CD."
 
@@ -110,7 +110,7 @@ Binto mengangguk. Ia ingat betul. Fitur pertamanya yang *live* ke production. De
 
 "Belum. Proyek Koperasi masih offline, gak perlu. Proyek Pabrik Garum sama Sekolah Al-Hikmah masih pakai cara semi-manual. Nanti pelan-pelan kita migrasi. Yang penting kalian paham dulu konsepnya."
 
-## **12.7 Apa Itu CI/CD?**
+## 13.7 Apa Itu CI/CD?
 
 "Cahyo tadi tanya, apa itu CI/CD," Mas Alin mencondongkan badan. "CI itu *Continuous Integration*. CD itu *Continuous Delivery* atau *Continuous Deployment*."
 
@@ -122,7 +122,7 @@ Cahyo melongo. "Jadi kita tinggal *push*, terus duduk manis?"
 
 "Kurang lebih begitu. Untuk proyek Kalimantan, ya. Yang lain masih manual."
 
-## **12.8 Pipeline: Rangkaian Proses Otomatis**
+## 13.8 Pipeline: Rangkaian Proses Otomatis
 
 Mas Alin mengambil selembar tisu dari meja. Ia mulai menggambar dengan pulpen.
 
@@ -144,7 +144,7 @@ Mas Alin menatap Binto dan Cahyo serius. "Tapi ingat, di lokal aman belum tentu 
 
 "Pastikan *config* sensitif seperti *password database* tidak ikut ke-*push* ke *repository*," lanjutnya tegas. "Banyak kebocoran data raksasa justru berawal dari hal sederhana kayak itu. Ingat pelajaran Git dulu?"
 
-Binto mengangguk mengiyakan. 
+Binto mengangguk mengiyakan.
 
 "Keenam: Notifikasi. Robot kirim pesan ke Telegram atau Slack. 'Deploy sukses' atau 'Deploy gagal'. Jadi kita bisa langsung tahu hasilnya tanpa harus buka laptop."
 
@@ -156,7 +156,7 @@ Binto memperhatikan coretan di tisu. "Wah, panjang juga prosesnya. Dan ternyata 
 
 "Panjang, tapi semua otomatis. Kita cuma perlu *push*. Robot yang kerja."
 
-## **12.9 Macam-Macam Tools CI/CD**
+## 13.9 Macam-Macam Tools CI/CD
 
 "Terus, robotnya pakai apa, Mas?" tanya Cahyo.
 
@@ -168,7 +168,7 @@ Mas Alin melanjutkan. "Tapi ada juga yang lain. GitLab CI/CD kalau repository-ny
 
 "Gak ada. Semua punya plus minus. Yang penting paham konsepnya. Nanti kalau pindah proyek atau pindah perusahaan, tinggal adaptasi."
 
-## **12.10 CI/CD Itu Opsional, Tapi Best Practice**
+## 13.10 CI/CD Itu Opsional, Tapi Best Practice
 
 "Tapi Mas," Binto bertanya. "Semua proyek harus pakai CI/CD?"
 
@@ -182,7 +182,7 @@ Mas Alin menggeleng. "Gak harus. Ini opsional. Lihat proyek Koperasi Sekar Patri
 
 Mbak Rara menimpali. "Aku juga terbantu. Begitu ada *push* ke staging, aku langsung bisa tes. Gak ada lagi drama 'udah *deploy* belum, Mas?' Aku fokus nyari bug, bukan nungguin *deploy*."
 
-## **12.11 Peran DevOps di Tim Besar**
+## 13.11 Peran DevOps di Tim Besar
 
 "Di tim kecil kayak kita," Mas Alin menambahkan, "kita semua rangkap. Saya yang setup pipeline. Binto yang nulis test. Andik yang urus server. Tapi di tim besar, biasanya ada role khusus: DevOps Engineer."
 
@@ -194,7 +194,7 @@ Binto membayangkan. "Enak juga ya. Fokus ngoding aja."
 
 "Enak. Tapi jadi DevOps itu gak gampang. Harus paham dua dunia: kode dan infrastruktur."
 
-## **12.12 Plus Minus CI/CD**
+## 13.12 Plus Minus CI/CD
 
 Mbak Rara menimpali. "CI/CD memang keren. Tapi ada plus minusnya, lho."
 
@@ -206,7 +206,7 @@ Mbak Rara menimpali. "CI/CD memang keren. Tapi ada plus minusnya, lho."
 
 Mas Alin menambahkan. "Tapi untuk jangka panjang, investasinya sepadan. Sekali setup, selamanya tinggal pakai. Tim jadi lebih tenang, klien lebih puas."
 
-## **12.13 Refleksi: Dari Disket ke Robot**
+## 13.13 Refleksi: Dari Disket ke Robot
 
 Mas Alin menyandarkan punggungnya. Matanya menerawang ke luar jendela, ke arah Stasiun Blitar yang ramai.
 
@@ -218,7 +218,7 @@ Binto mengangguk. "Jadi CI/CD itu akselerator. Bikin kita makin cepat. Tapi kala
 
 "Persis."
 
-## **12.14 Penutup: Gelato dan Kode**
+## 13.14 Penutup: Gelato dan Kode
 
 Sore mulai turun. Istri Pakde dan rombongan arisan mulai beranjak. Pakde Suhar melirik jam.
 
@@ -226,7 +226,7 @@ Sore mulai turun. Istri Pakde dan rombongan arisan mulai beranjak. Pakde Suhar m
 
 Cahyo menggeleng. "Cukup, Pakde. Tadi sudah dua cup."
 
-Mereka beranjak dari meja. Binto membawa sisa es kopinya. Di luar, udara Blitar mulai berwarna jingga. Kereta api dari arah Malang lewat, klaksonnya berbunyi panjang.
+Mereka beranjak dari meja. Binto membawa sisa es kopinya. Di luar, suara kereta dari arah Malang lewat dengan klakson panjang yang memantul di dinding-dinding kafe.
 
 Binto menatap stasiun yang ramai. Pikirannya melayang ke cerita Mas Alin tadi. *Dari disket, FTP, Git pull manual, sampai CI/CD.* Ia tidak bisa membayangkan alangkah repotnya orang IT zaman dulu. Harus bawa disket, datang ke lokasi fisik, instalasi atau update satu per satu. Apalagi disket katanya rawan rusak—terkena debu, panas, atau aus. Meski Binto tidak pernah tahu wujud disket seperti apa, ia bisa merasakan betapa merepotkannya.
 
@@ -241,19 +241,258 @@ Cahyo tersenyum.
 Motor dinyalakan. Satu per satu mereka meninggalkan kafe. Binto menatap spanduk *Gelato Stasiun* untuk terakhir kalinya. Hari ini ia belajar bahwa teknologi bukan cuma soal bahasa pemrograman atau *framework*. Tapi juga tentang bagaimana kode itu sampai ke pengguna.
 
 Dari disket, FTP, Git pull manual, hingga robot-robot yang bekerja dalam sunyi di balik layar. Semua adalah bagian dari perjalanan panjang sebuah kode.
-
-Dan ia tahu, ini satu langkah lagi menuju *medior*.
 Dan ia tahu, ini satu langkah lagi menuju *medior*.
 
 ---
-## **Ringkasan Materi IT Bab 12**
 
-* **Evolusi Deployment (Rilis Aplikasi)**:
-  * **Fisik (Disket/CD)**: Sangat lambat dan berisiko (disket rusak, instalasi satu per satu di lokasi klien).
-  * **FTP/cPanel (Manual Upload)**: Rentan *human error* (lupa unggah berkas tertentu, salah masuk folder) dan sering putus di tengah jalan akibat koneksi.
-  * **Git Pull (Semi-Manual)**: Jauh lebih rapi karena menggunakan Git di server, namun masih bergantung pada kejelian manusia untuk menjalankan perintah tambahan secara manual (seperti mengunduh dependensi atau _restart_ server).
-* **CI/CD (Continuous Integration / Continuous Deployment)**: Ibarat pabrik perakitan otomatis. Begitu *programmer* mengirim (*push*) kode, robot perangkat lunak akan mengambil alih.
-  * **CI (Continuous Integration)**: Robot akan menguji kode (*Unit Test*), mengecek kerapian kode, dan memindai celah keamanan (seperti membocorkan kata sandi *database* di kode).
-  * **CD (Continuous Deployment)**: Jika semua tes lulus, robot akan merakit (*build*) aplikasi dan mengirimkannya (*deploy*) ke *server production* secara otomatis.
-* **Peran DevOps**: Posisi khusus yang menjadi jembatan antara Pembuat Kode (*Developer*) dan Pengelola Infrastruktur (*Operations*). Tugasnya merancang dan merawat "pipa" CI/CD ini serta memastikan *server* berjalan stabil, sehingga *developer* bisa murni fokus pada pembuatan fitur.
-* **Plus Minus CI/CD**: Sangat menekan kesalahan manusia dan mempercepat siklus kerja, namun memerlukan waktu lebih di awal proyek untuk merancang *pipeline* dan memaksa *developer* untuk rajin menulis kode tes. Tidak wajib untuk aplikasi berskala kecil atau luring (*offline*).
+## 13.15 Hari Peluncuran
+
+Seminggu setelah Sabtu di kafe Gelato.
+
+Jam tujuh pagi, Binto sudah di kantor. Padahal deploy baru jam sembilan. Tapi dia tidak bisa diam di kontrakan.
+
+Motor Beat-nya melaju lebih pelan dari biasanya tadi. Dua puluh menit. Tapi dua puluh menit ini terasa beda.
+
+*Deg-degan*, pikirnya. *Wajar.*
+
+Modul koperasi versi baru. Bukan lagi modul kecil. Bukan lagi tambalan. Ini versi dua. *Rewrite* total. Semua modul: anggota, simpanan, pinjaman, laporan, notifikasi. Semua terhubung. Semua harus berjalan.
+
+Dan hari ini... dia akan *deploy* ke *production*.
+
+Sendiri — tapi tidak sendirian.
+
+Di kampus dulu, *production* adalah laptop sendiri. Kalau error... tinggal restart. Kalau gagal... tinggal ngomong ke dosen. Di sini... *production* berarti Koperasi Sekar Patria. Berarti seratus anggota yang tiap hari transaksi. Berarti data yang tidak boleh hilang. Berarti klien yang bayar.
+
+Kantor masih sepi saat dia datang. Hanya Bu Sari, seperti biasa, menyapu teras yang mulai diguguri daun. "Pagi, Mas. Tumben pagi banget?"
+
+"Tidak bisa tidur, Bu."
+
+Bu Sari nyengir. "Deg-degan?"
+
+"...Iya."
+
+"Wajar, Mas." Bu Sari menyodorin segelas teh hangat. "Tapi Mas Binto pasti bisa. Saya lihat sendiri Mas Binto berubah dari pertama kali masuk sini."
+
+Binto menyeruput tehnya. Hangat.
+
+Jam delapan, kantor mulai penuh. Wawan sudah di meja — lebih pagi dari biasanya. Tumbler jumbo-nya penuh. Matanya melek. Dia ngerti ini hari penting. Mbak Rara juga sudah siap. *Test case*-nya sudah dicek ulang. Dua kali. Andik... baru datang. Tapi ThinkPad-nya sudah menyala. Terminal sudah terbuka. Dia sudah siap buat memantau server.
+
+Dan Mas Alin. Di pojokan. Cangkir enamel wayangnya masih mengepul. Dia tidak berkata apa-apa. Hanya mengangguk kecil ke arah Binto.
+
+Anggukan yang artinya: *Saya percaya.*
+
+---
+
+"Sebelum deploy... kita gladi resik."
+
+Mas Alin berdiri di depan. Spidol di tangan. Kali ini bukan diagram arsitektur. Tapi... checklist.
+
+"Gladi resik itu bukan buat memastikan tidak ada yang salah." Dia menulis. "Tapi buat memastikan... kalau ada yang salah, kamu tahu harus ngapain."
+
+Daftar itu ditulis satu per satu: database backup ✅, staging tested ✅, semua test case lolos ✅, environment variable dicek ✅, rollback plan siap, tim siap siaga.
+
+"Rollback plan." Mas Alin menunjuk nomor 5. "Ini paling penting. Kalau ada yang salah... kamu bisa balik ke versi sebelumnya dalam waktu lima menit. Gimana caranya?"
+
+Binto mendemonstrasikan. Git revert ke tag sebelumnya. Database restore dari backup. Sistem kembali ke versi sebelumnya.
+
+"Bagus." Mas Alin mengangguk. "Sekarang kamu tahu... bahkan kalau roket ini meledak... kamu bisa balik ke landasan."
+
+---
+
+Jam dua siang.
+
+"Udah siap?" suara Andik dari mejanya. Grafik monitoring sudah terbuka — CPU, memory, disk, network — semua siap dipantau.
+
+Binto menatap layarnya. Terminal terbuka. Satu perintah lagi.
+
+```
+git push production main
+```
+
+Satu baris. Delapan belas karakter. Tapi rasanya... seperti tombol peluncuran roket.
+
+"Mas." Wawan berdiri di samping. "Santai. Dulu saya pertama deploy... sampai tangan gemeteran. Mau muntah. Tapi Mas Alin bilang: *Roket ini kamu yang bangun. Kamu yang paling tahu. Percaya sama dirimu sendiri.*"
+
+Mbak Rara menimpali. "Testing saya sudah lolos semua. Saya jamin tidak ada bug fatal."
+
+"Kalau ada error di server... saya sudah siap," tambah Andik. "Log sudah kebuka. Alert sudah aktif. Saya pantau."
+
+Binto menatap mereka satu per satu.
+
+*Aku tidak sendirian.*
+
+Itu pemikiran yang aneh. Karena secara teknis... dia yang akan menekan tombol. Tangannya sendiri. Tapi entah kenapa... dia merasa ada empat pasang tangan lain di bahunya.
+
+Mas Alin berdiri. Tidak mendekat. Tidak banyak bicara. Hanya mengangguk.
+
+"Saya percaya, Le."
+
+---
+
+Binto mengetik.
+
+```
+git push production main
+```
+
+Enter.
+
+Terminal mulai bergulir. `Enumerating objects... Counting objects... Compressing objects... Writing objects...` Binto menahan napas. `remote: Building... remote: Running migration... remote: Restarting server... remote: Deploy complete!`
+
+Sunyi.
+
+Lalu...
+
+"BERHASIL!"
+
+Wawan yang pertama teriak. Tumbler jumbo-nya hampir jatuh.
+
+"Alhamdulillah..." Mbak Rara menghela napas panjang.
+
+Andik cuma mengangguk. Tapi sudut bibirnya naik sedikit. Itu senyum paling lebar yang pernah Binto lihat dari dia.
+
+Mas Alin... diam. Menyesap kopinya. Tapi Binto bisa lihat matanya. Ada sesuatu di sana. Sesuatu yang hangat. Sesuatu yang... bangga.
+
+---
+
+Binto membuka browser. Mengetik URL Koperasi Sekar Patria.
+
+Aplikasi muncul. Versi baru. Lebih cepat. Lebih rapi. Modul-modul yang dulu terpisah... sekarang terhubung. Dia klik modul satu per satu. Anggota. Simpanan. Pinjaman. Laporan. Notifikasi.
+
+Semua jalan.
+
+*Aku... bikin ini. Aku deploy ini. Ini production. Dipakai orang beneran.*
+
+Air matanya hampir keluar. Tapi dia tahan.
+
+---
+
+## 13.16 Di Bawah Pohon Rambutan
+
+Malam. Kantor sudah sepi.
+
+Wawan pulang duluan — mau jemput adiknya. Mbak Rara pamit — besok mau tes manual lagi. Andik masih di depan laptop, memantau server. Mas Alin entah ke mana.
+
+Binto duduk di teras kantor. Di bawah pohon rambutan.
+
+Pohon itu bergoyang pelan diterpa angin malam. Di atas sana, buah-buahnya sudah merah semua — sebagian sudah berjatuhan, siap dipanen. Puncak musim. Binto memandangnya dengan mata yang berbeda dari seminggu lalu. Mata seseorang yang baru saja meluncurkan roketnya sendiri.
+
+"Binto."
+
+Suara dari belakang. Bukan Mas Alin. Lebih berat. Lebih tua.
+
+Pakde Suhar.
+
+"Ini dia jagoan kita," katanya sambil tersenyum. Tangannya membawa dua cangkir kopi tubruk Bu Sari. Satu dia sodorkan ke Binto. Satu dia pegang sendiri.
+
+Dia duduk di samping Binto. Di bawah pohon rambutan.
+
+"Saya lihat tadi. Dari jendela. Kamu *deploy* sendirian."
+
+"*Nggih*, Pakde."
+
+"Hebat."
+
+Satu kata. Tapi dari mulut Pakde Suhar... terasa berat. Mungkin karena Pakde jarang ngomong. Mungkin karena dia lebih sering di belakang layar. Atau mungkin karena... ada sesuatu di matanya.
+
+"Saya dulu... juga pernah kayak kamu."
+
+---
+
+## 13.17 Cerita Pakde
+
+Pakde menunjuk pohon rambutan. Batangnya yang kokoh. Cabang-cabangnya. Buahnya yang merah-ranum, lebat di antara dedaunan hijau.
+
+"Dulu... tempat ini bukan kantor. Ini warnet. Warnet biasa. Anak-anak main Point Blank. Mahasiswa ngetik tugas. Bapak-bapak buka Facebook. Saya yang jaga."
+
+Binto mendengarkan.
+
+"Waktu itu saya sudah pensiun. Mantan PNS. Tapi saya lihat... IT ini masa depan. Saya mau belajar. Saya cari partner — anak muda, programmer, jago katanya. Saya percaya."
+
+Pakde menyesap kopinya.
+
+"Ternyata... dia nipu saya. Proyek pertama kami: sistem informasi UMKM. Saya yang cari klien. Saya yang nego. Dia yang ngerjain. Tapi waktu klien udah bayar DP... dia kabur. Bawa duitnya. Ninggalin kode yang cuma setengah jadi."
+
+Binto terdiam.
+
+"Saya dulu tidak ngerti IT. Tidak ngerti kode. Jadi saya tidak bisa bedain... mana programmer yang jujur, mana yang nipu. Itu yang bikin saya..."
+
+Pakde berhenti. Menatap pohon rambutan.
+
+"...bikin tempat ini. Garda Teknologi Nusantara. Supaya programmer tidak kayak saya dulu: ditipu. Dan supaya programmer... tidak jadi penipu."
+
+---
+
+Pakde menatap Binto. Matanya yang tua... ada sesuatu di sana. Bukan marah. Bukan sedih. Lebih ke... harapan.
+
+"Saya tidak butuh programmer yang jago, Le. Saya butuh programmer yang jujur. Yang kalau salah... bilang salah. Yang kalau tidak bisa... bilang tidak bisa. Yang bisa diandalkan."
+
+Dia menunjuk ke arah kantor. Ke meja Wawan yang berantakan. Ke laptop Andik yang masih menyala.
+
+"Wawan itu anak SMK. Tidak kuliah. Tapi klien suka sama dia. Kenapa? Karena dia jujur. Dia tidak pernah janji muluk-muluk. Dia selalu bilang: 'Saya coba dulu ya, Pak. Kalau tidak bisa... saya bilang.'"
+
+"Nah, itu. Itu yang saya cari."
+
+Dia menatap Binto lagi.
+
+"Kamu lulusan PTN top. Saya tahu. Tapi yang bikin saya bangga... bukan itu. Yang bikin saya bangga... kamu belajar dari nol. Kamu ngakuin apa yang kamu tidak tahu. Kamu terima masukan. Kamu tidak sombong."
+
+Binto merasakan tenggorokannya tercekat.
+
+"Itu yang penting, Le. Bukan jago. Bukan gelar. Tapi... bisa diandalkan."
+
+---
+
+## 13.18 Setengah Matang
+
+Angin malam berembus. Buah rambutan yang merah-ranum bergoyang pelan.
+
+Pakde bangkit. Menepuk bahu Binto.
+
+"Kamu sudah jauh. Dari yang dulu... tidak tahu Git. Tidak tau deploy. Sekarang... deploy sendirian. Production."
+
+Dia tersenyum.
+
+"Tapi ingat, Le. Ini baru awal. Kamu masih setengah matang."
+
+Binto mengangguk. "Saya tahu, Pakde."
+
+"Bagus. Karena orang yang ngerasa sudah matang... biasanya busuk."
+
+Pakde tertawa kecil. Lalu berjalan masuk ke kantor.
+
+"Bu Sari! Kopi lagi, Le. Yang tubruk. Pahit."
+
+---
+
+Binto tetap duduk di bawah pohon rambutan. Menatap buah-buah merah yang bergoyang.
+
+*Setengah matang.*
+
+Dulu... mungkin dia akan tersinggung dibilang begitu. Dulu dia pikir gelar sarjana PTN top sudah cukup. Dulu dia pikir ijazah itu tanda kematangan.
+
+Sekarang... dia tahu.
+
+*Setengah matang itu... justru bagus. Berarti masih belajar. Masih tumbuh. Masih ada ruang buat jadi lebih baik.*
+
+Dia ingat Mas Alin. Orang yang sudah hampir dua puluh tahun di dunia IT. Orang yang sudah jadi CTO startup. Dan bahkan dia... masih bilang "Saya masih belajar, Le."
+
+*Ah. Jadi ini toh.*
+
+*Engineer sejati... bukan yang paling tahu. Tapi yang paling sadar... betapa banyak yang belum dia tahu.*
+
+---
+
+Di dalam kantor, Andik masih di depan laptop. Grafik server stabil. CPU 18%. Memory 4.1 GB. Semua normal.
+
+Di dapur, Bu Sari menyeduh kopi tubruk lagi. Satu untuk Pakde. Satu untuk Mas Alin — yang baru muncul entah dari mana. Satu lagi... untuk dirinya sendiri. Malam ini... dia butuh.
+
+Di atas sana, bulan bersinar. Pohon rambutan bergoyang pelan. Buahnya merah semua. Puncak musim panen.
+
+Tapi anehnya... Binto tidak lagi melihatnya sebagai titik akhir.
+
+Musim panen bukanlah akhir. Musim panen adalah bukti... bahwa pohon ini masih akan terus berbuah. Tahun depan. Dan tahun depannya lagi.
+
+Dan Binto... masih setengah matang. Masih belajar. Masih tumbuh.
+
+Masih ada ruang buat jadi lebih baik.

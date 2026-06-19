@@ -1,6 +1,6 @@
-# **Bab 13: Buku Harian Sistem**
+# Bab 14: Buku Harian Sistem
 
-## **13.1 Error Aneh di Production**
+## 14.1 Error Aneh di Production
 
 Pagi itu, kantor Garda Teknologi Nusantara mendadak riuh.
 
@@ -24,7 +24,7 @@ Cahyo yang duduk di pojok ikut penasaran. "Wah, aneh ya, Mas. Padahal kodenya sa
 
 Mas Alin yang sedari tadi diam akhirnya bangkit dari kursinya. "Kita lihat log-nya."
 
-## **13.2 Mencari Jejak**
+## 14.2 Mencari Jejak
 
 Mas Alin membuka terminal dan SSH ke server production proyek Kalimantan. Ia navigasi ke folder storage/logs dan membuka file laravel.log. Layar menampilkan ribuan baris teks.
 
@@ -50,7 +50,7 @@ Pakde Suhar langsung mengambil teleponnya dan menghubungi Pak Haji. Binto bisa m
 
 Suara Pak Haji di ujung sana terdengar lega. Pakde menutup telepon dengan senyum. Binto mencatat dalam hati: *menyelesaikan masalah teknis itu setengah pekerjaan. Setengahnya lagi adalah mengomunikasikannya ke klien dengan baik.*
 
-## **13.3 Kenapa Log Penting?**
+## 14.3 Kenapa Log Penting?
 
 Setelah insiden reda, Cahyo mendekati Binto. "Mas, kok kita bisa tahu penyebabnya? Kan error-nya cuma 'Gagal menyimpan data'."
 
@@ -62,7 +62,7 @@ Cahyo manggut-manggut. "Jadi kayak buku harian?"
 
 "Persis. Buku harian sistem."
 
-## **13.4 Logging di Framework Modern**
+## 14.4 Logging di Framework Modern
 
 Mas Alin membuka kembali file laravel.log di laptopnya. "Lihat, Dik. Framework seperti Laravel itu otomatis bikin file log. Setiap error, warning, info—tercatat di sini. Kita tinggal buka foldernya."
 
@@ -72,7 +72,7 @@ Binto menimpali. "Dulu saya kira logging itu ribet. Ternyata tinggal pakai yang 
 
 "Itulah enaknya pakai framework modern," kata Mas Alin. "Tapi tetap kita harus tahu cara bacanya dan cara nambahin log sendiri."
 
-## **13.5 Level Severity: Info, Warning, Error, Critical**
+## 14.5 Level Severity: Info, Warning, Error, Critical
 
 Mas Alin menyorot beberapa baris di file log.
 
@@ -80,8 +80,8 @@ Mas Alin menyorot beberapa baris di file log.
 
 Ia menunjuk satu per satu.
 
-* \[2024-03-15 08:30:15\] production.INFO: User 123 login.  
-* \[2024-03-15 09:12:03\] production.WARNING: Stok produk "Rinso 1kg" tinggal 5\.  
+* \[2024-03-15 08:30:15\] production.INFO: User 123 login.
+* \[2024-03-15 09:12:03\] production.WARNING: Stok produk "Rinso 1kg" tinggal 5\.
 * \[2024-03-15 10:05:22\] production.ERROR: Unable to write to file. Disk quota exceeded.
 
 "INFO untuk kejadian normal—user login, pesanan dibuat. WARNING untuk sesuatu yang perlu perhatian tapi belum fatal—stok menipis, API lambat merespons. ERROR untuk kesalahan yang bikin fitur gagal—disk penuh, database error. Ada juga CRITICAL untuk yang fatal—sistem down total."
@@ -90,7 +90,7 @@ Cahyo mencatat di buku kecilnya. "Jadi gak semua log sama pentingnya?"
 
 "Betul. Dengan level ini, kita bisa filter. Kalau lagi sibuk, kita fokus ke ERROR dan CRITICAL dulu. Kalau lagi santai, baru lihat WARNING."
 
-## **13.6 Log Bisa Dialirkan ke Tools Khusus**
+## 14.6 Log Bisa Dialirkan ke Tools Khusus
 
 Mas Alin melanjutkan. "Ngomong-ngomong soal log, sebenarnya file kayak laravel.log ini cuma cara paling sederhana. Di proyek yang lebih besar, log biasanya dialirkan ke tools khusus."
 
@@ -104,7 +104,7 @@ Ia menyebutkan beberapa nama lain. "Ada juga Seq, ELK—Elasticsearch, Logstash,
 
 "Belum. Untuk tim sekecil kita, file log masih cukup. Tapi gak ada salahnya tahu. Nanti kalau proyek makin besar, kita bisa pakai."
 
-## **13.7 Log vs Database: Jangan Salah Pilih**
+## 14.7 Log vs Database: Jangan Salah Pilih
 
 Binto teringat sesuatu. "Mas, saya pernah lihat di forum, ada yang nyimpan log ke database. Itu boleh?"
 
@@ -122,7 +122,7 @@ Cahyo manggut-manggut. "Jadi dua-duanya boleh, asal tahu batasannya."
 
 "Persis."
 
-## **13.8 Log Rotation: Jangan Sampai Disk Penuh**
+## 14.8 Log Rotation: Jangan Sampai Disk Penuh
 
 Mas Andik yang sudah selesai membersihkan disk ikut nimbrung. "Ngomong-ngomong soal log, kalian tahu kenapa disk production bisa penuh tadi?"
 
@@ -140,7 +140,7 @@ Mas Alin menambahkan. "Di Laravel, kita bisa atur log rotation harian. Jadi seti
 
 "*Nggih*. Log itu penting, tapi kalau gak diurus, dia bisa jadi masalah baru."
 
-## **13.9 Praktik: Menambahkan Log di Kode**
+## 14.9 Praktik: Menambahkan Log di Kode
 
 "Sekarang kita praktik," kata Mas Alin. "Binto, Cahyo, kalian tambahkan log manual di endpoint pesanan."
 
@@ -156,7 +156,7 @@ Cahyo ikut menambahkan di bagian catch exception. "Ini Log::error() ya, Mas? Bia
 
 "Betul. Tapi ingat," Mas Alin menaikkan suara, "jangan pernah log data sensitif. Password? Jangan. Nomor kartu kredit? Jangan. Data pribadi yang gak perlu? Jangan. Log itu bisa dibaca banyak orang. Jaga privasi pengguna."
 
-## **13.10 Log Itu Ada di Mana-Mana**
+## 14.10 Log Itu Ada di Mana-Mana
 
 Sore hari, setelah semua selesai, Mas Alin meregangkan badan.
 
@@ -170,11 +170,65 @@ Ia mencontohkan. "Windows ada Event Viewer. Linux ada syslog, journalctl. Router
 
 Binto merenung. Ia teringat insiden tadi pagi. Tanpa file laravel.log, mereka mungkin masih bingung dan saling tuduh. *Log itu seperti kotak hitam pesawat*, pikirnya. *Merekam semua sampai detik terakhir.*
 
-## **13.11 Penutup: Jejak yang Tertinggal**
+## 14.11 Refleksi: Wawan dan Log yang Tak Tertulis
+
+Sore semakin turun. Cahyo masih sibuk dengan catatannya. Mas Alin sudah kembali ke pojokannya, cangkir enamel wayangnya sudah kosong.
+
+Binto menatap Wawan dari mejanya.
+
+Wawan sedang mengutak-atik padding di halaman profil klien. Tangannya cekatan. Matanya fokus. Tumbler jumbo-nya — seperti biasa — penuh setengah.
+
+*Gak kuliah*, pikir Binto. *Tapi paling jago di antara kami.*
+
+Ia ingat cerita Pakde malam itu — tentang Wawan yang anak SMK, yang jujur, yang tidak pernah janji muluk-muluk. Tapi ada satu hal yang Binto tidak pernah tanyakan: kenapa Wawan bertahan di GTN?
+
+Orang sejago dia... bisa kerja di mana saja. Startup besar. Perusahaan nasional. Bahkan remote company luar negeri.
+
+Binto beranjak dari meja. Membawa teh hangatnya ke meja Wawan.
+
+"Wan, boleh tanya?"
+
+Wawan menoleh. "Tanya apa, Mas?"
+
+"Kenapa... kamu masih di sini?"
+
+Wawan terdiam sebentar. Matanya masih di layar. Tapi tangannya berhenti mengetik.
+
+"Saya dulu," suaranya pelan, "waktu pertama cari kerja... banyak yang nolak. 'Cuma SMK.' 'Kurang pengalaman.' 'Kami butuh minimal D3.' Padahal saya udah bisa bikin aplikasi fullstack. Udah deploy sendiri. Udah punya portfolio."
+
+Binto diam. Mendengarkan.
+
+"GTN satu-satunya yang nerima saya. Pakde cuma tanya: 'Kamu bisa apa?' Saya jawab: 'Bisa bikin aplikasi web, Pak.' Dia langsung: 'Mulai besok.'"
+
+Wawan tersenyum kecil. "Waktu itu... saya udah nyaris nyerah. Mau pulang kampung. Jualan pulsa. Mungkin nasib saya memang cuma itu. Tapi Pakde..."
+
+Ia menyesap dari tumbler jumbo-nya.
+
+"Di sini... saya belajar bahwa skill itu bisa dilatih. Yang lebih susah itu... dipercaya."
+
+Binto merenung.
+
+"Log," kata Wawan tiba-tiba.
+
+"Ha?"
+
+"Mas tadi ngajarin Cahyo soal log, kan? Log itu kayak kepercayaan, Mas. Diem-diem nyatet semuanya. Gak minta pujian. Gak pamer. Tapi waktu ada masalah... semua orang cari log."
+
+Ia menatap laptopnya. "Saya pengen kayak gitu. Bukan yang paling mencolok. Tapi yang paling bisa diandalkan waktu dibutuhin."
+
+Binto tidak berkata apa-apa.
+
+Tapi di dalam hati... ia tahu.
+
+*Ini kenapa GTN spesial*, pikirnya. *Bukan karena teknologinya. Bukan karena project-nya. Tapi karena orang-orangnya. Yang nyatet semua... tanpa minta diperhatiin.*
+
+---
+
+## 14.12 Penutup: Jejak yang Tertinggal
 
 Menjelang maghrib, Cahyo merapikan buku catatannya. Ia menulis dengan rapi:
 
-*Log \= buku harian sistem. Level: Info, Warning, Error, Critical. Framework modern sudah sediakan file log. Bisa dialirkan ke Sentry/ELK. Jangan cuma andalkan database—log file lebih andal untuk error. Log rotation biar disk gak penuh. Jangan log data sensitif.*
+*Log = buku harian sistem. Level: Info, Warning, Error, Critical. Framework modern sudah sediakan file log. Bisa dialirkan ke Sentry/ELK. Jangan cuma andalkan database—log file lebih andal untuk error. Log rotation biar disk gak penuh. Jangan log data sensitif.*
 
 Binto melihat catatan itu dan tersenyum. Dulu, beberapa bulan lalu, ia juga mencatat hal-hal seperti ini. Kini, ia sudah bisa menjelaskannya ke orang lain.
 
@@ -184,19 +238,8 @@ Cahyo tersipu. "Ini semua berkat Mas Binto dan Mas Alin."
 
 Mas Alin yang mendengar dari pojokannya hanya tersenyum kecil.
 
-Di luar, pohon rambutan bergoyang pelan. Buahnya sudah lama habis. Daunnya tetap hijau, menunggu musim berikutnya. Seperti ilmu yang terus tumbuh, tak kenal musim.
+Di luar, pohon rambutan bergoyang pelan. Buahnya sudah lama habis — puncak musim panen sudah lewat. Daunnya tetap hijau, menunggu musim berikutnya.
 
-Dan Binto tahu, ini satu langkah lagi menuju *medior*.
+Seperti ilmu yang terus tumbuh. Seperti kepercayaan yang terus dicatat.
 
----
-## **Ringkasan Materi IT Bab 13**
-
-* **System Logging (Pencatatan Sistem)**: Log adalah "buku harian" atau "kotak hitam" dari sebuah aplikasi. Ia mencatat segala kejadian di balik layar. Tanpa log, mencari penyebab *error* di server sama seperti mencari jarum di tumpukan jerami dalam keadaan gelap gulita.
-* **Tingkat Keparahan Log (Severity Levels)**:
-  * **INFO**: Kejadian normal (pengguna masuk, pesanan dibuat).
-  * **WARNING**: Peringatan akan potensi masalah yang belum fatal (stok menipis, API lambat).
-  * **ERROR**: Kegagalan pada fitur tertentu (ruang penyimpanan penuh, gagal simpan data).
-  * **CRITICAL**: Masalah fatal yang membuat seluruh sistem mati (*down*).
-* **Log Rotation (Rotasi Log)**: Praktik membuat berkas (*file*) log baru setiap hari dan menghapus log lama secara otomatis. Jika log dibiarkan menumpuk dalam satu berkas selamanya, kapasitas penyimpanan server akan penuh dan membuat aplikasi macet total.
-* **Log File vs Log Database**: Mencatat *error* di *file* teks jauh lebih aman daripada di *database*. Mengapa? Karena jika terjadi kegagalan transaksi di *database* (*rollback*), catatan log yang ada di dalam *database* akan ikut terhapus, sehingga *developer* kehilangan jejak. Log pada *file* teks kebal terhadap masalah *database*.
-* **Keamanan Log**: Pantangan terbesar dalam *logging* adalah mencatat data sensitif seperti kata sandi (*password*), nomor kartu kredit, atau data pribadi secara gamblang. Log harus bersih dari data rahasia karena log seringkali bisa dibaca oleh banyak anggota tim.
+Tak kenal musim.
