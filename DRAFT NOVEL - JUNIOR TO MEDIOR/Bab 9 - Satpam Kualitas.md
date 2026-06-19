@@ -36,11 +36,11 @@ Setiap hari, minimal satu defect. Kadang dua. Kadang tiga. Bukan defect besar. B
 
 Siang itu, Mbak Rara mengambil alih laptop Binto. Ia membuka Postman dan mulai "bermain."
 
-Pertama, ia membuka endpoint Login. Ia mengisi email dengan ' OR '1'='1 dan password kosong. Klik Send. Error 500. Internal Server Error.
+Pertama, ia membuka endpoint Login. Ia mengisi email dengan `' OR '1'='1` dan password kosong. Klik Send. Error 500. Internal Server Error.
 
 Binto mengernyit. "Lho?"
 
-Mbak Rara tidak berkomentar. Ia mencoba lagi: email sales1@tokobangun.com dengan password salah. Respons: "Email atau password salah." Itu sudah benar.
+Mbak Rara tidak berkomentar. Ia mencoba lagi: email `sales1@tokobangun.com` dengan password salah. Respons: "Email atau password salah." Itu sudah benar.
 
 Lalu ia pindah ke endpoint Buat Pesanan. Ia mengirim data produk dengan jumlah -5. Error 500.
 
@@ -314,13 +314,13 @@ Satu per satu. Sampai semua dua belas.
 
 Mas Alin mendampingi. "Sekarang coba tulis unit test untuk endpoint login."
 
-Binto membuka folder tests/Feature. Membuat file AuthTest.php. Menulis test case:
+Binto membuka folder `tests/Feature`. Membuat file `AuthTest.php`. Menulis test case:
 
 - test_login_with_valid_credentials_returns_token
 - test_login_with_invalid_credentials_returns_401
 - test_login_with_missing_fields_returns_422
 
-Ia menjalankan php artisan test. Titik-titik hijau. Semua test lulus.
+Ia menjalankan `php artisan test`. Titik-titik hijau. Semua test lulus.
 
 "Lihat, Mas. Hijau semua."
 

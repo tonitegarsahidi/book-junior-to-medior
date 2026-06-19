@@ -266,15 +266,15 @@ Mas Alin menunjuk folder views. "Dan lihat layout-nya. Ini buatan Wawan. Dia pis
 
 "Saya tidak akan sentuh kode kamu. Kamu sendiri yang akan merapikannya. Saya cuma duduk di sini, kamu tanya kalau buntu."
 
-Binto menatap layarnya. Ratusan baris kode di BarangController.php menatap balik. *Rumah tanpa sekat.*
+Binto menatap layarnya. Ratusan baris kode di `BarangController.php` menatap balik. *Rumah tanpa sekat.*
 
 Ia menarik napas panjang, lalu mulai.
 
-Pertama, ia membuat folder baru: app/Services dan app/Repositories. Ia membuat file BarangRepository.php dan mulai memindahkan semua query SQL ke sana. Ia membuat BarangService.php dan memindahkan logika bisnis—termasuk validasi stok minimal.
+Pertama, ia membuat folder baru: `app/Services` dan `app/Repositories`. Ia membuat file `BarangRepository.php` dan mulai memindahkan semua query SQL ke sana. Ia membuat `BarangService.php` dan memindahkan logika bisnis—termasuk validasi stok minimal.
 
-Kedua, ia memangkas BarangController.php. Kini controller hanya bertugas menerima request, memanggil service, dan mengembalikan view. Tidak ada lagi query mentah di dalamnya.
+Kedua, ia memangkas `BarangController.php`. Kini controller hanya bertugas menerima request, memanggil service, dan mengembalikan view. Tidak ada lagi query mentah di dalamnya.
 
-Ketiga, ia membongkar index.blade.php. Ia membuat file layout utama: layouts/app.blade.php yang berisi header, sidebar, dan footer. Lalu ia ubah index.blade.php menjadi hanya berisi konten tabel, me-extends layout utama.
+Ketiga, ia membongkar `index.blade.php`. Ia membuat file layout utama: `layouts/app.blade.php` yang berisi header, sidebar, dan footer. Lalu ia ubah `index.blade.php` menjadi hanya berisi konten tabel, me-extends layout utama.
 
 Proses ini memakan waktu hampir dua jam. Setiap kali selesai satu bagian, Binto menjalankan ulang aplikasi. *Masih jalan? Alhamdulillah.* Masih jalan? *Lanjut.*
 
@@ -293,6 +293,8 @@ Binto mengangguk. "Terus `hitungTotal`... total apa, Mas?"
 Mas Alin berdiri, meregangkan kakinya. "Ini bedanya clean code dan clever code, Le. Banyak programmer pemula pengen kelihatan pintar. Mereka bikin kode pendek-pendek, satu baris isinya banyak logic, namanya satu huruf semua: `x`, `y`, `tmp`, `fn`. Itu clever code — kode yang cuma dipahami sama penulisnya, itupun cuma saat dia nulis."
 
 "Clean code beda. Nama fungsinya jelas meskipun panjang. Logikanya lurus, gak berbelit-belit — meskipun jadinya lebih banyak baris. Strukturnya terpisah rapi. Tujuannya: orang lain bisa baca kode kamu tanpa harus mikir keras. Itu yang tadi kita kerjakan."
+
+Mas Alin menatap Binto serius. "Bayangin kamu kerja di bengkel motor. Kalau kunci pas ukuran 10 kamu taruh sembarangan di dalam bak bekas oli, mekanik *shift* berikutnya yang butuh kunci itu bakal ngamuk, kan? Kodingan juga gitu. Variabel yang namanya gak jelas dan fungsi yang ditaruh sembarangan cuma bakal bikin *developer* selanjutnya menderita. Dan *developer* selanjutnya itu... bisa jadi adalah dirimu sendiri minggu depan."
 
 Binto merenung. *Aku dulu sering banget bikin variabel satu huruf. Bangga kalau kodeku pendek dan susah dipahami. Kirain itu keren. Ternyata... itu cuma nyusahin diri sendiri.*
 
@@ -332,9 +334,9 @@ Binto berpikir. "Saya tinggal ubah di sini, Mas?"
 
 "Iya, kalau cuma satu tempat. Tapi di aplikasi yang lebih besar, bisa jadi ada banyak konstanta seperti ini. Batas stok minimal, biaya pengiriman, persentase pajak, dan lain-lain. Kalau tersebar di berbagai Service, kamu harus mencari satu per satu saat ada perubahan."
 
-Mas Alin membuka proyek Pabrik Garum di laptopnya. Ia menunjukkan folder config/.
+Mas Alin membuka proyek Pabrik Garum di laptopnya. Ia menunjukkan folder `config/`.
 
-"Di Laravel, ada folder config khusus buat konfigurasi. Semua nilai yang sifatnya konstan dan mungkin berubah suatu hari, taruh di sini. Misalnya bikin file config/constants.php."
+"Di Laravel, ada folder `config` khusus buat konfigurasi. Semua nilai yang sifatnya konstan dan mungkin berubah suatu hari, taruh di sini. Misalnya bikin file `config/constants.php`."
 
 Ia menunjukkan contoh isinya:
 
@@ -346,17 +348,17 @@ return [
 ];
 ```
 
-"Kalau begini, semua orang di tim tahu di mana mencari nilai-nilai ini. Mau ubah? Tinggal buka satu file. Bahkan bisa pakai helper config('constants.stok_minimal') di mana saja."
+"Kalau begini, semua orang di tim tahu di mana mencari nilai-nilai ini. Mau ubah? Tinggal buka satu file. Bahkan bisa pakai helper `config('constants.stok_minimal')` di mana saja."
 
 Binto mengangguk paham. "Jadi lebih rapi lagi."
 
 "Nggih. Ini best practice sederhana. Nilai yang bisa berubah, taruh di tempat terpusat. Jangan hardcode di tengah-tengah logika. Nanti susah maintenance-nya."
 
-Binto segera membuat file config/constants.php dan memindahkan nilai 10 ke sana. Ia mengganti kode di Service menjadi config('constants.stok_minimal').
+Binto segera membuat file `config/constants.php` dan memindahkan nilai 10 ke sana. Ia mengganti kode di Service menjadi `config('constants.stok_minimal')`.
 
-Mas Alin melanjutkan. "Tapi tidak semua konstanta taruh di constants.php. Ada yang lebih cocok di file .env. Misalnya nama toko, alamat, atau credentials database. Itu karena tiap environment bisa beda. Di lokal kamu namanya 'Toko ATK Warsiti', tapi di production nanti bisa jadi 'Warsiti ATK'."
+Mas Alin melanjutkan. "Tapi tidak semua konstanta taruh di `config/constants.php`. Ada yang lebih cocok di file `.env`. Misalnya nama toko, alamat, atau credentials database. Itu karena tiap environment bisa beda. Di lokal kamu namanya 'Toko ATK Warsiti', tapi di production nanti bisa jadi 'Warsiti ATK'."
 
-Binto mengangguk. Ia paham sekarang: nilai yang bersifat bisnis dan sama di semua environment taruh di config/constants.php. Nilai yang berbeda antar environment taruh di .env.
+Binto mengangguk. Ia paham sekarang: nilai yang bersifat bisnis dan sama di semua environment taruh di `config/constants.php`. Nilai yang berbeda antar environment taruh di `.env`.
 
 "Sekarang lebih rapi," gumamnya puas.
 

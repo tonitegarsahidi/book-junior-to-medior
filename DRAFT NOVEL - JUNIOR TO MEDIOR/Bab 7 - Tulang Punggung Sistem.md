@@ -132,7 +132,7 @@ Mas Andik tiba-tiba bersuara lagi. "Omong-omong soal database, aku jadi inget pe
 
 Semua menoleh. Andik jarang cerita masa lalunya.
 
-"Dulu aku bikin simpan pinjam sederhana buat koperasi," ia memulai. Suaranya lebih pelan dari biasanya. "Pas anggota nabung, aku cuma bikin satu *query*: UPDATE saldo SET jumlah \= jumlah \+ 10000 WHERE id \= 123."
+"Dulu aku bikin simpan pinjam sederhana buat koperasi," ia memulai. Suaranya lebih pelan dari biasanya. "Pas anggota nabung, aku cuma bikin satu *query*: `UPDATE saldo SET jumlah = jumlah + 10000 WHERE id = 123`."
 
 "Terus?" Binto mencondongkan tubuhnya.
 
@@ -144,25 +144,25 @@ Wawan meringis. "Waduh. Berabe tuh."
 
 Hening sejenak.
 
-Mas Alin mengangguk serius. "Kamu tahu kenapa bisa separah itu? Karena dua operasi—UPDATE saldo dan INSERT jurnal—harusnya satu paket. Gak boleh setengah-setengah. Gagal satu, gagal semua. Itu kenapa kita butuh Transaksi Database."
+Mas Alin mengangguk serius. "Kamu tahu kenapa bisa separah itu? Karena dua operasi—`UPDATE saldo` dan `INSERT jurnal`—harusnya satu paket. Gak boleh setengah-setengah. Gagal satu, gagal semua. Itu kenapa kita butuh Transaksi Database."
 
 Ia membuka terminal, mengetik sesuatu.
 
-"Di SQL, kita bisa bungkus beberapa *query* dalam satu transaksi. Pakai BEGIN di awal, terus COMMIT kalau semua berhasil. Kalau ada yang gagal di tengah—entah listrik mati, *disk full*, atau *query* error—ROLLBACK. Semua perubahan dibatalkan. Database balik ke keadaan sebelum BEGIN."
+"Di SQL, kita bisa bungkus beberapa *query* dalam satu transaksi. Pakai `BEGIN` di awal, terus `COMMIT` kalau semua berhasil. Kalau ada yang gagal di tengah—entah listrik mati, *disk full*, atau *query* error—`ROLLBACK`. Semua perubahan dibatalkan. Database balik ke keadaan sebelum `BEGIN`."
 
 Ia menunjukkan contoh:
 
-sql
-
+```sql
 BEGIN;
 
-INSERT INTO jurnal (anggota\_id, jumlah, jenis) VALUES (123, 10000, 'setor');
+INSERT INTO jurnal (anggota_id, jumlah, jenis) VALUES (123, 10000, 'setor');
 
-UPDATE saldo SET jumlah \= jumlah \+ 10000 WHERE anggota\_id \= 123;
+UPDATE saldo SET jumlah = jumlah + 10000 WHERE anggota_id = 123;
 
 COMMIT;
+```
 
-"Kalau listrik mati pas di tengah-tengah—misal setelah INSERT tapi sebelum UPDATE—begitu server nyala lagi, database akan otomatis *rollback*. INSERT yang sudah terlanjur jalan ikut dibatalkan. Data tetap utuh."
+"Kalau listrik mati pas di tengah-tengah—misal setelah `INSERT` tapi sebelum `UPDATE`—begitu server nyala lagi, database akan otomatis *rollback*. `INSERT` yang sudah terlanjur jalan ikut dibatalkan. Data tetap utuh."
 
 "Ini yang namanya ACID ya, Mas?" Binto teringat istilah itu dari bacaan online.
 

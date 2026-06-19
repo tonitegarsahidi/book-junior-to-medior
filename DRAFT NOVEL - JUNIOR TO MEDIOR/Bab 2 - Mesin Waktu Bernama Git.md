@@ -130,7 +130,11 @@ Binto nyengir. "Ini HRD-nya galak nggak, Mas?"
 git commit -m "Pesan pertama: halo dunia"
 ```
 
-"Commit itu kayak simpan permanen. Masuk ke buku harian Git. Setiap *commit* punya... nomor unik. Penulis. Tanggal. Dan pesan. Ini yang bikin Git jadi mesin waktu. Kamu bisa balik ke *commit* mana pun... kapan aja."
+"Commit itu kayak simpan permanen. Pernah main PS2?" Mas Alin menoleh.
+
+Binto mengangguk. "Pernah, Mas. GTA San Andreas."
+
+"Nah. *Commit* itu ibarat kamu nge-*save* game di *Memory Card* sebelum jalanin misi yang susah," Mas Alin tersenyum. "Setiap *commit* punya slot *save* sendiri. Ada nomor uniknya. Penulis. Tanggal. Dan pesan. Ini yang bikin Git jadi mesin waktu. Kalau kamu gagal misi—atau kodemu tiba-tiba *error* parah—kamu bisa *load* balik ke *commit* mana pun... kapan aja."
 
 Mas Alin menunjukkan log-nya:
 
@@ -349,7 +353,7 @@ Binto tersenyum kikuk. "Baru mulai, Wan. Masih banyak yang nggak ngerti."
 
 Dia ketawa kecil.
 
-"Tapi Mas Alin sabar banget. Nggak pernah marah. Nggak pernah ngejek. Dia cuma bilang: 'Wes, Le. Aku juga dulu kayak kamu. Malah lebih parah. Laptopku pernah kebanting gara-gara git reset.'"
+"Tapi Mas Alin sabar banget. Nggak pernah marah. Nggak pernah ngejek. Dia cuma bilang: 'Wes, Le. Aku juga dulu kayak kamu. Malah lebih parah. Laptopku pernah kebanting gara-gara `git reset`.'"
 
 Binto tertawa. "Serius?"
 

@@ -138,15 +138,10 @@ Ia mengetik:
 Ia mengetik lagi:
 
 ```json
-
 {
-
     "nama": "Rinso",
-
     "harga": 5000
-
 }
-
 ```
 
 "JSON itu ringkas. Mirip objek di JavaScript. Gampang dibaca manusia, gampang diolah mesin. Semua bahasa pemrograman modern bisa baca JSON."
@@ -165,7 +160,7 @@ Ia mulai mencoret-coret.
 
 "Pertama, Endpoint. Ini alamat URL tempat kita minta data. Ibarat alamat restoran. Kamu mau makan, harus tahu restorannya di mana. Mau pesan rendang, ya ke Restoran Padang Sederhana, bukan ke restoran Jepang."
 
-Ia menulis. "Di API, endpoint biasanya /api/products untuk urusan produk, /api/orders untuk urusan pesanan. Endpoint harus pakai kata benda, bukan kata kerja. Jangan /getProducts, tapi cukup /products."
+Ia menulis. "Di API, endpoint biasanya `/api/products` untuk urusan produk, `/api/orders` untuk urusan pesanan. Endpoint harus pakai kata benda, bukan kata kerja. Jangan `/getProducts`, tapi cukup `/products`."
 
 "Kenapa, Mas?"
 
@@ -173,10 +168,10 @@ Ia menulis. "Di API, endpoint biasanya /api/products untuk urusan produk, /api/o
 
 Ia menjelaskan dengan analogi. "Bayangin kamu di restoran Padang. Kamu bisa minta pelayan dengan beberapa cara:
 
-* GET → Kamu cuma mau lihat daftar menu. 'Mbak, menu hari ini apa aja?' Pelayan kasih menu, kamu baca. Gak ada pesanan yang dibuat. Gak ada data yang berubah di dapur.
-* POST → Kamu mau kirim pesanan baru. 'Mbak, saya pesan nasi rendang satu.' Pelayan catat, kirim ke dapur. Dapur mulai masak. Data baru tercipta.
-* PUT atau PATCH → Kamu mau ubah pesanan yang sudah terlanjur dipesan. 'Mbak, yang tadi rendangnya jangan pakai jeroan, pakai daging semua.' Pelayan revisi pesanan. Data berubah.
-* DELETE → Kamu mau batalkan pesanan. 'Mbak, es tehnya batal aja.' Pelayan coret pesanan. Data dihapus."
+* `GET` → Kamu cuma mau lihat daftar menu. 'Mbak, menu hari ini apa aja?' Pelayan kasih menu, kamu baca. Gak ada pesanan yang dibuat. Gak ada data yang berubah di dapur.
+* `POST` → Kamu mau kirim pesanan baru. 'Mbak, saya pesan nasi rendang satu.' Pelayan catat, kirim ke dapur. Dapur mulai masak. Data baru tercipta.
+* `PUT` atau `PATCH` → Kamu mau ubah pesanan yang sudah terlanjur dipesan. 'Mbak, yang tadi rendangnya jangan pakai jeroan, pakai daging semua.' Pelayan revisi pesanan. Data berubah.
+* `DELETE` → Kamu mau batalkan pesanan. 'Mbak, es tehnya batal aja.' Pelayan coret pesanan. Data dihapus."
 
 Binto tersenyum. Analogi ini sangat membumi.
 
@@ -291,82 +286,55 @@ Mereka mulai merancang.
 
 Endpoint pertama: Login
 
-* URL: POST /api/login
+* URL: `POST /api/login`
 * Body (JSON):
-* json
-
-{
-
-    "email": "sales1@tokobangun.com",
-
-    "password": "rahasia123"
-
-* }
+  ```json
+  {
+      "email": "sales1@tokobangun.com",
+      "password": "rahasia123"
+  }
+  ```
 * Response sukses (200):
-* json
-
-{
-
-    "token": "eyJhbGciOiJIUzI1...",
-
-    "user": {
-
-        "id": 1,
-
-        "nama": "Budi Santoso",
-
-        "role": "sales"
-
-    }
-
-* }
+  ```json
+  {
+      "token": "eyJhbGciOiJIUzI1...",
+      "user": {
+          "id": 1,
+          "nama": "Budi Santoso",
+          "role": "sales"
+      }
+  }
+  ```
 * Response gagal (401):
-* json
-
-{
-
-    "message": "Email atau password salah"
-
-* }
+  ```json
+  {
+      "message": "Email atau password salah"
+  }
+  ```
 
 Endpoint kedua: Lihat Daftar Produk
 
-* URL: GET /api/products
-* Headers: Authorization: Bearer \<token\>
+* URL: `GET /api/products`
+* Headers: `Authorization: Bearer <token>`
 * Response sukses (200):
-* json
-
-{
-
-    "data": \[
-
-        {
-
-            "id": 1,
-
-            "nama": "Rinso 1kg",
-
-            "harga": 18000,
-
-            "stok": 50
-
-        },
-
-        {
-
-            "id": 2,
-
-            "nama": "Lifebuoy 100gr",
-
-            "harga": 3500,
-
-            "stok": 120
-
-        }
-
-    \]
-
-* }
+  ```json
+  {
+      "data": [
+          {
+              "id": 1,
+              "nama": "Rinso 1kg",
+              "harga": 18000,
+              "stok": 50
+          },
+          {
+              "id": 2,
+              "nama": "Lifebuoy 100gr",
+              "harga": 3500,
+              "stok": 120
+          }
+      ]
+  }
+  ```
 
 Mereka melanjutkan untuk endpoint lain: detail produk, buat pesanan, lihat riwayat pesanan. Semua ditulis dengan format yang sama: method, URL, headers, body, response.
 
@@ -382,7 +350,7 @@ Sore hari, Binto membuka laptopnya. Ia membuat proyek Laravel baru khusus untuk 
 
 Binto mulai mengetik. Ia membuat *controller* AuthController dengan method login. Ia validasi email dan password, lalu mengecek kredensial. Jika benar, ia membuat token menggunakan fitur bawaan framework.
 
-Ia juga melindungi endpoint /api/products dengan *middleware* yang mengecek token. Hanya *request* dengan token valid yang bisa mengakses.
+Ia juga melindungi endpoint `/api/products` dengan *middleware* yang mengecek token. Hanya *request* dengan token valid yang bisa mengakses.
 
 "Mas, ini saya bikin *resource* untuk produk. Biar respons JSON-nya terstruktur."
 

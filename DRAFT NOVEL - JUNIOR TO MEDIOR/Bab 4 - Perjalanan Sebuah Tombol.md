@@ -269,13 +269,13 @@ Komentar dari Mas Alin:
 Halo, To. Logikanya udah bener. Hasil akhirnya udah sesuai acceptance criteria.
 Aku kasih catatan kecil ya:
 
-### 1. Nama variabel `tmp` (BarangController.php:27)
+### 1. Nama variabel `tmp` (LaporanController.php:27)
 Saran: ganti jadi `total_pendapatan`.
 Alasan: `tmp` terlalu generik. Seminggu lagi kamu buka kode ini, kamu sendiri
 bisa lupa `tmp` itu isinya apa. Nama variabel harus menjelaskan isinya,
 bukan tipe-nya.
 
-### 2. Pemanggilan fungsi duplikat (BarangService.php:42-45)
+### 2. Pemanggilan fungsi duplikat (LaporanService.php:42-45)
 Fungsi `hitungTotal()` dipanggil dua kali — di baris 42 dan 45.
 Ini boros karena query database bisa jalan dua kali.
 Saran: Simpan hasilnya di variabel dulu.
@@ -283,7 +283,7 @@ Saran: Simpan hasilnya di variabel dulu.
   $this->setRingkasan($total);
   $this->setPendapatan($total);
 
-### 3. Validasi tanggal (BarangService.php:18)
+### 3. Validasi tanggal (LaporanService.php:18)
 Ini oke, tapi coba dipastiin juga ngecek tahun kabisat ya.
 Februari 2024 punya 29 hari, jangan cuma 28.
 
