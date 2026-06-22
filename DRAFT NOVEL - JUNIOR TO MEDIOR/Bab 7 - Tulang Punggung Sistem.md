@@ -238,9 +238,11 @@ Wawan menimpali. "Jadi sama kayak PHP vs Rust kemarin ya, Mas. Gak ada yang lebi
 
 Mas Alin tersenyum. "Persis. *No Silver Bullet* juga berlaku di database."
 
+Matahari mulai condong, menyisakan bayang-bayang panjang yang melintasi tegel ruang tengah. Suara gesekan daun rambutan di luar terdengar semakin jelas menyapu keheningan.
+
 ## 7.8 Refleksi Sore
 
-Sore hari, kantor mulai sepi. Wawan dan Andik sudah pamit pulang. Pakde Suhar masih di ruang depan, menelepon klien. Hanya Binto dan Mas Alin yang tersisa di teras.
+Sore hari, kantor mulai lengang. Wawan dan Andik sudah pamit pulang sejak setengah jam yang lalu. Pakde Suhar masih di ruang depan, menelepon klien. Hanya Binto dan Mas Alin yang tersisa di teras.
 
 Binto menatap pohon rambutan. Buahnya sudah berkurang banyak sejak siang tadi. Pakde membawa sebagian untuk oleh-oleh Bu Sari dan Mbak Rara. Sisanya dimakan bersama.
 
@@ -280,10 +282,10 @@ Mas Alin melirik, lalu mengangguk kecil. "Nah. Sekarang kamu mulai paham."
 
 Tidak ada yang bicara beberapa saat.
 
-Binto menyandarkan punggung ke kursi plastik. Di kepalanya, tabel, transaksi, dan cerita warung Tulungagung itu pelan-pelan menyatu. Database bukan lagi kumpulan kolom yang bikin pusing. Ia seperti akar: jarang kelihatan, sering dilupakan, tapi diam-diam menahan seluruh pohon supaya tidak roboh.
+Binto menyandarkan punggungnya ke sandaran kursinya yang mulai terasa dingin. Di kepalanya, tabel-tabel rumit, jaminan transaksi, dan cerita dari ujung Tulungagung itu pelan-pelan melebur menjadi satu pemahaman utuh. Database bukan lagi sekadar tumpukan kolom dan baris yang membingungkan. Ia adalah urat nadi. Ia laksana akar pohon: terkubur dalam gelap, sering luput dari pujian, namun diam-diam menanggung seluruh beban kehidupan di atasnya agar tidak tumbang.
 
-Di kejauhan, adzan ashar mulai berkumandang.
+Di kejauhan, alunan adzan ashar mulai berkumandang, mengaliri celah-celah udara sore yang damai.
 
-Sabtu hampir selesai. Tapi untuk pertama kalinya, Binto merasa ia tidak cuma sedang belajar menyimpan data.
+Sabtu panjang ini hampir usai. Namun untuk pertama kalinya, sembari menatap sehelai daun rambutan yang luruh perlahan ke pangkuannya, Binto merasa ia tidak lagi sekadar belajar cara menyimpan barisan data.
 
-Ia sedang belajar menjaga sesuatu yang lebih besar.
+Lebih dari itu, ia sedang belajar memikul tanggung jawab atas kehidupan orang lain agar tetap berjalan dengan baik.

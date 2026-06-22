@@ -26,7 +26,7 @@ Waktu lulus kuliah dulu, badai *tech winter* sedang menggila di Jakarta. Startup
 
 Demi bertahan hidup—dan membayar kosan tanpa minta kiriman orang tua—ia menurunkan ekspektasi. Jauh. Menerima pekerjaan sebagai administrasi data di perusahaan distributor alat berat.
 
-Kerjaannya: input angka ke Excel. Kirim email. Sesekali bantu atasan yang laptopnya *ngadat*.
+Kerjaannya: mengelola website perusahaan, input angka ke Excel. Kirim email. Sesekali bantu atasan yang laptopnya *ngadat*.
 
 Gajinya cukup untuk ukuran *fresh graduate*. Tapi ada yang kosong di jiwanya. Ia merasa ijazah IT dari kampus ternamanya telah dinodai oleh tumpukan baris Microsoft Excel yang monoton.
 
@@ -118,9 +118,9 @@ Dahannya menjuntai rendah. Sebagian hampir menyentuh atap seng tempat parkir mot
 
 Dia mematikan mesin motor.
 
-Sunyi.
+Keheningan pagi yang sejuk seketika merayap lambat, menggantikan deru mesin motor yang mati.
 
-Hanya suara burung gereja dan sayup-sayup lagu Denny Caknan dari rumah tetangga.
+Hanya terdengar kicau burung kutilang yang melompat lincah di dahan rambutan, dan sayup-sayup alunan lagu Denny Caknan dari radio rumah tetangga yang mengalun pelan.
 
 ---
 
@@ -145,6 +145,8 @@ Ruangannya langsung membuatnya berhenti sejenak.
 Tidak ada meja resepsionis. Tidak ada logo perusahaan besar di dinding. Tidak ada AC.
 
 Yang ada: ruang tamu luas dengan lantai tegel motif kuno. Empat meja kayu jati ditata saling berhadapan. Kipas angin Ufo berputar pelan di sudut ruangan. Rak buku dari kayu jati penuh dengan map-map kertas dan buku teks pemrograman edisi lama.
+
+ Di ambang pintu menuju dapur, seekor kucing kampung berbulu abu-abu gelap tampak meringkuk pulas di atas keset kain yang sudah agak usang. Salah satu kelopak mata kirinya tampak menutup sebagian, berhias lapisan putih keruh seperti katarak bekas luka lama. Keberadaannya seolah menyatu dengan lantai tegel yang dingin.
 
 Tapi anehnya... tempat ini rapi. Sangat rapi.
 
@@ -213,6 +215,13 @@ Pertama: Wawan.
 Usianya paling muda—mungkin sekitar umur Binto, atau lebih muda sedikit. Rambut *undercut*. Kemeja flanel merah. Bawa *tumbler* jumbo dan tas selempang berisi laptop. Jalannya santai. Matanya masih agak sembab—baru bangun, mungkin.
 
 "Wih, ada yang baru," sapanya sambil nyengir. Tumbler jumbo-nya ditaruh di meja dengan bunyi gedebug.
+Wawan melirik ke arah pintu dapur, melihat Binto yang sedari tadi curi-curi pandang ke arah kucing abu-abu di dekat keset dapur.
+
+"Oalah, lagi ngeliatin Disket ya, Mas?" celetuk Wawan santai. "Itu Namanya Disket. Plesetan dari *Disc* sama *Cat*. Yang ngasih nama Pakde Suhar—pemilik kantor ini. Maklum, generasi beliau kan dulu kerjanya pakai disket kotak hitam yang tipis itu, beda sama kita yang lahir-lahir langsung ketemu flashdisk."
+
+Binto tersenyum kecil mendengarnya. "Kok matanya katarak apa juling gitu, Wan?"
+
+"Kayaknya bekas tertabrak motor mas. Dulu dia ditemu di pinggir jalan raya Srengat," sahut Wawan, tangannya mulai membuka laptop. "Dulu si Disket ditemuin Mas Alin dalam kondisi sekarat. Mau dibawa pulang tapi istrinya Mas Alin alergi bulu kucing. Akhirnya dirawat di kantor sini. Matanya yang kiri jadi katarak putih gitu, kasihan sih, nggak bisa berburu tikus lagi dengan normal. Tapi di sini dia aman, makanannya selalu dijamin Mas Alin."
 
 Bu Sari berbisik ke Binto: "Wawan ini jagonya UI/UX. Lulusan SMK, tapi karyanya sering dipuji klien. Anaknya kreatif."
 
@@ -448,9 +457,11 @@ Mas Alin meraih kembali cangkir enamel wayangnya. Menyesap kopi yang pasti sudah
 
 "Saya sudah lama di dunia ini, *Le*. Saya lihat banyak anak muda pinter—tapi mentalnya *copy-paste*. Saya nggak mau kamu begitu."
 
+Mas Alin memanggil Binto dengan *Le*, kependekan dari *thole*, panggilan khas Bahasa Jawa untuk anak laki-laki.
+
 Dia berhenti sejenak. Ada sesuatu yang lewat di matanya. Sesuatu yang lebih dalam. Lebih personal.
 
-"Saya mau kamu jadi *engineer* beneran. Yang ngerti sistem dari hulu ke hilir. Yang bisa bikin aplikasi yang nggak cuma jalan di laptop sendiri. Tapi bisa dipakai orang banyak. Aman. Dan nggak bikin server *down* tiap malam Jumat."
+"Saya mau kamu jadi *software engineer* beneran. Yang ngerti sistem dari hulu ke hilir. Yang bisa bikin aplikasi yang nggak cuma jalan di laptop sendiri. Tapi bisa dipakai orang banyak. Aman. Dan nggak bikin server *down* tiap malam Jumat Kliwon."
 
 Binto mengangguk. Kali ini lebih mantap.
 
@@ -458,9 +469,9 @@ Binto mengangguk. Kali ini lebih mantap.
 
 ---
 
-Di luar, angin Desember berembus. Pohon rambutan di depan kantor bergoyang pelan. Buah-buahnya masih hijau, menunggu musim.
+Di luar, angin Desember berembus membawa sisa kesejukan dari lereng Gunung Kelud. Pohon rambutan di depan kantor bergoyang pelan, menyapu lembut ujung genteng parkiran. Buah-buahnya yang masih mungil dan hijau seolah sabar menunggu musim yang tepat untuk memerah.
 
-Batangnya kokoh. Tidak tinggi menjulang. Tapi akarnya dalam. Dan dari batang sederhana itu, tumbuh lima cabang besar.
+Batangnya mungkin tak setinggi ego gedung-gedung pencakar langit di Jakarta. Tapi akarnya menancap dalam di tanah desa. Dan dari batang yang tampak sederhana itu, tumbuh lima cabang besar yang saling menopang kuat.
 
 Ia teringat kata Mas Alin tadi. Tentang kode yang tidak dibuat sendirian.
 

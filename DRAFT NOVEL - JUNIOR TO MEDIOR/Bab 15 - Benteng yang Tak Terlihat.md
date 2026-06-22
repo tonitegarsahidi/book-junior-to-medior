@@ -2,7 +2,7 @@
 
 ## 15.1 Nasi Kenduri dari Ibu Cahyo
 
-Pagi itu, kantor Garda Teknologi Nusantara beraroma lain. Bukan aroma kopi tubruk seperti biasa, melainkan wangi rempah yang kaya—kunyit, serai, daun salam, dan santan yang dimasak lama. Binto yang baru tiba langsung mencari sumber aroma itu.
+Pagi itu, langit di atas Srengat masih berselimut embun tipis yang malas menguap. Udara dingin perlahan terusir oleh hangatnya sinar matahari pagi yang menerobos celah-celah daun pohon rambutan di halaman depan. Namun, ada yang berbeda saat Binto melangkah masuk melewati pintu kayu kantor Garda Teknologi Nusantara. Ruang tengah yang biasanya beraroma pekat kopi tubruk hitam, pagi ini dipenuhi wangi rempah yang kental dan menggugah selera—aroma kunyit, serai, daun salam, dan santan kelapa yang gurih. Binto yang baru tiba langsung mencari sumber aroma itu.
 
 Di meja tengah, Cahyo sedang menata rantang besar. Tangannya cekatan mengeluarkan piring-piring kertas dan sendok plastik.
 
@@ -76,8 +76,9 @@ Dan di situlah pelajaran pertama dari Andik:
 
 Bukan dalam arti motivasi. Tapi dalam arti: kalau kamu tidak bisa membobol kode kamu sendiri, jangan harap bisa mengamankan dari orang lain.
 
-Binto tersentak. Ia tidak pernah memikirkannya seperti itu.
+Binto tersentak. Ia menatap lekat ke arah piring-piring kertas yang berserakan. Aroma wangi lengkuas dan serai dari *ayam lodho* buatan ibu Cahyo masih mengambang kental di udara ruang tengah, memberikan rasa aman dan hangat layaknya berada di rumah sendiri. Namun di balik kehangatan itu, di seberang layar yang berpendar biru, Andik baru saja membuka matanya lebar-lebar: bahwa di dunia maya, celah kehancuran justru sering kali menyelinap masuk lewat pintu-pintu yang kita biarkan terbuka karena kita merasa terlalu aman.
 
+Ia tidak pernah memikirkannya seperti itu.
 Cahyo mencoba. Tangannya sedikit gemetar. Ia mengetik sesuatu di kolom pencarian aplikasinya. Tidak terjadi apa-apa. Ia coba lagi. Kali ini pakai karakter aneh.
 
 "Hampir," kata Andik. Matanya menyipit. "Kamu benar coba ke arah itu. Tapi aplikasimu sudah pakai prepared statement. Aman. Sekarang coba XSS."
@@ -242,11 +243,11 @@ Cahyo menerimanya dengan mata berkaca-kaca. "*Matur suwun*."
 
 Binto ikut bersalaman. "Semangat, Dik. Nanti kalau udah kerja, kabari."
 
-Cahyo mengangguk. Ia melangkah keluar, menuju motor bututnya. Sebelum menyalakan mesin, ia menoleh sekali lagi ke kantor ruko sederhana itu. Tempat ia belajar bahwa koding bukan cuma soal algoritma, tapi soal tanggung jawab.
+Cahyo mengangguk mantap. Ia melangkah keluar menuju motor bebek tuanya yang diparkir di bawah rindang pohon rambutan. Sebelum menyalakan mesin, ia menoleh sekali lagi ke arah kantor merangkap garasi sederhana itu. Tempat di mana ia baru saja belajar bahwa bekerja sebagai *engineer* bukan sekadar perihal merangkai algoritma, melainkan tentang memikul beban tanggung jawab.
 
 ## 15.13 Refleksi Binto
 
-Setelah Cahyo pergi, Binto kembali ke mejanya. Ia menatap laptop, tapi pikirannya melayang.
+Deru motor Cahyo perlahan menjauh dan lenyap di tikungan jalan. Setelah keheningan kembali mengambil alih ruang kantor, Binto berjalan pelan kembali ke mejanya. Ia menatap layar laptopnya yang menyala, namun tatapannya menembus jauh melampaui barisan kode di sana.
 
 Beberapa bulan lalu, ia datang ke tempat ini dengan kepala tegak. Lulusan PTN top. Merasa jago. Merasa tahu segalanya.
 
@@ -254,12 +255,14 @@ Hari ini, ia menyadari betapa sedikit yang ia tahu waktu itu.
 
 Git. Scrum. Database. API. QA. Staging. CI/CD. Logging. Dan sekarang keamanan—dengan CIA Triad, shift-left, dan segala kompleksitasnya.
 
-*Perjalanan dari junior ke medior bukan tentang gelar*, pikirnya. *Bukan tentang kampus top. Tapi tentang kemauan untuk terus belajar. Tentang rendah hati. Tentang tanggung jawab.*
+*Perjalanan dari junior ke medior bukan tentang gelar*, pikirnya. *Bukan tentang kampus top. Tapi tentang kemauan untuk terus belajar. Tentang rendah hati. Tentang merangkul tanggung jawab.*
 
-Ia menatap papan *sticky notes* di dekat dispenser. Stiker bebek Mas Alin. Stiker kelinci Mbak Rara. Stiker monyet Wawan. Dan sekarang, satu stiker baru dari Cahyo—stiker burung hantu, simbol kebijaksanaan.
+Ia menatap papan *sticky notes* di dekat dispenser. Stiker bebek Mas Alin. Stiker kelinci Mbak Rara. Stiker monyet Wawan. Dan sekarang, tertempel di sudut bawah, satu stiker baru dari Cahyo—stiker burung hantu, sang pengintai malam yang tangguh.
 
-Binto tersenyum. Cahyo sudah pergi. Tapi ilmunya menetap. Dan perjalanan Binto sendiri masih panjang.
+Binto tersenyum. Cahyo memang telah pergi membawa sejumput bekal ke kota seberang, namun pelajaran hari ini meresap abadi di dalam ruangan. Menjelang senja, saat sayup-sayup azan mulai bersahutan memecah langit Srengat, Binto menyadari sesuatu. Selama bertahun-tahun di kampungnya, ia sering mendengar suara tiang listrik yang dipukul pelan tiga kali di tengah malam—tanda peronda desa sedang berpatroli, menjaga tidur lelap para tetangga tanpa pernah menuntut pujian di pagi hari.
 
-Ia membuka laptop, siap untuk tugas berikutnya. Benteng-benteng baru akan terus dibangun. Dan ia akan terus belajar menjaganya.
+Kini, ia memahami bahwa teknologi pun membutuhkan peronda-perondanya sendiri.
 
----
+Ia merapatkan duduknya, meletakkan jemarinya di atas *keyboard*, dan menarik napas panjang. Benteng-benteng baru dari susunan kode akan selalu ia bangun, walau ancaman tak terlihat akan terus menyelinap tanpa permisi.
+
+Namun hari ini, Binto tak lagi sekadar merangkai huruf dan angka untuk membuat sistem menyala. Di hadapan layar yang berpendar dalam remang, ia bersiap berdiri dalam senyap, menjadi penjaga bagi tidur nyenyak setiap jiwa yang bernaung di balik kodenya.

@@ -363,13 +363,17 @@ Semua jalan.
 
 *Aku... bikin ini. Aku deploy ini. Ini production. Dipakai orang beneran.*
 
-Air matanya hampir keluar. Tapi dia tahan.
+Binto merasakan napasnya tertahan. Matanya tiba-tiba memanas, menatap layar yang kini memuat sebuah sistem bernyawa. Ribuan baris kode yang ia tulis berbulan-bulan, berhadapan dengan eror di tengah malam, perdebatan teknis dengan Wawan, hingga gladi resik panjang pagi ini—semuanya mengerucut pada layar di depannya. 
+
+Ia buru-buru mengerjapkan mata dan menelan ludah lekat-lekat untuk meredam haru. Perasaan lega itu perlahan turun meluruh, menggantikan sisa-sisa adrenalin yang tadi sempat membuat jemarinya kebas. Di luar, matahari Srengat mulai merunduk membiaskan semburat jingga ke lantai paving. Angin kemarau yang tenang menyusup lewat ventilasi, menyapu peluh di dahi Binto, dan membawa serta aroma debu jalanan yang menenangkan. 
+
+Roket itu telah meluncur dengan selamat. Dan ia masih berpijak kokoh di bumi.
 
 ---
 
 ## 13.16 Di Bawah Pohon Rambutan
 
-Malam. Kantor sudah sepi.
+Malam telah larut. Garasi kecil yang disulap menjadi kantor itu kini sudah sepi.
 
 Wawan pulang duluan — mau jemput adiknya. Mbak Rara pamit — besok mau tes manual lagi. Andik masih di depan laptop, memantau server. Mas Alin entah ke mana.
 
@@ -483,16 +487,20 @@ Dia ingat Mas Alin. Orang yang sudah hampir dua puluh tahun di dunia IT. Orang y
 
 ---
 
-Di dalam kantor, Andik masih di depan laptop. Grafik server stabil. CPU 18%. Memory 4.1 GB. Semua normal.
+Di dalam kantor, Andik masih di depan laptop. Grafik server stabil. CPU 18%. Memory 2.1 GB. Semua normal.
 
 Di dapur, Bu Sari menyeduh kopi tubruk lagi. Satu untuk Pakde. Satu untuk Mas Alin — yang baru muncul entah dari mana. Satu lagi... untuk dirinya sendiri. Malam ini... dia butuh.
 
-Di atas sana, bulan bersinar. Pohon rambutan bergoyang pelan. Buahnya merah semua. Puncak musim panen.
+Di luar, bulan menggantung rendah di langit pekat. Di bawahnya, pohon rambutan itu bergoyang pelan tertiup angin malam yang dingin. Entah sudah berapa kali pohon rambutan itu panen. Binto juga pernah merasakannya. Dan mungkin akan merasakannya lagi di musim-musim berikutnya
 
-Tapi anehnya... Binto tidak lagi melihatnya sebagai titik akhir.
+Namun anehnya, sembari memeluk lutut di beranda yang mulai dingin, Binto tak lagi melihat panen rambutan sebagai titik akhir dari segalanya.
 
-Musim panen bukanlah akhir. Musim panen adalah bukti... bahwa pohon ini masih akan terus berbuah. Tahun depan. Dan tahun depannya lagi.
+Musim panen bukanlah sebuah garis finish. Ia hanyalah sebuah perayaan kecil untuk membuktikan bahwa di bawah sana, dalam sunyi dan gelap, akar-akar pohon ini telah bekerja keras mencengkeram tanah. Dan segera setelah buah-buah ini habis dipetik, pohon itu tak lantas mati. Ia akan menggugurkan daun tuanya, memanjangkan ranting, dan menumbuhkan tunas-tunas baru. Memulai kembali fase berikutnya.
 
-Dan Binto... masih setengah matang. Masih belajar. Masih tumbuh.
+Binto tersenyum menatap bayangannya sendiri di kaca jendela kantor yang redup. *Setengah matang.* Ia mengulang kata-kata itu dalam kepalanya. 
 
-Masih ada ruang buat jadi lebih baik.
+Dulu, ia selalu berusaha keras menutupi ketidaktahuannya agar terlihat sempurna. Ia takut dianggap tidak kompeten. Namun malam ini, melihat sisa kopi bapaknya dan mengingat setiap jatuh-bangunnya di tempat ini, ia menyadari sebuah kebenaran baru: *menjadi matang berarti berhenti bertumbuh.* Buah yang telah matang sempurna, hanya memiliki satu takdir yang tersisa—menuju busuk.
+
+Sedangkan menjadi setengah matang... itu berarti ia masih hidup. Ia masih akan belajar, masih akan berbuat salah, dan masih akan merambat tumbuh ke arah cahaya.
+
+Ia memang masih setengah matang. Dan syukurlah, dalam dunia yang terus bergerak maju, itu adalah wujud eksistensi yang paling menjanjikan.

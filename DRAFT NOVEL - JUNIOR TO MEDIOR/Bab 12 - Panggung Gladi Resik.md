@@ -2,37 +2,21 @@
 
 ## 12.1 Tidak Bisa Tidur
 
-Seminggu sebelum deploy.
+Seminggu menjelang peluncuran besar, malam-malam di Blitar terasa lebih dingin dan senyap dari biasanya. 
 
-Binto nggak bisa tidur lagi.
+Binto berbaring terlentang, menatap langit-langit kamarnya yang diselimuti kegelapan. Di luar, suara jangkrik mengerik konstan di sela rumput basah, bersahutan dengan desir angin malam yang turun dari lereng Gunung Kelud—dingin dan lembap. Rasa kantuk sebenarnya sudah menggelayuti matanya yang perih sejak pukul sembilan. Namun, setiap kali ia memejamkan mata dan kepalanya menyentuh bantal kapuk tua, pikirannya justru berputar kencang, menolak untuk diam.
 
-...
+*Apakah load testing kemarin sudah benar-benar mewakili traffic asli?*
 
-Bukan karena nggak ngantuk. Matanya udah perih dari jam sembilan. Tapi setiap kali kepala nempel bantal... otaknya malah muter.
+*Apakah migrasi database-nya sudah dicek ulang?*
 
-*Load testing udah bener belum?*
+*Bagaimana jika nanti ada error tak terduga saat production?*
 
-*Database migration-nya udah dicek?*
+*Bagaimana jika pengguna gagal melakukan login?*
 
-*Kalau production error gimana?*
+Bayangan demi bayangan kegagalan terus menumpuk di kepalanya. Binto mendesah gusar. Akhirnya ia bangkit, menyalakan lampu meja yang menyebarkan pendar kuning hangat di kamarnya, lalu membuka laptop. Jam dinding menunjukkan pukul setengah satu malam. Cahaya biru dari layar laptop segera menerangi wajahnya yang tampak lelah.
 
-*Kalau user nggak bisa login?*
-
-*Kalau...*
-
-*Kalau...*
-
-*Kalau...*
-
-...
-
-Dia bangkit. Nyalain lampu. Buka laptop.
-
-Jam setengah satu malam.
-
-...
-
-Staging environment masih nyala. Dashboard monitoring masih kebuka. Angka-angka CPU, memory, response time — semua normal.
+Staging server masih nyala. Dashboard monitoring masih kebuka. Angka-angka CPU, memory, response time — semua normal.
 
 Tapi Binto nggak tenang.
 
@@ -216,13 +200,13 @@ Mas Alin berdiri di depan. "Oke. Hari ini gladi resik. Kita simulasiin proses de
 
 ...
 
-Suasana berubah. Biasanya meeting di GTN selalu ada tawa. Tapi gladi resik ini... beda.
+Suasana berubah. Biasanya meeting di GTN selalu ada tawa, diselingi bunyi sendok Bu Sari yang mengaduk kopi di dapur. Tapi gladi resik ini... berbeda. Kipas angin berderit pelan, mengiris udara siang yang mulai gerah. Di luar jendela, debu halus tampak menari-nari melayang tertiup embusan napas panjang Binto, menabrak bias cahaya matahari yang jatuh miring ke lantai paving.
 
-"Binto, kamu lead-nya. Silakan."
+Di layar monitor Andik, kursor terminal berkedip cepat—menunggu rentetan komando yang bisa saja menghancurkan atau menghidupkan segalanya. Sebuah kontras yang aneh. Di dalam ruang sempit ini, waktu terasa melambat, merangkak di antara ketegangan napas lima manusia. Namun di balik layar itu, ribuan baris kode bersiap dipacu sekencang kilat.
 
-...
+"Binto, kamu *lead*-nya. Silakan."
 
-Binto maju. Tenggorokannya kering. Tapi dia inget kata-kata Mas Alin: *"Gladi resik itu bukan buat mastiin nggak ada yang salah. Tapi buat mastiin kalau ada yang salah, kamu tahu harus ngapain."*
+Binto maju. Tenggorokannya kering. Detak jantungnya memukul rusuk lebih keras dari biasanya. Tapi ia mengingat kata-kata Mas Alin: *"Gladi resik itu bukan buat memastikan nggak ada yang salah. Tapi buat memastikan kalau ada yang salah, kamu tahu harus ngapain."*
 
 "Oke. Kita mulai. Step satu: database migration. Andik?"
 
@@ -402,17 +386,17 @@ Binto memandu Cahyo. "Sekarang kita merge branch fiturmu langsung ke main. Bukan
 
 Cahyo tersenyum lega. "Ternyata panjang juga prosesnya, Mas. Kirain tinggal upload."
 
-"Itulah bedanya *programmer* sama *engineer*," kata Binto, mengutip Mas Alin. "*Programmer* cuma mikirin kode jalan. *Engineer* mikirin dampaknya ke pengguna."
+"Itulah bedanya *programmer* biasa sama *software engineer* beneran," kata Binto, mengutip Mas Alin sembari tersenyum simpul. "*Programmer* biasa cuma mikirin baris kodenya jalan. Tapi *Engineer* beneran mikirin dampak kodenya ke hidup pengguna."
 
 ---
 
 ## 12.9 Es Dawet Serabi
 
-Siang itu, matahari bersinar terik. Pakde Suhar muncul dari ruangannya dengan beberapa bungkusan plastik.
+Siang itu, terik matahari Blitar menyengat cukup tajam, memanggang aspal jalanan di depan kantor. Pakde Suhar tiba-tiba muncul dari ruangannya membawa beberapa bungkusan plastik transparan yang berembun dingin.
 
 "Wes, jam istirahat. Panas-panas gini enaknya yang seger-seger. Tadi aku belikan es dawet serabi."
 
-Sorak kecil menyambut. Mbak Rara buru-buru membersihkan mejanya. Andik mengambil gelas-gelas plastik dari dapur. Pakde membuka bungkusannya: dawet hijau kenyal dalam santan kental, gula merah cair, dan es batu mulai mencair. Di bungkus terpisah, serabi hangat — kue tradisional berbahan tepung beras dan santan, siap dicocol ke kuah gula merah.
+Sorak kecil menyambut. Mbak Rara buru-buru membersihkan mejanya. Andik mengambil mangkok plastik dari dapur. Pakde membuka bungkusannya: dawet hijau kenyal dalam santan kental, gula merah cair, dan es batu mulai mencair. Di bungkus terpisah, serabi yang dipotong-potong — kue tradisional berbahan tepung beras dan santan, siap dimasukkan ke dalam kuah es dawetnya.
 
 Mereka berenam — Pakde, Mas Alin, Mbak Rara, Andik, Binto, dan Cahyo — duduk mengelilingi meja panjang.
 
@@ -501,8 +485,7 @@ Sepuluh menit kemudian.
 ---
 
 **Andik** [22:48]:
-Mas, server udah saya warming up.
-Harusnya nggak ada cold start besok.
+Mas, server udah saya cek, aman.
 
 ---
 
@@ -606,14 +589,16 @@ Bu Sari nyengir. "Deg-degan?"
 
 ...
 
-Binto nyeruput tehnya. Hangat.
+Binto menyeruput tehnya perlahan. Uapnya yang mengepul tipis menyentuh hidung, membawa aroma melati yang meluruhkan sisa-sisa dingin subuh.
 
-...
+Di luar, matahari pagi mulai merangkak naik menyinari aspal jalanan Srengat, mengusir kabut yang semalaman memeluk kota. Pohon rambutan di halaman bergoyang pelan diterpa embusan angin kemarau yang sejuk. Buah-buahnya kini sudah memerah sempurna, menyala-nyala di antara rimbun dedaunan. Sebagian dahan yang paling ranum bahkan sudah mulai merunduk berat ke arah tanah—tunduk dalam kematangan, bersiap untuk dipanen.
 
-Di luar, matahari mulai naik. Pohon rambutan di halaman bergoyang pelan kena angin pagi. Buahnya udah merah semua sekarang. Sebagian udah mulai berjatuhan — siap dipanen.
+Binto menatap pantulan dirinya di layar kaca laptop yang gelap. Ia sadar, *gladi resik* panjang kemarin bukanlah sebuah jampi-jampi ajaib untuk melenyapkan rasa takut. Ketakutan itu masih ada—bersembunyi di sela-sela ujung jari yang bersiap menekan tombol *Enter*.
 
-Dan di dalam kantor, Binto nungguin jam sembilan.
+Namun pagi ini, ia belajar sesuatu yang baru: keberanian sejati seorang *engineer* bukanlah ketiadaan rasa cemas, melainkan kemampuan untuk membiarkan jari-jarinya tetap mengetik walau sedikit bergetar, dan meyakini bahwa segala yang mungkin runtuh, selalu memiliki jalan untuk dibangun kembali.
 
-Dengan teh hangat di tangan. Dengan tim di belakangnya. Dengan satu kata di kepala:
+Dan di dalam kantor merangkap garasi itu, Binto menunggu detik-detik menuju pukul sembilan.
+
+Dengan teh hangat di genggaman, dengan bayang-bayang tim kokoh di punggungnya, dan dengan satu tekad sunyi yang telah matang mengakar di kepalanya:
 
 *Siap.*

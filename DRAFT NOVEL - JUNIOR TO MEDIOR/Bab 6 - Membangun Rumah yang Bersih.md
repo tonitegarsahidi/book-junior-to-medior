@@ -1,20 +1,24 @@
 # Bab 6: Membangun Rumah yang Bersih
 
-Pagi itu, Pakde Suhar kasih tugas baru. Fitur laporan stok barang untuk toko ATK Bu Warsiti, teman lama yang punya toko di Pasar Besar.
+Langit di atas Srengat pagi itu begitu biru bersih, dilapisi sisa dingin gerimis malam yang belum sepenuhnya menguap dari permukaan tanah. Dari arah dapur, tercium aroma samar tempe yang tengah digoreng oleh Bu Sari—gurih dan menenangkan.
 
-"Simpel aja, To. Tambah barang. Lihat stok. Edit. Hapus."
+Binto duduk menghirup udara pagi dengan dada lapang. Ia merasa hari ini membawa optimisme baru. Dan benar saja, tak lama setelah ia merapikan mejanya, Pakde Suhar datang membawa tugas baru. Fitur laporan stok barang untuk toko ATK Bu Warsiti, teman lama Pakde yang punya sebuah toko besar di dekat Pasar Besar.
 
-Binto mengangguk mantap. "Siap, Pakde. Saya kerjain sendiri."
+"Simpel aja, To. Tambah barang. Lihat stok. Edit. Hapus. Sing penting bisa jalan dulu," ujar Pakde Suhar dengan nada khasnya yang santai.
 
-Mas Alin melirik dari pojokan. "Yakin, Le? Mau dibantuin?"
+Binto mengangguk mantap, ada binar keyakinan di matanya. "Siap, Pakde. Biar saya kerjakan sendiri."
 
-"Nggak usah, Mas. Saya bisa."
+Dari pojokan meja seberang, Mas Alin melirik pelan. Sepasang matanya menatap Binto dari balik bingkai kacamatanya yang sedikit turun. "Yakin, Le? Mau dibantu?"
 
-Mas Alin mengangguk pelan. Tapi ada sesuatu di matanya. Sesuatu yang Binto nggak sadari.
+"Nggak usah, Mas. Saya bisa," jawab Binto cepat, hampir terlalu cepat.
 
-*Dia pernah lihat ini sebelumnya*, mungkin begitu isi kepala Mas Alin. *Anak baru. Udah mulai pede. Udah ngerasa bisa.*
+Mas Alin hanya mengangguk pelan, kembali menyesap kopi hitamnya dalam keheningan. Namun ada sebaris sorot tersirat di matanya. Sesuatu yang luput dari pandangan Binto yang sedang penuh percaya diri.
 
-*Dan biasanya... itu pertanda akan ada yang jatuh.*
+*Aku pernah melihat binar ini sebelumnya*, batin Mas Alin. *Binar dari seorang anak baru yang baru saja bisa melangkah, lalu merasa sanggup berlari kencang tanpa peduli batu di jalanan.*
+
+*Dan di dunia ini... binar seperti itu biasanya adalah awal dari sebuah kejatuhan.*
+
+---
 
 ## 6.1 Gaya Kampus
 
@@ -150,6 +154,22 @@ Sticky note di kolom Testing... pindah balik ke In Progress. Terus balik lagi. T
 
 Dia nyengir. Tapi Binto tahu... di balik senyum itu ada kekecewaan.
 
+Binto bangkit dengan langkah gontai menuju dapur kecil di belakang. Perutnya masih mulas. Dengan tangan yang agak lemas, ia mulai menyeduh kopi. Tepat saat ia sedang menunggu air panas mengalir, ia melihat Mas Alin sedang berjongkok telaten di sudut dapur, menyekop pasir di *litter box* Disket lalu membuang kotorannya ke kantong plastik hitam. 
+
+Binto berdiri mematung, menatap pemandangan itu dengan dahi berkerut. Ia heran melihat bagaimana seorang *technical lead* senior yang disegani seperti Mas Alin begitu telaten melakukan pekerjaan kotor itu sendiri.
+
+Bu Sari yang sedang mencuci gelas di dekat wastafel menyenggol pelan lengan Binto. Ia tersenyum tipis melihat keheranan di wajah anak muda itu, lalu berbisik pelan.
+
+"Mas Alin itu sengaja, Mas Binto. Dulu saya pernah nawarin biar saya saja yang bersihin setiap pagi, tapi dia menolak keras."
+
+Binto menoleh. "Kenapa, Bu?"
+
+"Katanya, kerja di dunia teknologi itu sering bikin kepala di atas awan, merasa paling pintar karena bisa mengendalikan sistem besar," bisik Bu Sari hangat. "Bersihin kotoran kucing tiap hari adalah caranya buat membumi kembali. Ngingetin kepalanya sendiri biar egonya nggak ikut meninggi."
+
+Binto terenyak. Kata-kata Bu Sari meresap lambat ke dalam kepalanya. Pandangannya kembali tertuju pada Mas Alin yang kini sedang mengelus kepala Disket setelah selesai merapikan kotak pasirnya.
+
+Binto membawa kopinya kembali ke meja dengan perasaan yang campur aduk.
+
 ## 6.4 Runtuh
 
 Binto duduk di mejanya. Nggak ngomong. Nggak gerak.
@@ -194,11 +214,9 @@ Dia menatap Binto. Matanya tenang.
 
 Mas Alin berdiri. "Sekarang... kita perbaiki. Sini, ikut saya."
 
-Tapi dia nggak langsung buka kode. Dia malah berjalan ke teras depan. Binto mengikuti.
+Tapi dia nggak langsung buka kode. Dia malah berjalan ke teras depan, menyibak pintu kayu yang mengizinkan hawa segar siang hari masuk. Binto mengikuti dari belakang.
 
-Pohon rambutan di halaman kini buahnya semakin merah. Beberapa sudah bisa dipetik.
-
-"Lihat pohon rambutan itu," kata Mas Alin sambil menunjuk. "Bayangin kamu punya rumah. Tapi rumahmu gak punya sekat. Dapur, kamar mandi, ruang tamu, kamar tidur—semua jadi satu ruangan besar."
+Mas Alin berjalan, lalu berhenti di bawah pohon rambutan. Lalu ia menunjuk kembali ke kantor. "Bayangin kamu punya rumah. Tapi rumahmu gak punya sekat. Dapur, kamar mandi, ruang tamu, kamar tidur—semua jadi satu ruangan besar."
 
 Binto mencoba membayangkan.
 
@@ -464,12 +482,12 @@ Bapak nggak pernah ngerti IT. Tapi kata-katanya... selalu nyambung.
 
 ---
 
-Di luar, pohon rambutan di depan rumah bergoyang. Masih kecil, baru dua tahun. Ditanam Bapak tepat di hari kelulusan Binto. Masih belum berbuah.
+Di luar, daun-daun pohon rambutan kecil di depan rumahnya berdesir pelan tertiup angin malam yang dingin. Masih kecil, baru dua tahun. Ditanam Bapak tepat di hari kelulusan Binto. Masih jauh dari kata berbuah.
 
-Tapi akarnya... makin dalam.
+Tapi di bawah tanah yang gelap, akarnya diam-diam menghunjam makin dalam.
 
-Jatuh. Tapi nggak hancur. Gagal. Tapi belajar. Kode yang kemarin amburadul, sekarang rapi dengan sekat yang jelas. Dua belas bug yang bikin malu, kini jadi dua belas pelajaran.
+Jatuh, tapi tidak hancur. Gagal, tapi belajar. Kode yang kemarin amburadul tanpa arah, kini berdiri tegak dengan sekat dan alasan yang jelas. Dua belas bug yang tadi sore membuat wajahnya memerah malu, kini menjelma menjadi dua belas fondasi yang kokoh.
 
 *Dua langkah maju. Satu langkah mundur.*
 
-*Tapi tetep... maju.*
+*Gak apa pelan-pelan... tetap maju.*

@@ -2,7 +2,9 @@
 
 ## 8.1 Kabar dari Balikpapan
 
-Pagi itu, kantor Garda Teknologi Nusantara masih lengang. Binto baru saja memarkirkan motornya ketika melihat Pakde Suhar mondar-mandir di teras sambil menempelkan ponsel ke telinga. Wajahnya sumringah.
+Angin kemarau bertiup kering dari arah selatan, menggoyang dahan-dahan pohon rambutan di halaman depan kantor. Daun-daunnya yang hijau lebat  saling bergesekan, sebagian mulai mengering lalu jatuh meliuk-liuk di bawah sapuan angin yang membawa aroma debu jalanan yang khas.
+
+Pagi itu, kantor Garda Teknologi Nusantara masih berbalut sepi yang hangat. Binto baru saja memarkirkan Beat merahnya ketika matanya menangkap sosok Pakde Suhar yang mondar-mandir di teras. Pria paruh baya itu menempelkan ponsel di telinganya, wajahnya tampak sumringah diselingi anggukan kepala yang mantap.
 
 "*Nggih*, Pak Haji... *Alhamdulillah*... Berapa? *Masya Allah*, selamat... *Nggih*, siap. Nanti saya rapatkan dengan tim... *Matur suwun*, Pak Haji."
 
@@ -278,9 +280,9 @@ Binto paham sekarang. *Bearer token* lebih aman dan lebih fleksibel untuk sistem
 
 ## 8.12 Janji Tertulis Dua Sistem
 
-Setelah sesi teori yang panjang, Mas Alin membuka laptop. "Sekarang kita praktik. Kita bikin API Contract dulu. Ini kayak menu di restoran tadi. Sebelum masak, kita sepakati dulu."
+Setelah sesi teori yang panjang, Mas Alin mengajak Binto masuk kembali ke ruang tengah. Mas Alin membuka laptopnya. "Sekarang kita praktik. Kita bikin API Contract dulu. Ini kayak menu di restoran tadi. Sebelum masak, kita sepakati dulu."
 
-Ia membuat dokumen kosong. "Andik sebagai *mobile developer* harus tahu: endpoint apa saja, data apa yang harus dikirim, dan respons apa yang akan diterima. Jadi dia bisa mulai *ngoding* tanpa nunggu *backend* selesai."
+"Andik sebagai *mobile developer* harus tahu," lanjut Mas Alin, mengembalikan perhatian Binto ke layar. "Endpoint apa saja, data apa yang harus dikirim, dan respons apa yang akan diterima. Jadi dia bisa mulai *ngoding* tanpa nunggu *backend* selesai."
 
 Mereka mulai merancang.
 
@@ -376,9 +378,11 @@ Andik tersenyum. "Enak nih. Jadi gak saling tunggu. Aku bisa mulai *ngoding* Flu
 
 Wawan yang mendengar dari mejanya menimpali. "Nah, ini enaknya API. Kerja paralel. Gak kayak dulu, nunggu *backend* beres dulu baru *frontend* jalan."
 
+Angin sore kembali berdesir, membawa guguran sehelai daun rambutan kering yang melayang pelan ke tanah halaman. Di dalam kantor, irama pekerjaan kini berdetak lebih selaras, dipersatukan oleh kontrak tak kasat mata bernama API.
+
 ## 8.15 Refleksi: Wajah Perusahaan
 
-Sore mulai merunduk. Teh Binto tinggal setengah gelas. Kopi Mas Alin sudah dingin seperti biasa.
+Sore mulai merunduk membiaskan warna keemasan. Teh Binto tinggal setengah gelas. Kopi Mas Alin sudah mendingin seperti biasa.
 
 "Gimana rasanya bikin API pertama?" tanya Mas Alin.
 
@@ -390,14 +394,11 @@ Binto mengangguk pelan. Sekarang ia paham kenapa tadi mereka lama sekali membaha
 
 Kalau salah satu berantakan, yang repot bukan cuma orang di ruangan ini. Bisa Andik. Bisa tim mobile. Bisa klien. Bisa siapa saja yang datang belakangan dan mencoba menyambung ke pekerjaan mereka.
 
-Mas Alin menaruh cangkirnya. "API itu wajah teknis perusahaan, *Le*. Orang boleh gak pernah lihat kode kita. Tapi dari situ mereka bisa tahu: kita rapi atau sembrono."
+Mas Alin menaruh cangkirnya pelan. "API itu wajah teknis perusahaan, *Le*. Orang boleh jadi gak pernah lihat tumpukan kode kita, tapi dari susunan API itu mereka bisa tahu: kita ini rapi atau sembrono."
 
-Binto menutup laptopnya pelan.
+Binto menutup layar laptopnya, meresapi keheningan sore yang mengendap di antara deru lirih kipas pendingin.
 
-Di halaman, satu buah rambutan jatuh sendiri ke tanah. Bukan karena busuk. Memang sudah waktunya lepas.
+Di luar, sehelai daun rambutan kekuningan luruh ke tanah berumput. Memang sudah waktunya ia lepas.
 
-Ia memungutnya, memutar buah itu di telapak tangan, lalu tersenyum kecil.
-
-Besok mereka akan lanjut bikin endpoint lain.
-
-Tapi hari ini, Binto sudah belajar satu hal penting: komunikasi yang baik ternyata bukan cuma urusan manusia.
+Besok mereka akan lanjut menyusun sisa endpoint lainnya.
+Namun senja ini, Binto sudah menyerap satu pelajaran yang akan terus dipegangnya erat: tata krama dan komunikasi yang baik, ternyata bukan hanya urusan antarmanusia, melainkan juga antarsistem.

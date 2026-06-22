@@ -2,13 +2,31 @@
 
 ## 4.1 Telepon dari Kalimantan
 
-Pagi itu kantor masih lengang.
+Pagi itu kantor masih berselimut lengang yang damai. Binto datang pertama kali, setelah bu Sari.
 
-Cuma suara kipas angin Ufo. Cuma aroma kopi tubruk dari dapur kecil.
+Di ruang tengah, satu-satunya suara yang terdengar adalah derum lambat kipas angin yang berputar konstan di sudut ruang, bersaing tipis dengan aroma kopi tubruk yang baru diseduh dari arah dapur kecil.
 
-Binto duduk di dekat jendela. Menatap pohon rambutan. Buahnya mulai ada yang kuning sekarang. Nggak banyak. Cuma satu dua. Tapi cukup buat bikin dia tersenyum.
+Binto baru saja mengisi gelasnya dengan air putih di dapur. Saat sedang menunggu air mendidih, matanya sempat menangkap kotak pasir (*litter box*) milik Disket di sudut dapur. Butiran pasirnya tampak berserakan, dan kotorannya belum dibersihkan. Binto berpikir, sebagai junior yang masih baru, tak ada salahnya ia menunjukkan inisiatif kecil untuk membantu menjaga kebersihan kantor. Maka, ia mengambil sekop plastik di dekat kotak, menyerok kotoran itu dengan telaten, dan membuangnya ke tempat sampah luar.
 
-*Mulai menguning juga akhirnya*, pikirnya. *Tanda-tanda mau matang.*
+Keesokan paginya, Binto melakukan hal yang sama. Kotak pasir si Disket kembali bersih sebelum jam kantor dimulai.
+
+Namun, siang harinya saat Binto sedang mencuci gelas di wastafel dapur, Mas Alin tiba-tiba melangkah masuk. Mentornya itu membawa kantong makanan kucing baru. Langkahnya terhenti di dekat kotak pasir yang bersih, lalu pandangannya beralih menatap Binto.
+
+"Kamu yang bersihin ini, Le?" tanya Mas Alin pelan.
+
+Binto tersenyum kecil, merasa bangga dengan inisiatifnya. "Nggih, Mas. Saya lihat agak kotor kemarin, jadi sekalian saya bersihkan."
+
+Mas Alin tidak langsung tersenyum. Ia malah terdiam sejenak, menatap Binto dengan pandangan yang sulit diartikan, sebelum akhirnya mengembuskan napas pendek dan berkata dengan nada hangat namun tegas, "Lain kali jangan ya, Le. Biar aku saja yang bersihin *litter box*-nya Disket."
+
+Binto tertegun di depan wastafel. Ia mengangguk canggung. "Nggih, Mas."
+
+Di kepalanya, pertanyaan demi pertanyaan langsung bermunculan. Kenapa Mas Alin melarangnya? Kenapa seorang pimpinan teknis senior bersikeras melakukan pekerjaan sekotor itu sendiri, alih-alih menyerahkannya pada anak baru atau meminta bantuan Bu Sari yang memang mengurus operasional kantor?
+
+Pertanyaan itu terus menempel di benaknya ketika ia kembali ke meja kerja.
+
+Binto duduk termangu di dekat jendela kaca yang berembun tipis. Pandangannya lurus menembus keluar, menatap pohon rambutan di halaman depan. Di antara rimbun dedaunan hijau tua yang basah, beberapa butir buah rambutan mulai menampakkan semburat jingga kekuningan. Tidak banyak, hanya satu-dua di dahan paling bawah, namun cukup kontras untuk memancing senyum tipis di wajahnya.
+
+*Mulai menguning juga akhirnya*, pikirnya dalam hati. *Tanda-tanda rambutan akan segera matang.*
 
 Tiba-tiba...
 
@@ -381,13 +399,13 @@ Binto menghela napas panjang. Entah sejak kapan dia menahan napas.
 
 ## 4.10 Ngopi Sore
 
-Sore itu, Binto dan Mas Alin duduk di teras. Di bawah pohon rambutan. Buahnya mulai banyak yang kuning sekarang.
+Matahari mulai merendah, menyorotkan cahaya jingga kemerahan yang memanjangkan bayang-bayang di teras kantor. Binto dan Mas Alin duduk bersantai di bawah pohon rambutan. Buahnya mulai banyak yang kuning sekarang, sebagian bahkan mulai memamerkan rona merah di pucuk-pucuknya yang tersembunyi di balik daun.
 
 "Mas... semua alur kerja emang selalu kayak gini?"
 
 Mas Alin nyengir. "Ya enggaklah, Le. Tiap tempat beda."
 
-Dia menatap langit sore. "Di sini kita enak. Ada Wawan yang bantu desain. Mbak Rara yang jadi QA. Kamu dan saya fokus di backend."
+Dia menatap langit sore. "Di sini kita enak. Ada Wawan yang bantu UI, bantu frontend tapi dia juga bisa full stack kalau diperlukan. Mbak Rara yang kadang jadi admin kadang jadi QA. Andik bantuin server, test security, tapi dia juga kadang ngoding, Kamu dan aku fokus di backend tapi kebanyakan project kita ya full stack."
 
 "Kalau dulu?"
 
@@ -395,7 +413,7 @@ Dia menatap langit sore. "Di sini kita enak. Ada Wawan yang bantu desain. Mbak R
 
 Binto membayangkan. Berat.
 
-"Di startup Jakarta... lebih lengkap lagi," Mas Alin melanjutkan. Nada suaranya sedikit berubah. Lebih pelan. "Saya dulu CTO di satu startup fintech di sana. Timnya gede. Ada frontend engineer khusus React. Backend engineer khusus Node. Database engineer. DevOps. Tiap orang cuma megang bagian kecil."
+"Di startup Jakarta... lebih lengkap lagi," Mas Alin melanjutkan. Nada suaranya sedikit berubah. Lebih pelan. "Saya dulu CTO di satu startup fintech di sana. Timnya gede. Ada tim frontend engineer khusus React. Tim backend engineer khusus Node. Database engineer.  QA, DevOps, bahkan ada posisi namanya Documentation Engineer. Tiap orang cuma megang bagian kecil."
 
 "Enak dong?"
 
@@ -405,7 +423,7 @@ Mas Alin menatap Binto. "Intinya... tim itu dinamis. Nggak ada struktur yang sem
 
 Binto mengangguk. Tapi ada yang mengganjal.
 
-*Orang ini... pernah jadi CTO di startup Jakarta. Tim gede. Gaji pasti besar. Kenapa sekarang ada di Blitar? Di kantor kecil belakang pasar?*
+*Orang ini... pernah jadi CTO di startup Jakarta. Tim gede. Gaji pasti besar. Kenapa sekarang ada di Blitar? Di kantor kecil di daerah belakang pasar?*
 
 Dia ingin bertanya. Tapi ada sesuatu di nada suara Mas Alin tadi — waktu nyebut startup Jakarta — yang bikin dia urung. Ada yang... nggak enak buat diceritakan.
 
@@ -509,11 +527,13 @@ Binto membayangkan perjalanan itu. Tombol kecil di Kalimantan. Server di cloud e
 
 Mas Andik mengangguk. Senyum tipis. "Itulah kenapa kode harus rapi. Harus aman. Harus efisien. Karena di ujung sana... ada orang beneran yang pakai."
 
-Binto merenung. Selama ini dia ngoding di laptop sendiri. Jalan. Selesai. Aman.
+Binto merenung. Selama ini dia ngoding di laptop sendiri. Nyala. Jalan. Selesai. Aman.
 
-Tapi sekarang... kodenya hidup. Di server beneran. Dipakai orang beneran. Setiap detik.
+Tapi sekarang... kodenya benar-benar hidup. Bernapas di server yang jauh. Ditekan oleh jari-jari orang beneran, setiap detik, dari seberang lautan.
 
-*Tanggung jawab*, pikirnya. *Ini namanya tanggung jawab.*
+Ia menatap perlahan ke luar jendela, ke arah rambutan di halaman yang diam-diam mulai memerah menantang pergantian musim.
+
+*Tanggung jawab*, batinnya meresap. *Ini namanya tanggung jawab.*
 
 ---
 

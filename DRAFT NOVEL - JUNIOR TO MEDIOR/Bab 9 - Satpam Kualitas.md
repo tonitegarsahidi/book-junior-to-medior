@@ -2,11 +2,15 @@
 
 ## 9.1 "DUA BELAS?!"
 
+Ini musim kemarau, namun semalam justru hujan deras. Pagi ini hawa dingin sisa hujan semalam masih menyisakan kelembapan yang melekat di dinding-dinding tembok kantor. Di luar, suara kepak sayap burung gereja yang berteduh di dahan-dahan rambutan terdengar samar, berselingan dengan bunyi gemerisik daun basah yang diterpa angin pagi. Di dalam ruangan, keheningan sempat merayap tenang, hanya dipecahkan oleh suara renyah Disket yang sedang lahap mengunyah makanan kering dari mangkuknya di dekat dispenser.
+
+Namun, kedamaian pagi itu mendadak koyak.
+
 "DUA BELAS?!"
 
 Suara Binto memecah keheningan pagi di ruang tengah GTN.
 
-Di tangannya, selembar print-out laporan testing. Mbak Rara yang nyerahin. Dengan muka datar. Tanpa ekspresi.
+Di tangannya, selembar print-out laporan testing yang masih terasa hangat dari baki printer. Mbak Rara berdiri di hadapannya dengan wajah tenang tanpa ekspresi—tatapan matanya datar, namun ada ketegasan dingin yang terpancar dari sana.
 
 "Iya, Mas. Dua belas defect."
 
@@ -372,13 +376,13 @@ Mbak Rara menatap Binto. Lama. Kali ini matanya tidak penuh beban. Tapi hangat.
 
 "Sama-sama, Mbak."
 
+Senyum tipis Mbak Rara pagi itu terasa menenangkan, seperti uap teh hangat yang memudar di udara sejuk Srengat.
+
 ---
 
 ## 9.14 Refleksi: Kita Semua Punya Luka
 
-Siangnya, Binto duduk bareng Wawan di teras.
-
-Pohon rambutan di pojok halaman sudah semakin merah. Banyak yang siap dipetik. Beberapa sudah jatuh ke tanah, jadi rebutan burung gereja.
+Siang harinya, terik matahari yang mulai menyengat diredam oleh rimbunnya dedaunan pohon rambutan di teras. Binto duduk bersisian dengan Wawan di bangku kayu.
 
 "Wan."
 
@@ -426,8 +430,10 @@ Binto diam.
 
 Luka aku apa? Mungkin lulusan PTN top tapi tidak bisa apa-apa. Mungkin IPK cumlaude tapi di dunia kerja cuma jadi beban. Mungkin merasa superior, padahal inferior.
 
-Dan di sinilah dia sekarang. Di kantor kecil di belakang pasar. Dikelilingi orang-orang yang—seperti rambutan di depannya—tumbuh dari luka. Tapi tetap berbuah. Tetap manis.
+Dan di sinilah ia sekarang. Di sebuah kantor kecil di belakang pasar tradisional. Dikelilingi orang-orang yang—seperti pohon rambutan di depannya—pernah patah dan tumbuh dari luka. Namun pada akhirnya, mereka tetap sanggup berbuah pada waktunya. Tetap ranum dan manis.
 
-Mungkin itu intinya, pikir Binto. Bukan soal luka apa yang kita punya. Tapi kita tumbuh jadi apa setelahnya.
+*Mungkin itu intinya*, batin Binto menghela napas panjang. *Bukan tentang seberapa dalam luka yang kita bawa. Tapi seberapa lapang dada kita membiarkannya mengakar, lalu menjadikannya tempat untuk tumbuh.*
 
-Di atas mereka, pohon rambutan bergoyang pelan. Buah-buahnya yang merah sudah banyak yang dipetik. Tapi masih banyak yang bergelantungan, menunggu giliran untuk diuji kualitasnya. Seperti tim ini. Seperti Binto sendiri.
+Di atas kepala mereka, sisa angin kemarau menggoyang pelan dahan-dahan rambutan. Menggugurkan satu persatu daun yang memang waktunya dilepaskan, untuk kelak akan berganti dengan daun-daun baru.
+
+Seperti tim ini. Seperti baris-baris kode yang baru ia perbaiki semalam. Dan tentu saja, seperti dirinya sendiri.

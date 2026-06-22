@@ -1,6 +1,8 @@
 # Bab 10: Kode Bisa Nunggu
 
-Telepon kantor berdering menjelang jam sebelas siang.
+Matahari siang itu bersinar terik di atas kota Blitar, memanaskan aspal jalanan hingga membiaskan gelombang udara yang tipis di kejauhan. Di dalam kantor, hawa gerah mulai merayap naik, diredam seadanya oleh desau putaran kipas angin yang berputar tanpa lelah. Aroma kopi tubruk yang mulai dingin bercampur dengan ketegangan yang menggantung pekat di ruang tengah.
+
+Telepon kantor berdering kencang menjelang jam sebelas siang, memecah konsentrasi yang tengah berkumpul di meja-meja kerja.
 
 Binto sedang menatap layar monitor dengan rahang mengeras. Endpoint upload dokumen yang semalam ia rapikan sekarang ngadat lagi. Request masuk, proses jalan sebentar, lalu mati di tengah jalan seperti motor tua kehabisan napas.
 
@@ -368,13 +370,13 @@ Binto menunduk. Senyumnya ada, tapi matanya panas.
 
 Kalimat sesederhana itu merobohkan sisa benteng di dada Binto.
 
-Ia mengangguk cepat, takut kalau bicara, suaranya malah pecah.
+Ia mengangguk cepat. Ia takut kalau bicara, suaranya malah akan terserak pecah.
 
 ---
 
 ## 10.4 Sore yang Turun Pelan
 
-Menjelang sore, dokter datang lagi dan mengulang penjelasan dengan lebih ringan.
+Waktu merangkak lambat, namun perlahan bayang-bayang sore mulai memanjang di lorong rumah sakit. Menjelang ashar, dokter datang lagi dan mengulang penjelasan dengan nada yang jauh lebih ringan.
 
 Kondisi bapak stabil.
 
@@ -536,14 +538,14 @@ Kadang dewasa justru berarti tahu apa yang harus dilepas dulu.
 
 Dari dalam rumah, ibu memanggil pelan, "To... masuk. Anginnya malam dingin."
 
-Binto menoleh ke pintu, lalu sekali lagi memandang pohon rambutan di sudut halaman.
+Binto menoleh ke arah pintu sejenak, lalu untuk terakhir kalinya membiarkan pandangannya menetap pada siluet pohon rambutan di sudut halaman rumahnya.
 
 Masih kecil.
 
-Belum berbuah.
+Pasti butuh waktu lama untuk memetik buahnya.
 
-Tapi tetap tumbuh.
+Tapi di bawah siraman embun malam yang bisu, pohon itu tetap hidup. Tetap tumbuh. Dan selayaknya kehidupan, ia tahu persis prioritas utamanya: menguatkan akar sebelum memaksakan buah.
 
-"Iya, Bu," jawabnya.
+"Iya, Bu. Binto masuk," jawabnya pelan namun tenang.
 
-Ia mematikan layar HP, memasukkannya ke saku, lalu masuk ke dalam rumah.
+Ia mematikan layar HP yang masih menyembunyikan tumpukan masalah server, menyurukkannya ke dalam saku, lalu melangkah perlahan kembali ke dalam pelukan hangat rumahnya.

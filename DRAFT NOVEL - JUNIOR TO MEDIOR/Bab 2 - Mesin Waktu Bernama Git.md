@@ -2,13 +2,17 @@
 
 ## 2.1 Warisan Kode
 
-Hari belum berganti. Ini masih hari pertama Binto di Garda Teknologi Nusantara.
+Matahari tepat di atas ubun-ubun ketika kesunyian merayap masuk ke dalam ruang tengah. Angin bertiup pelan membawa aroma tanah kering dan bau aspal yang terpanggang. Di dekat pintu dapur, Disket tampak berjalan pelan mengejar seekor semut, sebelum akhirnya menyerah dan merebahkan badannya di lantai tegel yang dingin. Seberkas cahaya matahari, menerobos kaca patri tua, menerangi debu-debu halus yang menari lambat di udara.
 
-Setelah sesi *reality check* yang menghancurkan kepala tegaknya tadi pagi, Binto diberi waktu oleh Mas Alin untuk "berkenalan dengan suasana". Ia berkeliling ruangan, melihat Wawan yang sedang merapikan *padding* dan *margin* di Figma, melirik Mbak Rara yang tampak serius membaca dokumen sambil sesekali mencoret-coret, dan mengamati Bu Sari yang sedang menelepon klien dari Kalimantan dengan suara ramah khas Jawa Timuran.
+Ini masih hari pertama Binto di Garda Teknologi Nusantara, namun rasanya waktu melambat dengan sengaja.
 
-Tapi pikirannya tidak bisa lepas dari meja pojok itu. Meja Mas Alin. Dengan tiga monitor menyala, *terminal* hitam penuh teks-teks misterius, dan cangkir enamel wayang yang entah sudah berapa hari tidak dicuci.
+Setelah sesi *reality check* yang menghancurkan kepala tegaknya tadi pagi, Binto diberi waktu oleh Mas Alin untuk "berkenalan dengan suasana". Ia berkeliling ruangan dengan langkah ragu. Dari balik bahunya, ia melihat Wawan yang tengah sibuk merapikan *padding* dan *margin* di Figma—jemarinya bergerak tak sabar. Ia melirik Mbak Rara yang tampak serius membaca dokumen tebal sambil sesekali mencoret sesuatu dengan pulpen hitamnya. Di meja depan, Bu Sari sedang berbicara di telepon dengan klien dari Kalimantan, suaranya ramah dan bersahaja dengan logat Jawa Timuran yang kental.
 
-*Aku kudu belajar dari nol*, batin Binto. *Tapi mulai dari mana?*
+Namun, perhatian Binto tak bisa lepas dari meja pojok itu. Meja Mas Alin. Tiga monitor yang menyala menampilkan deretan teks misterius di atas latar terminal yang hitam pekat, bersanding dengan sebuah cangkir enamel bergambar wayang yang warnanya mulai kusam.
+
+Ada keheningan yang berat di meja itu. Sebuah dunia yang rumit, yang kini terasa begitu asing bagi Binto.
+
+*Aku kudu belajar dari nol*, batin Binto sambil meremas ujung kemeja putihnya yang mulai terasa lembap oleh keringat dingin. *Tapi mulai dari mana?*
 
 Tepat saat adzan Dzuhur berkumandang dari masjid desa sebelah, Mas Alin bangkit dari kursinya. Ia meregangkan badan, menguap lebar, lalu menoleh ke arah Binto.
 
@@ -279,7 +283,7 @@ Binto terkagum. "Ini sih kayak..."
 
 ## 2.8 Ketika Dua Dunia Bertabrakan
 
-Sesi berlanjut. Di luar, suara anak-anak sekolah mulai terdengar. Wawan, yang dari tadi sibuk dengan Figma-nya, melirik ke arah Binto dan Mas Alin yang serius di depan laptop. Tapi dia nggak ikut nimbrung. Mungkin ngerti ini sesi penting.
+Sesi berlanjut seiring bayangan matahari yang mulai bergeser di lantai tegel. Di luar, riuh rendah suara anak-anak sekolah dasar yang baru pulang mulai terdengar meramaikan jalanan desa. Wawan, yang dari tadi sibuk menggeser piksel di Figma-nya, melirik ke arah Binto dan Mas Alin. Tapi ia memilih diam, mungkin mengerti bahwa pertempuran kecil sedang terjadi di meja sudut itu.
 
 "Sekarang... bagian paling mendebarkan," kata Mas Alin. Senyum misterius. "Merge conflict."
 
@@ -485,19 +489,15 @@ Motor Beat-nya berbelok ke jalan berpaving, menuju rumah Bapak.
 
 Dua puluh menit. Seperti biasa.
 
-Tapi hari ini... dua puluh menit itu terasa lebih ringan.
+Tapi hari ini... dua puluh menit itu terasa jauh lebih ringan, seiring hembusan angin sore yang menyapu peluh di keningnya.
 
-Mungkin karena di dalam kepalanya... ada sesuatu yang baru. Sesuatu yang mulai tumbuh.
+Ada sesuatu yang baru di dalam kepalanya. Sesuatu yang pelan-pelan mulai mengakar.
 
-Seperti pohon rambutan itu.
+Seperti pohon rambutan di halaman kantor tadi.
 
-Cabangnya masih sedikit. Buahnya masih hijau.
+Cabangnya mungkin masih sedikit, dan buah-buahnya pun masih keras dan hijau menantang matahari.
 
-Tapi dia tahu...
-
-suatu hari...
-
-buahnya akan merah.
+Tapi Binto tahu, selama ia mau bersabar dan terus belajar, suatu hari nanti buah itu akan memerah.
 
 Dan manis.
 

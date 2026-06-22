@@ -1,16 +1,16 @@
 # Bab 5: No Silver Bullet: Di Sela Pilihan dan Ilusi
 
-Minggu keempat.
+Jam tiga sore itu, langit di atas Srengat perlahan melunak, selain sore, nuansa mendung kelabu datang seolah hendak meneduhkan semua yang diterangi. Kebisingan yang biasa memenuhi ruangan seolah turut meluruh bersama meredupnya hari.
 
-Binto mulai pede. Udah bisa Git. Udah ngerti Scrum. Udah pernah deploy fitur ke production. Udah ngerasain gimana kode-nya dipakai orang beneran di Kalimantan.
+Binto duduk bersandar di kursinya. Ini minggu keempatnya di GTN. Perlahan-lahan ia mulai menemukan pijakan. Ia sudah bisa menjinakkan Git tanpa gemetar, memahami alur Sprint pada Scrum, bahkan telah mencicipi rasanya men-deploy fitur langsung ke production—melihat kodenya bernyawa dan digunakan oleh orang nyata di Kalimantan sana. Ada rasa percaya diri yang mulai tumbuh, perlahan menegakkan kepalanya.
 
-Tapi hari ini... dia mulai bertanya.
+Namun di antara rasa percaya diri itu, ada sebaris tanya yang diam-diam mulai mengusik pikirannya.
 
-Bukan tentang kode. Bukan tentang framework. Tapi tentang sesuatu yang lebih besar.
+Bukan tentang sintaks kode yang salah, bukan pula tentang framework yang rumit. Melainkan tentang arah dari semua langkah ini. Sebuah pertanyaan tentang pilihan-pilihan di sela kenyataan dan ilusi.
 
 ## 5.1 Mengamati Repo
 
-Sore itu, kantor Garda Teknologi Nusantara lumayan lengang. Wawan masih remote, Mbak Rara sedang keluar menemani Bu Sari belanja kebutuhan dapur kantor, dan Pakde Suhar ada rapat dengan klien dari Kediri. Hanya Binto dan Mas Alin yang tersisa, ditemani suara kipas angin Ufo dan aroma kopi yang mulai dingin.
+Sore itu, kantor Garda Teknologi Nusantara lumayan lengang. Wawan sedang remote, Mbak Rara sedang keluar menemani Bu Sari belanja kebutuhan dapur kantor, dan Pakde Suhar ada rapat dengan klien dari Kediri. Hanya Binto dan Mas Alin yang tersisa, ditemani suara kipas angin Ufo dan aroma kopi yang mulai dingin. Di dekat dispenser, Disket tampak sibuk menjilati kaki depannya yang kotor sebelum akhirnya meringkuk tidur di kolong meja.
 
 Binto baru saja selesai melakukan deploy kecil untuk perbaikan bug di modul Koperasi Sekar Patria. Sambil menunggu proses deploy selesai, iseng ia membuka Git dan melihat daftar repositori proyek di organisasi kantor.
 
@@ -140,7 +140,7 @@ Mas Alin menatap Binto. "Mau secepat apa, Le? Mau pakai Rust yang bisa proses ju
 
 "Keempat, biaya operasional. Hosting PHP murah — shared hosting Rp 50 ribu per bulan cukup buat kebanyakan klien kita. Mau deploy Go atau Rust? Minimal butuh VPS, itu sudah ratusan ribu per bulan. Buat minimarket tiga cabang? Gak masuk akal."
 
-Binto mulai melihat celah di logikanya sendiri. *Selama ini aku cuma lihat kecepatan. Padahal ada banyak faktor lain yang gak pernah kepikiran.*
+Binto mulai melihat celah di logikanya sendiri. Kipas angin di sudut ruangan berdengung konstan, mengaduk pelan udara sore yang mulai mendingin. *Selama ini aku cuma lihat kecepatan. Padahal ada banyak faktor lain yang gak pernah kepikiran.*
 
 ## 5.6 Analogi Mobil di Gang Sempit
 
@@ -370,8 +370,8 @@ Suara adzan mulai terdengar sayup dari masjid desa. Jam 4 sore, waktunya mereka 
 
 "Nggih, sudah. Ayo sholat dulu. Nanti kalau sudah dapat proyek yang memang butuh kecepatan tinggi, kita bisa explore Go atau Rust. Atau kalau dapat proyek maintenance COBOL, ya kita pelajari COBOL. Tapi untuk sekarang, PHP sudah cukup. Jangan sampai kita tinggal di gang sempit tapi malah mau beli Alphard yang gak muat."
 
-Binto tersenyum. Ia bangkit, mengikuti Mas Alin ke masjid.
+Binto tersenyum tulus. Ia beranjak bangkit, mengekor langkah santai Mas Alin menuju masjid desa, diiringi kumandang adzan yang membaur dengan desau angin senja.
 
-Di kepalanya, istilah "No Silver Bullet" terngiang-ngiang. Juga bayangan lowongan COBOL dengan gaji selangit. Pelajaran sore ini lebih berharga dari sekadar sintaks atau framework. Ini tentang cara berpikir. Cara memilih. Dan cara menghargai bahwa setiap teknologi punya tempatnya.
+Di kepalanya, istilah "No Silver Bullet" terngiang-ngiang layaknya sebuah pegangan baru. Di bawah langit jingga yang perlahan meredup, ia menyadari bahwa pelajaran sore ini jauh lebih berharga dari sekadar adu cepat sintaks atau perdebatan framework. Ini tentang kedewasaan berpikir. Cara memilih. Dan cara paling manusiawi untuk menghargai bahwa setiap teknologi—bahkan yang sudah dianggap kuno—punya tempat dan jasanya masing-masing.
 
 Dan ia tahu, ini baru permulaan.

@@ -2,11 +2,13 @@
 
 ## 14.1 Error Aneh di Production
 
-Pagi itu, kantor Garda Teknologi Nusantara mendadak riuh.
+Pagi itu, langit Srengat menggantung mendung tipis, menyelimuti pekarangan kantor dengan hawa sejuk yang tenang. Ranting-ranting pohon rambutan yang buahnya sudah habis dipetik bergoyang lambat ditiup angin pagi, menjatuhkan beberapa lembar daun kering di atas paving halaman. Di ruang tengah kantor Garda Teknologi Nusantara, keheningan baru saja dimulai saat semua orang sibuk di meja masing-masing.
 
-Pakde Suhar setengah berlari dari ruang depan, telepon genggamnya masih menempel di telinga. "Lin! Binto! Pak Haji telepon! Katanya aplikasinya error, sales-nya gak bisa input produk baru!" Wajahnya yang biasanya kalem kini memerah.
+Namun, kedamaian itu mendadak luluh.
 
-Mas Alin mengangkat tangannya dengan tenang. "Tenang dulu, Pakde. Bilang ke Pak Haji, kita sedang cek. Lima belas menit."
+Pakde Suhar setengah berlari masuk dari arah teras, wajahnya yang biasa tenang tampak memerah tegang dengan telepon genggam yang masih melekat erat di telinganya. "Lin! Binto! Pak Haji telepon! Katanya aplikasinya error, sales-nya gak bisa input produk baru!"
+
+Mas Alin mengangkat tangannya dengan tenang. "Tenang dulu, Pakde. Bilang ke Pak Haji, kita sedang cek. Tiga puluh menit."
 
 Pakde mengangguk, lalu kembali bicara di telepon dengan nada yang berusaha menenangkan: "*Nggih*, Pak Haji. Sebentar ya. Tim kami sedang menangani..."
 
@@ -44,11 +46,13 @@ Beberapa menit kemudian, disk kembali lega. Mbak Rara mencoba lagi fitur tambah 
 
 "Alhamdulillah," desahnya.
 
-Pakde Suhar langsung mengambil teleponnya dan menghubungi Pak Haji. Binto bisa mendengar percakapannya dari meja sebelah.
+Pakde Suhar langsung mengambil teleponnya dan mencari nomor Pak Haji. Binto bisa mendengar ritme napas Pakde yang perlahan melambat, menyesuaikan diri dari mode krisis menjadi mode pelayanan.
 
-"*Nggih*, Pak Haji. Sudah beres. Tadi ada file yang numpuk di server, sudah kami bersihkan. *InsyaAllah* gak terulang lagi. Maaf ya mengganggu pagi-paginya."
+"*Nggih*, Pak Haji. Sudah beres. Tadi ada sedikit file sementara yang menumpuk di server, tapi sudah kami bersihkan. *InsyaAllah* aplikasi sudah lancar dan tidak terulang lagi. Mohon maaf ya, Pak, pagi-pagi sudah dibikin repot."
 
-Suara Pak Haji di ujung sana terdengar lega. Pakde menutup telepon dengan senyum. Binto mencatat dalam hati: *menyelesaikan masalah teknis itu setengah pekerjaan. Setengahnya lagi adalah mengomunikasikannya ke klien dengan baik.*
+Suara tawa berat Pak Haji di ujung sana terdengar menembus *speaker* telepon yang sedikit bocor, menandakan ketegangan telah sepenuhnya menguap. Pakde menutup telepon dengan senyum tipis. Binto menyandarkan punggungnya ke kursi. Kipas angin Ufo di langit-langit yang tadi tak terdengar karena tertutup suara kepanikan, kini kembali mendominasi ruangan dengan dengungnya yang stabil. Aroma kopi yang sempat mendingin kembali tercium.
+
+Binto mencatat dalam hati: *menyelesaikan masalah teknis itu baru setengah pekerjaan. Setengahnya lagi adalah meredam kepanikan dunia nyata, dan mengomunikasikannya ke klien dengan bahasa yang menenangkan.*
 
 ## 14.3 Kenapa Log Penting?
 
@@ -220,13 +224,13 @@ Binto tidak berkata apa-apa.
 
 Tapi di dalam hati... ia tahu.
 
-*Ini kenapa GTN spesial*, pikirnya. *Bukan karena teknologinya. Bukan karena project-nya. Tapi karena orang-orangnya. Yang nyatet semua... tanpa minta diperhatiin.*
+*Ini kenapa GTN spesial*, pikirnya membiarkan senyum kecil terbit di bibirnya. *Bukan karena kecanggihan teknologinya. Bukan karena seberapa besar proyeknya. Tapi karena orang-orangnya. Orang-orang yang diam-diam menahan beban, mencatat semua proses dalam sunyi, tanpa pernah menuntut panggung untuk diperhatikan.*
 
 ---
 
 ## 14.12 Penutup: Jejak yang Tertinggal
 
-Menjelang maghrib, Cahyo merapikan buku catatannya. Ia menulis dengan rapi:
+Cahaya sore mulai memudar di pelataran Srengat. Menjelang kumandang adzan, Cahyo merapikan buku catatannya di sudut meja. Di bawah sorot lampu ruangan yang baru saja dinyalakan, ia menulis dengan rapi:
 
 *Log = buku harian sistem. Level: Info, Warning, Error, Critical. Framework modern sudah sediakan file log. Bisa dialirkan ke Sentry/ELK. Jangan cuma andalkan database—log file lebih andal untuk error. Log rotation biar disk gak penuh. Jangan log data sensitif.*
 
@@ -236,10 +240,14 @@ Binto melihat catatan itu dan tersenyum. Dulu, beberapa bulan lalu, ia juga menc
 
 Cahyo tersipu. "Ini semua berkat Mas Binto dan Mas Alin."
 
-Mas Alin yang mendengar dari pojokannya hanya tersenyum kecil.
+Mas Alin yang mendengar dari pojokannya hanya tersenyum kecil, mengaduk pelan ampas di dasar cangkir enamelnya.
 
-Di luar, pohon rambutan bergoyang pelan. Buahnya sudah lama habis — puncak musim panen sudah lewat. Daunnya tetap hijau, menunggu musim berikutnya.
+Di luar, daun-daun rimbun pohon rambutan bergoyang pelan disapu embusan angin sore Blitar yang dingin.
 
-Seperti ilmu yang terus tumbuh. Seperti kepercayaan yang terus dicatat.
+Binto memandang ke luar, lalu kembali menatap layar hitam *terminal*-nya. Garis putih berkedip-kedip menunggu perintah baru. Di bawah mejanya, tepat di sebelah tumpukan kabel LAN cadangan, Disket tampak mendengkur halus dalam tidurnya yang pulas. Perut abu-abunya bergerak naik-turun seirama dengan napasnya yang tenang, tidak terganggu sedikit pun oleh keheningan malam kantor atau suara ketikan papan ketik Binto yang sesekali berbunyi.
 
-Tak kenal musim.
+Ia menyadari sesuatu malam ini. Kehidupan, persis seperti sistem perangkat lunak yang kompleks, tidak pernah benar-benar dijaga oleh mereka yang paling sering tampil di panggung. Ia dirawat oleh doa-doa ibu yang merapal harapan dalam diam, oleh peluh bapak yang tak pernah dihitung, dan oleh kawan-kawan seperti Wawan yang bekerja sabar merapikan serakan debu di belakang layar.
+
+Seperti sebaris *Log* yang pasrah merekam kegelapan di dalam server. Tak pernah terlihat di antarmuka yang indah, tak pernah dipedulikan saat semua berjalan sempurna.
+
+Namun ketika dunia tiba-tiba oleng dan menangis di tengah malam, kepada mereka-mereka yang diam itulah, kita semua akan berpulang. *Mencari jawaban*.

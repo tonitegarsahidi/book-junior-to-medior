@@ -1,6 +1,6 @@
 # Bab 11: Menenangkan Sistem yang Menangis
 
-Dua hari setelah bapaknya jatuh, Binto kembali ke kantor dengan langkah yang lebih pelan dari biasanya.
+Pagi itu embun masih tebal menyelimuti dedaunan pohon rambutan di sudut halaman rumah, menyisakan kilau bening saat tersiram sinar matahari pagi yang tipis. Udara terasa bersih dan dingin. Dua hari setelah bapaknya jatuh, Binto melangkah keluar rumah untuk kembali ke kantor. Langkah kakinya terasa lebih santai, lebih pelan dari biasanya—seolah ia baru saja diajari cara berjalan yang benar oleh kehidupan.
 
 Bapak sudah jauh membaik. Masih dilarang ke mana-mana, masih harus minum obat teratur, dan masih ngomel kecil tiap kali ibu melarangnya menyentuh sepeda. Tapi setidaknya pagi itu ia sudah bisa duduk di teras sambil menyandarkan punggung ke kursi kayu, memandangi orang lewat seolah tidak pernah bikin satu kampung panik dua hari sebelumnya.
 
@@ -289,7 +289,11 @@ Tempat semua kepanikan internal dicatat rapi supaya pengguna tidak perlu ikut me
 
 ## 11.6 Praktik: Membungkus Error dengan Elegan
 
-Setelah paham kerangkanya, Binto mulai memperbaiki endpoint satu per satu.
+Setelah paham kerangkanya, Binto mulai bekerja di depan laptopnya. Ia memperbaiki endpoint penanganan error satu per satu. 
+
+Menjelang siang, kerutan di kening Binto semakin dalam. Kepalanya terasa penuh dan sedikit tegang saat merancang struktur *try-catch* yang bertumpuk agar error message benar-benar tersaring dengan aman. Di sela-sela kepeningannya menatap baris kode merah di layar, ia tiba-tiba merasakan sesuatu yang hangat dan berbulu menggeser pelan pergelangan kakinya di bawah meja.
+
+Binto melirik ke bawah. Rupanya Disket baru saja merangkak masuk. Kucing abu-abu itu melingkar dengan tenang di dekat kakinya, mendengkur halus, *purring*. Getaran dengkurannya yang konstan merambat lembut melalui kakinya, menghadirkan keheningan kecil yang menenangkan. Binto menarik napas panjang, mengembuskan kepanikan yang sempat merayap di dadanya, lalu mengelus punggung Disket sesaat sebelum kembali mengetik dengan jemari yang lebih santai.
 
 Pertama, ia membungkus pengambilan data produk dengan `try-catch`. Jika produk tidak ditemukan, respons yang keluar harus jelas: 404, produk tidak ditemukan.
 
@@ -369,11 +373,13 @@ Supaya kejadian yang sama tidak terulang begitu saja.
 
 Mas Alin tertawa kecil. "Kalau saya jawab iya penuh, nanti kamu bilang saya kebanyakan filosofi. Tapi kurang lebih begitu."
 
+Pijar matahari perlahan melunak, menyusup hangat dari balik celah-celah daun rambutan yang bergoyang ditiup angin kemarau.
+
 ---
 
 ## 11.8 Menenangkan Sistem yang Menangis
 
-Menjelang sore, pekerjaan utama hari itu mulai beres.
+Menjelang senja, pekerjaan utama hari itu mulai beres.
 
 Error mentah yang tadi pagi bikin satu meja berkumpul sekarang sudah berubah jadi rangkaian respons yang lebih waras. Tidak sempurna. Belum elegan di semua sisi. Tapi jauh lebih dewasa daripada sebelumnya.
 
@@ -453,10 +459,10 @@ Tugas engineer bukan cuma membuat sesuatu berjalan.
 
 Tugas engineer juga memastikan, ketika ada yang gagal, dunia di sekitarnya tidak ikut panik tanpa perlu.
 
-Di luar, suara motor lewat satu-dua. Dari meja depan, Bu Sari memanggil semua orang untuk minum teh sebelum pulang. Sore turun pelan di kantor kecil itu.
+Di luar jendela, bias senja menari-nari di atas daun rambutan yang berdesir pelan. Di dalam, dari arah meja depan, suara hangat Bu Sari memanggil semua orang untuk menikmati teh sebelum pulang. Sore luruh perlahan, merangkul kedamaian di sudut kantor merangkap garasi itu.
 
-Dan di kepala Binto, satu pelajaran baru menancap rapi:
+Dan di kepala Binto, satu pelajaran baru menancap diam-diam layaknya akar yang kian membumi:
 
-kadang yang paling dewasa dari sebuah sistem bukan cara ia bekerja saat semua baik-baik saja,
+Terkadang, yang membuat sebuah sistem—atau bahkan seorang manusia—terlihat dewasa bukanlah seberapa sempurna ia berlari saat keadaan sedang baik-baik saja,
 
-melainkan cara ia menenangkan keadaan saat sesuatu mulai menangis.
+melainkan seberapa menenangkannya ia bersikap, saat dunia di sekitarnya mulai menangis.

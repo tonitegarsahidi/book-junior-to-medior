@@ -2,9 +2,9 @@
 
 ## 3.1 Hantu Skripsi
 
-Hari kedua Binto di Garda Teknologi Nusantara dimulai dengan aroma kopi tubruk dan suara rintik hujan di atas genteng kodok.
+Hari kedua Binto di Garda Teknologi Nusantara dimulai dengan aroma pekat kopi tubruk hitam dan tabuhan rintik hujan di atas genteng kodok yang saling bersahutan.
 
-Pagi ini Blitar mendung. Awan kelabu menggantung rendah di atas pohon rambutan depan kantor. Buah-buahnya yang masih hijau basah oleh gerimis, tampak lebih segar. Binto datang lebih pagi dari jam kantor—tapi nggak seekstrem kemarin. Hari ini dia mulai paham irama: kantor GTN hidup perlahan, kayak kopi tubruk yang baru diseduh.
+Pagi ini Blitar berwajah muram. Awan kelabu menggantung rendah di atas pucuk dahan pohon rambutan di depan kantor, menumpahkan gerimis tipis yang membasahi buah-buah hijau kecil yang menggantung di sela dedaunan. Air hujan membuat warna hijaunya tampak lebih pekat, berkilau diterpa cahaya pagi yang samar. Binto datang lebih awal hari ini. Ia mulai memahami irama di tempat ini: kantor GTN tidak pernah terburu-buru, ia hidup perlahan dan hangat, seperti ampas kopi tubruk yang perlahan turun mengendap di dasar cangkir.
 
 Ia duduk di kursi plastik dekat jendela, menyeruput teh hangat buatan Bu Sari.
 
@@ -199,9 +199,9 @@ Tepat pukul 09.45, Mbak Rara berdiri. Tepuk tangan dua kali.
 
 Binto menoleh bingung. Wawan menghentikan kunyahannya. Mas Alin bangkit dari kursi sambil bawa cangkir. Bahkan Pakde Suhar ikut berdiri.
 
-"Daily Scrum, Le," bisik Mas Alin. "Ikut. Berdiri aja."
-
 Binto menurut. Dia berdiri di dekat dinding. Memperhatikan.
+
+Di atas meja rapat kayu jati, Disket—si kucing abu-abu bermata katarak juling—duduk tenang di dekat tumpukan spidol. Saat selembar *sticky note* pink bergoyang ditiup angin kipas, ia mendongak melihatnya, sebelum ia kembali melingkar tidur.
 
 Kemarin, di hari pertamanya, dia juga melihat ritual ini. Cuma saat itu dia masih terlalu linglung—baru sejam duduk, masih shock dengan kenyataan bahwa ijazah S1-nya cuma bernilai sebungkus nasi pecel. Daily kemarin lewat begitu saja seperti kabut pagi. Hari ini, dia mulai bisa mencerna.
 
@@ -281,11 +281,13 @@ Dia menunjuk ke dispenser. "Lagipula... papan ini dekat galon. Setiap kali orang
 
 Binto nyengir. Sederhana. Tapi efektif.
 
+Di luar, gerimis yang sejak pagi mengguyur Srengat akhirnya reda, menyisakan wangi tanah basah dan dedaunan rambutan yang lembap. Matahari sore mulai mengintip tipis dari balik awan kelabu.
+
 ---
 
 ## 3.7 Sticky Note Pertama
 
-Menjelang sore, Mas Alin memanggil Binto.
+Menjelang ashar, Mas Alin memanggil Binto.
 
 "Sekarang giliranmu, Le."
 
@@ -461,9 +463,9 @@ Binto mengangguk. Dia ingat rapat kegiatan kemahasiswaan di kampus dulu. Kalau a
 
 ---
 
-Angin sore berembus. Pohon rambutan bergoyang. Satu dua buah mulai menunjukkan semburat kuning.
+Angin sore berhembus lembut, membawa serta aroma samar sisa hujan dari dedaunan. Pohon rambutan di depan mereka bergoyang pelan, mempertontonkan satu dua buahnya yang mulai menunjukkan semburat kuning di antara rimbun hijau.
 
-"Kita ini bukan cuma tukang kode, Binto," kata Mas Alin. "Kita ini tukang bangunan. Yang harus siap kalau pemilik rumah tiba-tiba minta jendela dipindah. Pintu diperlebar. Tembok dicat ulang."
+"Kita ini bukan cuma tukang kode, Binto," kata Mas Alin, suaranya mengalun tenang menyamai ritme sore. "Kita ini tukang bangunan. Yang harus siap kalau pemilik rumah tiba-tiba minta jendela dipindah. Pintu diperlebar. Tembok dicat ulang."
 
 "Waterfall itu bagus... kalau pemilik rumah udah kasih gambar detail dan nggak akan berubah pikiran."
 
@@ -471,7 +473,6 @@ Angin sore berembus. Pohon rambutan bergoyang. Satu dua buah mulai menunjukkan s
 
 "Agile jawabannya."
 
-Binto mengangguk. Pelan-pelan... semua mulai masuk ke tempatnya.
+Binto mengangguk. Pelan-pelan, seperti sisa tetes hujan yang mendarat lembut dari genteng ke genangan air, semua konsep itu mulai masuk ke tempatnya. Rencana yang pendek, ritme yang luwes, dan kerendahan hati untuk terus beradaptasi.
 
 ---
-

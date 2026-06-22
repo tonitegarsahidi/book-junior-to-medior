@@ -2,9 +2,9 @@
 
 ## 17.1 Pamit
 
-Desember. Satu tahun sudah.
+Desember telah tiba, membawa serta angin barat yang basah dan langit kelabu yang sering menumpahkan hujan di sore hari. Satu tahun sudah waktu bergulir di Garda Teknologi Nusantara. 
 
-Binto masih ingat hari pertamanya. Kemeja putih. Dua puluh menit. Pohon rambutan dengan buah-buah hijau.
+Binto duduk termangu di dekat jendela, menatap ke arah halaman depan. Ingatannya melayang kembali ke hari pertamanya melangkah masuk ke tempat ini. Kemeja putih bersih yang kaku, perjalanan dua puluh menit dari rumah dengan Beat merahnya yang diliputi rasa cemas, dan pohon rambutan di halaman depan dengan buah-buah hijaunya yang masih kecil. Pagi itu terasa begitu jauh, namun sekaligus begitu dekat.
 
 Sekarang kemeja putih itu sudah mulai kusam. Sudah berganti kemeja lain, yang lebih santai—batik, kemeja kotak-kotak, kadang cuma kaos oblong kalau lagi tidak ada klien. Dan dua puluh menit itu... sudah jadi irama.
 
@@ -152,19 +152,19 @@ Mas Alin tersenyum. Bukan sinis. Tapi... hangat.
 
 "Nggak apa-apa. Dulu Binto juga gitu. Sekarang... dia yang ngajarin kamu."
 
-Binto merasakan sesuatu di dadanya. Sesuatu yang aneh. Sesuatu yang... hangat.
+Binto merasakan sesuatu merambat pelan di dadanya. Sebuah beban yang anehnya tidak terasa berat, melainkan... hangat.
 
 *Aku... mentor sekarang?*
 
----
+Di luar jendela, hujan Desember mulai turun membasahi bumi Srengat. Rintik lebatnya memukul-mukul atap seng kantor dan membasuh daun-daun rambutan di halaman. Daun-daun tua yang telah menguning perlahan luruh, jatuh ke paving basah, pasrah memberi ruang bagi tunas-tunas muda yang hijau segar untuk menyerap air dan cahaya. Siklus itu tak pernah ingkar janji.
 
----
+Perasaan hangat itu terus mengalir, melawan sisa-sisa udara dingin yang menyusup lewat ventilasi. Ruang kantor yang sempit, dengan meja-meja berantakan dan piring-piring bekas kopi itu, tak lagi terasa seperti garasi tua yang pengap. Di matanya, tempat ini telah menjelma menjadi sebuah lahan semai yang subur—tempat segala ketidaktahuan dipeluk, diberi waktu, hingga akhirnya mengakar dan tumbuh merimbun ke angkasa.
 
 ---
 
 ## 17.4 Kabar Cahyo
 
-Binto teringat sesuatu. "Pakde... Cahyo gimana kabarnya?"
+Menjelang jam istirahat siang, wangi kopi tubruk Bu Sari kembali menguar menembus keheningan ruangan. Binto, yang baru saja membimbing Aini melakukan *commit* pertamanya, mendadak teringat sesuatu. "Pakde... Cahyo gimana kabarnya?"
 
 Pakde Suhar tersenyum dari balik mejanya. "Alhamdulillah. Dia sudah lulus SMK. Sekarang kuliah di Malang, jurusan Informatika."
 
@@ -338,25 +338,26 @@ Semua yang dulu pernah ia anggap terlalu kecil untuk dibanggakan, ternyata justr
 
 Di dapur, Bu Sari masih menyeduh kopi. Di pojokan, Mas Alin kembali ke terminalnya. Andik menatap dashboard. Aini masih bergelut dengan HTML pertamanya sambil meremas ujung kerudung.
 
-Binto duduk sambil memegang tumbler ½ M itu.
+Binto duduk sambil memegang erat tumbler ½ M di kedua tangannya. Dingin logamnya terasa nyata di kulit, senyata pelajaran-pelajaran yang menancap di kepalanya setahun terakhir.
 
 Ia tersenyum kecil.
 
-Bukan karena merasa sudah sampai. Justru karena akhirnya ia paham: orang yang bisa diandalkan bukan orang yang merasa selesai. Orang yang bisa diandalkan adalah orang yang tetap mau belajar, tetap jujur pada batasnya, dan tetap berjalan.
+Bukan karena ia merasa telah tiba di puncak. Namun justru karena akhirnya ia paham: gelar *Medior* atau *Senior* pada akhirnya hanyalah barisan kata di atas kertas kontrak. Kedewasaan sejati dari orang yang bisa diandalkan adalah saat ia berhenti merasa selesai. Saat ia tetap mau menunduk untuk belajar, tetap jujur pada ketidaktahuannya, dan tetap bersedia berjalan di lumpur bersama mereka yang baru memulai.
 
-Di luar, buah-buah rambutan hijau bergoyang pelan diterpa angin Desember.
+Di luar, dedaunan basah sisa hujan bergoyang pelan diterpa angin sore Desember yang membawa aroma tanah basah. Di sela-sela rimbun dedaunan itu, buah-buah rambutan muda yang masih hijau terang tampak segar dan begitu menjanjikan.
 
-Musim baru memang selalu datang seperti itu—tidak ribut, tidak dramatis. Diam-diam. Lalu tumbuh.
+Musim baru memang akan selalu datang dengan cara seperti itu—tidak perlu keriuhan, tidak butuh pengumuman besar. Ia merambat masuk diam-diam bersama embun malam. Meresap senyap ke dalam akar. Lalu perlahan namun pasti, ia akan memecah cangkang ketidaktahuan untuk menumbuhkan sesuatu yang baru.
 
-Binto menatap ke arah meja Aini sekali lagi.
+Binto menatap ke arah meja Aini, melihat pundak gadis itu yang tak lagi setegang tadi pagi. Sang penerus mulai menemukan iramanya sendiri.
 
-Lalu ke halaman.
+Di samping kursi Binto, Disket berjalan pelan mendekat. Kucing abu-abu gelap itu tidak terburu-buru, melangkah tenang dengan mata kiri katarak putihnya yang juling menatap Binto sekilas. Dengan sekali lompatan ringan, Disket naik ke atas kursi kosong di sebelah Binto, memutar badannya dua kali, lalu melingkar dengan tenang di sana bersiap untuk tidur. Binto tersenyum kecil, lalu mengelus perlahan bulu abu-abu gelapnya yang agak kasar. Sentuhan itu terasa hangat, menyatu dengan keheningan sore dan penerimaan dirinya.
 
-Lalu ke depan.
+Lalu tatapannya beralih ke halaman depan, menatap lamat-lamat pohon rambutan yang selalu tabah menahan pergantian musim dan cuaca.
 
-Perjalanannya belum selesai.
+Ia sadar, gelar sarjana PTN top tidak pernah menjadikannya besar. Garasi beratap seng inilah yang perlahan mengikis habis kesombongannya dan menempanya menjadi manusia. 
 
-Dan itu kabar baik.
+Dan pada akhirnya, pandangannya lurus ke depan, menembus bentangan cakrawala senja Srengat yang tak lagi membuatnya gentar. Perjalanannya sebagai seorang manusia pembelajar belum selesai. Bahkan mungkin, baru saja benar-benar dimulai.
+
+Ia akan selamanya menjadi setengah matang. Dan dalam dadanya yang kini teramat lapang, Binto tahu, tak ada kabar yang lebih melegakan dari itu.
 
 ---
-
